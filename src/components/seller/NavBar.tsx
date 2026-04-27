@@ -18,12 +18,14 @@ export default function NavBar({ data }: { data: SellerData }) {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [activeSection, setActiveSection] = useState("overview");
+  const [avatarFailed, setAvatarFailed] = useState(false);
   const initials = data.sellerName
     .split(" ")
     .map((w) => w[0])
     .join("")
     .slice(0, 2)
     .toUpperCase();
+  const showAvatar = Boolean(data.avatarUrl) && !avatarFailed;
 
   useEffect(() => {
     const onScroll = () => {
@@ -99,12 +101,21 @@ export default function NavBar({ data }: { data: SellerData }) {
             className="flex items-center gap-2.5 shrink-0 group"
           >
             <motion.div
-              whileHover={{ rotate: 10, scale: 1.1 }}
-              className="w-9 h-9 rounded-xl bg-primary flex items-center justify-center shadow-md"
+              whileHover={{ rotate: 4, scale: 1.08 }}
+              className="w-9 h-9 rounded-xl bg-primary flex items-center justify-center shadow-md overflow-hidden border border-white/10"
             >
-              <span className="text-primary-foreground font-bold text-sm">
-                {initials}
-              </span>
+              {showAvatar ? (
+                <img
+                  src={data.avatarUrl}
+                  alt={data.sellerName}
+                  className="h-full w-full object-cover"
+                  onError={() => setAvatarFailed(true)}
+                />
+              ) : (
+                <span className="text-primary-foreground font-bold text-sm">
+                  {initials}
+                </span>
+              )}
             </motion.div>
             <span
               className={`font-bold text-lg hidden sm:block transition-colors ${scrolled ? "text-foreground" : "text-white"}`}

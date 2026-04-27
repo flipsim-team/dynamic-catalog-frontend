@@ -40,19 +40,49 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
   const voicesScrollRef = useRef<HTMLDivElement>(null);
   const autoDirectionRef = useRef<1 | -1>(1);
   const [selectedStars, setSelectedStars] = useState<number | "all">("all");
+  const [selectedSource, setSelectedSource] = useState<string>("all");
   const [allowAutoScroll, setAllowAutoScroll] = useState(true);
 
   const rating = data.reviewsSummary.totalRating;
   const count = data.reviewsSummary.noOfRatings;
   const comments = data.reviewsSummary.ratingComments || [];
   const reviews = data.individualReviews || [];
+  const sourceBreakdown = data.reviewsSummary.sourceBreakdown || {};
+  const sourceOptions = useMemo(() => {
+    const labels = Object.entries(sourceBreakdown).map(([key, count]) => ({
+      key,
+      label: reviews.find((r) => r.sourceKey === key)?.sourceLabel || key,
+      count,
+    }));
+    if (labels.length > 0) return labels;
+
+    const counts: Record<string, number> = {};
+    for (const review of reviews) {
+      const key = review.sourceKey || "unknown";
+      counts[key] = (counts[key] || 0) + 1;
+    }
+    return Object.entries(counts).map(([key, count]) => ({
+      key,
+      label: reviews.find((r) => r.sourceKey === key)?.sourceLabel || key,
+      count,
+    }));
+  }, [reviews, sourceBreakdown]);
+  const primarySourceLabel =
+    sourceOptions.length === 1
+      ? sourceOptions[0].label
+      : sourceOptions.length > 1
+        ? "Multiple"
+        : "Public";
   const hasIndividual = reviews.length > 0 || comments.length > 0;
   const filteredReviews = useMemo(() => {
-    if (selectedStars === "all") return reviews;
-    return reviews.filter(
-      (review) => Math.round(review.rating) === selectedStars,
-    );
-  }, [reviews, selectedStars]);
+    return reviews.filter((review) => {
+      const starMatch =
+        selectedStars === "all" || Math.round(review.rating) === selectedStars;
+      const sourceMatch =
+        selectedSource === "all" || review.sourceKey === selectedSource;
+      return starMatch && sourceMatch;
+    });
+  }, [reviews, selectedSource, selectedStars]);
   const visibleComments = selectedStars === "all" ? comments : [];
   const hasFilteredResults =
     filteredReviews.length > 0 || visibleComments.length > 0;
@@ -64,6 +94,10 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
     }
     return counts;
   }, [reviews]);
+
+  useEffect(() => {
+    setSelectedSource("all");
+  }, [selectedStars]);
 
   useEffect(() => {
     const container = voicesScrollRef.current;
@@ -111,6 +145,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
     hasFilteredResults,
     hasIndividual,
     inView,
+    selectedSource,
     selectedStars,
   ]);
 
@@ -144,7 +179,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
               Ratings & Reviews
             </h2>
             <p className="mt-3 max-w-2xl text-sm text-muted-foreground sm:text-base">
-              Public ratings sourced from the seller listing.
+              Ratings and reviews aggregated from available public sources.
             </p>
           </div>
 
@@ -156,7 +191,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                 animate={inView ? { opacity: 1, scale: 1 } : {}}
                 transition={{ delay: 0.12, duration: 0.65 }}
                 whileHover={{ y: -4 }}
-                className="relative overflow-hidden rounded-[2rem] p-7 sm:p-8 bg-card border border-border shadow-sm h-full flex flex-col lg:h-[440px]"
+                className="relative overflow-hidden rounded-[2rem] p-8 sm:p-9 bg-card border border-border shadow-sm h-full flex flex-col lg:h-[470px]"
               >
                 <div className="absolute inset-0 bg-gradient-to-br from-amber-50/80 via-transparent to-primary/5" />
                 <div className="absolute -top-16 -right-16 h-48 w-48 rounded-full bg-amber-200/30 blur-3xl" />
@@ -171,7 +206,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                           Public Rating
                         </p>
                         <p className="text-xs text-muted-foreground">
-                          From verified buyers
+                          Aggregated from public listings
                         </p>
                       </div>
                     </div>
@@ -182,7 +217,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-1.5 rounded-full border border-border px-3 py-1.5 text-xs font-semibold text-foreground hover:border-primary/40 hover:text-primary transition-colors"
                       >
-                        View on Google <ExternalLink className="h-3.5 w-3.5" />
+                        View Source <ExternalLink className="h-3.5 w-3.5" />
                       </a>
                     )}
                   </div>
@@ -221,7 +256,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                         Source
                       </p>
                       <p className="mt-1 text-sm font-bold text-foreground">
-                        Google
+                        {primarySourceLabel}
                       </p>
                     </div>
                   </div>
@@ -258,6 +293,35 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                           </button>
                         ))}
                       </div>
+                      {sourceOptions.length > 0 && (
+                        <div className="mt-3 flex flex-wrap gap-2">
+                          <button
+                            type="button"
+                            onClick={() => setSelectedSource("all")}
+                            className={`rounded-full border px-3 py-1.5 text-xs font-semibold transition-colors ${
+                              selectedSource === "all"
+                                ? "bg-primary text-primary-foreground border-primary"
+                                : "bg-background text-foreground border-border hover:border-primary/40"
+                            }`}
+                          >
+                            All Sources
+                          </button>
+                          {sourceOptions.map((option) => (
+                            <button
+                              type="button"
+                              key={option.key}
+                              onClick={() => setSelectedSource(option.key)}
+                              className={`rounded-full border px-3 py-1.5 text-xs font-semibold transition-colors ${
+                                selectedSource === option.key
+                                  ? "bg-primary text-primary-foreground border-primary"
+                                  : "bg-background text-foreground border-border hover:border-primary/40"
+                              }`}
+                            >
+                              {option.label} ({option.count})
+                            </button>
+                          ))}
+                        </div>
+                      )}
                     </div>
                   )}
                 </div>
@@ -269,7 +333,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
               initial={{ opacity: 0, scale: 0.95 }}
               animate={inView ? { opacity: 1, scale: 1 } : {}}
               transition={{ delay: 0.2, duration: 0.65 }}
-              className="rounded-[2rem] p-6 sm:p-7 bg-card border border-border shadow-sm flex flex-col h-[440px]"
+              className="rounded-[2rem] p-7 sm:p-8 bg-card border border-border shadow-sm flex flex-col h-[470px]"
             >
               <p className="text-xs uppercase tracking-[0.22em] text-muted-foreground font-bold mb-4">
                 Customer voices
@@ -292,9 +356,14 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                         <p className="font-semibold text-foreground text-sm">
                           {r.author}
                         </p>
-                        {r.rating > 0 && (
-                          <StarRating rating={r.rating} size="sm" />
-                        )}
+                        <div className="flex items-center gap-2">
+                          <span className="rounded-full border border-border px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
+                            {r.sourceLabel}
+                          </span>
+                          {r.rating > 0 && (
+                            <StarRating rating={r.rating} size="sm" />
+                          )}
+                        </div>
                       </div>
                       {r.text && (
                         <p className="text-sm text-muted-foreground leading-relaxed">
@@ -308,24 +377,34 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                       )}
                     </div>
                   ))}
-                  {visibleComments.map((c: any, i: number) => (
+                  {visibleComments.map((c: unknown, i: number) => (
                     <div
                       key={`c${i}`}
                       className="rounded-xl border border-border p-4 bg-muted/30"
                     >
                       <p className="text-sm text-muted-foreground leading-relaxed">
-                        {typeof c === "string" ? c : c.text || c.comment || ""}
+                        {typeof c === "string"
+                          ? c
+                          : typeof c === "object" && c !== null
+                            ? String(
+                                (c as { text?: string; comment?: string })
+                                  .text ||
+                                  (c as { text?: string; comment?: string })
+                                    .comment ||
+                                  "",
+                              )
+                            : ""}
                       </p>
                     </div>
                   ))}
                   {!hasFilteredResults && (
                     <div className="rounded-xl border border-dashed border-border p-6 text-center bg-muted/20">
                       <p className="font-semibold text-foreground text-sm">
-                        No {selectedStars}-star reviews found
+                        No reviews found for selected filters
                       </p>
                       <p className="text-xs text-muted-foreground mt-1">
-                        Try another star filter to view available customer
-                        voices.
+                        Try another source or star filter to view available
+                        customer voices.
                       </p>
                     </div>
                   )}
@@ -340,7 +419,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                   </p>
                   <p className="text-sm text-muted-foreground mt-2 max-w-xs">
                     Only the aggregate rating has been shared publicly. Visit
-                    the source page to read reviews.
+                    source pages to read reviews.
                   </p>
                   {data.googleLocation && (
                     <a

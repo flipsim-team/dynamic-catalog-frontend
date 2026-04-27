@@ -61,7 +61,7 @@ export default function AboutSection({ data }: { data: SellerData }) {
             {/* Left: description + map */}
             <motion.div variants={itemVariants} className="lg:col-span-2 space-y-6">
               {description && (
-                <div className="prose prose-sm sm:prose-base max-w-none text-muted-foreground leading-relaxed">
+                <div style={{userSelect: "none"}} className="prose prose-sm sm:prose-base max-w-none text-muted-foreground leading-relaxed">
                   <p>{description}</p>
                 </div>
               )}

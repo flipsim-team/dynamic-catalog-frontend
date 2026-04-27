@@ -10,6 +10,11 @@ import {
   Package,
   Globe2,
   ShieldCheck,
+  Instagram,
+  Youtube,
+  Facebook,
+  Linkedin,
+  Twitter,
 } from "lucide-react";
 import { type CatalogProduct, formatPrice } from "@/lib/sellerDataExtractor";
 
@@ -62,6 +67,16 @@ export default function ProductDetailModal({
   };
   const hasImage = Boolean(currentPhoto) && !imageError;
   const hasAnyPhoto = photos.length > 0;
+  const sourceLinks = product.sourceLinks || [];
+  const sourceTiles = product.sourceTiles || [];
+  const sourceIcon = (platform?: string) => {
+    if (platform === "instagram") return <Instagram className="w-3 h-3" />;
+    if (platform === "youtube") return <Youtube className="w-3 h-3" />;
+    if (platform === "facebook") return <Facebook className="w-3 h-3" />;
+    if (platform === "linkedin") return <Linkedin className="w-3 h-3" />;
+    if (platform === "twitter") return <Twitter className="w-3 h-3" />;
+    return <Globe2 className="w-3 h-3" />;
+  };
 
   const specs = Object.entries(product.specifications || {}).filter(
     ([, v]) => v !== null && v !== undefined && v !== "",
@@ -277,6 +292,38 @@ export default function ProductDetailModal({
                         {t}
                       </span>
                     ))}
+                  </div>
+                </div>
+              )}
+
+              {(sourceLinks.length > 0 || sourceTiles.length > 0) && (
+                <div>
+                  <p className="text-xs uppercase tracking-wider text-muted-foreground font-bold mb-2">
+                    View Product Here:
+                  </p>
+                  <div className="flex flex-wrap gap-2">
+                    {sourceLinks.map((source) => (
+                      <a
+                        key={`${source.label}-${source.url}`}
+                        href={source.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center gap-1.5 rounded-full border border-border bg-card px-3 py-1.5 text-[11px] font-semibold text-foreground hover:border-primary/40 hover:text-primary transition-colors"
+                        title={`Open ${source.label}`}
+                      >
+                        {sourceIcon(source.platform)} {source.label}{" "}
+                        <ExternalLink className="w-3 h-3" />
+                      </a>
+                    ))}
+                    {sourceLinks.length === 0 &&
+                      sourceTiles.map((tile) => (
+                        <span
+                          key={`${tile.key}-${tile.label}`}
+                          className="inline-flex items-center rounded-full border border-border bg-muted px-3 py-1.5 text-[11px] font-semibold text-muted-foreground"
+                        >
+                          {tile.label}
+                        </span>
+                      ))}
                   </div>
                 </div>
               )}

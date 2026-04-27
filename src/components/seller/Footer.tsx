@@ -1,11 +1,31 @@
-import { forwardRef } from 'react';
-import { motion } from 'framer-motion';
-import { ExternalLink, ArrowUp, Instagram, Facebook, Youtube, Linkedin, Twitter, Mail, Phone } from 'lucide-react';
-import type { SellerData, SocialPlatform } from '@/lib/sellerDataExtractor';
+import { forwardRef } from "react";
+import { motion } from "framer-motion";
+import {
+  ExternalLink,
+  ArrowUp,
+  Instagram,
+  Facebook,
+  Youtube,
+  Linkedin,
+  Twitter,
+  Mail,
+  Phone,
+  type LucideIcon,
+} from "lucide-react";
+import type { SellerData, SocialPlatform } from "@/lib/sellerDataExtractor";
 
-const NAV_LINKS = ['Overview', 'About', 'Products', 'Categories', 'Gallery', 'Social', 'Reviews', 'Contact'];
+const NAV_LINKS = [
+  "Overview",
+  "About",
+  "Products",
+  "Categories",
+  "Gallery",
+  "Social",
+  "Reviews",
+  "Contact",
+];
 
-const PLATFORM_ICONS: Record<SocialPlatform, any> = {
+const PLATFORM_ICONS: Record<SocialPlatform, LucideIcon> = {
   instagram: Instagram,
   facebook: Facebook,
   youtube: Youtube,
@@ -14,102 +34,231 @@ const PLATFORM_ICONS: Record<SocialPlatform, any> = {
   whatsapp: ExternalLink,
 };
 
-const Footer = forwardRef<HTMLElement, { data: SellerData }>(({ data }, ref) => {
-  const initials = data.sellerName.split(' ').map(w => w[0]).join('').slice(0, 2).toUpperCase();
-  const getHref = (link: string) => {
-    if (link === 'Overview') return '#overview';
-    if (link === 'Categories') return '#products';
-    return `#${link.toLowerCase()}`;
-  };
+const Footer = forwardRef<HTMLElement, { data: SellerData }>(
+  ({ data }, ref) => {
+    const initials = data.sellerName
+      .split(" ")
+      .map((w) => w[0])
+      .join("")
+      .slice(0, 2)
+      .toUpperCase();
+    const getHref = (link: string) => {
+      if (link === "Overview") return "#overview";
+      if (link === "Categories") return "#products";
+      return `#${link.toLowerCase()}`;
+    };
+    const contactSources = data.contactSources || {
+      primaryPhone: [],
+      email: [],
+      website: [],
+      address: [],
+      city: [],
+      whatsapp: [],
+      contactCta: [],
+    };
+    const socialAvailability = data.socialAvailability || {
+      instagram: {
+        url:
+          data.socialProfiles.find((p) => p.platform === "instagram")?.url ||
+          "",
+        hasPosts: !!data.socialProfiles.find((p) => p.platform === "instagram")
+          ?.posts?.length,
+      },
+      facebook: {
+        url:
+          data.socialProfiles.find((p) => p.platform === "facebook")?.url || "",
+        hasPosts: !!data.socialProfiles.find((p) => p.platform === "facebook")
+          ?.posts?.length,
+      },
+      youtube: {
+        url:
+          data.socialProfiles.find((p) => p.platform === "youtube")?.url || "",
+        hasPosts: !!data.socialProfiles.find((p) => p.platform === "youtube")
+          ?.posts?.length,
+      },
+      twitter: {
+        url:
+          data.socialProfiles.find((p) => p.platform === "twitter")?.url || "",
+        hasPosts: !!data.socialProfiles.find((p) => p.platform === "twitter")
+          ?.posts?.length,
+      },
+      linkedin: {
+        url:
+          data.socialProfiles.find((p) => p.platform === "linkedin")?.url || "",
+        hasPosts: !!data.socialProfiles.find((p) => p.platform === "linkedin")
+          ?.posts?.length,
+      },
+      whatsapp: { url: data.whatsappUrl || "", hasPosts: !!data.whatsappUrl },
+    };
 
-  return (
-    <footer ref={ref} className="relative bg-foreground text-background pt-16 pb-8 overflow-hidden">
-      <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-primary/40 to-transparent" />
+    return (
+      <footer
+        ref={ref}
+        className="relative bg-foreground text-background pt-16 pb-8 overflow-hidden"
+      >
+        <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-primary/40 to-transparent" />
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-10">
-          <div>
-            <div className="flex items-center gap-3 mb-4">
-              <div className="w-11 h-11 rounded-xl bg-primary flex items-center justify-center">
-                <span className="font-bold text-sm text-primary-foreground">{initials}</span>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-10">
+            <div>
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-11 h-11 rounded-xl bg-primary flex items-center justify-center">
+                  <span className="font-bold text-sm text-primary-foreground">
+                    {initials}
+                  </span>
+                </div>
+                <h3 className="font-bold text-xl">{data.sellerName}</h3>
               </div>
-              <h3 className="font-bold text-xl">{data.sellerName}</h3>
-            </div>
-            {data.tagline && <p className="text-sm opacity-60 leading-relaxed line-clamp-3 max-w-xs">{data.tagline}</p>}
-            <div className="mt-4 space-y-2">
-              {data.email && (
-                <a href={`mailto:${data.email}`} className="flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity">
-                  <Mail className="w-3.5 h-3.5" /> {data.email}
-                </a>
+              {data.tagline && (
+                <p className="text-sm opacity-60 leading-relaxed line-clamp-3 max-w-xs">
+                  {data.tagline}
+                </p>
               )}
-              {data.primaryPhone && (
-                <a href={`tel:${data.primaryPhone}`} className="flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity">
-                  <Phone className="w-3.5 h-3.5" /> +91 {data.primaryPhone}
-                </a>
-              )}
+              <div className="mt-4 space-y-2">
+                {data.email && (
+                  <div>
+                    <a
+                      href={`mailto:${data.email}`}
+                      className="flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
+                    >
+                      <Mail className="w-3.5 h-3.5" /> {data.email}
+                    </a>
+                    {contactSources.email.length > 0 && (
+                      <p className="mt-1 text-[10px] opacity-50">
+                        Source:{" "}
+                        {contactSources.email.map((s) => s.label).join(", ")}
+                      </p>
+                    )}
+                  </div>
+                )}
+                {data.primaryPhone && (
+                  <div>
+                    <a
+                      href={`tel:${data.primaryPhone}`}
+                      className="flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
+                    >
+                      <Phone className="w-3.5 h-3.5" /> +91 {data.primaryPhone}
+                    </a>
+                    {contactSources.primaryPhone.length > 0 && (
+                      <p className="mt-1 text-[10px] opacity-50">
+                        Source:{" "}
+                        {contactSources.primaryPhone
+                          .map((s) => s.label)
+                          .join(", ")}
+                      </p>
+                    )}
+                  </div>
+                )}
+              </div>
             </div>
-          </div>
 
-          <div>
-            <h4 className="font-semibold mb-4 opacity-70 text-sm uppercase tracking-wider">Navigate</h4>
-            <div className="space-y-2.5">
-              {NAV_LINKS.map(link => (
-                <motion.a
-                  key={link}
-                  href={getHref(link)}
-                  whileHover={{ x: 4 }}
-                  className="block text-sm opacity-60 hover:opacity-100 transition-opacity"
-                >
-                  {link}
-                </motion.a>
-              ))}
-            </div>
-          </div>
-
-          <div>
-            <h4 className="font-semibold mb-4 opacity-70 text-sm uppercase tracking-wider">Connect</h4>
-            <div className="flex flex-wrap gap-2">
-              {data.socialProfiles.map((p) => {
-                const Icon = PLATFORM_ICONS[p.platform];
-                if (!Icon) return null;
-                return (
+            <div>
+              <h4 className="font-semibold mb-4 opacity-70 text-sm uppercase tracking-wider">
+                Navigate
+              </h4>
+              <div className="space-y-2.5">
+                {NAV_LINKS.map((link) => (
                   <motion.a
-                    key={p.platform}
-                    href={p.url}
+                    key={link}
+                    href={getHref(link)}
+                    whileHover={{ x: 4 }}
+                    className="block text-sm opacity-60 hover:opacity-100 transition-opacity"
+                  >
+                    {link}
+                  </motion.a>
+                ))}
+              </div>
+            </div>
+
+            <div>
+              <h4 className="font-semibold mb-4 opacity-70 text-sm uppercase tracking-wider">
+                Connect
+              </h4>
+              <div className="flex flex-wrap gap-2">
+                {(
+                  [
+                    "instagram",
+                    "youtube",
+                    "facebook",
+                    "linkedin",
+                    "twitter",
+                  ] as SocialPlatform[]
+                ).map((platform) => {
+                  const Icon = PLATFORM_ICONS[platform];
+                  if (!Icon) return null;
+                  const availability = socialAvailability[platform];
+                  const enabled = !!availability?.hasPosts;
+
+                  if (enabled && availability.url) {
+                    return (
+                      <motion.a
+                        key={platform}
+                        href={availability.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        whileHover={{ y: -2, scale: 1.05 }}
+                        className="w-10 h-10 rounded-xl bg-background/10 hover:bg-background/20 flex items-center justify-center transition-colors"
+                        title={`${platform} available`}
+                      >
+                        <Icon className="w-4 h-4" />
+                      </motion.a>
+                    );
+                  }
+
+                  return (
+                    <motion.button
+                      key={platform}
+                      type="button"
+                      disabled
+                      className="w-10 h-10 rounded-xl border border-background/20 bg-background/5 flex items-center justify-center opacity-50 cursor-not-allowed"
+                      title={`${platform} unavailable`}
+                    >
+                      <Icon className="w-4 h-4" />
+                    </motion.button>
+                  );
+                })}
+              </div>
+              {data.website && (
+                <div>
+                  <a
+                    href={data.website}
                     target="_blank"
                     rel="noopener noreferrer"
-                    whileHover={{ y: -2, scale: 1.05 }}
-                    className="w-10 h-10 rounded-xl bg-background/10 hover:bg-background/20 flex items-center justify-center transition-colors"
-                    title={p.platform}
+                    className="mt-4 inline-flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
                   >
-                    <Icon className="w-4 h-4" />
-                  </motion.a>
-                );
-              })}
+                    <ExternalLink className="w-3.5 h-3.5" />{" "}
+                    {data.website.replace(/https?:\/\//, "").replace(/\/$/, "")}
+                  </a>
+                  {contactSources.website.length > 0 && (
+                    <p className="mt-1 text-[10px] opacity-50">
+                      Source:{" "}
+                      {contactSources.website.map((s) => s.label).join(", ")}
+                    </p>
+                  )}
+                </div>
+              )}
             </div>
-            {data.website && (
-              <a href={data.website} target="_blank" rel="noopener noreferrer" className="mt-4 inline-flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity">
-                <ExternalLink className="w-3.5 h-3.5" /> {data.website.replace(/https?:\/\//, '').replace(/\/$/, '')}
-              </a>
-            )}
+          </div>
+
+          <div className="border-t border-background/10 mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <p className="text-xs opacity-40">
+              © {new Date().getFullYear()} {data.sellerName}. All rights
+              reserved.
+            </p>
+            <motion.button
+              onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+              whileHover={{ y: -3 }}
+              className="flex items-center gap-2 text-xs opacity-40 hover:opacity-80 transition-opacity"
+            >
+              Back to top <ArrowUp className="w-3.5 h-3.5" />
+            </motion.button>
           </div>
         </div>
+      </footer>
+    );
+  },
+);
 
-        <div className="border-t border-background/10 mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-xs opacity-40">© {new Date().getFullYear()} {data.sellerName}. All rights reserved.</p>
-          <motion.button
-            onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-            whileHover={{ y: -3 }}
-            className="flex items-center gap-2 text-xs opacity-40 hover:opacity-80 transition-opacity"
-          >
-            Back to top <ArrowUp className="w-3.5 h-3.5" />
-          </motion.button>
-        </div>
-      </div>
-    </footer>
-  );
-});
-
-Footer.displayName = 'Footer';
+Footer.displayName = "Footer";
 
 export default Footer;

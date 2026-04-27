@@ -18,6 +18,7 @@ export default function ProductCard({
 }: Props) {
   const [imgLoaded, setImgLoaded] = useState(false);
   const [imgError, setImgError] = useState(false);
+  const sourceTiles = product.sourceTiles.slice(0, 4);
 
   return (
     <motion.article
@@ -49,19 +50,22 @@ export default function ProductCard({
                 <ImageIcon className="w-6 h-6" />
               </div>
               <p className="text-xs font-medium text-foreground">
-                No image available
+                Image could not be loaded.
               </p>
             </div>
           )}
 
-          {product.inStock && (
-            <span className="absolute top-3 left-3 inline-flex items-center gap-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-700 px-2.5 py-1 text-[11px] font-semibold backdrop-blur-sm">
-              <CheckCircle2 className="w-3 h-3" /> In stock
+          <div className="absolute top-3 left-3 right-3 z-10 flex flex-wrap items-start justify-between gap-2 pointer-events-none">
+            {product.inStock && (
+              <span className="inline-flex max-w-full min-w-[88px] items-center gap-1 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-700 px-2.5 py-1 text-[11px] font-semibold backdrop-blur-sm">
+                <CheckCircle2 className="w-3 h-3 shrink-0" />
+                <span className="truncate">In stock</span>
+              </span>
+            )}
+            <span className="rounded-full bg-card/90 backdrop-blur border border-border px-2.5 py-1 text-[11px] font-semibold text-foreground max-w-[70%] truncate">
+              {product.category}
             </span>
-          )}
-          <span className="absolute top-3 right-3 rounded-full bg-card/90 backdrop-blur border border-border px-2.5 py-1 text-[11px] font-semibold text-foreground">
-            {product.category}
-          </span>
+          </div>
           {product.source && (
             <span className="absolute bottom-3 left-3 inline-flex items-center gap-1 rounded-full bg-background/90 backdrop-blur border border-border px-2 py-0.5 text-[10px] font-semibold text-muted-foreground uppercase tracking-wider">
               via {product.source}
@@ -78,7 +82,7 @@ export default function ProductCard({
               {product.category}
             </span>
             <span className="rounded-full border border-dashed border-border px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
-              No image
+              No image Available
             </span>
           </div>
         )}
@@ -103,6 +107,20 @@ export default function ProductCard({
                 className="text-[10px] uppercase tracking-wider rounded-md bg-muted px-2 py-0.5 text-muted-foreground font-semibold"
               >
                 {tag}
+              </span>
+            ))}
+          </div>
+        )}
+
+        {sourceTiles.length > 0 && (
+          <div className="flex flex-wrap gap-1.5">
+            {sourceTiles.map((tile) => (
+              <span
+                key={`${product.id}-${tile.key}`}
+                className="text-[10px] uppercase tracking-wider rounded-md border border-border bg-background px-2 py-0.5 text-muted-foreground font-semibold"
+                title={tile.label}
+              >
+                {tile.label}
               </span>
             ))}
           </div>

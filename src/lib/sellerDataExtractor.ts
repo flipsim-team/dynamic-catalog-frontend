@@ -1,6 +1,52 @@
-import defaultSellerRawData from '@/data/sellerData.json';
+import defaultSellerRawData from "@/data/sellerData.json";
 
-export type SocialPlatform = 'instagram' | 'facebook' | 'youtube' | 'twitter' | 'linkedin' | 'whatsapp';
+export type SocialPlatform =
+  | "instagram"
+  | "facebook"
+  | "youtube"
+  | "twitter"
+  | "linkedin"
+  | "whatsapp";
+
+interface ValueWithSources<T> {
+  value?: T;
+  sources?: string[];
+  role?: string;
+  label?: string;
+  type?: string;
+}
+
+export interface SourceMeta {
+  key: string;
+  label: string;
+}
+
+export interface ContactEntry {
+  value: string;
+  role?: string;
+  sources: SourceMeta[];
+}
+
+export interface ProductSourceTile {
+  key: string;
+  label: string;
+}
+
+export interface ProductSourceLink {
+  key: string;
+  label: string;
+  url: string;
+  platform?: SocialPlatform;
+}
+
+export interface ReviewItem {
+  author: string;
+  rating: number;
+  text: string;
+  date: string;
+  sourceKey: string;
+  sourceLabel: string;
+}
 
 export interface SocialPost {
   id: string;
@@ -54,98 +100,288 @@ export interface CatalogProduct {
   inStock: boolean;
   sourceUrl: string;
   source: string;
+  sourceTiles: ProductSourceTile[];
+  sourceLinks: ProductSourceLink[];
   specifications: Record<string, string | number>;
 }
 
-const PLATFORMS: SocialPlatform[] = ['instagram', 'facebook', 'youtube', 'twitter', 'linkedin'];
+const PLATFORMS: SocialPlatform[] = [
+  "instagram",
+  "facebook",
+  "youtube",
+  "twitter",
+  "linkedin",
+];
+
+function isObj(v: unknown): v is Record<string, any> {
+  return !!v && typeof v === "object" && !Array.isArray(v);
+}
+
+function unwrapValue<T>(input: unknown, fallback: T): T {
+  if (isObj(input) && "value" in input) {
+    const value = (input as ValueWithSources<T>).value;
+    return (value ?? fallback) as T;
+  }
+  if (input === undefined || input === null) return fallback;
+  return input as T;
+}
+
+function unwrapSources(input: unknown): string[] {
+  if (
+    isObj(input) &&
+    Array.isArray((input as ValueWithSources<unknown>).sources)
+  ) {
+    return ((input as ValueWithSources<unknown>).sources || [])
+      .map((s) => String(s))
+      .filter(Boolean);
+  }
+  return [];
+}
+
+function sourceLabelFor(source: string): string {
+  const key = String(source || "")
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, "_");
+  const map: Record<string, string> = {
+    website: "Website",
+    gst: "GST",
+    google: "Google",
+    youtube: "YouTube",
+    facebook: "Facebook",
+    linkedin: "LinkedIn",
+    twitter: "Twitter/X",
+    x: "Twitter/X",
+    shiva_enriched: "Shiva Enriched",
+    llm_generated: "LLM Generated",
+    justdial: "Justdial",
+    whatsapp: "WhatsApp",
+  };
+  if (map[key]) return map[key];
+  if (!key) return "Unknown";
+  return key
+    .split(/[_-]/)
+    .map((p) => p.charAt(0).toUpperCase() + p.slice(1))
+    .join(" ");
+}
+
+function toSourceMetaList(rawSources: string[]): SourceMeta[] {
+  const seen = new Set<string>();
+  const out: SourceMeta[] = [];
+  for (const raw of rawSources) {
+    const key = String(raw || "")
+      .trim()
+      .toLowerCase()
+      .replace(/\s+/g, "_");
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    out.push({ key, label: sourceLabelFor(key) });
+  }
+  return out;
+}
+
+function parseContactEntries(
+  rawValues: unknown[],
+  normalizePhone: boolean,
+): ContactEntry[] {
+  const entries: ContactEntry[] = [];
+  for (const item of rawValues || []) {
+    const rawValue = unwrapValue<string>(item, "");
+    let value = String(rawValue || "").trim();
+    if (!value) continue;
+    if (normalizePhone) {
+      value = value.replace(/^\+91/, "").replace(/\D/g, "");
+      if (!value) continue;
+    }
+    const role = isObj(item)
+      ? String(
+          (item as ValueWithSources<string>).role ||
+            (item as ValueWithSources<string>).label ||
+            (item as ValueWithSources<string>).type ||
+            "",
+        ).trim()
+      : "";
+    entries.push({
+      value,
+      role: role || undefined,
+      sources: toSourceMetaList(unwrapSources(item)),
+    });
+  }
+  return entries;
+}
+
+function platformLabel(platform: SocialPlatform | string): string {
+  const p = String(platform || "").toLowerCase();
+  if (p === "youtube") return "YouTube";
+  if (p === "linkedin") return "LinkedIn";
+  if (p === "twitter") return "Twitter/X";
+  if (p === "whatsapp") return "WhatsApp";
+  return p ? p.charAt(0).toUpperCase() + p.slice(1) : "Source";
+}
+
+function hostLabelFromUrl(url: string): string {
+  try {
+    const host = new URL(url).hostname.replace(/^www\./, "");
+    if (!host) return "Website";
+    return host;
+  } catch {
+    return "Website";
+  }
+}
+
+function normalizeSocialUrlEntries(
+  rawUrls: unknown[],
+): Array<{ value: string; sources: SourceMeta[] }> {
+  const out: Array<{ value: string; sources: SourceMeta[] }> = [];
+  for (const item of rawUrls || []) {
+    const value = String(unwrapValue<string>(item, "") || "").trim();
+    if (!value) continue;
+    out.push({ value, sources: toSourceMetaList(unwrapSources(item)) });
+  }
+  return out;
+}
 
 function classifyUrl(url: string): SocialPlatform | null {
   if (!url) return null;
   const u = url.toLowerCase();
-  if (u.includes('instagram.com')) return 'instagram';
-  if (u.includes('facebook.com') || u.includes('fb.com')) return 'facebook';
-  if (u.includes('youtube.com') || u.includes('youtu.be')) return 'youtube';
-  if (u.includes('twitter.com') || u.includes('x.com/')) return 'twitter';
-  if (u.includes('linkedin.com')) return 'linkedin';
-  if (u.includes('wa.me') || u.includes('whatsapp.com')) return 'whatsapp';
+  if (u.includes("instagram.com")) return "instagram";
+  if (u.includes("facebook.com") || u.includes("fb.com")) return "facebook";
+  if (u.includes("youtube.com") || u.includes("youtu.be")) return "youtube";
+  if (u.includes("twitter.com") || u.includes("x.com/")) return "twitter";
+  if (u.includes("linkedin.com")) return "linkedin";
+  if (u.includes("wa.me") || u.includes("whatsapp.com")) return "whatsapp";
   return null;
 }
 
 export function extractYouTubeId(url: string): string {
-  if (!url) return '';
-  if (url.includes('shorts/')) return url.split('shorts/')[1]?.split(/[?&#]/)[0] || '';
-  if (url.includes('youtu.be/')) return url.split('youtu.be/')[1]?.split(/[?&#]/)[0] || '';
-  if (url.includes('v=')) return url.split('v=')[1]?.split('&')[0] || '';
-  return '';
+  if (!url) return "";
+  if (url.includes("shorts/"))
+    return url.split("shorts/")[1]?.split(/[?&#]/)[0] || "";
+  if (url.includes("youtu.be/"))
+    return url.split("youtu.be/")[1]?.split(/[?&#]/)[0] || "";
+  if (url.includes("v=")) return url.split("v=")[1]?.split("&")[0] || "";
+  return "";
 }
 
-function normalizePost(raw: any, platform: SocialPlatform, idx: number): SocialPost {
+function normalizePost(
+  raw: any,
+  platform: SocialPlatform,
+  idx: number,
+): SocialPost {
   return {
     id: raw.post_url || `${platform}-${idx}`,
     platform,
-    type: raw.type || 'post',
-    url: raw.post_url || '',
-    thumbnailUrl: raw.thumbnail_url || '',
-    caption: raw.caption || '',
+    type: raw.type || "post",
+    url: raw.post_url || "",
+    thumbnailUrl: raw.thumbnail_url || "",
+    caption: raw.caption || "",
     likes: raw.likes || 0,
     comments: raw.comments || 0,
     views: raw.views ?? null,
-    postedAt: raw.posted_at || '',
+    postedAt: raw.posted_at || "",
   };
 }
 
 export function extractSellerDataFromRaw(rawData: unknown) {
   const data = (rawData ?? {}) as any;
   const cp = data.company_profile || {};
-  const sellerId = String(data.seller_id || '');
-  const sellerName = cp.name || 'Seller';
-  const phones: string[] = (cp.phones || []).map((p: string) => String(p).replace(/^\+91/, '').replace(/\D/g, '')).filter(Boolean);
-  const primaryPhone = phones[0] || '';
-  const emails: string[] = cp.emails || [];
-  const email = emails[0] || '';
-  const fullAddress = cp.address || '';
-  const city = cp.city || '';
-  const website = cp.website || '';
-  const businessType = cp.business_type || '';
-  const googleLocation = cp.google_location || '';
-  const ratingValue = typeof cp.rating_value === 'number' ? cp.rating_value : (cp.rating_value ? parseFloat(cp.rating_value) : null);
-  const ratingCount = cp.rating_count || 0;
-  const description = cp.description || '';
+  const sellerId = String(data.seller_id || "");
+  const sellerName = String(unwrapValue(cp.name, "Seller") || "Seller");
+  const phoneEntries = parseContactEntries(cp.phones || [], true);
+  const emailEntries = parseContactEntries(cp.emails || [], false);
+  const phones: string[] = phoneEntries.map((p) => p.value);
+  const emails: string[] = emailEntries.map((e) => e.value);
+  const primaryPhone = phones[0] || "";
+  const email = emails[0] || "";
+  const fullAddress = String(unwrapValue(cp.address, "") || "");
+  const city = String(unwrapValue(cp.city, "") || "");
+  const website = String(unwrapValue(cp.website, "") || "");
+  const businessType = String(unwrapValue(cp.business_type, "") || "");
+  const googleLocation = String(unwrapValue(cp.google_location, "") || "");
+  const rawRatingValue = unwrapValue<number | string | null>(
+    cp.rating_value,
+    null,
+  );
+  const ratingValue =
+    typeof rawRatingValue === "number"
+      ? rawRatingValue
+      : rawRatingValue
+        ? parseFloat(String(rawRatingValue))
+        : null;
+  const ratingCount = Number(unwrapValue(cp.rating_count, 0) || 0);
+  const description = String(unwrapValue(cp.description, "") || "");
+  const fieldSources = {
+    phone: phoneEntries[0]?.sources || [],
+    email: emailEntries[0]?.sources || [],
+    website: toSourceMetaList(unwrapSources(cp.website)),
+    address: toSourceMetaList(unwrapSources(cp.address)),
+    city: toSourceMetaList(unwrapSources(cp.city)),
+    rating: toSourceMetaList(unwrapSources(cp.rating_value)),
+    businessType: toSourceMetaList(unwrapSources(cp.business_type)),
+  };
 
   // Build authoritative social profile list (one per platform)
   const profilesByPlatform: Record<string, SocialProfile> = {};
   const rawProfiles = data.social_profiles || [];
   for (const p of rawProfiles) {
-    const platform = (p.platform || '').toLowerCase() as SocialPlatform;
+    const platform = (p.platform || "").toLowerCase() as SocialPlatform;
     if (!PLATFORMS.includes(platform)) continue;
     if (!p.url) continue;
     const profile: SocialProfile = {
       platform,
       url: p.url,
-      profilePic: p.profile_pic_url || '',
-      bannerUrl: p.banner_url || '',
-      bio: p.bio || '',
-      followers: typeof p.followers_count === 'number' ? p.followers_count : 0,
-      posts: (p.posts || []).map((rp: any, i: number) => normalizePost(rp, platform, i)),
+      profilePic: p.profile_pic_url || "",
+      bannerUrl: p.banner_url || "",
+      bio: p.bio || "",
+      followers: typeof p.followers_count === "number" ? p.followers_count : 0,
+      posts: (p.posts || []).map((rp: any, i: number) =>
+        normalizePost(rp, platform, i),
+      ),
     };
     // Sort posts by postedAt desc, top 6
-    profile.posts.sort((a, b) => new Date(b.postedAt || 0).getTime() - new Date(a.postedAt || 0).getTime());
+    profile.posts.sort(
+      (a, b) =>
+        new Date(b.postedAt || 0).getTime() -
+        new Date(a.postedAt || 0).getTime(),
+    );
     profile.posts = profile.posts.slice(0, 6);
     profilesByPlatform[platform] = profile;
   }
 
   // Augment with social_urls (fallback for platforms missing in social_profiles)
-  const socialUrls: string[] = [...(cp.social_urls || []), ...(data.social_urls || [])];
-  for (const u of socialUrls) {
-    const platform = classifyUrl(u);
-    if (!platform || platform === 'whatsapp') continue;
+  const socialUrlEntries = normalizeSocialUrlEntries([
+    ...(cp.social_urls || []),
+    ...(data.social_urls || []),
+  ]);
+
+  // Include explicit platform URLs under company_profile (facebook, instagram, etc.)
+  for (const platform of PLATFORMS) {
+    const value = String(unwrapValue(cp[platform], "") || "");
+    if (!value) continue;
+    socialUrlEntries.push({
+      value,
+      sources: toSourceMetaList(unwrapSources(cp[platform])),
+    });
+  }
+
+  const dedupSocialUrls: Array<{ value: string; sources: SourceMeta[] }> = [];
+  const seenSocialUrl = new Set<string>();
+  for (const entry of socialUrlEntries) {
+    if (seenSocialUrl.has(entry.value)) continue;
+    seenSocialUrl.add(entry.value);
+    dedupSocialUrls.push(entry);
+  }
+
+  for (const item of dedupSocialUrls) {
+    const platform = classifyUrl(item.value);
+    if (!platform || platform === "whatsapp") continue;
     if (!profilesByPlatform[platform]) {
       profilesByPlatform[platform] = {
         platform,
-        url: u,
-        profilePic: '',
-        bannerUrl: '',
-        bio: '',
+        url: item.value,
+        profilePic: "",
+        bannerUrl: "",
+        bio: "",
         followers: 0,
         posts: [],
       };
@@ -154,58 +390,128 @@ export function extractSellerDataFromRaw(rawData: unknown) {
 
   const socialProfiles = Object.values(profilesByPlatform);
 
-  // WhatsApp link from cp.facebook fallback (per JSON the WA link is in social_urls)
-  const whatsappUrl = (socialUrls.find(u => /wa\.me|whatsapp/i.test(u)) || '');
+  const whatsappEntry = dedupSocialUrls.find((u) =>
+    /wa\.me|whatsapp/i.test(u.value),
+  );
+  const whatsappUrl = whatsappEntry?.value || "";
 
   // Banner / Avatar priority
   const yt = profilesByPlatform.youtube;
   const fb = profilesByPlatform.facebook;
   const ig = profilesByPlatform.instagram;
-  const bannerUrl = yt?.bannerUrl || fb?.bannerUrl || '';
-  const avatarUrl = ig?.profilePic || yt?.profilePic || fb?.profilePic || '';
+  const bannerUrl = yt?.bannerUrl || fb?.bannerUrl || "";
+  const avatarUrl = ig?.profilePic || yt?.profilePic || fb?.profilePic || "";
 
   // Tagline (used by hero/footer)
-  const tagline = description || yt?.bio || ig?.bio || fb?.bio || '';
+  const tagline = description || yt?.bio || ig?.bio || fb?.bio || "";
 
   // Products from catalog_items
-  const catalogItems = data.catalog_items || [];
+  const catalogItems = data.catalog_items || data.products || [];
+
   const products: CatalogProduct[] = catalogItems
     .filter((c: any) => c.clean_name)
-    .map((c: any, i: number) => ({
-      id: c.fingerprint || String(i),
-      name: c.clean_name,
-      description: c.description || '',
-      category: c.product_category || 'Other',
-      subType: c.product_sub_type || '',
-      domain: c.top_level_domain || '',
-      segment: c.industry_segment || '',
-      buyerPersona: c.buyer_persona || '',
-      tags: Array.isArray(c.tags) ? c.tags : [],
-      brand: c.b2b_attributes?.brand || '',
-      hsnCode: c.b2b_attributes?.hsn_code || '',
-      gstPercent: c.b2b_attributes?.gst_percent ?? null,
-      countryOfOrigin: c.b2b_attributes?.country_of_origin || '',
-      certifications: c.b2b_attributes?.certifications || [],
-      moq: c.b2b_attributes?.moq ?? null,
-      moqUnit: c.b2b_attributes?.moq_unit || '',
-      priceUnit: c.b2b_attributes?.price_unit || c.price_unit || '',
-      priceSingle: c.price_single ?? null,
-      priceMin: c.price_min ?? null,
-      priceMax: c.price_max ?? null,
-      isPriceRange: !!c.is_price_range,
-      priceOnRequest: !!c.price_on_request,
-      currency: c.currency || 'INR',
-      primaryPhoto: c.primary_photo_url || c.photo_urls?.[0] || '',
-      photos: (c.photo_urls || []).filter(Boolean),
-      inStock: c.in_stock !== false,
-      sourceUrl: c.source_url || '',
-      source: c.source || '',
-      specifications: c.specifications || {},
-    }));
+    .map((c: any, i: number) => {
+      const catalogSourceKeys = (Array.isArray(c.sources) ? c.sources : []).map(
+        (s: any) => String(s).toLowerCase(),
+      );
+      const sourceTiles: ProductSourceTile[] =
+        toSourceMetaList(catalogSourceKeys);
+      const sourceLinks: ProductSourceLink[] = [];
+      const pushLink = (link: ProductSourceLink) => {
+        if (!link.url) return;
+        sourceLinks.push(link);
+      };
+
+      const sourceUrl = String(
+        c.source_url || c.specifications?.source_url || "",
+      );
+      if (sourceUrl) {
+        pushLink({
+          key: "catalog-source",
+          label: c.source ? String(c.source) : hostLabelFromUrl(sourceUrl),
+          url: sourceUrl,
+        });
+      }
+
+      for (const socialSource of Array.isArray(c.social_sources)
+        ? c.social_sources
+        : []) {
+        const platform = String(
+          socialSource.platform ||
+            classifyUrl(socialSource.post_url || "") ||
+            "",
+        ).toLowerCase() as SocialPlatform;
+        const url = String(socialSource.post_url || socialSource.url || "");
+        if (!url) continue;
+        if (platform) {
+          sourceTiles.push({ key: platform, label: platformLabel(platform) });
+          pushLink({
+            key: `${platform}-${url}`,
+            label: platformLabel(platform),
+            url,
+            platform,
+          });
+        } else {
+          pushLink({ key: `source-${url}`, label: hostLabelFromUrl(url), url });
+        }
+      }
+
+      const seenTile = new Set<string>();
+      const dedupTiles = sourceTiles.filter((tile) => {
+        const key = `${tile.key}:${tile.label}`;
+        if (seenTile.has(key)) return false;
+        seenTile.add(key);
+        return true;
+      });
+
+      const seenLink = new Set<string>();
+      const dedupLinks = sourceLinks.filter((link) => {
+        const key = `${link.label}:${link.url}`;
+        if (seenLink.has(key)) return false;
+        seenLink.add(key);
+        return true;
+      });
+
+      return {
+        id: c.fingerprint || String(i),
+        name: c.clean_name,
+        description: c.description || "",
+        category: c.product_category || "Other",
+        subType: c.product_sub_type || "",
+        domain: c.top_level_domain || "",
+        segment: c.industry_segment || "",
+        buyerPersona: c.buyer_persona || "",
+        tags: Array.isArray(c.tags) ? c.tags : [],
+        brand: c.b2b_attributes?.brand || "",
+        hsnCode: c.b2b_attributes?.hsn_code || "",
+        gstPercent: c.b2b_attributes?.gst_percent ?? null,
+        countryOfOrigin: c.b2b_attributes?.country_of_origin || "",
+        certifications: c.b2b_attributes?.certifications || [],
+        moq: c.b2b_attributes?.moq ?? null,
+        moqUnit: c.b2b_attributes?.moq_unit || "",
+        priceUnit: c.b2b_attributes?.price_unit || c.price_unit || "",
+        priceSingle: c.price_single ?? null,
+        priceMin: c.price_min ?? null,
+        priceMax: c.price_max ?? null,
+        isPriceRange: !!c.is_price_range,
+        priceOnRequest: !!c.price_on_request,
+        currency: c.currency || "INR",
+        primaryPhoto: c.primary_photo_url || c.photo_urls?.[0] || "",
+        photos: (c.photo_urls || []).filter(Boolean),
+        inStock: c.in_stock !== false,
+        sourceUrl,
+        source: c.source || "",
+        sourceTiles: dedupTiles,
+        sourceLinks: dedupLinks,
+        specifications: c.specifications || {},
+      };
+    });
 
   // Categories (unique with counts)
   const categoryCounts: Record<string, number> = {};
-  products.forEach(p => { categoryCounts[p.category] = (categoryCounts[p.category] || 0) + 1; });
+  products.forEach((p) => {
+    categoryCounts[p.category] = (categoryCounts[p.category] || 0) + 1;
+  });
   const categories = Object.entries(categoryCounts)
     .map(([name, count]) => ({ name, count }))
     .sort((a, b) => b.count - a.count);
@@ -218,73 +524,140 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     seen.add(url);
     galleryImages.push({ url, source, caption });
   };
-  products.forEach(p => {
-    addImg(p.primaryPhoto, 'Catalog', p.name);
-    p.photos.forEach(ph => addImg(ph, 'Catalog', p.name));
+  products.forEach((p) => {
+    addImg(p.primaryPhoto, "Catalog", p.name);
+    p.photos.forEach((ph) => addImg(ph, "Catalog", p.name));
   });
-  (data.media_assets || []).forEach((m: any) => addImg(m.url, 'Catalog', m.product_name));
-  ig?.posts.forEach(p => addImg(p.thumbnailUrl, 'Instagram', p.caption));
-  yt?.posts.forEach(p => addImg(p.thumbnailUrl, 'YouTube', p.caption));
+  (data.media_assets || []).forEach((m: any) =>
+    addImg(m.url, "Catalog", m.product_name),
+  );
+  ig?.posts.forEach((p) => addImg(p.thumbnailUrl, "Instagram", p.caption));
+  yt?.posts.forEach((p) => addImg(p.thumbnailUrl, "YouTube", p.caption));
 
   // Reviews summary
   const rs = data.reviews_summary || {};
+  const defaultReviewSource =
+    cp.reviews_api_url && String(cp.reviews_api_url).includes("google_maps")
+      ? "google"
+      : "website";
+  const reviewSourceMap: Record<string, number> = {};
   const reviewsSummary = {
     totalRating: rs.total_rating ?? ratingValue ?? null,
     noOfRatings: rs.no_of_ratings ?? ratingCount ?? 0,
     ratingComments: rs.rating_comments || [],
+    sourceBreakdown: {} as Record<string, number>,
   };
-  const individualReviews = (data.reviews || []).map((r: any) => ({
-    author: r.author || r.name || 'Anonymous',
-    rating: r.rating || 0,
-    text: r.text || r.comment || '',
-    date: r.date || r.posted_at || '',
-  }));
+  const individualReviews: ReviewItem[] = (data.reviews || []).map((r: any) => {
+    const sourceKey = String(
+      r.source ||
+        r.platform ||
+        r.review_source ||
+        defaultReviewSource ||
+        "unknown",
+    ).toLowerCase();
+    reviewSourceMap[sourceKey] = (reviewSourceMap[sourceKey] || 0) + 1;
+    return {
+      author: r.author || r.name || "Anonymous",
+      rating: r.rating || 0,
+      text: r.text || r.comment || "",
+      date: r.date || r.posted_at || "",
+      sourceKey,
+      sourceLabel: sourceLabelFor(sourceKey),
+    };
+  });
+  reviewsSummary.sourceBreakdown = reviewSourceMap;
 
   // Product counts (showcased vs total)
-  const totalProducts = (data.products?.length) || products.length;
+  const totalProducts = data.products?.length || products.length;
   const showcasedItems = products.length;
 
   // Highest follower count across platforms
-  const topFollowers = socialProfiles.reduce((max, p) => Math.max(max, p.followers || 0), 0);
+  const topFollowers = socialProfiles.reduce(
+    (max, p) => Math.max(max, p.followers || 0),
+    0,
+  );
   const topFollowerProfile = socialProfiles.reduce<SocialProfile | null>(
     (best, p) => (p.followers > (best?.followers || 0) ? p : best),
-    null
+    null,
   );
   const topPlatformLabel = topFollowerProfile
-    ? topFollowerProfile.platform.charAt(0).toUpperCase() + topFollowerProfile.platform.slice(1)
-    : '';
+    ? topFollowerProfile.platform.charAt(0).toUpperCase() +
+      topFollowerProfile.platform.slice(1)
+    : "";
 
   // Trust badges per spec (no marketplace affiliation)
-  const trustBadges: { label: string; icon: string; url?: string; scrollTo?: string; tooltip?: string }[] = [];
+  const trustBadges: {
+    label: string;
+    icon: string;
+    url?: string;
+    scrollTo?: string;
+    tooltip?: string;
+  }[] = [];
   if (ratingValue && reviewsSummary.noOfRatings > 0) {
-    trustBadges.push({ label: `${ratingValue.toFixed(1)}★ Rated`, icon: 'award', scrollTo: 'reviews' });
-    trustBadges.push({ label: `${reviewsSummary.noOfRatings} Reviews`, icon: 'file-check', scrollTo: 'reviews' });
+    trustBadges.push({
+      label: `${ratingValue.toFixed(1)}★ Rated`,
+      icon: "award",
+      scrollTo: "reviews",
+    });
+    trustBadges.push({
+      label: `${reviewsSummary.noOfRatings} Reviews`,
+      icon: "file-check",
+      scrollTo: "reviews",
+    });
   }
   if (city) {
-    trustBadges.push({ label: city, icon: 'map-pin', url: googleLocation || undefined, scrollTo: googleLocation ? undefined : 'contact' });
+    trustBadges.push({
+      label: city,
+      icon: "map-pin",
+      url: googleLocation || undefined,
+      scrollTo: googleLocation ? undefined : "contact",
+    });
   }
   if (businessType) {
-    trustBadges.push({ label: businessType, icon: 'factory', scrollTo: 'about' });
+    trustBadges.push({
+      label: businessType,
+      icon: "factory",
+      scrollTo: "about",
+    });
   }
   if (showcasedItems > 0) {
     const productLabel = `Showing ${showcasedItems} products`;
     trustBadges.push({
       label: productLabel,
-      icon: 'package',
-      scrollTo: 'products',
+      icon: "package",
+      scrollTo: "products",
       tooltip: `Data available for ${showcasedItems} of ${totalProducts} catalog products.`,
     });
   }
   if (topFollowers > 0 && topPlatformLabel) {
     trustBadges.push({
       label: `${formatCount(topFollowers)} ${topPlatformLabel} Followers`,
-      icon: 'verified',
-      scrollTo: 'social',
+      icon: "verified",
+      scrollTo: "social",
       url: topFollowerProfile?.url,
     });
   }
   if (website) {
-    trustBadges.push({ label: 'Visit Website', icon: 'globe', url: website });
+    trustBadges.push({ label: "Visit Website", icon: "globe", url: website });
+  }
+
+  const socialAvailability: Record<
+    SocialPlatform,
+    { url: string; hasPosts: boolean }
+  > = {
+    instagram: { url: "", hasPosts: false },
+    facebook: { url: "", hasPosts: false },
+    youtube: { url: "", hasPosts: false },
+    twitter: { url: "", hasPosts: false },
+    linkedin: { url: "", hasPosts: false },
+    whatsapp: { url: whatsappUrl, hasPosts: !!whatsappUrl },
+  };
+  for (const platform of PLATFORMS) {
+    const profile = profilesByPlatform[platform];
+    socialAvailability[platform] = {
+      url: profile?.url || "",
+      hasPosts: !!profile?.posts?.length,
+    };
   }
 
   return {
@@ -294,8 +667,10 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     description,
     businessType,
     phones,
+    phoneEntries,
     primaryPhone,
     emails,
+    emailEntries,
     email,
     fullAddress,
     city,
@@ -314,9 +689,24 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     galleryImages,
     reviewsSummary,
     individualReviews,
+    fieldSources,
     trustBadges,
     topFollowers,
     topPlatformLabel,
+    socialAvailability,
+    contactSources: {
+      primaryPhone: fieldSources.phone,
+      email: fieldSources.email,
+      website: fieldSources.website,
+      address: fieldSources.address,
+      city: fieldSources.city,
+      whatsapp: whatsappEntry?.sources || [],
+      contactCta: [
+        ...(whatsappEntry?.sources || []),
+        ...fieldSources.phone,
+        ...fieldSources.email,
+      ].filter((v, idx, arr) => arr.findIndex((x) => x.key === v.key) === idx),
+    },
   };
 }
 
@@ -325,22 +715,23 @@ export function extractSellerData(rawData: unknown = defaultSellerRawData) {
 }
 
 export function formatCount(n: number): string {
-  if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace(/\.0$/, '') + 'M';
-  if (n >= 1_000) return (n / 1_000).toFixed(1).replace(/\.0$/, '') + 'K';
+  if (n >= 1_000_000)
+    return (n / 1_000_000).toFixed(1).replace(/\.0$/, "") + "M";
+  if (n >= 1_000) return (n / 1_000).toFixed(1).replace(/\.0$/, "") + "K";
   return String(n);
 }
 
 export function formatPrice(p: CatalogProduct): string {
-  if (p.priceOnRequest) return 'Price on request';
-  const sym = p.currency === 'INR' ? '₹' : (p.currency || '');
-  const fmt = (n: number) => sym + n.toLocaleString('en-IN');
-  const unit = p.priceUnit ? ` / ${p.priceUnit}` : '';
+  if (p.priceOnRequest) return "Price on request";
+  const sym = p.currency === "INR" ? "₹" : p.currency || "";
+  const fmt = (n: number) => sym + n.toLocaleString("en-IN");
+  const unit = p.priceUnit ? ` / ${p.priceUnit}` : "";
   if (p.isPriceRange && p.priceMin != null && p.priceMax != null) {
     return `${fmt(p.priceMin)} – ${fmt(p.priceMax)}${unit}`;
   }
   if (p.priceSingle != null) return `${fmt(p.priceSingle)}${unit}`;
   if (p.priceMin != null) return `${fmt(p.priceMin)}${unit}`;
-  return 'Price on request';
+  return "Price on request";
 }
 
 export type SellerData = ReturnType<typeof extractSellerDataFromRaw>;

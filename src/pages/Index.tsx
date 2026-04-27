@@ -164,29 +164,33 @@ const Index = () => {
 
   return (
     <div className="page-shell relative min-h-screen bg-background">
-      <SplashCursor
+      {/* <SplashCursor
         SIM_RESOLUTION={128}
         DYE_RESOLUTION={1440}
         CAPTURE_RESOLUTION={512}
-        DENSITY_DISSIPATION={17}
-        VELOCITY_DISSIPATION={2.6}
+        DENSITY_DISSIPATION={4.5}
+        VELOCITY_DISSIPATION={2}
         PRESSURE={0.1}
         PRESSURE_ITERATIONS={20}
         CURL={3}
-        SPLAT_RADIUS={0.04}
-        SPLAT_FORCE={1200}
+        SPLAT_RADIUS={0.12}
+        SPLAT_FORCE={1600}
         SHADING={false}
-        COLOR_UPDATE_SPEED={27}
+        COLOR_UPDATE_SPEED={12}
         TRANSPARENT
         RAINBOW_MODE={true}
-        COLOR="#ffffff"
-        BACK_COLOR={{ r: 0, g: 0, b: 0 }}
-      />
+        COLOR="#FFF6F6"
+        BACK_COLOR={{ r: 0.5, g: 0, b: 0 }}
+      /> */}
       <CursorFollower />
 
       <AnimatePresence mode="wait">
         {showSplash && (
-          <SplashScreen sellerName={data.sellerName} key="splash" />
+          <SplashScreen
+            sellerName={data.sellerName}
+            avatarUrl={data.avatarUrl}
+            key="splash"
+          />
         )}
       </AnimatePresence>
 
