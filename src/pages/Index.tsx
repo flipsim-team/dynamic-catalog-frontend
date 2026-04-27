@@ -164,7 +164,7 @@ const Index = () => {
 
   return (
     <div className="page-shell relative min-h-screen bg-background">
-      {/* <SplashCursor
+      <SplashCursor
         SIM_RESOLUTION={128}
         DYE_RESOLUTION={1440}
         CAPTURE_RESOLUTION={512}
@@ -181,8 +181,8 @@ const Index = () => {
         RAINBOW_MODE={true}
         COLOR="#FFF6F6"
         BACK_COLOR={{ r: 0.5, g: 0, b: 0 }}
-      /> */}
-      <CursorFollower />
+      />
+      {/* <CursorFollower /> */}
 
       <AnimatePresence mode="wait">
         {showSplash && (
