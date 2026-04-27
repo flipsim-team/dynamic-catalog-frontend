@@ -299,7 +299,7 @@ export default function ProductDetailModal({
               {(sourceLinks.length > 0 || sourceTiles.length > 0) && (
                 <div>
                   <p className="text-xs uppercase tracking-wider text-muted-foreground font-bold mb-2">
-                    View Product Here:
+                    Source verified from:
                   </p>
                   <div className="flex flex-wrap gap-2">
                     {sourceLinks.map((source) => (
