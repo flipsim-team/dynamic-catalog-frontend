@@ -1,0 +1,2507 @@
+{
+  "seller_id": 1402194,
+  "company_profile": {
+    "name": {
+      "value": "KiTEC Industries (India) Private Limited",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "KiTEC Industries (India) Private Limited is a leading manufacturer based in Silvassa, India, specializing in innovative piping systems and high-quality brass internal sealing fittings. Renowned for providing superior solutions for small diameter piping, KiTEC is committed to excellence, as evidenced by accolades like the ASSOCHAM Global Quality Excellence SME of the Year award.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Silvassa",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "state": {
+      "value": "Dadra and Nagar Haveli and Daman and Diu",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "8, Rakholi, Madhuban Industrial Estate, Silvassa, Demni Road Maduban Dam,Road Vapi,396240,India",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "http://www.kitecindia.in",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Manufacturer of Piping Systems and Fittings",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gst_number": {
+      "value": "26AABCK1840L1ZK",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 4,
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 29,
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "http://www.kitecindia.in/Images/Logo.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/kitecind/",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "2602680034",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "works@kitecindia.in",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/kitecind/",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "confidence": 0.8,
+    "sources": [
+      "website"
+    ],
+    "data_sources": [
+      "website"
+    ],
+    "reviews_api_url": "https://api.scrapingdog.com/google_maps/reviews?api_key=69859b2025968963c82b2349&data_id=0x3be0ce2e9f2d2809:0x6ecda61ebd83a619"
+  },
+  "products": [
+    {
+      "raw_name": "Brass Internal Sealing Fittings (1014 to 4050)",
+      "clean_name": "Brass Internal Sealing Fittings (1014 to 4050)",
+      "fingerprint": "f730d5bfb2d5",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Plumbing",
+      "product_category": "Fitting",
+      "product_sub_type": "Brass Internal Sealing Fitting",
+      "buyer_persona": "A procurement manager or engineer sourcing components for industrial piping systems, looking for specific types of fittings made from brass with internal sealing capabilities.",
+      "description": "Brass Internal Sealing Fittings (1014 to 4050) is a brass internal sealing fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer sourcing components for industrial piping systems, looking for specific types of fittings made from brass with internal sealing capabilities.",
+      "seo_title": "Brass Internal Sealing Fittings (1014 to 4050) Brass Internal Sealing ",
+      "tags": [
+        "Brass Internal Sealing Fittings (1014 to 4050)",
+        "Industrial Equipment",
+        "Fluid Handling & Plumbing",
+        "Fitting",
+        "Brass Internal Sealing Fitting"
+      ],
+      "alt_text": "Brass Internal Sealing Fittings (1014 to 4050) from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/brass-internal1014.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF"
+      },
+      "specifications": {
+        "category": "Fitting",
+        "sub_type": "Brass Internal Sealing Fitting",
+        "image_url": "http://www.kitecindia.in/Images/brass-internal1014.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/brass-internal1014.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/brass-internal1014.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Brass Internal Sealing Fittings (5063 to 90110)",
+      "clean_name": "Brass Internal Sealing Fittings (5063 to 90110)",
+      "fingerprint": "180be3f89b00",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Plumbing",
+      "product_category": "Pipe Fitting",
+      "product_sub_type": "Brass Internal Sealing Pipe Fitting",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, construction, or plumbing industries sourcing specific brass fittings for fluid conveyance systems.",
+      "description": "Brass Internal Sealing Fittings (5063 to 90110) is a brass internal sealing pipe fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer in manufacturing, construction, or plumbing industries sourcing specific brass fittings for fluid conveyance systems.",
+      "seo_title": "Brass Internal Sealing Fittings (5063 to 90110) Brass Internal Sealing",
+      "tags": [
+        "Brass Internal Sealing Fittings (5063 to 90110)",
+        "Industrial Equipment",
+        "Fluid Handling & Plumbing",
+        "Pipe Fitting",
+        "Brass Internal Sealing Pipe Fitting"
+      ],
+      "alt_text": "Brass Internal Sealing Fittings (5063 to 90110) from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/brass-internal5063.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF"
+      },
+      "specifications": {
+        "category": "Pipe Fitting",
+        "sub_type": "Brass Internal Sealing Pipe Fitting",
+        "image_url": "http://www.kitecindia.in/Images/brass-internal5063.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/brass-internal5063.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/brass-internal5063.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Composite Internal Sealing Fittings(1014 to 4050)",
+      "clean_name": "Composite Internal Sealing Fittings(1014 to 4050)",
+      "fingerprint": "2d11f896785f",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Fluid Conveyance",
+      "product_category": "Sealing Fitting",
+      "product_sub_type": "Composite Internal Sealing Fitting",
+      "buyer_persona": "A procurement manager or engineer in industries requiring specialized piping systems, looking for durable and efficient sealing solutions for fluid or gas conveyance.",
+      "description": "Composite Internal Sealing Fittings(1014 to 4050) is a composite internal sealing fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer in industries requiring specialized piping systems, looking for durable and efficient sealing solutions for fluid or gas conveyance.",
+      "seo_title": "Composite Internal Sealing Fittings(1014 to 4050) Composite Internal S",
+      "tags": [
+        "Composite Internal Sealing Fittings(1014 to 4050)",
+        "Industrial Equipment",
+        "Piping & Fluid Conveyance",
+        "Sealing Fitting",
+        "Composite Internal Sealing Fitting"
+      ],
+      "alt_text": "Composite Internal Sealing Fittings(1014 to 4050) from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/composite-internal1014.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF"
+      },
+      "specifications": {
+        "category": "Sealing Fitting",
+        "sub_type": "Composite Internal Sealing Fitting",
+        "image_url": "http://www.kitecindia.in/Images/composite-internal1014.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/composite-internal1014.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/composite-internal1014.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Composite Internal Sealing Fittings(5063 to 90110)",
+      "clean_name": "Composite Internal Sealing Fittings(5063 to 90110)",
+      "fingerprint": "e034c9e85978",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Piping System",
+      "product_category": "Pipe Fitting",
+      "product_sub_type": "Composite Internal Sealing Pipe Fitting",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, construction, or process industries looking for components to build or maintain piping systems.",
+      "description": "Composite Internal Sealing Fittings(5063 to 90110) is a composite internal sealing pipe fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer in manufacturing, construction, or process industries looking for components to build or maintain piping systems.",
+      "seo_title": "Composite Internal Sealing Fittings(5063 to 90110) Composite Internal ",
+      "tags": [
+        "Composite Internal Sealing Fittings(5063 to 90110)",
+        "Industrial Equipment",
+        "Fluid Handling & Piping Systems",
+        "Pipe Fitting",
+        "Composite Internal Sealing Pipe Fitting"
+      ],
+      "alt_text": "Composite Internal Sealing Fittings(5063 to 90110) from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/composite-internal5063.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF"
+      },
+      "specifications": {
+        "category": "Pipe Fitting",
+        "sub_type": "Composite Internal Sealing Pipe Fitting",
+        "image_url": "http://www.kitecindia.in/Images/composite-internal5063.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/composite-internal5063.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/composite-internal5063.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Brass Crimp Fittings(1216 to 2025)",
+      "clean_name": "Brass Crimp Fittings(1216 to 2025)",
+      "fingerprint": "b17004238c10",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Plumbing System",
+      "product_category": "Crimp Fitting",
+      "product_sub_type": "Brass Crimp Fitting",
+      "buyer_persona": "A procurement manager or engineer in the construction, plumbing, or manufacturing industry looking for components for piping and fluid transfer systems.",
+      "description": "Brass Crimp Fittings(1216 to 2025) is a brass crimp fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer in the construction, plumbing, or manufacturing industry looking for components for piping and fluid transfer systems.",
+      "seo_title": "Brass Crimp Fittings(1216 to 2025) Brass Crimp Fitting | Catalog Listi",
+      "tags": [
+        "Brass Crimp Fittings(1216 to 2025)",
+        "Industrial Equipment",
+        "Piping & Plumbing Systems",
+        "Crimp Fitting",
+        "Brass Crimp Fitting"
+      ],
+      "alt_text": "Brass Crimp Fittings(1216 to 2025) from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/BrassCrimp.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF"
+      },
+      "specifications": {
+        "category": "Crimp Fitting",
+        "sub_type": "Brass Crimp Fitting",
+        "image_url": "http://www.kitecindia.in/Images/BrassCrimp.jpg",
+        "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/BrassCrimp.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/BrassCrimp.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Compressed Air System",
+      "clean_name": "Compressed Air System",
+      "fingerprint": "9868101a2c82",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Air & Gas System",
+      "product_category": "Compressed Air System",
+      "product_sub_type": "Industrial Compressed Air System",
+      "buyer_persona": "A procurement manager or plant operator in manufacturing, automotive, or other industrial sectors seeking a system to generate and distribute compressed air for various operational needs.",
+      "description": "Compressed Air System is a industrial compressed air system offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or plant operator in manufacturing, automotive, or other industrial sectors seeking a system to generate and distribute compressed air for various operational needs.",
+      "seo_title": "Compressed Air System Industrial Compressed Air System | Catalog Listi",
+      "tags": [
+        "Compressed Air System",
+        "Industrial Equipment",
+        "Industrial Air & Gas Systems",
+        "Industrial Compressed Air System"
+      ],
+      "alt_text": "Compressed Air System from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.pdf"
+      },
+      "specifications": {
+        "category": "Compressed Air System",
+        "sub_type": "Industrial Compressed Air System",
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.pdf",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Multi-Layer Composite Pipes",
+      "clean_name": "Multi-Layer Composite Pipes",
+      "fingerprint": "2c7f756d96c7",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Piping Systems & Component",
+      "product_category": "Composite Pipe",
+      "product_sub_type": "Multi-layer Composite Pipe",
+      "buyer_persona": "A procurement manager or project engineer in the construction, plumbing, or HVAC industry looking for durable and efficient piping solutions for fluid conveyance.",
+      "description": "Multi-Layer Composite Pipes is a multi-layer composite pipe offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or project engineer in the construction, plumbing, or HVAC industry looking for durable and efficient piping solutions for fluid conveyance.",
+      "seo_title": "Multi-Layer Composite Pipes Multi-Layer Composite Pipe | Catalog Listi",
+      "tags": [
+        "Multi-Layer Composite Pipes",
+        "Construction & Infrastructure",
+        "Piping Systems & Components",
+        "Composite Pipe",
+        "Multi-Layer Composite Pipe"
+      ],
+      "alt_text": "Multi-Layer Composite Pipes from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.pdf"
+      },
+      "specifications": {
+        "category": "Composite Pipe",
+        "sub_type": "Multi-layer Composite Pipe",
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.pdf",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "PE-AL-PEX Pipes",
+      "clean_name": "PE-AL-PEX Pipes",
+      "fingerprint": "ecb1f6eed290",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Plumbing & Piping System",
+      "product_category": "Pe-al-pex Pipe",
+      "product_sub_type": "Multi-layer Composite Pipe",
+      "buyer_persona": "A procurement manager or contractor in the construction, plumbing, or HVAC industry looking for durable and reliable multi-layer pipes for fluid conveyance systems.",
+      "description": "PE-AL-PEX Pipes is a multi-layer composite pipe offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or contractor in the construction, plumbing, or HVAC industry looking for durable and reliable multi-layer pipes for fluid conveyance systems.",
+      "seo_title": "PE-AL-PEX Pipes Multi-Layer Composite Pipe | Catalog Listing",
+      "tags": [
+        "PE-AL-PEX Pipes",
+        "Construction & Infrastructure",
+        "Plumbing & Piping Systems",
+        "PE-AL-PEX Pipe",
+        "Multi-Layer Composite Pipe"
+      ],
+      "alt_text": "PE-AL-PEX Pipes from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.pdf"
+      },
+      "specifications": {
+        "category": "Pe-al-pex Pipe",
+        "sub_type": "Multi-layer Composite Pipe",
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.pdf",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "SWR UPVC Pipes and Fittings",
+      "clean_name": "SWR UPVC Pipes and Fittings",
+      "fingerprint": "121223dd98bd",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Plumbing & Drainage System",
+      "product_category": "Piping System",
+      "product_sub_type": "Upvc Swr Piping System",
+      "buyer_persona": "A procurement manager or contractor in the construction industry looking for durable and standard-compliant piping components for drainage and waste management systems in residential, commercial, or industrial projects.",
+      "description": "SWR UPVC Pipes and Fittings is a upvc swr piping system offered by KiTEC Industries (India) Private Limited based in Silvassa.",
+      "seo_title": "SWR UPVC Pipes and Fittings UPVC SWR Piping System | Catalog Listing",
+      "tags": [
+        "SWR UPVC Pipes and Fittings",
+        "Construction & Infrastructure",
+        "Plumbing & Drainage Systems",
+        "Piping System",
+        "UPVC SWR Piping System"
+      ],
+      "alt_text": "SWR UPVC Pipes and Fittings from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.pdf"
+      },
+      "specifications": {
+        "category": "Piping System",
+        "sub_type": "Upvc Swr Piping System",
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.pdf",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Multi Floor Trap",
+      "clean_name": "Multi Floor Trap",
+      "fingerprint": "57d2485fab9c",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Plumbing & Drainage System",
+      "product_category": "Floor Trap",
+      "product_sub_type": "Multi-inlet Floor Trap",
+      "buyer_persona": "A contractor, plumber, or builder purchasing drainage components for residential or commercial construction projects.",
+      "description": "Multi Floor Trap is a multi-inlet floor trap offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A contractor, plumber, or builder purchasing drainage components for residential or commercial construction projects.",
+      "seo_title": "Multi Floor Trap Multi-Inlet Floor Trap | Catalog Listing",
+      "tags": [
+        "Multi Floor Trap",
+        "Construction & Infrastructure",
+        "Plumbing & Drainage Systems",
+        "Floor Trap",
+        "Multi-Inlet Floor Trap"
+      ],
+      "alt_text": "Multi Floor Trap from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.pdf"
+      },
+      "specifications": {
+        "category": "Floor Trap",
+        "sub_type": "Multi-inlet Floor Trap",
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.pdf",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Silent Pipe",
+      "clean_name": "Silent Pipe",
+      "fingerprint": "ca66e4081541",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Piping & Plumbing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Silent Pipe",
+      "buyer_persona": "A procurement manager or contractor in the construction, plumbing, or HVAC industry seeking piping solutions that minimize noise in residential, commercial, or industrial buildings.",
+      "description": "Silent Pipe is a silent pipe offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or contractor in the construction, plumbing, or HVAC industry seeking piping solutions that minimize noise in residential, commercial, or industrial buildings.",
+      "seo_title": "Silent Pipe Silent Pipe | Catalog Listing",
+      "tags": [
+        "Silent Pipe",
+        "Construction & Infrastructure",
+        "Piping & Plumbing Systems",
+        "Pipe"
+      ],
+      "alt_text": "Silent Pipe from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.pdf"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Silent Pipe",
+        "image_url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.jpg",
+        "source_url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.pdf",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Air Conditioning",
+      "clean_name": "Air Conditioning",
+      "fingerprint": "55c0d7ab4807",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Hvac & Refrigeration",
+      "product_category": "Air Conditioning Unit",
+      "product_sub_type": "Commercial Air Conditioning Unit",
+      "buyer_persona": "A procurement manager or facility manager seeking air conditioning solutions for commercial or industrial buildings.",
+      "description": "Air Conditioning is a commercial air conditioning unit offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or facility manager seeking air conditioning solutions for commercial or industrial buildings.",
+      "seo_title": "Air Conditioning Commercial Air Conditioning Unit | Catalog Listing",
+      "tags": [
+        "Air Conditioning",
+        "Industrial Equipment",
+        "HVAC & Refrigeration",
+        "Air Conditioning Unit",
+        "Commercial Air Conditioning Unit"
+      ],
+      "alt_text": "Air Conditioning from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "source_url": "http://www.kitecindia.in/Application/Air Conditioning/Blue Star.pdf"
+      },
+      "specifications": {
+        "category": "Air Conditioning Unit",
+        "sub_type": "Commercial Air Conditioning Unit",
+        "image_url": null,
+        "source_url": "http://www.kitecindia.in/Application/Air Conditioning/Blue Star.pdf",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "http://www.kitecindia.in/Application/Air Conditioning/Blue Star.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.7,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name is very generic, making specific sub-type classification challenging without further details."
+      ],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Compressed Air",
+      "clean_name": "Compressed Air",
+      "fingerprint": "9e9f18eebccd",
+      "top_level_domain": "Industrial Supply",
+      "industry_segment": "Industrial Gases & Utility",
+      "product_category": "Compressed Air",
+      "product_sub_type": "Industrial Compressed Air",
+      "buyer_persona": "Industrial facilities, workshops, and manufacturing plants that require a pneumatic power source, cleaning agent, or process utility.",
+      "description": "Compressed Air is a industrial compressed air offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: Industrial facilities, workshops, and manufacturing plants that require a pneumatic power source, cleaning agent, or process utility.",
+      "seo_title": "Compressed Air Industrial Compressed Air | Catalog Listing",
+      "tags": [
+        "Compressed Air",
+        "Industrial Supplies",
+        "Industrial Gases & Utilities",
+        "Industrial Compressed Air"
+      ],
+      "alt_text": "Compressed Air from KiTEC Industries (India) Private Limited",
+      "domain_attributes": {
+        "source_url": "http://www.kitecindia.in/Application/Compressed Air/Biokem International Pvt. Ltd., Bangalore.pdf"
+      },
+      "specifications": {
+        "category": "Compressed Air",
+        "sub_type": "Industrial Compressed Air",
+        "image_url": null,
+        "source_url": "http://www.kitecindia.in/Application/Compressed Air/Biokem International Pvt. Ltd., Bangalore.pdf",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "http://www.kitecindia.in/Application/Compressed Air/Biokem International Pvt. Ltd., Bangalore.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "f730d5bfb2d5",
+      "product_name": "Brass Internal Sealing Fittings (1014 to 4050)",
+      "url": "http://www.kitecindia.in/Images/brass-internal1014.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": "Pipe fitting components",
+        "shape_visible": "Cylindrical, hexagonal, annular",
+        "color_appearance": "Grayscale",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "Technical diagram with labels on a plain background",
+        "additional_visual_notes": "Labels identify 'Pipe', 'Nut', 'Split Ring', 'O' Rings, and 'Fitting'."
+      },
+      "visual_description": "The image displays a grayscale technical diagram illustrating the components of a pipe fitting assembly. It shows a dark cylindrical pipe connected to a light-colored hexagonal nut, a split ring, and multiple 'O' rings, all leading to a threaded fitting. Each component is clearly labeled with text on a plain light background, indicating its function within the assembly.",
+      "media_alt_text": "Grayscale technical diagram of pipe fitting components including pipe, nut, split ring, O-rings, and fitting, all labeled.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:23:01.607Z"
+    },
+    {
+      "fingerprint": "180be3f89b00",
+      "product_name": "Brass Internal Sealing Fittings (5063 to 90110)",
+      "url": "http://www.kitecindia.in/Images/brass-internal5063.jpg",
+      "scene_type": "company_interior",
+      "media_confidence": 0.6,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "KiTEC Industries (India) Private Limited manufacturing facility",
+      "used_vision": false,
+      "classified_at": "2026-04-28T17:23:02.020Z"
+    },
+    {
+      "fingerprint": "2d11f896785f",
+      "product_name": "Composite Internal Sealing Fittings(1014 to 4050)",
+      "url": "http://www.kitecindia.in/Images/composite-internal1014.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "industrial pipe fitting components",
+        "shape_visible": "cylindrical, threaded, ring shapes",
+        "color_appearance": "dark grey, black, metallic silver, bronze",
+        "clarity_appearance": null,
+        "size_impression": "medium to large components, likely for plumbing or industrial use",
+        "setting_or_mounting": null,
+        "metal_visible": "yes, various metallic components",
+        "certification_label_visible": false,
+        "presentation": "studio shot with explanatory text labels",
+        "additional_visual_notes": "This image displays industrial pipe fitting components, not jewelry or gemstones. It appears to be an exploded view diagram with labels for each part."
+      },
+      "visual_description": "The image displays an exploded view of industrial pipe fitting components against a plain light grey background. It shows a black pipe, a dark grey nut, a white split ring, and a metallic fitting with bronze 'O' rings, all partially disassembled. Text labels point to each component: 'Pipe', 'Nut', 'Split Ring', ''O' Rings', and 'Fitting'.",
+      "media_alt_text": "Exploded view of industrial pipe fitting components, showing a black pipe, nut, split ring, O-rings, and fitting.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:22:58.875Z"
+    },
+    {
+      "fingerprint": "e034c9e85978",
+      "product_name": "Composite Internal Sealing Fittings(5063 to 90110)",
+      "url": "http://www.kitecindia.in/Images/composite-internal5063.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "pipe fittings and pipes",
+        "shape_visible": "cylindrical, segmented",
+        "color_appearance": "black",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "diagrammatic exploded view on a white background",
+        "additional_visual_notes": "The image includes text labels for 'Pipe', 'O Rings', 'Fitting', and 'Fitting Clamp'."
+      },
+      "visual_description": "The image displays an exploded diagram of a pipe fitting system against a plain white background. It shows two black cylindrical pipe sections, a central black fitting component with internal ridges and 'O Rings' indicated, and a black 'Fitting Clamp' positioned above the central fitting. Arrows and text labels identify each component, illustrating how they connect.",
+      "media_alt_text": "Exploded diagram of a black pipe fitting system with two pipe sections, a central fitting, and a clamp, all labeled.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:22:56.360Z"
+    },
+    {
+      "fingerprint": "b17004238c10",
+      "product_name": "Brass Crimp Fittings(1216 to 2025)",
+      "url": "http://www.kitecindia.in/Images/BrassCrimp.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "plumbing/industrial fitting components",
+        "shape_visible": "cylindrical",
+        "color_appearance": "dark (pipe), metallic silver/grey (crimp ring and fitting)",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "silver-toned metal",
+        "certification_label_visible": false,
+        "presentation": "studio shot with plain grey background, labeled components",
+        "additional_visual_notes": "Exploded view of components, labels for 'Pipe', 'Crimp Ring', 'Fitting', and 'O' Rings are visible."
+      },
+      "visual_description": "The image displays an exploded view of plumbing or industrial fitting components against a plain light grey background. A dark, cylindrical pipe is shown on the left, with a metallic silver-toned crimp ring next to it. Further to the right is a multi-part metallic silver-toned fitting, detailed with 'O' rings. Each component is clearly labeled with text indicating 'Pipe', 'Crimp Ring', 'Fitting', and ''O' Rings'.",
+      "media_alt_text": "Exploded view of plumbing components: a dark pipe, a silver-toned crimp ring, and a silver-toned fitting with O-rings.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:22:59.797Z"
+    },
+    {
+      "fingerprint": "9868101a2c82",
+      "product_name": "Compressed Air System",
+      "url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": "compressed air system components",
+        "shape_visible": "cylindrical (tanks), rectangular (housing), helical (background pipes)",
+        "color_appearance": "red (equipment), black (panels/hoses), metallic grey (accents), dark grey (background pipes), light blue (background)",
+        "clarity_appearance": null,
+        "size_impression": "medium to large industrial scale",
+        "setting_or_mounting": "industrial equipment on a floor/platform",
+        "metal_visible": "not visible",
+        "certification_label_visible": true,
+        "presentation": "promotional graphic with embedded product photo, abstract background, logos, and text",
+        "additional_visual_notes": "KiTEC company logo visible, DNV certification label (ISO 9001, ISO 14001, ISO 45001) visible, multiple text overlays"
+      },
+      "visual_description": "The image displays a promotional graphic featuring an embedded photograph of two red industrial compressed air system components. The larger unit is a tall, rectangular housing with a black panel and a large cylindrical tank at its base, while the smaller unit is a compact compressor on a horizontal tank. These machines are presented against a plain light brown wall, framed by a larger abstract background of dark grey spiraling pipes on a light blue gradient. The overall image includes company logos, certification labels, and promotional text.",
+      "media_alt_text": "Red industrial compressed air system components, including tanks and compressors, against a blue background with spiraling pipes. Includes KiTEC and DNV logos.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:23:14.244Z"
+    },
+    {
+      "fingerprint": "2c7f756d96c7",
+      "product_name": "Multi-Layer Composite Pipes",
+      "url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.93,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Product — KiTEC Industries (India) Private Limited",
+      "used_vision": false,
+      "classified_at": "2026-04-28T17:23:17.851Z"
+    },
+    {
+      "fingerprint": "ecb1f6eed290",
+      "product_name": "PE-AL-PEX Pipes",
+      "url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.jpg",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": true,
+        "presentation": "product information sheet on a white background",
+        "additional_visual_notes": "The image includes a diagram illustrating the layers of the PE-AL-PEX pipe (Outer PE Layer, Adhesive Layer, Inner PEX Layer, Aluminium Pipe), detailed product descriptions, and a table of temperature and pressure specifications."
+      },
+      "visual_description": "The image displays a product information sheet on a white background. It features the 'KiTEC' logo and 'PE-AL-PEX PIPES' title at the top, along with a DNV management system certification logo. A detailed cross-section diagram of a multi-layered pipe, showing black, white, and metallic layers, is centrally located. The sheet also contains extensive text describing the product's features and properties, and a table with temperature and pressure ratings.",
+      "media_alt_text": "Product information sheet for KiTEC PE-AL-PEX Pipes, showing a cross-section diagram, text, and DNV certification logo.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:23:15.485Z"
+    },
+    {
+      "fingerprint": "121223dd98bd",
+      "product_name": "SWR UPVC Pipes and Fittings",
+      "url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "SWR UPVC pipes and fittings",
+        "shape_visible": "Cylindrical (pipes), various geometric and curved shapes (fittings like elbows, tees, couplings)",
+        "color_appearance": "Jet black",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": "Loose components",
+        "metal_visible": null,
+        "certification_label_visible": true,
+        "presentation": "Graphic advertisement with split-color background, text overlays, and company logos",
+        "additional_visual_notes": "KiTEC brand logo, 'EUROPEAN QUALITY' logo, 'DNV Management System Certification' logo, promotional text about product features ('CARBON BLACK UV STABILIZED') and quality."
+      },
+      "visual_description": "The image is a promotional graphic showcasing various jet black SWR UPVC pipes and fittings. Two long cylindrical pipes are displayed vertically on a blue background, while an assortment of fittings, including elbows, tees, and couplings, are scattered on a lighter blue-grey background. The products appear uniform in color and finish, presented as individual components within a designed layout that includes text overlays and company logos.",
+      "media_alt_text": "Jet black UPVC pipes and various fittings (elbows, tees, couplings) displayed on a blue and light blue background with company logos and text.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:23:14.608Z"
+    },
+    {
+      "fingerprint": "57d2485fab9c",
+      "product_name": "Multi Floor Trap",
+      "url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.jpg",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "floor trap / plumbing fixture",
+        "shape_visible": "square top with circular grate, cylindrical pipe connections",
+        "color_appearance": "metallic grey/silver (top), light purple/lavender (pipes)",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "silver-toned metal (top part of floor trap)",
+        "certification_label_visible": true,
+        "presentation": "advertisement page with product image on white background and lifestyle image on white background",
+        "additional_visual_notes": "Image of a woman pinching her nose, company logo 'KiTEC', DNV certification logo, descriptive text about the product."
+      },
+      "visual_description": "The image displays an advertisement page with a light blue background. It features a woman pinching her nose, indicating a bad smell, positioned next to a product image of a 'Multi Floor Trap.' The floor trap has a square metallic grey top with a circular grate and light purple/lavender pipe connections. The page also includes company branding, a DNV certification logo, and descriptive text.",
+      "media_alt_text": "Advertisement for a Multi Floor Trap showing a woman pinching her nose and the metallic grey and purple plumbing fixture.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:23:15.324Z"
+    },
+    {
+      "fingerprint": "ca66e4081541",
+      "product_name": "Silent Pipe",
+      "url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": "uPVC Silent Pipes",
+        "shape_visible": "Cylindrical, Circular (cross-sections)",
+        "color_appearance": "Dark grey/black (pipes)",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": true,
+        "presentation": "promotional graphic / illustrated advertisement",
+        "additional_visual_notes": "Includes company logo, DNV certification, text descriptions, and an inset image of a person covering their ear."
+      },
+      "visual_description": "The image is a light blue promotional graphic for KiTEC Silent Pipes. It features two large, dark grey/black cylindrical pipes illustrated vertically against a brick wall background, with a small inset image of a person covering their ear. Below, two smaller circular cross-section illustrations show the internal structure of \"Solid Wall\" (with spiral ribs) and \"Flute Wall\" pipes. The graphic includes the KiTEC logo, DNV certification, and extensive text descriptions of the product's features and benefits.",
+      "media_alt_text": "Promotional graphic for KiTEC uPVC Silent Pipes, showing dark grey cylindrical pipes, cross-sections, company logo, and DNV certification.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:23:30.992Z"
+    },
+    {
+      "fingerprint": "55c0d7ab4807",
+      "product_name": "Air Conditioning",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-04-28T17:23:17.873Z"
+    },
+    {
+      "fingerprint": "9e9f18eebccd",
+      "product_name": "Compressed Air",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-04-28T17:23:17.878Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "Brass Internal Sealing Fittings (1014 to 4050)",
+      "fingerprint": "f730d5bfb2d5",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Plumbing",
+      "product_category": "Fitting",
+      "product_sub_type": "Brass Internal Sealing Fitting",
+      "buyer_persona": "A procurement manager or engineer sourcing components for industrial piping systems, looking for specific types of fittings made from brass with internal sealing capabilities.",
+      "seo_title": "Brass Internal Sealing Fittings (1014 to 4050) Brass Internal Sealing ",
+      "tags": [
+        "Brass Internal Sealing Fittings (1014 to 4050)",
+        "Industrial Equipment",
+        "Fluid Handling & Plumbing",
+        "Fitting",
+        "Brass Internal Sealing Fitting"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/brass-internal1014.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/brass-internal1014.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Brass Internal Sealing Fittings (1014 to 4050) is a brass internal sealing fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer sourcing components for industrial piping systems, looking for specific types of fittings made from brass with internal sealing capabilities. The image displays a grayscale technical diagram illustrating the components of a pipe fitting assembly. It shows a dark cylindrical pipe connected to a light-colored hexagonal nut, a split ring, and multiple 'O' rings, all leading to a threaded fitting. Each component is clearly labeled with text on a plain light background, indicating its function within the assembly.",
+      "specifications": {
+        "category": "Fitting",
+        "sub_type": "Brass Internal Sealing Fitting",
+        "visual_shape": "Cylindrical, hexagonal, annular",
+        "visual_color": "Grayscale",
+        "presentation": "Technical diagram with labels on a plain background",
+        "visual_product_type": "Pipe fitting components",
+        "visual_notes": "Labels identify 'Pipe', 'Nut', 'Split Ring', 'O' Rings, and 'Fitting'."
+      },
+      "alt_text": "Grayscale technical diagram of pipe fitting components including pipe, nut, split ring, O-rings, and fitting, all labeled.",
+      "used_vision": true,
+      "media_url": "http://www.kitecindia.in/Images/brass-internal1014.jpg"
+    },
+    {
+      "clean_name": "Brass Internal Sealing Fittings (5063 to 90110)",
+      "fingerprint": "180be3f89b00",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Plumbing",
+      "product_category": "Pipe Fitting",
+      "product_sub_type": "Brass Internal Sealing Pipe Fitting",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, construction, or plumbing industries sourcing specific brass fittings for fluid conveyance systems.",
+      "seo_title": "Brass Internal Sealing Fittings (5063 to 90110) Brass Internal Sealing",
+      "tags": [
+        "Brass Internal Sealing Fittings (5063 to 90110)",
+        "Industrial Equipment",
+        "Fluid Handling & Plumbing",
+        "Pipe Fitting",
+        "Brass Internal Sealing Pipe Fitting"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/brass-internal5063.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/brass-internal5063.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Brass Internal Sealing Fittings (5063 to 90110) is a brass internal sealing pipe fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer in manufacturing, construction, or plumbing industries sourcing specific brass fittings for fluid conveyance systems.",
+      "specifications": {
+        "category": "Pipe Fitting",
+        "sub_type": "Brass Internal Sealing Pipe Fitting"
+      },
+      "alt_text": "KiTEC Industries (India) Private Limited manufacturing facility",
+      "used_vision": false,
+      "media_url": "http://www.kitecindia.in/Images/brass-internal5063.jpg"
+    },
+    {
+      "clean_name": "Composite Internal Sealing Fittings(1014 to 4050)",
+      "fingerprint": "2d11f896785f",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Fluid Conveyance",
+      "product_category": "Sealing Fitting",
+      "product_sub_type": "Composite Internal Sealing Fitting",
+      "buyer_persona": "A procurement manager or engineer in industries requiring specialized piping systems, looking for durable and efficient sealing solutions for fluid or gas conveyance.",
+      "seo_title": "Composite Internal Sealing Fittings(1014 to 4050) Composite Internal S",
+      "tags": [
+        "Composite Internal Sealing Fittings(1014 to 4050)",
+        "Industrial Equipment",
+        "Piping & Fluid Conveyance",
+        "Sealing Fitting",
+        "Composite Internal Sealing Fitting"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/composite-internal1014.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/composite-internal1014.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Composite Internal Sealing Fittings(1014 to 4050) is a composite internal sealing fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer in industries requiring specialized piping systems, looking for durable and efficient sealing solutions for fluid or gas conveyance. The image displays an exploded view of industrial pipe fitting components against a plain light grey background. It shows a black pipe, a dark grey nut, a white split ring, and a metallic fitting with bronze 'O' rings, all partially disassembled. Text labels point to each component: 'Pipe', 'Nut', 'Split Ring', ''O' Rings', and 'Fitting'.",
+      "specifications": {
+        "category": "Sealing Fitting",
+        "sub_type": "Composite Internal Sealing Fitting",
+        "visual_shape": "cylindrical, threaded, ring shapes",
+        "visual_color": "dark grey, black, metallic silver, bronze",
+        "visual_size": "medium to large components, likely for plumbing or industrial use",
+        "visual_metal": "yes, various metallic components",
+        "presentation": "studio shot with explanatory text labels",
+        "visual_product_type": "industrial pipe fitting components",
+        "visual_notes": "This image displays industrial pipe fitting components, not jewelry or gemstones. It appears to be an exploded view diagram with labels for each part."
+      },
+      "alt_text": "Exploded view of industrial pipe fitting components, showing a black pipe, nut, split ring, O-rings, and fitting.",
+      "used_vision": true,
+      "media_url": "http://www.kitecindia.in/Images/composite-internal1014.jpg"
+    },
+    {
+      "clean_name": "Composite Internal Sealing Fittings(5063 to 90110)",
+      "fingerprint": "e034c9e85978",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Piping System",
+      "product_category": "Pipe Fitting",
+      "product_sub_type": "Composite Internal Sealing Pipe Fitting",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, construction, or process industries looking for components to build or maintain piping systems.",
+      "seo_title": "Composite Internal Sealing Fittings(5063 to 90110) Composite Internal ",
+      "tags": [
+        "Composite Internal Sealing Fittings(5063 to 90110)",
+        "Industrial Equipment",
+        "Fluid Handling & Piping Systems",
+        "Pipe Fitting",
+        "Composite Internal Sealing Pipe Fitting"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/composite-internal5063.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/composite-internal5063.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Composite Internal Sealing Fittings(5063 to 90110) is a composite internal sealing pipe fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer in manufacturing, construction, or process industries looking for components to build or maintain piping systems. The image displays an exploded diagram of a pipe fitting system against a plain white background. It shows two black cylindrical pipe sections, a central black fitting component with internal ridges and 'O Rings' indicated, and a black 'Fitting Clamp' positioned above the central fitting. Arrows and text labels identify each component, illustrating how they connect.",
+      "specifications": {
+        "category": "Pipe Fitting",
+        "sub_type": "Composite Internal Sealing Pipe Fitting",
+        "visual_shape": "cylindrical, segmented",
+        "visual_color": "black",
+        "presentation": "diagrammatic exploded view on a white background",
+        "visual_product_type": "pipe fittings and pipes",
+        "visual_notes": "The image includes text labels for 'Pipe', 'O Rings', 'Fitting', and 'Fitting Clamp'."
+      },
+      "alt_text": "Exploded diagram of a black pipe fitting system with two pipe sections, a central fitting, and a clamp, all labeled.",
+      "used_vision": true,
+      "media_url": "http://www.kitecindia.in/Images/composite-internal5063.jpg"
+    },
+    {
+      "clean_name": "Brass Crimp Fittings(1216 to 2025)",
+      "fingerprint": "b17004238c10",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Plumbing System",
+      "product_category": "Crimp Fitting",
+      "product_sub_type": "Brass Crimp Fitting",
+      "buyer_persona": "A procurement manager or engineer in the construction, plumbing, or manufacturing industry looking for components for piping and fluid transfer systems.",
+      "seo_title": "Brass Crimp Fittings(1216 to 2025) Brass Crimp Fitting | Catalog Listi",
+      "tags": [
+        "Brass Crimp Fittings(1216 to 2025)",
+        "Industrial Equipment",
+        "Piping & Plumbing Systems",
+        "Crimp Fitting",
+        "Brass Crimp Fitting"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/BrassCrimp.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/BrassCrimp.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Products/Jointing#CCF",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Brass Crimp Fittings(1216 to 2025) is a brass crimp fitting offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer in the construction, plumbing, or manufacturing industry looking for components for piping and fluid transfer systems. The image displays an exploded view of plumbing or industrial fitting components against a plain light grey background. A dark, cylindrical pipe is shown on the left, with a metallic silver-toned crimp ring next to it. Further to the right is a multi-part metallic silver-toned fitting, detailed with 'O' rings. Each component is clearly labeled with text indicating 'Pipe', 'Crimp Ring', 'Fitting', and ''O' Rings'.",
+      "specifications": {
+        "category": "Crimp Fitting",
+        "sub_type": "Brass Crimp Fitting",
+        "visual_shape": "cylindrical",
+        "visual_color": "dark (pipe), metallic silver/grey (crimp ring and fitting)",
+        "visual_metal": "silver-toned metal",
+        "presentation": "studio shot with plain grey background, labeled components",
+        "visual_product_type": "plumbing/industrial fitting components",
+        "visual_notes": "Exploded view of components, labels for 'Pipe', 'Crimp Ring', 'Fitting', and 'O' Rings are visible."
+      },
+      "alt_text": "Exploded view of plumbing components: a dark pipe, a silver-toned crimp ring, and a silver-toned fitting with O-rings.",
+      "used_vision": true,
+      "media_url": "http://www.kitecindia.in/Images/BrassCrimp.jpg"
+    },
+    {
+      "clean_name": "Compressed Air System",
+      "fingerprint": "9868101a2c82",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Air & Gas System",
+      "product_category": "Compressed Air System",
+      "product_sub_type": "Industrial Compressed Air System",
+      "buyer_persona": "A procurement manager or plant operator in manufacturing, automotive, or other industrial sectors seeking a system to generate and distribute compressed air for various operational needs.",
+      "seo_title": "Compressed Air System Industrial Compressed Air System | Catalog Listi",
+      "tags": [
+        "Compressed Air System",
+        "Industrial Equipment",
+        "Industrial Air & Gas Systems",
+        "Industrial Compressed Air System"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Compressed Air System is a industrial compressed air system offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or plant operator in manufacturing, automotive, or other industrial sectors seeking a system to generate and distribute compressed air for various operational needs. The image displays a promotional graphic featuring an embedded photograph of two red industrial compressed air system components. The larger unit is a tall, rectangular housing with a black panel and a large cylindrical tank at its base, while the smaller unit is a compact compressor on a horizontal tank. These machines are presented against a plain light brown wall, framed by a larger abstract background of dark grey spiraling pipes on a light blue gradient. The overall image includes company logos, certification labels, and promotional text.",
+      "specifications": {
+        "category": "Compressed Air System",
+        "sub_type": "Industrial Compressed Air System",
+        "visual_shape": "cylindrical (tanks), rectangular (housing), helical (background pipes)",
+        "visual_color": "red (equipment), black (panels/hoses), metallic grey (accents), dark grey (background pipes), light blue (background)",
+        "visual_size": "medium to large industrial scale",
+        "setting": "industrial equipment on a floor/platform",
+        "presentation": "promotional graphic with embedded product photo, abstract background, logos, and text",
+        "visual_product_type": "compressed air system components",
+        "visual_notes": "KiTEC company logo visible, DNV certification label (ISO 9001, ISO 14001, ISO 45001) visible, multiple text overlays",
+        "certification_label_visible": true
+      },
+      "alt_text": "Red industrial compressed air system components, including tanks and compressors, against a blue background with spiraling pipes. Includes KiTEC and DNV logos.",
+      "used_vision": true,
+      "media_url": "http://www.kitecindia.in/Images/Catalogues/13_CompressedAirSystem.jpg"
+    },
+    {
+      "clean_name": "Multi-Layer Composite Pipes",
+      "fingerprint": "2c7f756d96c7",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Piping Systems & Component",
+      "product_category": "Composite Pipe",
+      "product_sub_type": "Multi-layer Composite Pipe",
+      "buyer_persona": "A procurement manager or project engineer in the construction, plumbing, or HVAC industry looking for durable and efficient piping solutions for fluid conveyance.",
+      "seo_title": "Multi-Layer Composite Pipes Multi-Layer Composite Pipe | Catalog Listi",
+      "tags": [
+        "Multi-Layer Composite Pipes",
+        "Construction & Infrastructure",
+        "Piping Systems & Components",
+        "Composite Pipe",
+        "Multi-Layer Composite Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Multi-Layer Composite Pipes is a multi-layer composite pipe offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or project engineer in the construction, plumbing, or HVAC industry looking for durable and efficient piping solutions for fluid conveyance.",
+      "specifications": {
+        "category": "Composite Pipe",
+        "sub_type": "Multi-layer Composite Pipe"
+      },
+      "alt_text": "Product — KiTEC Industries (India) Private Limited",
+      "used_vision": false,
+      "media_url": "http://www.kitecindia.in/Images/Catalogues/14_Multi-LayerCompositePipes.jpg"
+    },
+    {
+      "clean_name": "PE-AL-PEX Pipes",
+      "fingerprint": "ecb1f6eed290",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Plumbing & Piping System",
+      "product_category": "Pe-al-pex Pipe",
+      "product_sub_type": "Multi-layer Composite Pipe",
+      "buyer_persona": "A procurement manager or contractor in the construction, plumbing, or HVAC industry looking for durable and reliable multi-layer pipes for fluid conveyance systems.",
+      "seo_title": "PE-AL-PEX Pipes Multi-Layer Composite Pipe | Catalog Listing",
+      "tags": [
+        "PE-AL-PEX Pipes",
+        "Construction & Infrastructure",
+        "Plumbing & Piping Systems",
+        "PE-AL-PEX Pipe",
+        "Multi-Layer Composite Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "PE-AL-PEX Pipes is a multi-layer composite pipe offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or contractor in the construction, plumbing, or HVAC industry looking for durable and reliable multi-layer pipes for fluid conveyance systems. The image displays a product information sheet on a white background. It features the 'KiTEC' logo and 'PE-AL-PEX PIPES' title at the top, along with a DNV management system certification logo. A detailed cross-section diagram of a multi-layered pipe, showing black, white, and metallic layers, is centrally located. The sheet also contains extensive text describing the product's features and properties, and a table with temperature and pressure ratings.",
+      "specifications": {
+        "category": "Pe-al-pex Pipe",
+        "sub_type": "Multi-layer Composite Pipe",
+        "presentation": "product information sheet on a white background",
+        "visual_notes": "The image includes a diagram illustrating the layers of the PE-AL-PEX pipe (Outer PE Layer, Adhesive Layer, Inner PEX Layer, Aluminium Pipe), detailed product descriptions, and a table of temperature and pressure specifications.",
+        "certification_label_visible": true
+      },
+      "alt_text": "Product information sheet for KiTEC PE-AL-PEX Pipes, showing a cross-section diagram, text, and DNV certification logo.",
+      "used_vision": true,
+      "media_url": "http://www.kitecindia.in/Images/Catalogues/15_PE-AL-PEXPipes.jpg"
+    },
+    {
+      "clean_name": "SWR UPVC Pipes and Fittings",
+      "fingerprint": "121223dd98bd",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Plumbing & Drainage System",
+      "product_category": "Piping System",
+      "product_sub_type": "Upvc Swr Piping System",
+      "buyer_persona": "A procurement manager or contractor in the construction industry looking for durable and standard-compliant piping components for drainage and waste management systems in residential, commercial, or industrial projects.",
+      "seo_title": "SWR UPVC Pipes and Fittings UPVC SWR Piping System | Catalog Listing",
+      "tags": [
+        "SWR UPVC Pipes and Fittings",
+        "Construction & Infrastructure",
+        "Plumbing & Drainage Systems",
+        "Piping System",
+        "UPVC SWR Piping System"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "SWR UPVC Pipes and Fittings is a upvc swr piping system offered by KiTEC Industries (India) Private Limited based in Silvassa. The image is a promotional graphic showcasing various jet black SWR UPVC pipes and fittings. Two long cylindrical pipes are displayed vertically on a blue background, while an assortment of fittings, including elbows, tees, and couplings, are scattered on a lighter blue-grey background. The products appear uniform in color and finish, presented as individual components within a designed layout that includes text overlays and company logos.",
+      "specifications": {
+        "category": "Piping System",
+        "sub_type": "Upvc Swr Piping System",
+        "visual_shape": "Cylindrical (pipes), various geometric and curved shapes (fittings like elbows, tees, couplings)",
+        "visual_color": "Jet black",
+        "setting": "Loose components",
+        "presentation": "Graphic advertisement with split-color background, text overlays, and company logos",
+        "visual_product_type": "SWR UPVC pipes and fittings",
+        "visual_notes": "KiTEC brand logo, 'EUROPEAN QUALITY' logo, 'DNV Management System Certification' logo, promotional text about product features ('CARBON BLACK UV STABILIZED') and quality.",
+        "certification_label_visible": true
+      },
+      "alt_text": "Jet black UPVC pipes and various fittings (elbows, tees, couplings) displayed on a blue and light blue background with company logos and text.",
+      "used_vision": true,
+      "media_url": "http://www.kitecindia.in/Images/Catalogues/16_SWRUPVCPipesandFittings.jpg"
+    },
+    {
+      "clean_name": "Multi Floor Trap",
+      "fingerprint": "57d2485fab9c",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Plumbing & Drainage System",
+      "product_category": "Floor Trap",
+      "product_sub_type": "Multi-inlet Floor Trap",
+      "buyer_persona": "A contractor, plumber, or builder purchasing drainage components for residential or commercial construction projects.",
+      "seo_title": "Multi Floor Trap Multi-Inlet Floor Trap | Catalog Listing",
+      "tags": [
+        "Multi Floor Trap",
+        "Construction & Infrastructure",
+        "Plumbing & Drainage Systems",
+        "Floor Trap",
+        "Multi-Inlet Floor Trap"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Multi Floor Trap is a multi-inlet floor trap offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A contractor, plumber, or builder purchasing drainage components for residential or commercial construction projects. The image displays an advertisement page with a light blue background. It features a woman pinching her nose, indicating a bad smell, positioned next to a product image of a 'Multi Floor Trap.' The floor trap has a square metallic grey top with a circular grate and light purple/lavender pipe connections. The page also includes company branding, a DNV certification logo, and descriptive text.",
+      "specifications": {
+        "category": "Floor Trap",
+        "sub_type": "Multi-inlet Floor Trap",
+        "visual_shape": "square top with circular grate, cylindrical pipe connections",
+        "visual_color": "metallic grey/silver (top), light purple/lavender (pipes)",
+        "visual_metal": "silver-toned metal (top part of floor trap)",
+        "presentation": "advertisement page with product image on white background and lifestyle image on white background",
+        "visual_product_type": "floor trap / plumbing fixture",
+        "visual_notes": "Image of a woman pinching her nose, company logo 'KiTEC', DNV certification logo, descriptive text about the product.",
+        "certification_label_visible": true
+      },
+      "alt_text": "Advertisement for a Multi Floor Trap showing a woman pinching her nose and the metallic grey and purple plumbing fixture.",
+      "used_vision": true,
+      "media_url": "http://www.kitecindia.in/Images/Catalogues/17_MultiFloorTrap.jpg"
+    },
+    {
+      "clean_name": "Silent Pipe",
+      "fingerprint": "ca66e4081541",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Piping & Plumbing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Silent Pipe",
+      "buyer_persona": "A procurement manager or contractor in the construction, plumbing, or HVAC industry seeking piping solutions that minimize noise in residential, commercial, or industrial buildings.",
+      "seo_title": "Silent Pipe Silent Pipe | Catalog Listing",
+      "tags": [
+        "Silent Pipe",
+        "Construction & Infrastructure",
+        "Piping & Plumbing Systems",
+        "Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.jpg",
+      "photo_urls": [
+        "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.jpg"
+      ],
+      "source_url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Silent Pipe is a silent pipe offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or contractor in the construction, plumbing, or HVAC industry seeking piping solutions that minimize noise in residential, commercial, or industrial buildings. The image is a light blue promotional graphic for KiTEC Silent Pipes. It features two large, dark grey/black cylindrical pipes illustrated vertically against a brick wall background, with a small inset image of a person covering their ear. Below, two smaller circular cross-section illustrations show the internal structure of \"Solid Wall\" (with spiral ribs) and \"Flute Wall\" pipes. The graphic includes the KiTEC logo, DNV certification, and extensive text descriptions of the product's features and benefits.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Silent Pipe",
+        "visual_shape": "Cylindrical, Circular (cross-sections)",
+        "visual_color": "Dark grey/black (pipes)",
+        "presentation": "promotional graphic / illustrated advertisement",
+        "visual_product_type": "uPVC Silent Pipes",
+        "visual_notes": "Includes company logo, DNV certification, text descriptions, and an inset image of a person covering their ear.",
+        "certification_label_visible": true
+      },
+      "alt_text": "Promotional graphic for KiTEC uPVC Silent Pipes, showing dark grey cylindrical pipes, cross-sections, company logo, and DNV certification.",
+      "used_vision": true,
+      "media_url": "http://www.kitecindia.in/Images/Catalogues/18_SilentPipe.jpg"
+    },
+    {
+      "clean_name": "Air Conditioning",
+      "fingerprint": "55c0d7ab4807",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Hvac & Refrigeration",
+      "product_category": "Air Conditioning Unit",
+      "product_sub_type": "Commercial Air Conditioning Unit",
+      "buyer_persona": "A procurement manager or facility manager seeking air conditioning solutions for commercial or industrial buildings.",
+      "seo_title": "Air Conditioning Commercial Air Conditioning Unit | Catalog Listing",
+      "tags": [
+        "Air Conditioning",
+        "Industrial Equipment",
+        "HVAC & Refrigeration",
+        "Air Conditioning Unit",
+        "Commercial Air Conditioning Unit"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "http://www.kitecindia.in/Application/Air Conditioning/Blue Star.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.7,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name is very generic, making specific sub-type classification challenging without further details."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "Air Conditioning is a commercial air conditioning unit offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or facility manager seeking air conditioning solutions for commercial or industrial buildings.",
+      "specifications": {
+        "category": "Air Conditioning Unit",
+        "sub_type": "Commercial Air Conditioning Unit"
+      },
+      "alt_text": "Air Conditioning from KiTEC Industries (India) Private Limited",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Compressed Air",
+      "fingerprint": "9e9f18eebccd",
+      "top_level_domain": "Industrial Supply",
+      "industry_segment": "Industrial Gases & Utility",
+      "product_category": "Compressed Air",
+      "product_sub_type": "Industrial Compressed Air",
+      "buyer_persona": "Industrial facilities, workshops, and manufacturing plants that require a pneumatic power source, cleaning agent, or process utility.",
+      "seo_title": "Compressed Air Industrial Compressed Air | Catalog Listing",
+      "tags": [
+        "Compressed Air",
+        "Industrial Supplies",
+        "Industrial Gases & Utilities",
+        "Industrial Compressed Air"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "http://www.kitecindia.in/Application/Compressed Air/Biokem International Pvt. Ltd., Bangalore.pdf",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Compressed Air is a industrial compressed air offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: Industrial facilities, workshops, and manufacturing plants that require a pneumatic power source, cleaning agent, or process utility.",
+      "specifications": {
+        "category": "Compressed Air",
+        "sub_type": "Industrial Compressed Air"
+      },
+      "alt_text": "Compressed Air from KiTEC Industries (India) Private Limited",
+      "used_vision": false,
+      "media_url": null
+    }
+  ],
+  "rejected_items": [
+    {
+      "product_name": "Advance Crystalisation Process (ACP)",
+      "raw_name": "Advance Crystalisation Process (ACP)",
+      "fingerprint": "c0f22693b179",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/19_AdvanceCrystalisationProcess(ACP).jpg",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Crystallization Process\" but image clearly shows \"Industrial hexagonal fitting\"",
+      "product_agent": {
+        "clean_name": "Advance Crystalisation Process (ACP)",
+        "category": "Crystallization Process",
+        "sub_type": "Advanced Crystallization Process",
+        "top_level_domain": "Industrial Manufacturing",
+        "industry_segment": "Material Science & Processing",
+        "classification_confidence": 0.95,
+        "description": "Advance Crystalisation Process (ACP) is a advanced crystallization process offered by KiTEC Industries (India) Private Limited based in Silvassa.",
+        "tags": [
+          "Advance Crystalisation Process (ACP)",
+          "Industrial Manufacturing",
+          "Material Science & Processing",
+          "Crystallization Process",
+          "Advanced Crystallization Process"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "Industrial hexagonal fitting",
+        "scene_type": "product_image",
+        "visual_description": "The image is a promotional graphic featuring a large, metallic, brassy-gold colored hexagonal industrial fitting with internal threading, positioned centrally. Below it, two hands painted with the flags of India and the United Kingdom are clasped in a handshake. White text at the top announces 'KiTEC INDUSTRIES (INDIA) PRIVATE LIMITED IN ASSOCIATION WITH ADVANCED HYDRO (UK) LTD. LAUNCH THE ADVANCE CRYSTALLISATION PROCESS (ACP)™ SCALE CONTROL TECHNOLOGY' against a dark grey background.",
+        "confidence": 1,
+        "shape_visible": "Hexagonal exterior, cylindrical interior with threading",
+        "color_appearance": "Metallic, brassy/gold-toned",
+        "size_impression": "Medium-sized industrial component",
+        "setting_or_mounting": "Loose component",
+        "additional_notes": "Text overlay promoting 'Advance Crystallisation Process (ACP) Scale Control Technology', handshake between hands painted with Indian and UK flags."
+      },
+      "rejected_at": "2026-04-28T17:23:45.941Z"
+    },
+    {
+      "product_name": "Thermostatic Mixing Valve",
+      "raw_name": "Thermostatic Mixing Valve",
+      "fingerprint": "a2b75a276acc",
+      "primary_photo_url": "http://www.kitecindia.in/Images/Catalogues/20_ThermostaticMixingValve.jpg",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Mixing Valve\" but image clearly shows \"shower head and temperature control graphic\"",
+      "product_agent": {
+        "clean_name": "Thermostatic Mixing Valve",
+        "category": "Mixing Valve",
+        "sub_type": "Thermostatic Mixing Valve",
+        "top_level_domain": "Industrial Equipment",
+        "industry_segment": "Fluid Control & Plumbing",
+        "classification_confidence": 0.95,
+        "description": "Thermostatic Mixing Valve is a thermostatic mixing valve offered by KiTEC Industries (India) Private Limited based in Silvassa. Suitable for: A procurement manager or engineer in plumbing, HVAC, or industrial fluid systems seeking a valve to regulate water temperature for safety and efficiency.",
+        "tags": [
+          "Thermostatic Mixing Valve",
+          "Industrial Equipment",
+          "Fluid Control & Plumbing",
+          "Mixing Valve"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "shower head and temperature control graphic",
+        "scene_type": "product_image",
+        "visual_description": "The image features a chrome-finished shower head spraying water on the left side, set against a deep blue background. On the right, a graphic depicts a temperature gauge with 'Cold' (blue), 'Mixed' (beige), and 'Hot' (red) sections, indicating temperature control. Yellow text 'Total control' is prominently displayed at the top, with white text 'Warm water the way it should be' at the bottom.",
+        "confidence": 0.9,
+        "shape_visible": "round (shower head), arc (temperature gauge)",
+        "color_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "Text overlays: 'Total control', 'Warm water the way it should be'. Graphic illustrating water temperature mixing."
+      },
+      "rejected_at": "2026-04-28T17:23:45.942Z"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "ROHIT SHANKAR SHARMA",
+      "rating": 5,
+      "text": "KiTEC PRODUCTS ARE THE GREAT INVENTION FOR THE PLUMBING INDUSTRY, ALWAYS PRESENT THE UNIQUE PRODUCTS, VERY USEFUL AND POWER-PACK PERFORMANCE. REQUEST TO USE KiTEC PRODUCTS.",
+      "original_lang": "en",
+      "date": "2019-01-03T07:41:03.816Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Pawan Agarwal",
+      "rating": 1,
+      "text": "This fitting and pipe isn't better then other fitting so request don't use this item",
+      "original_lang": "en",
+      "date": "2018-02-04T07:24:35.834Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "RUPESH PATEL",
+      "rating": 5,
+      "text": "great innovation product..must visit",
+      "original_lang": "en",
+      "date": "2015-06-26T02:05:55.586Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Umesh Andher",
+      "rating": 5,
+      "text": "Good quality of the products.",
+      "original_lang": "en",
+      "date": "2022-10-10T14:55:05.160Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Jaydip Chauhan",
+      "rating": 3,
+      "text": "Good",
+      "original_lang": "en",
+      "date": "2021-07-12T08:09:02.463Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Neeraj S SSharma",
+      "rating": 5,
+      "text": "Nice",
+      "original_lang": "en",
+      "date": "2021-02-09T14:10:33.509Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Bhagyalaxmi Weigh Engineers",
+      "rating": 5,
+      "text": "Good",
+      "original_lang": "en",
+      "date": "2021-03-27T11:08:55.497Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "NATURE Creation",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2021-07-18T17:38:52.582Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "MianojZmne MianojZimne",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2026-03-14T14:39:07.989Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Umakant Verma",
+      "rating": 3,
+      "text": null,
+      "original_lang": null,
+      "date": "2026-03-01T03:16:27.396Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Mitesh Chauhan",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2026-02-13T05:27:27.502Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Vivek Patel",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-08-28T13:03:15.385Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "S.K ENTERPRISES MEWATI",
+      "rating": 3,
+      "text": null,
+      "original_lang": null,
+      "date": "2024-04-17T09:02:34.170Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Patel Pujan",
+      "rating": 4,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-12-31T13:12:29.605Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Narender Chhimpa",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-09-26T16:28:13.617Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "AVINASH TUMDA",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-09-01T05:16:21.703Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Valvi VIPUL",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-08-25T16:56:22.887Z",
+      "likes": 1,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "JIGNESH KAKVA",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-08-07T13:41:39.701Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Prakash Updhyay",
+      "rating": 3,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-06-24T10:33:05.694Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Satishgupta009 Gupta",
+      "rating": 1,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-06-17T04:32:28.037Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Prabhat Thorat",
+      "rating": 3,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-06-06T07:42:54.071Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "vishal",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-04-18T16:52:26.064Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Rahul Patil",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-04-01T13:09:06.808Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Suresh Chikhale",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-03-25T07:32:32.798Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Rajan Singh",
+      "rating": 4,
+      "text": null,
+      "original_lang": null,
+      "date": "2021-03-03T07:56:01.520Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 4,
+    "no_of_ratings": 29,
+    "rating_comments": [
+      "KiTEC PRODUCTS ARE THE GREAT INVENTION FOR THE PLUMBING INDUSTRY, ALWAYS PRESENT THE UNIQUE PRODUCTS, VERY USEFUL AND POWER-PACK PERFORMANCE. REQUEST TO USE KiTEC PRODUCTS.",
+      "This fitting and pipe isn't better then other fitting so request don't use this item",
+      "great innovation product..must visit",
+      "Good quality of the products.",
+      "Good",
+      "Nice",
+      "Good"
+    ]
+  },
+  "social_urls": [
+    "https://www.facebook.com/kitecind/"
+  ],
+  "overall_confidence": 0.918,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/kitecind/",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/KitecInd/posts/pfbid0Kim534rwoXREsJ2Vgnaz6hmXvjWuNnacHgsqsAhUfsJsZewYptZaPcQNbck6SDTjl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1218401363425211&set=a.1209099574355390",
+          "caption": null,
+          "likes": 3,
+          "comments": null,
+          "views": null,
+          "posted_at": 1756234788
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/KitecInd/posts/pfbid0EJZe9E8SiooG2S9NwvcGh8GxC9TpQGm76cCqwcj6YurPzBSjTGqdVyxViezfYG6Fl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1210008310931183&set=a.1209099574355390",
+          "caption": null,
+          "likes": 9,
+          "comments": null,
+          "views": null,
+          "posted_at": 1755317666
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/KitecInd/posts/pfbid02MkhxRxiUr729nssyseCwJ9Xx4Ck59GnMfNmcaqWvhkeDgkL4q6ipkjDbarwBHJ7Xl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1209099547688726&set=a.1209099574355390",
+          "caption": null,
+          "likes": 10,
+          "comments": 2,
+          "views": null,
+          "posted_at": 1755220286
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "address": null,
+        "city": null
+      }
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-04-28T17:21:14.008Z",
+    "duration_seconds": 152,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "ReviewsFetcher",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 15,
+      "Agent04/Media": 13,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "reviews",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [],
+        "quality_target": 0.85,
+        "reasoning": "The seller record contains a company profile, a substantial number of raw products, and a reviews API URL. Therefore, the plan includes enriching the company, products, and reviews. Product media vision runs automatically inside run_product_agent. run_dedup_agent is essential for data quality before writing to the catalog."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": 0.93,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 15,
+      "enriched": 15,
+      "catalog_items": 13,
+      "rejected": 2,
+      "with_vision": 9,
+      "vision_skipped": 4
+    },
+    "social": {
+      "urls_detected": 1,
+      "platforms_scraped": [
+        "facebook"
+      ],
+      "posts_collected": 3,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.918
+  },
+  "_saved_at": "2026-04-28T17:23:45.952Z"
+}

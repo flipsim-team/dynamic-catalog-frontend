@@ -1,0 +1,3638 @@
+{
+  "seller_id": 129451645,
+  "company_profile": {
+    "name": {
+      "value": "Mahavir Home Store",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "Mahavir Home Store is a business based in Mumbai. They offer New Arrival, Must Have, IRIS R.DIFFUSR 0194AC and more.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Mumbai",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "Shop No.3B, Matcheswala Compound,Santacruz Railway Station Rd, opp. Arun Bazaar, Bajaj Wadi, Railway Colony, Santacruz (West),Mumbai, Maharashtra 400054,India",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://www.mahavirhomestore.com",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gst_number": {
+      "value": "27AABFM0671Q1ZX",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "bio": {
+      "value": "Your one-stop-shop for all your home essential needs. From bedding to kitchenware everything you need",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://ls-common.linker-cdn.net/images/footer_logo.jpg",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://lsmedia.linker-cdn.net/52419/2017/3111.jpeg",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/mahavirthehomestore",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "https://www.instagram.com/mahavirthehomestore",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "youtube": {
+      "value": "https://www.youtube.com/@MahavirTheHomeStore",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "8879226369",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "9167681234",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "9342700300",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "7715046913",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "8001022929",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "9082848330",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "9342700300",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "9819757810",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "9940000005",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "0122578206",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "+91 98211 39389",
+        "sources": [
+          "facebook",
+          "instagram",
+          "youtube"
+        ],
+        "date": 1777354520,
+        "post_url": "https://www.facebook.com/reel/1442287200515728/"
+      },
+      {
+        "value": "+919967276114",
+        "sources": [
+          "facebook",
+          "instagram",
+          "youtube"
+        ],
+        "date": 1777354520,
+        "post_url": "https://www.facebook.com/reel/1442287200515728/"
+      },
+      {
+        "value": "+919320550011",
+        "sources": [
+          "facebook",
+          "instagram",
+          "youtube"
+        ],
+        "date": 1777354520,
+        "post_url": "https://www.facebook.com/reel/1442287200515728/"
+      }
+    ],
+    "emails": [
+      {
+        "value": "customercare@bossindia.com",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "customercare@bossindia.comBoss",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "ecom@mahavirhomestore.com",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "hr1@mahavirhomestore.com",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "hr@mahavirhomestore.com",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "info@bergner.inBergner",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "info@mahavirhomestore.com",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/mahavirthehomestore",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.instagram.com/mahavirthehomestore",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.youtube.com/@MahavirTheHomeStore",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "followers_facebook": 3094,
+    "followers_instagram": 32127,
+    "followers_youtube": 21000,
+    "confidence": 0.8,
+    "sources": [
+      "website",
+      "facebook",
+      "instagram",
+      "youtube"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 3094
+      },
+      {
+        "platform": "instagram",
+        "followers": 32127
+      },
+      {
+        "platform": "youtube",
+        "followers": 21000
+      }
+    ],
+    "data_sources": [
+      "instagram",
+      "website",
+      "youtube"
+    ],
+    "reviews_api_url": "https://api.scrapingdog.com/google_maps/reviews?api_key=69859b2025968963c82b2349&data_id=0x3be7c907fa669269:0x222530f2b1e88b63"
+  },
+  "products": [
+    {
+      "raw_name": "IRIS R.DIFFUSR 0194AC",
+      "clean_name": "IRIS R.DIFFUSR 0194AC",
+      "fingerprint": "9ca1cd860a62",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Hvac Systems & Component",
+      "product_category": "Air Diffuser",
+      "product_sub_type": "Radial Air Diffuser",
+      "buyer_persona": "HVAC contractors, building managers, or architects purchasing components for air distribution systems in commercial or residential buildings.",
+      "description": "IRIS R.DIFFUSR 0194AC is a radial air diffuser offered by Mahavir Home Store based in Mumbai. Suitable for: HVAC contractors, building managers, or architects purchasing components for air distribution systems in commercial or residential buildings.",
+      "seo_title": "IRIS R.DIFFUSR 0194AC Radial Air Diffuser | Catalog Listing",
+      "tags": [
+        "IRIS R.DIFFUSR 0194AC",
+        "Construction & Infrastructure",
+        "HVAC Systems & Components",
+        "Air Diffuser",
+        "Radial Air Diffuser"
+      ],
+      "alt_text": "IRIS R.DIFFUSR 0194AC from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13866393.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/iris-rdiffusr-0194ac"
+      },
+      "specifications": {
+        "category": "Air Diffuser",
+        "sub_type": "Radial Air Diffuser",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13866393.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/iris-rdiffusr-0194ac",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13866393.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13866393.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/iris-rdiffusr-0194ac",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "ROSEMORE OIL 4376 BLUE OUD",
+      "clean_name": "ROSEMORE OIL 4376 BLUE OUD",
+      "fingerprint": "8d02845b616f",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Personal Care & Cosmetics",
+      "product_category": "Fragrance Oil",
+      "product_sub_type": "Oud Fragrance Oil",
+      "buyer_persona": "A consumer or small business owner looking for a specific scented oil for personal fragrance, aromatherapy, or to use as an ingredient in cosmetic formulations.",
+      "description": "ROSEMORE OIL 4376 BLUE OUD is a oud fragrance oil offered by Mahavir Home Store based in Mumbai. Priced at Rs. 350. Suitable for: A consumer or small business owner looking for a specific scented oil for personal fragrance, aromatherapy, or to use as an ingredient in cosmetic formulations.",
+      "seo_title": "ROSEMORE OIL 4376 BLUE OUD Oud Fragrance Oil | Catalog Listing",
+      "tags": [
+        "ROSEMORE OIL 4376 BLUE OUD",
+        "Consumer Goods",
+        "Personal Care & Cosmetics",
+        "Fragrance Oil",
+        "Oud Fragrance Oil"
+      ],
+      "alt_text": "ROSEMORE OIL 4376 BLUE OUD from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13401532.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/rosemore-oil-4376-blue-oud"
+      },
+      "specifications": {
+        "category": "Fragrance Oil",
+        "sub_type": "Oud Fragrance Oil",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13401532.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/rosemore-oil-4376-blue-oud",
+        "price_single": 350,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 350,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13401532.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13401532.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/rosemore-oil-4376-blue-oud",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml",
+      "clean_name": "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml",
+      "fingerprint": "8142df4d9d09",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchenware & Dining",
+      "product_category": "Vacuum Flask",
+      "product_sub_type": "Thermosteel Fliplid Vacuum Flask",
+      "buyer_persona": "A consumer looking for a portable container to keep beverages hot or cold for personal use or travel.",
+      "description": "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml is a thermosteel fliplid vacuum flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 650. Suitable for: A consumer looking for a portable container to keep beverages hot or cold for personal use or travel.",
+      "seo_title": "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml Thermosteel Fliplid",
+      "tags": [
+        "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml",
+        "Consumer Goods",
+        "Kitchenware & Dining",
+        "Vacuum Flask",
+        "Thermosteel Fliplid Vacuum Flask"
+      ],
+      "alt_text": "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/3257683.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-fliplid500-vacuum-flask-500ml"
+      },
+      "specifications": {
+        "category": "Vacuum Flask",
+        "sub_type": "Thermosteel Fliplid Vacuum Flask",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/3257683.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-fliplid500-vacuum-flask-500ml",
+        "price_single": 650,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 650,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/3257683.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/3257683.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-fliplid500-vacuum-flask-500ml",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Milton Thermosteel 350 ml Flask",
+      "clean_name": "Milton Thermosteel 350 ml Flask",
+      "fingerprint": "bc9821ca6425",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Flask",
+      "product_sub_type": "Insulated Flask",
+      "buyer_persona": "A consumer looking for a portable insulated container to keep beverages hot or cold.",
+      "description": "Milton Thermosteel 350 ml Flask is a insulated flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 575. Suitable for: A consumer looking for a portable insulated container to keep beverages hot or cold.",
+      "seo_title": "Milton Thermosteel 350 ml Flask Insulated Flask | Catalog Listing",
+      "tags": [
+        "Milton Thermosteel 350 ml Flask",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Flask",
+        "Insulated Flask"
+      ],
+      "alt_text": "Milton Thermosteel 350 ml Flask from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/4770052.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-350-ml-flask"
+      },
+      "specifications": {
+        "category": "Flask",
+        "sub_type": "Insulated Flask",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/4770052.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-350-ml-flask",
+        "price_single": 575,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 575,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/4770052.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/4770052.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-350-ml-flask",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain",
+      "clean_name": "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain",
+      "fingerprint": "129db5d88b18",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Flask",
+      "product_sub_type": "Insulated Flask",
+      "buyer_persona": "A consumer looking for a portable, insulated container to keep beverages hot or cold for personal use or travel.",
+      "description": "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain is a insulated flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 610. Suitable for: A consumer looking for a portable, insulated container to keep beverages hot or cold for personal use or travel.",
+      "seo_title": "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain Insulated Fla",
+      "tags": [
+        "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Flask",
+        "Insulated Flask"
+      ],
+      "alt_text": "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/3257686.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-optima-420-flask-420-ml-steel-plain"
+      },
+      "specifications": {
+        "category": "Flask",
+        "sub_type": "Insulated Flask",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/3257686.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-optima-420-flask-420-ml-steel-plain",
+        "price_single": 610,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 610,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/3257686.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/3257686.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-optima-420-flask-420-ml-steel-plain",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Milton Thermosteel Optima 350 ml Flask",
+      "clean_name": "Milton Thermosteel Optima 350 ml Flask",
+      "fingerprint": "b179880b0fd6",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Flask",
+      "product_sub_type": "Insulated Beverage Flask",
+      "buyer_persona": "A consumer looking for a portable, insulated container to keep beverages hot or cold for personal use.",
+      "description": "Milton Thermosteel Optima 350 ml Flask is a insulated beverage flask offered by Mahavir Home Store based in Mumbai. Suitable for: A consumer looking for a portable, insulated container to keep beverages hot or cold for personal use.",
+      "seo_title": "Milton Thermosteel Optima 350 ml Flask Insulated Beverage Flask | Cata",
+      "tags": [
+        "Milton Thermosteel Optima 350 ml Flask",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Flask",
+        "Insulated Beverage Flask"
+      ],
+      "alt_text": "Milton Thermosteel Optima 350 ml Flask from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/4770016.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-optima-350-ml-flask"
+      },
+      "specifications": {
+        "category": "Flask",
+        "sub_type": "Insulated Beverage Flask",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/4770016.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-optima-350-ml-flask",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/4770016.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/4770016.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-optima-350-ml-flask",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "MILTON Glassy Flask 500ml Vacuum Flasks",
+      "clean_name": "MILTON Glassy Flask 500ml Vacuum Flasks",
+      "fingerprint": "efc720d9ada2",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Vacuum Flask",
+      "product_sub_type": "Glass Vacuum Flask",
+      "buyer_persona": "A consumer looking for a portable container to keep beverages hot or cold, for personal use or gifting.",
+      "description": "MILTON Glassy Flask 500ml Vacuum Flasks is a glass vacuum flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 685. Suitable for: A consumer looking for a portable container to keep beverages hot or cold, for personal use or gifting.",
+      "seo_title": "MILTON Glassy Flask 500ml Vacuum Flasks Glass Vacuum Flask | Catalog L",
+      "tags": [
+        "MILTON Glassy Flask 500ml Vacuum Flasks",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Vacuum Flask",
+        "Glass Vacuum Flask"
+      ],
+      "alt_text": "MILTON Glassy Flask 500ml Vacuum Flasks from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/3257689.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-glassy-flask-500ml-vacuum-flasks"
+      },
+      "specifications": {
+        "category": "Vacuum Flask",
+        "sub_type": "Glass Vacuum Flask",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2020/3257689.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-glassy-flask-500ml-vacuum-flasks",
+        "price_single": 685,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 685,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/3257689.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/3257689.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-glassy-flask-500ml-vacuum-flasks",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Milton Glassy Flask 750ml Vacuum Flasks",
+      "clean_name": "Milton Glassy Flask 750ml Vacuum Flasks",
+      "fingerprint": "a09c4794b41c",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchen & Dining",
+      "product_category": "Vacuum Flask",
+      "product_sub_type": "Glass Lined Vacuum Flask",
+      "buyer_persona": "A consumer looking for a portable container to keep beverages hot or cold for personal use or travel.",
+      "description": "Milton Glassy Flask 750ml Vacuum Flasks is a glass lined vacuum flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 915. Suitable for: A consumer looking for a portable container to keep beverages hot or cold for personal use or travel.",
+      "seo_title": "Milton Glassy Flask 750ml Vacuum Flasks Glass Lined Vacuum Flask | Cat",
+      "tags": [
+        "Milton Glassy Flask 750ml Vacuum Flasks",
+        "Consumer Goods",
+        "Kitchen & Dining",
+        "Vacuum Flask",
+        "Glass Lined Vacuum Flask"
+      ],
+      "alt_text": "Milton Glassy Flask 750ml Vacuum Flasks from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2023/12285712.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-glassy-flask-750ml-vacuum-flasks"
+      },
+      "specifications": {
+        "category": "Vacuum Flask",
+        "sub_type": "Glass Lined Vacuum Flask",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2023/12285712.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/milton-glassy-flask-750ml-vacuum-flasks",
+        "price_single": 915,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 915,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2023/12285712.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2023/12285712.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-glassy-flask-750ml-vacuum-flasks",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "GODREJ SAFE NX PRO GRY 30L",
+      "clean_name": "GODREJ SAFE NX PRO GRY 30L",
+      "fingerprint": "5e14dda53f31",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home Security & Storage",
+      "product_category": "Safe",
+      "product_sub_type": "Electronic Safe",
+      "buyer_persona": "A consumer or small business owner looking for a secure storage solution for valuables, documents, or cash at home or in an office.",
+      "description": "GODREJ SAFE NX PRO GRY 30L is a electronic safe offered by Mahavir Home Store based in Mumbai. Suitable for: A consumer or small business owner looking for a secure storage solution for valuables, documents, or cash at home or in an office.",
+      "seo_title": "GODREJ SAFE NX PRO GRY 30L Electronic Safe | Catalog Listing",
+      "tags": [
+        "GODREJ SAFE NX PRO GRY 30L",
+        "Consumer Goods",
+        "Home Security & Storage",
+        "Safe",
+        "Electronic Safe"
+      ],
+      "alt_text": "GODREJ SAFE NX PRO GRY 30L from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13104512.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/godrej-safe-nx-pro-gry-30l"
+      },
+      "specifications": {
+        "category": "Safe",
+        "sub_type": "Electronic Safe",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13104512.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/godrej-safe-nx-pro-gry-30l",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13104512.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13104512.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/godrej-safe-nx-pro-gry-30l",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "GODREJ SAFE NX PRO GRY 8L",
+      "clean_name": "GODREJ SAFE NX PRO GRY 8L",
+      "fingerprint": "ee04062c610f",
+      "top_level_domain": "Security & Protection",
+      "industry_segment": "Safes & Vault",
+      "product_category": "Safe",
+      "product_sub_type": "Digital Safe",
+      "buyer_persona": "An individual or business seeking a secure storage solution for valuables, documents, or cash in a home or office environment.",
+      "description": "GODREJ SAFE NX PRO GRY 8L is a digital safe offered by Mahavir Home Store based in Mumbai. Suitable for: An individual or business seeking a secure storage solution for valuables, documents, or cash in a home or office environment.",
+      "seo_title": "GODREJ SAFE NX PRO GRY 8L Digital Safe | Catalog Listing",
+      "tags": [
+        "GODREJ SAFE NX PRO GRY 8L",
+        "Security & Protection",
+        "Safes & Vaults",
+        "Safe",
+        "Digital Safe"
+      ],
+      "alt_text": "GODREJ SAFE NX PRO GRY 8L from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13104590.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/godrej-safe-nx-pro-gry-8l"
+      },
+      "specifications": {
+        "category": "Safe",
+        "sub_type": "Digital Safe",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13104590.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/godrej-safe-nx-pro-gry-8l",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13104590.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13104590.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/godrej-safe-nx-pro-gry-8l",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "DUBBLIN LNCH BOX DINEOUT JR",
+      "clean_name": "DUBBLIN LNCH BOX DINEOUT JR",
+      "fingerprint": "8e5b26b43835",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchen & Dining",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Portable Lunch Box",
+      "buyer_persona": "A consumer looking for a portable container to carry meals for personal use, school, or work.",
+      "description": "DUBBLIN LNCH BOX DINEOUT JR is a portable lunch box offered by Mahavir Home Store based in Mumbai. Suitable for: A consumer looking for a portable container to carry meals for personal use, school, or work.",
+      "seo_title": "DUBBLIN LNCH BOX DINEOUT JR Portable Lunch Box | Catalog Listing",
+      "tags": [
+        "DUBBLIN LNCH BOX DINEOUT JR",
+        "Consumer Goods",
+        "Kitchen & Dining",
+        "Lunch Box",
+        "Portable Lunch Box"
+      ],
+      "alt_text": "DUBBLIN LNCH BOX DINEOUT JR from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13018086.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/dubblin-lnch-box-dineout-jr"
+      },
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Portable Lunch Box",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13018086.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/dubblin-lnch-box-dineout-jr",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13018086.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13018086.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/dubblin-lnch-box-dineout-jr",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "BOROSIL LUNCH BOX HYDRA 4",
+      "clean_name": "BOROSIL LUNCH BOX HYDRA 4",
+      "fingerprint": "944b6bd42ed1",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Borosil Hydra Lunch Box",
+      "buyer_persona": "A consumer looking for a durable and potentially multi-compartment lunch box for daily use, likely for carrying meals to work or school.",
+      "description": "BOROSIL LUNCH BOX HYDRA 4 is a borosil hydra lunch box offered by Mahavir Home Store based in Mumbai. Priced at Rs. 3,140. Suitable for: A consumer looking for a durable and potentially multi-compartment lunch box for daily use, likely for carrying meals to work or school.",
+      "seo_title": "BOROSIL LUNCH BOX HYDRA 4 Borosil Hydra Lunch Box | Catalog Listing",
+      "tags": [
+        "BOROSIL LUNCH BOX HYDRA 4",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Lunch Box",
+        "Borosil Hydra Lunch Box"
+      ],
+      "alt_text": "BOROSIL LUNCH BOX HYDRA 4 from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13122130.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/borosil-lunch-box-hydra-4"
+      },
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Borosil Hydra Lunch Box",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13122130.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/borosil-lunch-box-hydra-4",
+        "price_single": 3140,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 3140,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13122130.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13122130.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/borosil-lunch-box-hydra-4",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "BOROSIL LNCH BOX HYDRA 2",
+      "clean_name": "BOROSIL LNCH BOX HYDRA 2",
+      "fingerprint": "c6db368ccc9a",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchen & Dining",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Borosil Hydra Lunch Box",
+      "buyer_persona": "A consumer looking for a durable and convenient container to carry meals for work, school, or travel.",
+      "description": "BOROSIL LNCH BOX HYDRA 2 is a borosil hydra lunch box offered by Mahavir Home Store based in Mumbai. Priced at Rs. 2,230. Suitable for: A consumer looking for a durable and convenient container to carry meals for work, school, or travel.",
+      "seo_title": "BOROSIL LNCH BOX HYDRA 2 Borosil Hydra Lunch Box | Catalog Listing",
+      "tags": [
+        "BOROSIL LNCH BOX HYDRA 2",
+        "Consumer Goods",
+        "Kitchen & Dining",
+        "Lunch Box",
+        "Borosil Hydra Lunch Box"
+      ],
+      "alt_text": "BOROSIL LNCH BOX HYDRA 2 from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13122704.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/borosil-lnch-box-hydra-2"
+      },
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Borosil Hydra Lunch Box",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13122704.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/borosil-lnch-box-hydra-2",
+        "price_single": 2230,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2230,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13122704.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13122704.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/borosil-lnch-box-hydra-2",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "BOROSIL LUNCH BOX HYDRA 3",
+      "clean_name": "BOROSIL LUNCH BOX HYDRA 3",
+      "fingerprint": "6c3e79c55488",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchenware & Dining",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Insulated Lunch Box",
+      "buyer_persona": "A consumer looking for a portable container to carry meals, prioritizing durability, insulation, and brand reputation.",
+      "description": "BOROSIL LUNCH BOX HYDRA 3 is a insulated lunch box offered by Mahavir Home Store based in Mumbai. Priced at Rs. 2,715. Suitable for: A consumer looking for a portable container to carry meals, prioritizing durability, insulation, and brand reputation.",
+      "seo_title": "BOROSIL LUNCH BOX HYDRA 3 Insulated Lunch Box | Catalog Listing",
+      "tags": [
+        "BOROSIL LUNCH BOX HYDRA 3",
+        "Consumer Goods",
+        "Kitchenware & Dining",
+        "Lunch Box",
+        "Insulated Lunch Box"
+      ],
+      "alt_text": "BOROSIL LUNCH BOX HYDRA 3 from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13122184.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/borosil-lunch-box-hydra-3"
+      },
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Insulated Lunch Box",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13122184.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/borosil-lunch-box-hydra-3",
+        "price_single": 2715,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2715,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13122184.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13122184.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/borosil-lunch-box-hydra-3",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Dubblin Bento 2",
+      "clean_name": "Dubblin Bento 2",
+      "fingerprint": "4a5bec4e94eb",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchen & Dining",
+      "product_category": "Food Storage Container",
+      "product_sub_type": "Bento Box",
+      "buyer_persona": "A consumer looking for a portable and organized way to carry meals, often for work or school.",
+      "description": "Dubblin Bento 2 is a bento box offered by Mahavir Home Store based in Mumbai. Suitable for: A consumer looking for a portable and organized way to carry meals, often for work or school.",
+      "seo_title": "Dubblin Bento 2 Bento Box | Catalog Listing",
+      "tags": [
+        "Dubblin Bento 2",
+        "Consumer Goods",
+        "Kitchen & Dining",
+        "Food Storage Container",
+        "Bento Box"
+      ],
+      "alt_text": "Dubblin Bento 2 from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13418098.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/dubblin-lunch-box-bento-2"
+      },
+      "specifications": {
+        "category": "Food Storage Container",
+        "sub_type": "Bento Box",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13418098.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/dubblin-lunch-box-bento-2",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13418098.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13418098.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/dubblin-lunch-box-bento-2",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "CELLO LNCH BOX HOT & FRESH",
+      "clean_name": "CELLO LNCH BOX HOT & FRESH",
+      "fingerprint": "0320199b190d",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Insulated Lunch Box",
+      "buyer_persona": "A consumer or student looking for a container to carry and keep their food hot and fresh.",
+      "description": "CELLO LNCH BOX HOT & FRESH is a insulated lunch box offered by Mahavir Home Store based in Mumbai. Priced at Rs. 635. Suitable for: A consumer or student looking for a container to carry and keep their food hot and fresh.",
+      "seo_title": "CELLO LNCH BOX HOT & FRESH Insulated Lunch Box | Catalog Listing",
+      "tags": [
+        "CELLO LNCH BOX HOT & FRESH",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Lunch Box",
+        "Insulated Lunch Box"
+      ],
+      "alt_text": "CELLO LNCH BOX HOT & FRESH from Mahavir Home Store",
+      "domain_attributes": {
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13812662.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/cello-lnch-box-hot-fresh"
+      },
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Insulated Lunch Box",
+        "image_url": "https://lsmedia.linker-cdn.net/52419/2024/13812662.jpeg?width=442&height=590",
+        "source_url": "https://www.mahavirhomestore.com/products/cello-lnch-box-hot-fresh",
+        "price_single": 635,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 635,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13812662.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13812662.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/cello-lnch-box-hot-fresh",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "9ca1cd860a62",
+      "product_name": "IRIS R.DIFFUSR 0194AC",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13866393.jpeg?width=442&height=590",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "reed diffuser set",
+        "shape_visible": "flattened teardrop (vase), cylindrical (bottles), stick (reeds)",
+        "color_appearance": "bright red (vase), clear (bottles), yellowish (oil), light purple (oil), white (reeds, caps)",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "lifestyle shot on a wooden table with a blurred indoor background",
+        "additional_visual_notes": "IRIS Home Fragrances branding visible on all items. One oil bottle is labeled 'Apple Cinnamon Oil', the other 'Lavender Reed Diffuser Oil'. Extra reeds are included."
+      },
+      "visual_description": "The image displays a reed diffuser set on a polished wooden surface. The central item is a glossy, bright red, flattened, teardrop-shaped ceramic vase with several white diffuser reeds fanning out from its top. To the left and right of the vase are clear glass bottles with white caps, containing yellowish and light purple liquids respectively, both labeled \"IRIS Home Fragrances\" with a butterfly logo. Several additional white reeds are laid horizontally in front of the main diffuser, against a blurred indoor background featuring a green potted plant and a wooden headboard or wall panel.",
+      "media_alt_text": "A red IRIS reed diffuser vase with white reeds, flanked by two bottles of scented oil (Apple Cinnamon, Lavender), on a wooden table.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:27.685Z"
+    },
+    {
+      "fingerprint": "8d02845b616f",
+      "product_name": "ROSEMORE OIL 4376 BLUE OUD",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13401532.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Fragrance oil bottle",
+        "shape_visible": "Cylindrical bottle, rectangular label",
+        "color_appearance": "Clear/light yellow liquid, white label with blue and black text/design, silver cap",
+        "clarity_appearance": "Liquid appears clear",
+        "size_impression": "Small to medium bottle",
+        "setting_or_mounting": null,
+        "metal_visible": "Silver",
+        "certification_label_visible": false,
+        "presentation": "White background studio",
+        "additional_visual_notes": "Label features 'Blue Oud' and 'ROSEMOORE' text, with a blue abstract floral pattern."
+      },
+      "visual_description": "A clear glass cylindrical bottle containing a light yellow liquid is centered against a plain white background. The bottle features a shiny silver-colored cap and a white label with a blue abstract floral pattern. The label prominently displays 'Blue Oud' in black text, with 'ROSEMOORE' in a smaller black box below it.",
+      "media_alt_text": "A clear glass bottle of Rosemoore Blue Oud fragrance oil with a silver cap and a white label with blue floral design.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:29.245Z"
+    },
+    {
+      "fingerprint": "8142df4d9d09",
+      "product_name": "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml",
+      "url": "https://lsmedia.linker-cdn.net/52419/2020/3257683.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Vacuum flask and carrying case",
+        "shape_visible": "Cylindrical (flask), elongated oval/rectangular with rounded top (case)",
+        "color_appearance": "Silver (flask), light grey with black accents (case)",
+        "clarity_appearance": null,
+        "size_impression": "Medium",
+        "setting_or_mounting": null,
+        "metal_visible": "Silver-colored metal",
+        "certification_label_visible": false,
+        "presentation": "White background studio",
+        "additional_visual_notes": "Brand 'MILTON' logo visible on both flask and case. 'THERMOSTEEL' also visible on the case's red tag."
+      },
+      "visual_description": "The image displays a silver-colored, cylindrical vacuum flask standing upright next to a light grey soft carrying case. The flask has a brushed metallic finish, a black band near the top, and the 'MILTON' logo printed near its base. The carrying case is elongated with a rounded top, features a black zipper and strap, and has a red tag with 'MILTON THERMOSTEEL' branding.",
+      "media_alt_text": "A silver Milton vacuum flask stands next to its light grey carrying case with a black strap and red Milton Thermosteel tag.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:29.717Z"
+    },
+    {
+      "fingerprint": "bc9821ca6425",
+      "product_name": "Milton Thermosteel 350 ml Flask",
+      "url": "https://lsmedia.linker-cdn.net/52419/2020/4770052.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "thermosteel flask, carrying case, cup",
+        "shape_visible": "cylindrical",
+        "color_appearance": "silver, black, white, red",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "silver",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Milton and Thermosteel branding visible on flask and case."
+      },
+      "visual_description": "The image displays a silver-colored cylindrical thermosteel flask with a black cap and a separate small silver cup, presented alongside a white and black zippered carrying case with a shoulder strap. The flask and case both feature 'MILTON' branding, with 'THERMOSTEEL' also visible on the case's red label. All items are neatly arranged on a clean white background.",
+      "media_alt_text": "Milton Thermosteel 350 ml flask in silver with black cap, matching cup, and white zippered carrying case on white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:27.655Z"
+    },
+    {
+      "fingerprint": "129db5d88b18",
+      "product_name": "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain",
+      "url": "https://lsmedia.linker-cdn.net/52419/2020/3257686.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "flask",
+        "shape_visible": "cylindrical with slight curves",
+        "color_appearance": "silver (brushed metal), dark grey (lid)",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "stainless steel",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Brand name 'MILTON' printed on the lower body."
+      },
+      "visual_description": "The image displays a tall, slender, silver-colored flask with a brushed metal finish, presented vertically against a pure white background. The flask has a slightly curved body, tapering inward slightly towards the top and bottom. It features a dark grey, ribbed cap or lid, and the brand name \"MILTON\" is visible in black text near the bottom of the body.",
+      "media_alt_text": "A tall, silver brushed stainless steel flask with a dark grey ribbed lid, featuring the 'MILTON' logo on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:25.505Z"
+    },
+    {
+      "fingerprint": "b179880b0fd6",
+      "product_name": "Milton Thermosteel Optima 350 ml Flask",
+      "url": "https://lsmedia.linker-cdn.net/52419/2020/4770016.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": "flask",
+        "shape_visible": "cylindrical",
+        "color_appearance": "silver metallic",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "stainless steel",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "visible internal threading at the opening"
+      },
+      "visual_description": "The image shows a close-up, angled view of the open top of a cylindrical flask. The flask is made of brushed silver-toned metal, likely stainless steel, with a smooth, slightly reflective surface. The opening reveals internal threading, indicating it is designed to be sealed with a screw-on cap, all presented against a clean white background.",
+      "media_alt_text": "Close-up of the open top of a silver cylindrical stainless steel flask, showing internal threading against a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:38.100Z"
+    },
+    {
+      "fingerprint": "efc720d9ada2",
+      "product_name": "MILTON Glassy Flask 500ml Vacuum Flasks",
+      "url": "https://lsmedia.linker-cdn.net/52419/2020/3257689.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "vacuum flask and carrying pouch",
+        "shape_visible": "cylindrical (flask), tubular (pouch)",
+        "color_appearance": "silver (flask body), beige/tan (cap, pouch), red (label)",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "stainless steel",
+        "certification_label_visible": true,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Brand name 'MILTON' is visible on the flask body and on the label of the carrying pouch."
+      },
+      "visual_description": "The image displays a cylindrical stainless steel vacuum flask with a beige/tan plastic handle-cap, standing upright. Next to it, a matching beige/tan fabric carrying pouch with a strap is shown, featuring a red label with 'MILTON THERMOSTEEL' text. Both items are presented against a clean white background.",
+      "media_alt_text": "A silver MILTON vacuum flask with a beige handle-cap stands next to its matching beige MILTON THERMOSTEEL carrying pouch.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:35.850Z"
+    },
+    {
+      "fingerprint": "a09c4794b41c",
+      "product_name": "Milton Glassy Flask 750ml Vacuum Flasks",
+      "url": "https://lsmedia.linker-cdn.net/52419/2023/12285712.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "vacuum flask",
+        "shape_visible": "cylindrical",
+        "color_appearance": "silver-toned (stainless steel), purple (cap)",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "stainless steel",
+        "certification_label_visible": true,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Includes product packaging box and a white carrying sleeve with a strap. The flask has 'MILTON' branding on its lower body."
+      },
+      "visual_description": "The image displays a Milton Thermosteel vacuum flask, its product box, and a white carrying sleeve, all presented against a clean white background. The flask has a brushed silver-toned stainless steel body with a prominent purple cap featuring an integrated handle. The red and white product box shows an image of the flask and highlights features like \"HOT 24 COLD\" and \"SS 304\". The white carrying sleeve has a red Milton Thermosteel label and a purple strap.",
+      "media_alt_text": "A Milton Thermosteel vacuum flask with a silver body and purple cap, its red product box, and a white carrying sleeve on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:38.711Z"
+    },
+    {
+      "fingerprint": "5e14dda53f31",
+      "product_name": "GODREJ SAFE NX PRO GRY 30L",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13104512.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "safe",
+        "shape_visible": "rectangular / cuboid",
+        "color_appearance": "off-white / light grey",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "not visible (painted metal)",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "digital keypad with '123456' displayed and 'Godrej' logo"
+      },
+      "visual_description": "The image displays a rectangular, off-white or light grey safe with a clean, minimalist design. A black digital keypad with a numeric display showing '123456' and the 'Godrej' logo is prominently featured on the front door. The product is presented against a plain white background, highlighting its form and features.",
+      "media_alt_text": "An off-white rectangular safe with a black digital keypad displaying '123456' and the Godrej logo on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:37.382Z"
+    },
+    {
+      "fingerprint": "ee04062c610f",
+      "product_name": "GODREJ SAFE NX PRO GRY 8L",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13104590.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "electronic safe",
+        "shape_visible": "rectangular",
+        "color_appearance": "dark gray / black",
+        "clarity_appearance": null,
+        "size_impression": "small to medium",
+        "setting_or_mounting": null,
+        "metal_visible": "dark gray painted metal",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "digital keypad with numeric buttons and display showing '123456', 'Godrej' logo visible on the keypad panel"
+      },
+      "visual_description": "The image displays a dark gray or black rectangular electronic safe, presented against a clean white background. The safe features a textured matte finish and a prominent digital keypad on its front door. The keypad includes a display showing '123456' and a grid of numeric buttons, with the 'Godrej' logo visible on the right side of the keypad panel.",
+      "media_alt_text": "A dark gray rectangular electronic safe with a digital keypad showing '123456' and a 'Godrej' logo, on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:38.150Z"
+    },
+    {
+      "fingerprint": "8e5b26b43835",
+      "product_name": "DUBBLIN LNCH BOX DINEOUT JR",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13018086.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "lunch box",
+        "shape_visible": "rectangular",
+        "color_appearance": "silver with bright green accents",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "stainless steel",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Brand name 'Dubblin' visible on the lid."
+      },
+      "visual_description": "The image displays a rectangular stainless steel lunch box with bright lime green silicone or plastic accents. The lid is also stainless steel with the brand name 'Dubblin' embossed or printed on it. The lunch box is presented on a clean white background, highlighting its sleek design and contrasting colors.",
+      "media_alt_text": "Rectangular stainless steel lunch box with bright lime green lid seal and side clips, featuring 'Dubblin' on the lid.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:45.569Z"
+    },
+    {
+      "fingerprint": "944b6bd42ed1",
+      "product_name": "BOROSIL LUNCH BOX HYDRA 4",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13122130.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Insulated lunch box set",
+        "shape_visible": "Cylindrical containers",
+        "color_appearance": "Dark grey, silver, black",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "Stainless steel",
+        "certification_label_visible": false,
+        "presentation": "White background studio with a woven mat",
+        "additional_visual_notes": "Brand name 'BOROSIL' visible on the main container and carrying bag. The smaller containers are shown with food inside, suggesting practical use. A small spoon is included."
+      },
+      "visual_description": "A Borosil lunch box set is displayed on a light woven mat against a pure white background. The set includes a tall, dark grey cylindrical insulated container with a lighter grey lid and handle, a black fabric carrying bag, and three smaller silver-toned stainless steel containers, two of which contain food items like rice, curry, and vegetables. A small spoon is also visible.",
+      "media_alt_text": "Borosil Hydra 4 insulated lunch box set with dark grey thermos, three stainless steel containers, black bag, and spoon.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:47.823Z"
+    },
+    {
+      "fingerprint": "c6db368ccc9a",
+      "product_name": "BOROSIL LNCH BOX HYDRA 2",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13122704.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "lunch box and carrying bag",
+        "shape_visible": "cylindrical",
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "stainless steel",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "'BOROSIL' brand logo visible on both the lunch box and the carrying bag."
+      },
+      "visual_description": "The image displays a cylindrical lunch box and its accompanying carrying bag on a plain white background. The lunch box features a brushed stainless steel base and a matte grey plastic top with an integrated handle, bearing the 'BOROSIL' logo. Next to it, a heather grey cylindrical fabric carrying bag with a black zipper and strap also shows the 'BOROSIL' logo.",
+      "media_alt_text": "A grey and stainless steel cylindrical lunch box with a handle, next to a matching grey fabric carrying bag with a strap.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:45.371Z"
+    },
+    {
+      "fingerprint": "6c3e79c55488",
+      "product_name": "BOROSIL LUNCH BOX HYDRA 3",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13122184.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "insulated lunch box set",
+        "shape_visible": "cylindrical",
+        "color_appearance": "dark grey, silver, black",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "stainless steel",
+        "certification_label_visible": false,
+        "presentation": "white background studio / light mat",
+        "additional_visual_notes": "Includes a black carrying bag, three smaller food containers (two with food visible), and a small spoon. 'BOROSIL' brand name is visible on the bag and main container."
+      },
+      "visual_description": "The image displays a Borosil lunch box set on a light-colored mat against a plain white background. The set includes a large dark grey and silver insulated food container with a handle, three smaller silver stainless steel containers (two filled with food, one with a lid partially open), a black carrying bag with the 'BOROSIL' logo, and a small dark grey spoon. The presentation is clean and highlights the product's components.",
+      "media_alt_text": "Borosil insulated lunch box set with a dark grey and silver main container, three stainless steel food containers, and a black carrying bag.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:45.905Z"
+    },
+    {
+      "fingerprint": "4a5bec4e94eb",
+      "product_name": "Dubblin Bento 2",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13418098.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "bento box / lunchbox",
+        "shape_visible": "rectangular",
+        "color_appearance": "mint green, cream, silver-colored",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "silver-colored",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Brand name 'Dubblin' and 'GOURMET LIFE FOOD' text on lid, two-tiered design, includes a cream-colored spoon and fork with mint green accents."
+      },
+      "visual_description": "The image displays a rectangular, two-tiered bento box or lunchbox in a mint green color, presented on a plain white background. The lid features the text \"GOURMET LIFE FOOD Dubblin\" along with a decorative pattern of dots and dashes. A silver-colored band separates the two tiers of the container, and a cream-colored spoon and fork, both with matching mint green accents on their handles, are placed in front of the box.",
+      "media_alt_text": "Mint green rectangular two-tiered bento box with 'Dubblin' logo, accompanied by a cream spoon and fork with green accents.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:46.900Z"
+    },
+    {
+      "fingerprint": "0320199b190d",
+      "product_name": "CELLO LNCH BOX HOT & FRESH",
+      "url": "https://lsmedia.linker-cdn.net/52419/2024/13812662.jpeg?width=442&height=590",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Lunch box set (insulated bag and food containers)",
+        "shape_visible": "Rectangular (bag and one container), round (two containers)",
+        "color_appearance": "Teal (bag), silver (containers), bright blue (lids)",
+        "clarity_appearance": null,
+        "size_impression": "Small to medium (individual serving sizes)",
+        "setting_or_mounting": null,
+        "metal_visible": "Stainless steel",
+        "certification_label_visible": false,
+        "presentation": "White background studio",
+        "additional_visual_notes": "Brand logo 'celloware' visible on the bag."
+      },
+      "visual_description": "The image displays a 'Celloware' brand lunch box set against a plain white background. It includes a teal-colored insulated lunch bag with a grey handle and zipper, and three stainless steel food containers with bright blue plastic lids. Two containers are round, and one is rectangular, with one round container stacked on top of the rectangular one.",
+      "media_alt_text": "A Celloware lunch box set featuring a teal insulated bag and three stainless steel containers with bright blue lids.",
+      "used_vision": true,
+      "classified_at": "2026-04-28T17:58:55.503Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "IRIS R.DIFFUSR 0194AC",
+      "fingerprint": "9ca1cd860a62",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Hvac Systems & Component",
+      "product_category": "Air Diffuser",
+      "product_sub_type": "Radial Air Diffuser",
+      "buyer_persona": "HVAC contractors, building managers, or architects purchasing components for air distribution systems in commercial or residential buildings.",
+      "seo_title": "IRIS R.DIFFUSR 0194AC Radial Air Diffuser | Catalog Listing",
+      "tags": [
+        "IRIS R.DIFFUSR 0194AC",
+        "Construction & Infrastructure",
+        "HVAC Systems & Components",
+        "Air Diffuser",
+        "Radial Air Diffuser"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13866393.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13866393.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/iris-rdiffusr-0194ac",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "IRIS R.DIFFUSR 0194AC is a radial air diffuser offered by Mahavir Home Store based in Mumbai. Suitable for: HVAC contractors, building managers, or architects purchasing components for air distribution systems in commercial or residential buildings. The image displays a reed diffuser set on a polished wooden surface. The central item is a glossy, bright red, flattened, teardrop-shaped ceramic vase with several white diffuser reeds fanning out from its top. To the left and right of the vase are clear glass bottles with white caps, containing yellowish and light purple liquids respectively, both labeled \"IRIS Home Fragrances\" with a butterfly logo. Several additional white reeds are laid horizontally in front of the main diffuser, against a blurred indoor background featuring a green potted plant and a wooden headboard or wall panel.",
+      "specifications": {
+        "category": "Air Diffuser",
+        "sub_type": "Radial Air Diffuser",
+        "visual_shape": "flattened teardrop (vase), cylindrical (bottles), stick (reeds)",
+        "visual_color": "bright red (vase), clear (bottles), yellowish (oil), light purple (oil), white (reeds, caps)",
+        "visual_size": "medium",
+        "presentation": "lifestyle shot on a wooden table with a blurred indoor background",
+        "visual_product_type": "reed diffuser set",
+        "visual_notes": "IRIS Home Fragrances branding visible on all items. One oil bottle is labeled 'Apple Cinnamon Oil', the other 'Lavender Reed Diffuser Oil'. Extra reeds are included."
+      },
+      "alt_text": "A red IRIS reed diffuser vase with white reeds, flanked by two bottles of scented oil (Apple Cinnamon, Lavender), on a wooden table.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13866393.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "ROSEMORE OIL 4376 BLUE OUD",
+      "fingerprint": "8d02845b616f",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Personal Care & Cosmetics",
+      "product_category": "Fragrance Oil",
+      "product_sub_type": "Oud Fragrance Oil",
+      "buyer_persona": "A consumer or small business owner looking for a specific scented oil for personal fragrance, aromatherapy, or to use as an ingredient in cosmetic formulations.",
+      "seo_title": "ROSEMORE OIL 4376 BLUE OUD Oud Fragrance Oil | Catalog Listing",
+      "tags": [
+        "ROSEMORE OIL 4376 BLUE OUD",
+        "Consumer Goods",
+        "Personal Care & Cosmetics",
+        "Fragrance Oil",
+        "Oud Fragrance Oil"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 350,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13401532.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13401532.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/rosemore-oil-4376-blue-oud",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "ROSEMORE OIL 4376 BLUE OUD is a oud fragrance oil offered by Mahavir Home Store based in Mumbai. Priced at Rs. 350. Suitable for: A consumer or small business owner looking for a specific scented oil for personal fragrance, aromatherapy, or to use as an ingredient in cosmetic formulations. A clear glass cylindrical bottle containing a light yellow liquid is centered against a plain white background. The bottle features a shiny silver-colored cap and a white label with a blue abstract floral pattern. The label prominently displays 'Blue Oud' in black text, with 'ROSEMOORE' in a smaller black box below it.",
+      "specifications": {
+        "category": "Fragrance Oil",
+        "sub_type": "Oud Fragrance Oil",
+        "visual_shape": "Cylindrical bottle, rectangular label",
+        "visual_color": "Clear/light yellow liquid, white label with blue and black text/design, silver cap",
+        "visual_clarity": "Liquid appears clear",
+        "visual_size": "Small to medium bottle",
+        "visual_metal": "Silver",
+        "presentation": "White background studio",
+        "visual_product_type": "Fragrance oil bottle",
+        "visual_notes": "Label features 'Blue Oud' and 'ROSEMOORE' text, with a blue abstract floral pattern."
+      },
+      "alt_text": "A clear glass bottle of Rosemoore Blue Oud fragrance oil with a silver cap and a white label with blue floral design.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13401532.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml",
+      "fingerprint": "8142df4d9d09",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchenware & Dining",
+      "product_category": "Vacuum Flask",
+      "product_sub_type": "Thermosteel Fliplid Vacuum Flask",
+      "buyer_persona": "A consumer looking for a portable container to keep beverages hot or cold for personal use or travel.",
+      "seo_title": "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml Thermosteel Fliplid",
+      "tags": [
+        "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml",
+        "Consumer Goods",
+        "Kitchenware & Dining",
+        "Vacuum Flask",
+        "Thermosteel Fliplid Vacuum Flask"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 650,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/3257683.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/3257683.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-fliplid500-vacuum-flask-500ml",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Milton Thermosteel Fliplid-500 Vacuum Flask, 500ml is a thermosteel fliplid vacuum flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 650. Suitable for: A consumer looking for a portable container to keep beverages hot or cold for personal use or travel. The image displays a silver-colored, cylindrical vacuum flask standing upright next to a light grey soft carrying case. The flask has a brushed metallic finish, a black band near the top, and the 'MILTON' logo printed near its base. The carrying case is elongated with a rounded top, features a black zipper and strap, and has a red tag with 'MILTON THERMOSTEEL' branding.",
+      "specifications": {
+        "category": "Vacuum Flask",
+        "sub_type": "Thermosteel Fliplid Vacuum Flask",
+        "visual_shape": "Cylindrical (flask), elongated oval/rectangular with rounded top (case)",
+        "visual_color": "Silver (flask), light grey with black accents (case)",
+        "visual_size": "Medium",
+        "visual_metal": "Silver-colored metal",
+        "presentation": "White background studio",
+        "visual_product_type": "Vacuum flask and carrying case",
+        "visual_notes": "Brand 'MILTON' logo visible on both flask and case. 'THERMOSTEEL' also visible on the case's red tag."
+      },
+      "alt_text": "A silver Milton vacuum flask stands next to its light grey carrying case with a black strap and red Milton Thermosteel tag.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2020/3257683.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "Milton Thermosteel 350 ml Flask",
+      "fingerprint": "bc9821ca6425",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Flask",
+      "product_sub_type": "Insulated Flask",
+      "buyer_persona": "A consumer looking for a portable insulated container to keep beverages hot or cold.",
+      "seo_title": "Milton Thermosteel 350 ml Flask Insulated Flask | Catalog Listing",
+      "tags": [
+        "Milton Thermosteel 350 ml Flask",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Flask",
+        "Insulated Flask"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 575,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/4770052.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/4770052.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-350-ml-flask",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Milton Thermosteel 350 ml Flask is a insulated flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 575. Suitable for: A consumer looking for a portable insulated container to keep beverages hot or cold. The image displays a silver-colored cylindrical thermosteel flask with a black cap and a separate small silver cup, presented alongside a white and black zippered carrying case with a shoulder strap. The flask and case both feature 'MILTON' branding, with 'THERMOSTEEL' also visible on the case's red label. All items are neatly arranged on a clean white background.",
+      "specifications": {
+        "category": "Flask",
+        "sub_type": "Insulated Flask",
+        "visual_shape": "cylindrical",
+        "visual_color": "silver, black, white, red",
+        "visual_size": "medium",
+        "visual_metal": "silver",
+        "presentation": "white background studio",
+        "visual_product_type": "thermosteel flask, carrying case, cup",
+        "visual_notes": "Milton and Thermosteel branding visible on flask and case."
+      },
+      "alt_text": "Milton Thermosteel 350 ml flask in silver with black cap, matching cup, and white zippered carrying case on white background.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2020/4770052.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain",
+      "fingerprint": "129db5d88b18",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Flask",
+      "product_sub_type": "Insulated Flask",
+      "buyer_persona": "A consumer looking for a portable, insulated container to keep beverages hot or cold for personal use or travel.",
+      "seo_title": "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain Insulated Fla",
+      "tags": [
+        "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Flask",
+        "Insulated Flask"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 610,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/3257686.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/3257686.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-optima-420-flask-420-ml-steel-plain",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Milton Thermosteel Optima 420 Flask, 420 ml, Steel Plain is a insulated flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 610. Suitable for: A consumer looking for a portable, insulated container to keep beverages hot or cold for personal use or travel. The image displays a tall, slender, silver-colored flask with a brushed metal finish, presented vertically against a pure white background. The flask has a slightly curved body, tapering inward slightly towards the top and bottom. It features a dark grey, ribbed cap or lid, and the brand name \"MILTON\" is visible in black text near the bottom of the body.",
+      "specifications": {
+        "category": "Flask",
+        "sub_type": "Insulated Flask",
+        "visual_shape": "cylindrical with slight curves",
+        "visual_color": "silver (brushed metal), dark grey (lid)",
+        "visual_metal": "stainless steel",
+        "presentation": "white background studio",
+        "visual_product_type": "flask",
+        "visual_notes": "Brand name 'MILTON' printed on the lower body."
+      },
+      "alt_text": "A tall, silver brushed stainless steel flask with a dark grey ribbed lid, featuring the 'MILTON' logo on a white background.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2020/3257686.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "Milton Thermosteel Optima 350 ml Flask",
+      "fingerprint": "b179880b0fd6",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Flask",
+      "product_sub_type": "Insulated Beverage Flask",
+      "buyer_persona": "A consumer looking for a portable, insulated container to keep beverages hot or cold for personal use.",
+      "seo_title": "Milton Thermosteel Optima 350 ml Flask Insulated Beverage Flask | Cata",
+      "tags": [
+        "Milton Thermosteel Optima 350 ml Flask",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Flask",
+        "Insulated Beverage Flask"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/4770016.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/4770016.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-thermosteel-optima-350-ml-flask",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Milton Thermosteel Optima 350 ml Flask is a insulated beverage flask offered by Mahavir Home Store based in Mumbai. Suitable for: A consumer looking for a portable, insulated container to keep beverages hot or cold for personal use. The image shows a close-up, angled view of the open top of a cylindrical flask. The flask is made of brushed silver-toned metal, likely stainless steel, with a smooth, slightly reflective surface. The opening reveals internal threading, indicating it is designed to be sealed with a screw-on cap, all presented against a clean white background.",
+      "specifications": {
+        "category": "Flask",
+        "sub_type": "Insulated Beverage Flask",
+        "visual_shape": "cylindrical",
+        "visual_color": "silver metallic",
+        "visual_metal": "stainless steel",
+        "presentation": "white background studio",
+        "visual_product_type": "flask",
+        "visual_notes": "visible internal threading at the opening"
+      },
+      "alt_text": "Close-up of the open top of a silver cylindrical stainless steel flask, showing internal threading against a white background.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2020/4770016.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "MILTON Glassy Flask 500ml Vacuum Flasks",
+      "fingerprint": "efc720d9ada2",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Vacuum Flask",
+      "product_sub_type": "Glass Vacuum Flask",
+      "buyer_persona": "A consumer looking for a portable container to keep beverages hot or cold, for personal use or gifting.",
+      "seo_title": "MILTON Glassy Flask 500ml Vacuum Flasks Glass Vacuum Flask | Catalog L",
+      "tags": [
+        "MILTON Glassy Flask 500ml Vacuum Flasks",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Vacuum Flask",
+        "Glass Vacuum Flask"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 685,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2020/3257689.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2020/3257689.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-glassy-flask-500ml-vacuum-flasks",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "MILTON Glassy Flask 500ml Vacuum Flasks is a glass vacuum flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 685. Suitable for: A consumer looking for a portable container to keep beverages hot or cold, for personal use or gifting. The image displays a cylindrical stainless steel vacuum flask with a beige/tan plastic handle-cap, standing upright. Next to it, a matching beige/tan fabric carrying pouch with a strap is shown, featuring a red label with 'MILTON THERMOSTEEL' text. Both items are presented against a clean white background.",
+      "specifications": {
+        "category": "Vacuum Flask",
+        "sub_type": "Glass Vacuum Flask",
+        "visual_shape": "cylindrical (flask), tubular (pouch)",
+        "visual_color": "silver (flask body), beige/tan (cap, pouch), red (label)",
+        "visual_size": "medium",
+        "visual_metal": "stainless steel",
+        "presentation": "white background studio",
+        "visual_product_type": "vacuum flask and carrying pouch",
+        "visual_notes": "Brand name 'MILTON' is visible on the flask body and on the label of the carrying pouch.",
+        "certification_label_visible": true
+      },
+      "alt_text": "A silver MILTON vacuum flask with a beige handle-cap stands next to its matching beige MILTON THERMOSTEEL carrying pouch.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2020/3257689.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "Milton Glassy Flask 750ml Vacuum Flasks",
+      "fingerprint": "a09c4794b41c",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchen & Dining",
+      "product_category": "Vacuum Flask",
+      "product_sub_type": "Glass Lined Vacuum Flask",
+      "buyer_persona": "A consumer looking for a portable container to keep beverages hot or cold for personal use or travel.",
+      "seo_title": "Milton Glassy Flask 750ml Vacuum Flasks Glass Lined Vacuum Flask | Cat",
+      "tags": [
+        "Milton Glassy Flask 750ml Vacuum Flasks",
+        "Consumer Goods",
+        "Kitchen & Dining",
+        "Vacuum Flask",
+        "Glass Lined Vacuum Flask"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 915,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2023/12285712.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2023/12285712.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/milton-glassy-flask-750ml-vacuum-flasks",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Milton Glassy Flask 750ml Vacuum Flasks is a glass lined vacuum flask offered by Mahavir Home Store based in Mumbai. Priced at Rs. 915. Suitable for: A consumer looking for a portable container to keep beverages hot or cold for personal use or travel. The image displays a Milton Thermosteel vacuum flask, its product box, and a white carrying sleeve, all presented against a clean white background. The flask has a brushed silver-toned stainless steel body with a prominent purple cap featuring an integrated handle. The red and white product box shows an image of the flask and highlights features like \"HOT 24 COLD\" and \"SS 304\". The white carrying sleeve has a red Milton Thermosteel label and a purple strap.",
+      "specifications": {
+        "category": "Vacuum Flask",
+        "sub_type": "Glass Lined Vacuum Flask",
+        "visual_shape": "cylindrical",
+        "visual_color": "silver-toned (stainless steel), purple (cap)",
+        "visual_size": "medium",
+        "visual_metal": "stainless steel",
+        "presentation": "white background studio",
+        "visual_product_type": "vacuum flask",
+        "visual_notes": "Includes product packaging box and a white carrying sleeve with a strap. The flask has 'MILTON' branding on its lower body.",
+        "certification_label_visible": true
+      },
+      "alt_text": "A Milton Thermosteel vacuum flask with a silver body and purple cap, its red product box, and a white carrying sleeve on a white background.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2023/12285712.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "GODREJ SAFE NX PRO GRY 30L",
+      "fingerprint": "5e14dda53f31",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home Security & Storage",
+      "product_category": "Safe",
+      "product_sub_type": "Electronic Safe",
+      "buyer_persona": "A consumer or small business owner looking for a secure storage solution for valuables, documents, or cash at home or in an office.",
+      "seo_title": "GODREJ SAFE NX PRO GRY 30L Electronic Safe | Catalog Listing",
+      "tags": [
+        "GODREJ SAFE NX PRO GRY 30L",
+        "Consumer Goods",
+        "Home Security & Storage",
+        "Safe",
+        "Electronic Safe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13104512.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13104512.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/godrej-safe-nx-pro-gry-30l",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "GODREJ SAFE NX PRO GRY 30L is a electronic safe offered by Mahavir Home Store based in Mumbai. Suitable for: A consumer or small business owner looking for a secure storage solution for valuables, documents, or cash at home or in an office. The image displays a rectangular, off-white or light grey safe with a clean, minimalist design. A black digital keypad with a numeric display showing '123456' and the 'Godrej' logo is prominently featured on the front door. The product is presented against a plain white background, highlighting its form and features.",
+      "specifications": {
+        "category": "Safe",
+        "sub_type": "Electronic Safe",
+        "visual_shape": "rectangular / cuboid",
+        "visual_color": "off-white / light grey",
+        "visual_size": "medium",
+        "visual_metal": "not visible (painted metal)",
+        "presentation": "white background studio",
+        "visual_product_type": "safe",
+        "visual_notes": "digital keypad with '123456' displayed and 'Godrej' logo"
+      },
+      "alt_text": "An off-white rectangular safe with a black digital keypad displaying '123456' and the Godrej logo on a white background.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13104512.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "GODREJ SAFE NX PRO GRY 8L",
+      "fingerprint": "ee04062c610f",
+      "top_level_domain": "Security & Protection",
+      "industry_segment": "Safes & Vault",
+      "product_category": "Safe",
+      "product_sub_type": "Digital Safe",
+      "buyer_persona": "An individual or business seeking a secure storage solution for valuables, documents, or cash in a home or office environment.",
+      "seo_title": "GODREJ SAFE NX PRO GRY 8L Digital Safe | Catalog Listing",
+      "tags": [
+        "GODREJ SAFE NX PRO GRY 8L",
+        "Security & Protection",
+        "Safes & Vaults",
+        "Safe",
+        "Digital Safe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13104590.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13104590.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/godrej-safe-nx-pro-gry-8l",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "GODREJ SAFE NX PRO GRY 8L is a digital safe offered by Mahavir Home Store based in Mumbai. Suitable for: An individual or business seeking a secure storage solution for valuables, documents, or cash in a home or office environment. The image displays a dark gray or black rectangular electronic safe, presented against a clean white background. The safe features a textured matte finish and a prominent digital keypad on its front door. The keypad includes a display showing '123456' and a grid of numeric buttons, with the 'Godrej' logo visible on the right side of the keypad panel.",
+      "specifications": {
+        "category": "Safe",
+        "sub_type": "Digital Safe",
+        "visual_shape": "rectangular",
+        "visual_color": "dark gray / black",
+        "visual_size": "small to medium",
+        "visual_metal": "dark gray painted metal",
+        "presentation": "white background studio",
+        "visual_product_type": "electronic safe",
+        "visual_notes": "digital keypad with numeric buttons and display showing '123456', 'Godrej' logo visible on the keypad panel"
+      },
+      "alt_text": "A dark gray rectangular electronic safe with a digital keypad showing '123456' and a 'Godrej' logo, on a white background.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13104590.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "DUBBLIN LNCH BOX DINEOUT JR",
+      "fingerprint": "8e5b26b43835",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchen & Dining",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Portable Lunch Box",
+      "buyer_persona": "A consumer looking for a portable container to carry meals for personal use, school, or work.",
+      "seo_title": "DUBBLIN LNCH BOX DINEOUT JR Portable Lunch Box | Catalog Listing",
+      "tags": [
+        "DUBBLIN LNCH BOX DINEOUT JR",
+        "Consumer Goods",
+        "Kitchen & Dining",
+        "Lunch Box",
+        "Portable Lunch Box"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13018086.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13018086.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/dubblin-lnch-box-dineout-jr",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "DUBBLIN LNCH BOX DINEOUT JR is a portable lunch box offered by Mahavir Home Store based in Mumbai. Suitable for: A consumer looking for a portable container to carry meals for personal use, school, or work. The image displays a rectangular stainless steel lunch box with bright lime green silicone or plastic accents. The lid is also stainless steel with the brand name 'Dubblin' embossed or printed on it. The lunch box is presented on a clean white background, highlighting its sleek design and contrasting colors.",
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Portable Lunch Box",
+        "visual_shape": "rectangular",
+        "visual_color": "silver with bright green accents",
+        "visual_size": "medium",
+        "visual_metal": "stainless steel",
+        "presentation": "white background studio",
+        "visual_product_type": "lunch box",
+        "visual_notes": "Brand name 'Dubblin' visible on the lid."
+      },
+      "alt_text": "Rectangular stainless steel lunch box with bright lime green lid seal and side clips, featuring 'Dubblin' on the lid.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13018086.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "BOROSIL LUNCH BOX HYDRA 4",
+      "fingerprint": "944b6bd42ed1",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Borosil Hydra Lunch Box",
+      "buyer_persona": "A consumer looking for a durable and potentially multi-compartment lunch box for daily use, likely for carrying meals to work or school.",
+      "seo_title": "BOROSIL LUNCH BOX HYDRA 4 Borosil Hydra Lunch Box | Catalog Listing",
+      "tags": [
+        "BOROSIL LUNCH BOX HYDRA 4",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Lunch Box",
+        "Borosil Hydra Lunch Box"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 3140,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13122130.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13122130.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/borosil-lunch-box-hydra-4",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "BOROSIL LUNCH BOX HYDRA 4 is a borosil hydra lunch box offered by Mahavir Home Store based in Mumbai. Priced at Rs. 3,140. Suitable for: A consumer looking for a durable and potentially multi-compartment lunch box for daily use, likely for carrying meals to work or school. A Borosil lunch box set is displayed on a light woven mat against a pure white background. The set includes a tall, dark grey cylindrical insulated container with a lighter grey lid and handle, a black fabric carrying bag, and three smaller silver-toned stainless steel containers, two of which contain food items like rice, curry, and vegetables. A small spoon is also visible.",
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Borosil Hydra Lunch Box",
+        "visual_shape": "Cylindrical containers",
+        "visual_color": "Dark grey, silver, black",
+        "visual_metal": "Stainless steel",
+        "presentation": "White background studio with a woven mat",
+        "visual_product_type": "Insulated lunch box set",
+        "visual_notes": "Brand name 'BOROSIL' visible on the main container and carrying bag. The smaller containers are shown with food inside, suggesting practical use. A small spoon is included."
+      },
+      "alt_text": "Borosil Hydra 4 insulated lunch box set with dark grey thermos, three stainless steel containers, black bag, and spoon.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13122130.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "BOROSIL LNCH BOX HYDRA 2",
+      "fingerprint": "c6db368ccc9a",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchen & Dining",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Borosil Hydra Lunch Box",
+      "buyer_persona": "A consumer looking for a durable and convenient container to carry meals for work, school, or travel.",
+      "seo_title": "BOROSIL LNCH BOX HYDRA 2 Borosil Hydra Lunch Box | Catalog Listing",
+      "tags": [
+        "BOROSIL LNCH BOX HYDRA 2",
+        "Consumer Goods",
+        "Kitchen & Dining",
+        "Lunch Box",
+        "Borosil Hydra Lunch Box"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2230,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13122704.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13122704.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/borosil-lnch-box-hydra-2",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "BOROSIL LNCH BOX HYDRA 2 is a borosil hydra lunch box offered by Mahavir Home Store based in Mumbai. Priced at Rs. 2,230. Suitable for: A consumer looking for a durable and convenient container to carry meals for work, school, or travel. The image displays a cylindrical lunch box and its accompanying carrying bag on a plain white background. The lunch box features a brushed stainless steel base and a matte grey plastic top with an integrated handle, bearing the 'BOROSIL' logo. Next to it, a heather grey cylindrical fabric carrying bag with a black zipper and strap also shows the 'BOROSIL' logo.",
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Borosil Hydra Lunch Box",
+        "visual_shape": "cylindrical",
+        "visual_metal": "stainless steel",
+        "presentation": "white background studio",
+        "visual_product_type": "lunch box and carrying bag",
+        "visual_notes": "'BOROSIL' brand logo visible on both the lunch box and the carrying bag."
+      },
+      "alt_text": "A grey and stainless steel cylindrical lunch box with a handle, next to a matching grey fabric carrying bag with a strap.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13122704.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "BOROSIL LUNCH BOX HYDRA 3",
+      "fingerprint": "6c3e79c55488",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchenware & Dining",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Insulated Lunch Box",
+      "buyer_persona": "A consumer looking for a portable container to carry meals, prioritizing durability, insulation, and brand reputation.",
+      "seo_title": "BOROSIL LUNCH BOX HYDRA 3 Insulated Lunch Box | Catalog Listing",
+      "tags": [
+        "BOROSIL LUNCH BOX HYDRA 3",
+        "Consumer Goods",
+        "Kitchenware & Dining",
+        "Lunch Box",
+        "Insulated Lunch Box"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2715,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13122184.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13122184.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/borosil-lunch-box-hydra-3",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "BOROSIL LUNCH BOX HYDRA 3 is a insulated lunch box offered by Mahavir Home Store based in Mumbai. Priced at Rs. 2,715. Suitable for: A consumer looking for a portable container to carry meals, prioritizing durability, insulation, and brand reputation. The image displays a Borosil lunch box set on a light-colored mat against a plain white background. The set includes a large dark grey and silver insulated food container with a handle, three smaller silver stainless steel containers (two filled with food, one with a lid partially open), a black carrying bag with the 'BOROSIL' logo, and a small dark grey spoon. The presentation is clean and highlights the product's components.",
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Insulated Lunch Box",
+        "visual_shape": "cylindrical",
+        "visual_color": "dark grey, silver, black",
+        "visual_size": "medium",
+        "visual_metal": "stainless steel",
+        "presentation": "white background studio / light mat",
+        "visual_product_type": "insulated lunch box set",
+        "visual_notes": "Includes a black carrying bag, three smaller food containers (two with food visible), and a small spoon. 'BOROSIL' brand name is visible on the bag and main container."
+      },
+      "alt_text": "Borosil insulated lunch box set with a dark grey and silver main container, three stainless steel food containers, and a black carrying bag.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13122184.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "Dubblin Bento 2",
+      "fingerprint": "4a5bec4e94eb",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Kitchen & Dining",
+      "product_category": "Food Storage Container",
+      "product_sub_type": "Bento Box",
+      "buyer_persona": "A consumer looking for a portable and organized way to carry meals, often for work or school.",
+      "seo_title": "Dubblin Bento 2 Bento Box | Catalog Listing",
+      "tags": [
+        "Dubblin Bento 2",
+        "Consumer Goods",
+        "Kitchen & Dining",
+        "Food Storage Container",
+        "Bento Box"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13418098.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13418098.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/dubblin-lunch-box-bento-2",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Dubblin Bento 2 is a bento box offered by Mahavir Home Store based in Mumbai. Suitable for: A consumer looking for a portable and organized way to carry meals, often for work or school. The image displays a rectangular, two-tiered bento box or lunchbox in a mint green color, presented on a plain white background. The lid features the text \"GOURMET LIFE FOOD Dubblin\" along with a decorative pattern of dots and dashes. A silver-colored band separates the two tiers of the container, and a cream-colored spoon and fork, both with matching mint green accents on their handles, are placed in front of the box.",
+      "specifications": {
+        "category": "Food Storage Container",
+        "sub_type": "Bento Box",
+        "visual_shape": "rectangular",
+        "visual_color": "mint green, cream, silver-colored",
+        "visual_metal": "silver-colored",
+        "presentation": "white background studio",
+        "visual_product_type": "bento box / lunchbox",
+        "visual_notes": "Brand name 'Dubblin' and 'GOURMET LIFE FOOD' text on lid, two-tiered design, includes a cream-colored spoon and fork with mint green accents."
+      },
+      "alt_text": "Mint green rectangular two-tiered bento box with 'Dubblin' logo, accompanied by a cream spoon and fork with green accents.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13418098.jpeg?width=442&height=590"
+    },
+    {
+      "clean_name": "CELLO LNCH BOX HOT & FRESH",
+      "fingerprint": "0320199b190d",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home & Kitchen",
+      "product_category": "Lunch Box",
+      "product_sub_type": "Insulated Lunch Box",
+      "buyer_persona": "A consumer or student looking for a container to carry and keep their food hot and fresh.",
+      "seo_title": "CELLO LNCH BOX HOT & FRESH Insulated Lunch Box | Catalog Listing",
+      "tags": [
+        "CELLO LNCH BOX HOT & FRESH",
+        "Consumer Goods",
+        "Home & Kitchen",
+        "Lunch Box",
+        "Insulated Lunch Box"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 635,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://lsmedia.linker-cdn.net/52419/2024/13812662.jpeg?width=442&height=590",
+      "photo_urls": [
+        "https://lsmedia.linker-cdn.net/52419/2024/13812662.jpeg?width=442&height=590"
+      ],
+      "source_url": "https://www.mahavirhomestore.com/products/cello-lnch-box-hot-fresh",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "CELLO LNCH BOX HOT & FRESH is a insulated lunch box offered by Mahavir Home Store based in Mumbai. Priced at Rs. 635. Suitable for: A consumer or student looking for a container to carry and keep their food hot and fresh. The image displays a 'Celloware' brand lunch box set against a plain white background. It includes a teal-colored insulated lunch bag with a grey handle and zipper, and three stainless steel food containers with bright blue plastic lids. Two containers are round, and one is rectangular, with one round container stacked on top of the rectangular one.",
+      "specifications": {
+        "category": "Lunch Box",
+        "sub_type": "Insulated Lunch Box",
+        "visual_shape": "Rectangular (bag and one container), round (two containers)",
+        "visual_color": "Teal (bag), silver (containers), bright blue (lids)",
+        "visual_size": "Small to medium (individual serving sizes)",
+        "visual_metal": "Stainless steel",
+        "presentation": "White background studio",
+        "visual_product_type": "Lunch box set (insulated bag and food containers)",
+        "visual_notes": "Brand logo 'celloware' visible on the bag."
+      },
+      "alt_text": "A Celloware lunch box set featuring a teal insulated bag and three stainless steel containers with bright blue lids.",
+      "used_vision": true,
+      "media_url": "https://lsmedia.linker-cdn.net/52419/2024/13812662.jpeg?width=442&height=590"
+    },
+    {
+      "fingerprint": "0edeadfd09a2",
+      "raw_name": "Home Decor Items (Bedsheets, Cushions, Curtains, Rugs)",
+      "clean_name": "Home Decor Items (Bedsheets, Cushions, Curtains, Rugs)",
+      "product_category": "Home Furnishing",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases a variety of home decor items including new bedsheets, stylish cushions, elegant curtains, and rugs, all available at Mahavir Home Store. It emphasizes how these small changes can lead to a big transformation, making a room feel brand new.",
+      "seo_title": "Home Decor Items (Bedsheets, Cushions, Curtains, Rugs)",
+      "alt_text": "Home Decor Items (Bedsheets, Cushions, Curtains, Rugs)",
+      "tags": [
+        "home decor",
+        "bedsheet",
+        "cushions",
+        "curtains",
+        "rugs",
+        "home furnishings",
+        "room makeover"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/E4cWQ_EGVYI",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/E4cWQ_EGVYI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAIjGD2uYw3lz7VsB1fibPTwQJW-g"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/E4cWQ_EGVYI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAIjGD2uYw3lz7VsB1fibPTwQJW-g",
+      "media_url": "https://i.ytimg.com/vi/E4cWQ_EGVYI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAIjGD2uYw3lz7VsB1fibPTwQJW-g",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/E4cWQ_EGVYI",
+        "thumbnail_url": "https://i.ytimg.com/vi/E4cWQ_EGVYI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAIjGD2uYw3lz7VsB1fibPTwQJW-g",
+        "caption": "Small changes. Big transformation. ✨ A new bedsheet, stylish cushions, elegant curtains and your whole room feels brand new! Makeover your space easily with Mahavir Home Store. 🏠💫\n\nVisit our stores to shop now!\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\nOr visit our website www.mahavirhomestore.com to shop now~\n\n[ Mahavir home store, My Homely Store, Bedsheets, Curtains, Room Makeover, Home decor, Home essentials, Home sweet home, Kitchen appliances, Kitchen essentials, Home essentials ]",
+        "posted_at": "2026-04-22T03:26:03.000Z",
+        "likes": null,
+        "views": 19
+      },
+      "source_urls": [
+        {
+          "source": "youtube",
+          "url": "https://www.youtube.com/shorts/E4cWQ_EGVYI"
+        }
+      ]
+    },
+    {
+      "fingerprint": "c4afff6c1bb6",
+      "raw_name": "Ice Insulated Boxes",
+      "clean_name": "Ice Insulated Boxes",
+      "product_category": "Cooler Box",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "These ice insulated boxes are designed to keep drinks perfectly chilled for summer parties and picnics. They are available in various sizes and colors, including blue, red, and orange, ensuring every sip stays cold.",
+      "seo_title": "Ice Insulated Boxes",
+      "alt_text": "Ice Insulated Boxes",
+      "tags": [
+        "cooler",
+        "insulated box",
+        "chilled drinks",
+        "summer",
+        "picnic",
+        "party"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "feature": "Ice insulated",
+        "colors": "Blue, Red, Orange",
+        "use_case": "Parties, Picnics"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DXYrZcnjD63/",
+      "photo_urls": [
+        "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670735183_18545207641068633_2798445196494635176_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=UwSAGW5bRJUQ7kNvwFcGT9w&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2uiw5B5o1HSkBIWzpzQG_qiWvyXzXPY1xe34eBhMNqfw&oe=69F6B340&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670735183_18545207641068633_2798445196494635176_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=UwSAGW5bRJUQ7kNvwFcGT9w&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2uiw5B5o1HSkBIWzpzQG_qiWvyXzXPY1xe34eBhMNqfw&oe=69F6B340&_nc_sid=8b3546",
+      "media_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670735183_18545207641068633_2798445196494635176_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=UwSAGW5bRJUQ7kNvwFcGT9w&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2uiw5B5o1HSkBIWzpzQG_qiWvyXzXPY1xe34eBhMNqfw&oe=69F6B340&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DXYrZcnjD63/",
+        "thumbnail_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670735183_18545207641068633_2798445196494635176_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=UwSAGW5bRJUQ7kNvwFcGT9w&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2uiw5B5o1HSkBIWzpzQG_qiWvyXzXPY1xe34eBhMNqfw&oe=69F6B340&_nc_sid=8b3546",
+        "caption": "Still serving warm drinks this summer? 🍷 That’s not it. 🏖️Upgrade to ice insulated boxes and keep every sip perfectly chilled for parties and picnics. 🧊 Limited pieces left.\n\n👉 Check out the range at our stores in⚡\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #summerparty #iceinsulatedboxes #chilleddrinks #summervibes #picnic\n\nMahavirhomestore, My Homely Store, Ice-Insulated Boxes, Summer Party, Chilled Drinks, Glassware, Snack Serveware, Homestore, Home Decor, Home Essentials,  Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+        "posted_at": "2026-04-21T07:40:12.000Z",
+        "likes": 10,
+        "views": 655
+      },
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/DXYrZcnjD63/"
+        }
+      ]
+    },
+    {
+      "fingerprint": "3202a838c4c9",
+      "raw_name": "Panasonic Powerful 2000W Mixer Grinder",
+      "clean_name": "Panasonic Powerful 2000W Mixer Grinder",
+      "product_category": "Mixer Grinder",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This versatile Panasonic mixer grinder boasts a 750-watt motor that delivers a powerful 2000 watts of grinding power, effortlessly tackling tough ingredients. It's perfect for preparing fine powders for spices, silky smooth smoothies and milkshakes, delicious chutneys and dips, and grinding coffee beans.",
+      "seo_title": "Panasonic Powerful 2000W Mixer Grinder",
+      "alt_text": "Panasonic Powerful 2000W Mixer Grinder",
+      "tags": [
+        "mixer",
+        "grinder",
+        "kitchen appliance",
+        "smoothie maker",
+        "spice grinder",
+        "coffee grinder"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "motor_wattage": "750-watt",
+        "grinding_power_wattage": "2000 watts",
+        "brand": "Panasonic"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/C5SxTmEt1wl/",
+      "photo_urls": [
+        "https://scontent-atl3-3.cdninstagram.com/v/t51.71878-15/504054391_737530285615151_5024404883708716390_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=QB_FCYqTM9EQ7kNvwE4llR7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1fZICMLVGs3Nae3N_IJY06pvhpF6EjYHsthRfE1NzHAA&oe=69F6CDE3&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.71878-15/504054391_737530285615151_5024404883708716390_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=QB_FCYqTM9EQ7kNvwE4llR7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1fZICMLVGs3Nae3N_IJY06pvhpF6EjYHsthRfE1NzHAA&oe=69F6CDE3&_nc_sid=8b3546",
+      "media_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.71878-15/504054391_737530285615151_5024404883708716390_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=QB_FCYqTM9EQ7kNvwE4llR7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1fZICMLVGs3Nae3N_IJY06pvhpF6EjYHsthRfE1NzHAA&oe=69F6CDE3&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/C5SxTmEt1wl/",
+        "thumbnail_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.71878-15/504054391_737530285615151_5024404883708716390_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=QB_FCYqTM9EQ7kNvwE4llR7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1fZICMLVGs3Nae3N_IJY06pvhpF6EjYHsthRfE1NzHAA&oe=69F6CDE3&_nc_sid=8b3546",
+        "caption": "This powerhouse boasts a 750-watt motor that delivers a whopping 2000 watts of grinding power, effortlessly tackling even the toughest ingredients.\n\nFrom the finest powders for aromatic spices to silky smooth smoothies and milkshakes, this versatile appliance handles it all!  Make delicious chutneys and dips, grind coffee beans, and so much more.\n\nExperience the power and convenience of Panasonic. Shop now at \n\nVisit our stores to shop now! \n\n📍Santacruz\n📍Chembur \n📍Virar\n\nOr shop online at www.mahavirhomestore.com \n\n#mahavirhomestore #homestore #homedecor #kitchenappliances #kitchenessentials #homeessentials #homesweethome  #mixergrinder #mixers #grinder #Panasonicmixer #panasonic",
+        "posted_at": "2024-04-03T09:00:48.000Z",
+        "likes": 5458,
+        "views": 201424
+      },
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/C5SxTmEt1wl/"
+        }
+      ]
+    },
+    {
+      "fingerprint": "78d514b5332e",
+      "raw_name": "Stahl Versatile Cooker",
+      "clean_name": "Stahl Versatile Cooker",
+      "product_category": "Cooker",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The Stahl Versatile Cooker is presented as a must-have kitchen essential designed to simplify culinary life. It is a versatile cooking appliance from the brand Stahl, available at Mahavir Homestore.",
+      "seo_title": "Stahl Versatile Cooker",
+      "alt_text": "Stahl Versatile Cooker",
+      "tags": [
+        "stahl",
+        "versatile cooker",
+        "cooker",
+        "pressure cooker",
+        "kitchen appliances",
+        "kitchen essentials",
+        "home essentials",
+        "mahavirhomestore"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/C6akRiaNqGI/",
+      "photo_urls": [
+        "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503031600_728721089599805_4170626239467060813_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=lIsNByD3zUgQ7kNvwHJjcP0&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1UVw53wnTBLAu5SIiU0lP3hBrkqBZjDR9zpifMangx1g&oe=69F6C11A&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503031600_728721089599805_4170626239467060813_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=lIsNByD3zUgQ7kNvwHJjcP0&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1UVw53wnTBLAu5SIiU0lP3hBrkqBZjDR9zpifMangx1g&oe=69F6C11A&_nc_sid=8b3546",
+      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503031600_728721089599805_4170626239467060813_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=lIsNByD3zUgQ7kNvwHJjcP0&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1UVw53wnTBLAu5SIiU0lP3hBrkqBZjDR9zpifMangx1g&oe=69F6C11A&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/C6akRiaNqGI/",
+        "thumbnail_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503031600_728721089599805_4170626239467060813_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=lIsNByD3zUgQ7kNvwHJjcP0&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1UVw53wnTBLAu5SIiU0lP3hBrkqBZjDR9zpifMangx1g&oe=69F6C11A&_nc_sid=8b3546",
+        "caption": "Ready to simplify your culinary life?  Watch this reel and discover why the Stahl Versatile Cooker is a must-have in your kitchen!\n\nShop all your home needs at \n\n📍Santacruz\n📍Chembur \n📍Virar\n\nOr shop online at www.mahavirhomestore.com\n\n#mahavirhomestore #homestore #homedecor #kitchenappliances #kitchenessentials #homeessentials #homesweethome #cooker #pressurecooker #testimonials #customertestimonial",
+        "posted_at": "2024-05-01T06:04:09.000Z",
+        "likes": 14364,
+        "views": 563394
+      },
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/C6akRiaNqGI/"
+        }
+      ]
+    },
+    {
+      "fingerprint": "1259494dd37a",
+      "raw_name": "Stainless Steel Container",
+      "clean_name": "Stainless Steel Container",
+      "product_category": "Lunch Box / Food Container",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This innovative stainless steel container is designed to be microwave-safe and leak-proof, making it ideal for various uses such as storage, tiffin, or on-the-go meals. It offers a convenient and eco-friendly alternative to single-use containers.",
+      "seo_title": "Stainless Steel Container",
+      "alt_text": "Stainless Steel Container",
+      "tags": [
+        "steelcontainer",
+        "steelbox",
+        "steeltiffin",
+        "stainlesssteel",
+        "kitchenessentials",
+        "homeessentials"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "material": "Stainless Steel",
+        "features": "Microwave-safe, Leak-proof",
+        "usage": "Storage, Tiffin, On-the-go meals"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/C5VBr9PNp0C/",
+      "photo_urls": [
+        "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503043027_1058875192829741_249307549745010927_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=Kyw6b2or3j8Q7kNvwELb8i7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Ev5ppNGjPfcMfSduJaqyV4E3pKWXym3Bmgmpa1PwYWA&oe=69F6DBFE&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503043027_1058875192829741_249307549745010927_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=Kyw6b2or3j8Q7kNvwELb8i7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Ev5ppNGjPfcMfSduJaqyV4E3pKWXym3Bmgmpa1PwYWA&oe=69F6DBFE&_nc_sid=8b3546",
+      "media_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503043027_1058875192829741_249307549745010927_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=Kyw6b2or3j8Q7kNvwELb8i7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Ev5ppNGjPfcMfSduJaqyV4E3pKWXym3Bmgmpa1PwYWA&oe=69F6DBFE&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/C5VBr9PNp0C/",
+        "thumbnail_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503043027_1058875192829741_249307549745010927_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=Kyw6b2or3j8Q7kNvwELb8i7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Ev5ppNGjPfcMfSduJaqyV4E3pKWXym3Bmgmpa1PwYWA&oe=69F6DBFE&_nc_sid=8b3546",
+        "caption": "This innovative stainless steel container is microwave-safe, leak-proof, and perfect for storage, tiffin, or on-the-go meals.  Say goodbye to single-use containers and hello to convenience and eco-friendly living!\n\nVisit our stores to shop now! \n\n📍Santacruz\n📍Chembur \n📍Virar\n\nOr shop online at www.mahavirhomestore.com \n\n#mahavirhomestore #steelcontainer #steelbox #steeltiffin #stainlesssteel  #homestore #homedecor #kitchenappliances #steel #kitchenessentials #homeessentials #homesweethome",
+        "posted_at": "2024-04-04T05:54:57.000Z",
+        "likes": 2449,
+        "views": 247896
+      },
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/C5VBr9PNp0C/"
+        }
+      ]
+    },
+    {
+      "fingerprint": "2a93f0980bfe",
+      "raw_name": "Induction Cooktop",
+      "clean_name": "Induction Cooktop",
+      "product_category": "Kitchen Appliance",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases induction cooktops that are back in stock. They are available in both digital and keypad options and come with a warranty, offering a smart and hassle-free alternative to traditional gas cylinders.",
+      "seo_title": "Induction Cooktop",
+      "alt_text": "Induction Cooktop",
+      "tags": [
+        "Induction",
+        "Cooktop",
+        "Kitchen Appliance",
+        "Digital",
+        "Keypad",
+        "Warranty",
+        "Back in Stock"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Options": "Digital & Keypad",
+        "Warranty": "Yes"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DXV5iyTjLFb/",
+      "photo_urls": [
+        "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670281046_18544993654068633_7708109623921831628_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=c0Yqmm5dwVcQ7kNvwG1xZR-&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2XazjjIdHVbMcEiHI_cNQDXpcRwOAdhOL7g2qj3i3iSg&oe=69F6BC2C&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670281046_18544993654068633_7708109623921831628_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=c0Yqmm5dwVcQ7kNvwG1xZR-&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2XazjjIdHVbMcEiHI_cNQDXpcRwOAdhOL7g2qj3i3iSg&oe=69F6BC2C&_nc_sid=8b3546",
+      "media_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670281046_18544993654068633_7708109623921831628_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=c0Yqmm5dwVcQ7kNvwG1xZR-&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2XazjjIdHVbMcEiHI_cNQDXpcRwOAdhOL7g2qj3i3iSg&oe=69F6BC2C&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DXV5iyTjLFb/",
+        "thumbnail_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670281046_18544993654068633_7708109623921831628_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=c0Yqmm5dwVcQ7kNvwG1xZR-&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2XazjjIdHVbMcEiHI_cNQDXpcRwOAdhOL7g2qj3i3iSg&oe=69F6BC2C&_nc_sid=8b3546",
+        "caption": "Induction is back 🔥 Digital & keypad options with warranty ✅ No more cylinder hassle switch smarter today ⚡\n\n👉 Visit soon, inductions available till stock lasts 🔌\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #induction #switchtoinduction #lpgshortage #inductioncooking #inductioncookware\n\nMahavirhomestore, My Homely Store, Induction, Gas Hassel, Cookware, Homestore, Home Decor, Home Essentials,  Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+        "posted_at": "2026-04-20T05:45:25.000Z",
+        "likes": 16,
+        "views": 435
+      },
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/DXV5iyTjLFb/"
+        }
+      ]
+    },
+    {
+      "fingerprint": "8c5259238bdc",
+      "raw_name": "Serving ware and kitchen products",
+      "clean_name": "Serving ware and kitchen products",
+      "product_category": "Kitchenware",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The post showcases a variety of serving ware and kitchen products made from Glass, Kansa, and Steel, emphasizing their distinct advantages. Glass is highlighted for being non-reactive, preserving food purity and freshness. Kansa is noted for supporting digestion, while steel is praised for its hygiene and durability. The image displays a range of pots, pans, and serving sets.",
+      "seo_title": "Serving ware and kitchen products",
+      "alt_text": "Serving ware and kitchen products",
+      "tags": [
+        "kitchenware",
+        "serving ware",
+        "cookware",
+        "glass",
+        "kansa",
+        "steel",
+        "home essentials",
+        "food storage"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "material": "Glass, Kansa, Steel",
+        "glass_benefit": "Keeps food pure and non-reactive",
+        "kansa_benefit": "Supports digestion",
+        "steel_benefit": "Hygienic & durable"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/BRItBeiP0Fg",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/BRItBeiP0Fg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBWKE4wDw==&rs=AOn4CLAHqJoz1l7lvsmkUxXcONd5XQohAQ"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/BRItBeiP0Fg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBWKE4wDw==&rs=AOn4CLAHqJoz1l7lvsmkUxXcONd5XQohAQ",
+      "media_url": "https://i.ytimg.com/vi/BRItBeiP0Fg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBWKE4wDw==&rs=AOn4CLAHqJoz1l7lvsmkUxXcONd5XQohAQ",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/BRItBeiP0Fg",
+        "thumbnail_url": "https://i.ytimg.com/vi/BRItBeiP0Fg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBWKE4wDw==&rs=AOn4CLAHqJoz1l7lvsmkUxXcONd5XQohAQ",
+        "caption": "Ever wondered why Glass, Kansa & Steel are most commonly used for serving? 🤔 Kansa supports digestion, steel is hygienic & durable, and glass keeps your food pure and non-reactive each has its own benefit for everyday living.\n\nVisit our stores to shop now!\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\nOr visit our website www.mahavirhomestore.com to shop now.\n\n[ Mahavirhomestore, MyHomelyStore, Kansa Thali Set, Glass Dinner Set, Steel Thali Set, Homestore, Homedecor, Homeessentials, Homesweethome, Kitchenappliances, Kitchenessentials, Homeessentials ]",
+        "posted_at": "2026-04-22T03:18:23.000Z",
+        "likes": null,
+        "views": 96
+      },
+      "source_urls": [
+        {
+          "source": "youtube",
+          "url": "https://www.youtube.com/shorts/BRItBeiP0Fg"
+        }
+      ]
+    },
+    {
+      "fingerprint": "70a85dd77dda",
+      "raw_name": "Cello Chiller Ice Insulated Box",
+      "clean_name": "Cello Chiller Ice Insulated Box",
+      "product_category": "Cooler",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "An ice insulated box designed to keep drinks perfectly chilled for parties and picnics, ensuring every sip is refreshing during summer. The product shown is a Cello Chiller.",
+      "seo_title": "Cello Chiller Ice Insulated Box",
+      "alt_text": "Cello Chiller Ice Insulated Box",
+      "tags": [
+        "ice box",
+        "cooler",
+        "insulated box",
+        "chiller",
+        "summer",
+        "picnic",
+        "party"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "capacity": "16L"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/WCr5pbcyCkw",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/WCr5pbcyCkw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYKCBWKH8wDw==&rs=AOn4CLCvHFkjU02TDXgAIkuRN7iU-TL85A"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/WCr5pbcyCkw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYKCBWKH8wDw==&rs=AOn4CLCvHFkjU02TDXgAIkuRN7iU-TL85A",
+      "media_url": "https://i.ytimg.com/vi/WCr5pbcyCkw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYKCBWKH8wDw==&rs=AOn4CLCvHFkjU02TDXgAIkuRN7iU-TL85A",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/WCr5pbcyCkw",
+        "thumbnail_url": "https://i.ytimg.com/vi/WCr5pbcyCkw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYKCBWKH8wDw==&rs=AOn4CLCvHFkjU02TDXgAIkuRN7iU-TL85A",
+        "caption": "Still serving warm drinks this summer? 🍷 That’s not it. 🏖️Upgrade to ice insulated boxes and keep every sip perfectly chilled for parties and picnics. 🧊 Limited pieces left.\n\n👉 Check out the range at our stores in⚡\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #summerparty #iceinsulatedboxes #chilleddrinks #summervibes #picnic\n\nMahavirhomestore, My Homely Store, Ice-Insulated Boxes, Summer Party, Chilled Drinks, Glassware, Snack Serveware, Homestore, Home Decor, Home Essentials, Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+        "posted_at": "2026-04-24T06:15:45.000Z",
+        "likes": 2,
+        "views": 155
+      },
+      "source_urls": [
+        {
+          "source": "youtube",
+          "url": "https://www.youtube.com/shorts/WCr5pbcyCkw"
+        }
+      ]
+    },
+    {
+      "fingerprint": "474a004846d1",
+      "raw_name": "Ice-Cream Cups",
+      "clean_name": "Ice-Cream Cups",
+      "product_category": "Serveware",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A set of clear glass ice cream cups, ideal for serving desserts and cold treats during summer moments, get-togethers, and IPL nights. They are also presented as a great gifting option for house parties and celebrations.",
+      "seo_title": "Ice-Cream Cups",
+      "alt_text": "Ice-Cream Cups",
+      "tags": [
+        "ice cream cups",
+        "glassware",
+        "serveware",
+        "gifting",
+        "summer",
+        "party",
+        "dessert"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "material": "Glass (cups), Wood (tray)",
+        "quantity": "6 cups",
+        "use_case": "Ice cream, desserts, summer moments, parties, gifting"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/2OkSNgwZJkM",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/2OkSNgwZJkM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AcoFgAL6CYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDFw4MB8grGsH-nbNv4LYdi3BS9Uw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/2OkSNgwZJkM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AcoFgAL6CYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDFw4MB8grGsH-nbNv4LYdi3BS9Uw",
+      "media_url": "https://i.ytimg.com/vi/2OkSNgwZJkM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AcoFgAL6CYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDFw4MB8grGsH-nbNv4LYdi3BS9Uw",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/2OkSNgwZJkM",
+        "thumbnail_url": "https://i.ytimg.com/vi/2OkSNgwZJkM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AcoFgAL6CYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDFw4MB8grGsH-nbNv4LYdi3BS9Uw",
+        "caption": "From vibrant designs to party-perfect servings it’s made for every summer moment 🎉 Perfect for get-togethers, IPL nights & thoughtful gifting 🎁\n\n👉🏻 Visit us today & bring home your summer chill partner 🍨\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #summerparty #icecreamcups #bowls #dessertbowls #summervibes\n\nMahavirhomestore, My Homely Store, Ice-Cream Cups, Dessert Bowls, Summer Vibes, Summer Party, Homestore, Home Decor, Home Essentials, Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+        "posted_at": "2026-04-27T05:00:28.000Z",
+        "likes": 3,
+        "views": 292
+      },
+      "source_urls": [
+        {
+          "source": "youtube",
+          "url": "https://www.youtube.com/shorts/2OkSNgwZJkM"
+        }
+      ]
+    }
+  ],
+  "rejected_items": [],
+  "reviews": [],
+  "reviews_summary": {
+    "total_rating": null,
+    "no_of_ratings": 0,
+    "rating_comments": []
+  },
+  "social_urls": [
+    "https://www.facebook.com/mahavirthehomestore",
+    "https://www.instagram.com/mahavirthehomestore",
+    "https://www.youtube.com/@MahavirTheHomeStore"
+  ],
+  "overall_confidence": 0.9,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/mahavirthehomestore",
+      "profile_pic_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/300371235_488780859918863_8524609485164568784_n.png?stp=dst-png_s200x200&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=ih3PLO4zidsQ7kNvwEvsCIA&_nc_oc=AdqqUq6GzrGf9c0FixtvJnQO7anEqxpXJPaFlMlc1vwK0Srtqu0eK_9QZBZxZMff2FA&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=aDOj7GH_28-plvt3n7dTPw&_nc_ss=72289&oh=00_Af1pJuPMckoI2ozvuWM_9iemJR6j6PvrlGfA73xpYn8-Uw&oe=69F6B775",
+      "banner_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/334609717_583083150377888_1488233554006630791_n.png?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=41RY0fOe7nwQ7kNvwF935pK&_nc_oc=AdoWOWUwo1yorwDNF9id0K7xjdRi5p38QIOJZ9cjagBW8yoedF-_CKP-4PozrwaWxsM&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=d5wyJseQq7Wee0FMwF8HKQ&_nc_ss=72289&oh=00_Af0Bq-_CC6zgm7aRzdOMOaoWDlKy_7T0G_K5dD_wfLarVQ&oe=69F6AC28",
+      "bio": "Your one-stop-shop for all your home essential needs. From bedding to kitchenware everything you need",
+      "followers_count": 3094,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1442287200515728/",
+          "thumbnail_url": "https://www.facebook.com/reel/1442287200515728/",
+          "caption": "Summer snack prep tools to keep your kids vacation-ready 🍟☀️Less hassle, more fun snacking every day!\n\n👉 Your snack prep upgrade starts here visit now! \n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #summervibes #snacks #snackstime #summerholiday #kidsfood\n\nMahavirhomestore, My Homely Store, Tiny Tools, Tong, Strainer, Oil Dispenser, Homestore, Home Decor, Home Essentials,  Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+          "likes": 1,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777354520
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1531458911652175/",
+          "thumbnail_url": "https://www.facebook.com/reel/1531458911652175/",
+          "caption": "Upgrade your reach with our premium ladders! 🧹 Available in 2 top brands *Levanto & Sanobar*, 3 to 6 step options, strong build & 2–5 years warranty. Built for safety, made to last. 🏘️\n\n👉 Visit Mahavir Home Store for the full range. \n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #cleaningessentials #topcleaning #ladders #alluminium #safety metal\n\nMahavirhomestore, My Homely Store, Cleaning Essentials, Ladders, Levanto, Sanobar, Safety, Homestore, Home Decor, Home Essentials,  Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777268872
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/966355045878315/",
+          "thumbnail_url": "https://www.facebook.com/reel/966355045878315/",
+          "caption": "For every woman, every routine ✨ Stay organised, look elegant & simplify your day 💖\n\n👉 Visit store and upgrade your space now 💫\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #vanityorganisers #homedecor #essentials #organisers #wardrobe\n\nMahavirhomestore, My Homely Store, Vanity Organisers, Wardrobe Organisers, Homestore, Home Decor, Home Essentials,  Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777183410
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "+919821139389",
+          "date": 1777354520,
+          "post_url": "https://www.facebook.com/reel/1442287200515728/"
+        },
+        {
+          "type": "phone",
+          "value": "+919967276114",
+          "date": 1777354520,
+          "post_url": "https://www.facebook.com/reel/1442287200515728/"
+        },
+        {
+          "type": "phone",
+          "value": "+919320550011",
+          "date": 1777354520,
+          "post_url": "https://www.facebook.com/reel/1442287200515728/"
+        }
+      ],
+      "extra_profile": {
+        "phone": "+91 98211 39389",
+        "email": "info@mahavirhomestore.com",
+        "website": "https://www.mahavirhomestore.com/",
+        "address": "Matcheswala Compound, Station Road, Santacruz West, Mumbai, India, 400054",
+        "city": null
+      }
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/mahavirthehomestore",
+      "profile_pic_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/341849608_3471358666482173_9219650240285884484_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=FhJrbO_igpIQ7kNvwE6TGUE&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0n5nLOwsFRDcUXbrdkzWFlIhlshtFxE3qK7gZjrpfFyA&oe=69F6E046&_nc_sid=8b3546",
+      "banner_url": null,
+      "bio": "A Destination Store for all your Home Essentials. From chopsticks to chimneys and more!\nFind a store near you - \n📍 Santacruz\n📍 Chembur\n📍 Virar",
+      "followers_count": 32127,
+      "following_count": 87,
+      "posts_count": 1138,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/C6akRiaNqGI/",
+          "thumbnail_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503031600_728721089599805_4170626239467060813_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=lIsNByD3zUgQ7kNvwHJjcP0&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1UVw53wnTBLAu5SIiU0lP3hBrkqBZjDR9zpifMangx1g&oe=69F6C11A&_nc_sid=8b3546",
+          "caption": "Ready to simplify your culinary life?  Watch this reel and discover why the Stahl Versatile Cooker is a must-have in your kitchen!\n\nShop all your home needs at \n\n📍Santacruz\n📍Chembur \n📍Virar\n\nOr shop online at www.mahavirhomestore.com\n\n#mahavirhomestore #homestore #homedecor #kitchenappliances #kitchenessentials #homeessentials #homesweethome #cooker #pressurecooker #testimonials #customertestimonial",
+          "likes": 14364,
+          "comments": 577,
+          "views": 563394,
+          "posted_at": "2024-05-01T06:04:09.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/C5VBr9PNp0C/",
+          "thumbnail_url": "https://scontent-atl3-2.cdninstagram.com/v/t51.71878-15/503043027_1058875192829741_249307549745010927_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=Kyw6b2or3j8Q7kNvwELb8i7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Ev5ppNGjPfcMfSduJaqyV4E3pKWXym3Bmgmpa1PwYWA&oe=69F6DBFE&_nc_sid=8b3546",
+          "caption": "This innovative stainless steel container is microwave-safe, leak-proof, and perfect for storage, tiffin, or on-the-go meals.  Say goodbye to single-use containers and hello to convenience and eco-friendly living!\n\nVisit our stores to shop now! \n\n📍Santacruz\n📍Chembur \n📍Virar\n\nOr shop online at www.mahavirhomestore.com \n\n#mahavirhomestore #steelcontainer #steelbox #steeltiffin #stainlesssteel  #homestore #homedecor #kitchenappliances #steel #kitchenessentials #homeessentials #homesweethome",
+          "likes": 2449,
+          "comments": 171,
+          "views": 247896,
+          "posted_at": "2024-04-04T05:54:57.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/C5SxTmEt1wl/",
+          "thumbnail_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.71878-15/504054391_737530285615151_5024404883708716390_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=QB_FCYqTM9EQ7kNvwE4llR7&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1fZICMLVGs3Nae3N_IJY06pvhpF6EjYHsthRfE1NzHAA&oe=69F6CDE3&_nc_sid=8b3546",
+          "caption": "This powerhouse boasts a 750-watt motor that delivers a whopping 2000 watts of grinding power, effortlessly tackling even the toughest ingredients.\n\nFrom the finest powders for aromatic spices to silky smooth smoothies and milkshakes, this versatile appliance handles it all!  Make delicious chutneys and dips, grind coffee beans, and so much more.\n\nExperience the power and convenience of Panasonic. Shop now at \n\nVisit our stores to shop now! \n\n📍Santacruz\n📍Chembur \n📍Virar\n\nOr shop online at www.mahavirhomestore.com \n\n#mahavirhomestore #homestore #homedecor #kitchenappliances #kitchenessentials #homeessentials #homesweethome  #mixergrinder #mixers #grinder #Panasonicmixer #panasonic",
+          "likes": 5458,
+          "comments": 383,
+          "views": 201424,
+          "posted_at": "2024-04-03T09:00:48.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXbhIoCDFXG/",
+          "thumbnail_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/671107062_18545418262068633_3365333995530354998_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=15Kk9oN9PiAQ7kNvwFn-183&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0h9jJD2hQQyzMwG1ahsRSVZSiOdivBvxAioGUG9Uc_Bg&oe=69F6CE12&_nc_sid=8b3546",
+          "caption": "Fresh kitchen, zero mess, maximum space ✨ Upgrade your storage game with containers that keep it clean, organized & long-lasting 🫙💯\n\n🚨 Visit now, deals ending in just 2 days ⚡\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #storagecontainers #jars #fridgeorganisers #kitchenessentials #containers\n\nMahavirhomestore, My Homely Store, Storage Containers, Jars, Fridge Organisers, Organisers, Kitchen Essentials, Homestore, Home Decor, Home Essentials,  Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+          "likes": 24,
+          "comments": 2,
+          "views": 1026,
+          "posted_at": "2026-04-22T10:07:17.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXYrZcnjD63/",
+          "thumbnail_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670735183_18545207641068633_2798445196494635176_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=UwSAGW5bRJUQ7kNvwFcGT9w&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2uiw5B5o1HSkBIWzpzQG_qiWvyXzXPY1xe34eBhMNqfw&oe=69F6B340&_nc_sid=8b3546",
+          "caption": "Still serving warm drinks this summer? 🍷 That’s not it. 🏖️Upgrade to ice insulated boxes and keep every sip perfectly chilled for parties and picnics. 🧊 Limited pieces left.\n\n👉 Check out the range at our stores in⚡\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #summerparty #iceinsulatedboxes #chilleddrinks #summervibes #picnic\n\nMahavirhomestore, My Homely Store, Ice-Insulated Boxes, Summer Party, Chilled Drinks, Glassware, Snack Serveware, Homestore, Home Decor, Home Essentials,  Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+          "likes": 10,
+          "comments": 4,
+          "views": 655,
+          "posted_at": "2026-04-21T07:40:12.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXV5iyTjLFb/",
+          "thumbnail_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/670281046_18544993654068633_7708109623921831628_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG1D2cnHf_FVfNfEX68LPSRkjj2R0_U4yCXHmP0rR8k_MB0yYET74s5s72jRkrzzE4&_nc_ohc=c0Yqmm5dwVcQ7kNvwG1xZR-&_nc_gid=4W-tp8pKRmnn5XfnAB_Skg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2XazjjIdHVbMcEiHI_cNQDXpcRwOAdhOL7g2qj3i3iSg&oe=69F6BC2C&_nc_sid=8b3546",
+          "caption": "Induction is back 🔥 Digital & keypad options with warranty ✅ No more cylinder hassle switch smarter today ⚡\n\n👉 Visit soon, inductions available till stock lasts 🔌\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #induction #switchtoinduction #lpgshortage #inductioncooking #inductioncookware\n\nMahavirhomestore, My Homely Store, Induction, Gas Hassel, Cookware, Homestore, Home Decor, Home Essentials,  Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+          "likes": 16,
+          "comments": 3,
+          "views": 435,
+          "posted_at": "2026-04-20T05:45:25.000Z"
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "+919821139389",
+          "date": "2026-04-22T10:07:17.000Z",
+          "post_url": "https://www.instagram.com/p/DXbhIoCDFXG/"
+        },
+        {
+          "type": "phone",
+          "value": "+919967276114",
+          "date": "2026-04-22T10:07:17.000Z",
+          "post_url": "https://www.instagram.com/p/DXbhIoCDFXG/"
+        },
+        {
+          "type": "phone",
+          "value": "+919320550011",
+          "date": "2026-04-22T10:07:17.000Z",
+          "post_url": "https://www.instagram.com/p/DXbhIoCDFXG/"
+        }
+      ],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": "https://linkbio.co/50324088kX8fv",
+        "address": null,
+        "city": null
+      }
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@MahavirTheHomeStore",
+      "profile_pic_url": "https://yt3.googleusercontent.com/1ctWndkR3btzIKFs5mObhHBHwX-rvmqDbNtOcv058vTLsV7A7vbKpBf3UVUPVagWvUGKcAtVsQ=s160-c-k-c0x00ffffff-no-rj",
+      "banner_url": null,
+      "bio": null,
+      "followers_count": 21000,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/E4cWQ_EGVYI",
+          "thumbnail_url": "https://i.ytimg.com/vi/E4cWQ_EGVYI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAIjGD2uYw3lz7VsB1fibPTwQJW-g",
+          "caption": "Small changes. Big transformation. ✨ A new bedsheet, stylish cushions, elegant curtains and your whole room feels brand new! Makeover your space easily with Mahavir Home Store. 🏠💫\n\nVisit our stores to shop now!\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\nOr visit our website www.mahavirhomestore.com to shop now~\n\n[ Mahavir home store, My Homely Store, Bedsheets, Curtains, Room Makeover, Home decor, Home essentials, Home sweet home, Kitchen appliances, Kitchen essentials, Home essentials ]",
+          "likes": 0,
+          "comments": 0,
+          "views": 19,
+          "posted_at": "2026-04-22T03:26:03.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/BRItBeiP0Fg",
+          "thumbnail_url": "https://i.ytimg.com/vi/BRItBeiP0Fg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBWKE4wDw==&rs=AOn4CLAHqJoz1l7lvsmkUxXcONd5XQohAQ",
+          "caption": "Ever wondered why Glass, Kansa & Steel are most commonly used for serving? 🤔 Kansa supports digestion, steel is hygienic & durable, and glass keeps your food pure and non-reactive each has its own benefit for everyday living.\n\nVisit our stores to shop now!\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\nOr visit our website www.mahavirhomestore.com to shop now.\n\n[ Mahavirhomestore, MyHomelyStore, Kansa Thali Set, Glass Dinner Set, Steel Thali Set, Homestore, Homedecor, Homeessentials, Homesweethome, Kitchenappliances, Kitchenessentials, Homeessentials ]",
+          "likes": 0,
+          "comments": 0,
+          "views": 96,
+          "posted_at": "2026-04-22T03:18:23.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/2OkSNgwZJkM",
+          "thumbnail_url": "https://i.ytimg.com/vi/2OkSNgwZJkM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AcoFgAL6CYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDFw4MB8grGsH-nbNv4LYdi3BS9Uw",
+          "caption": "From vibrant designs to party-perfect servings it’s made for every summer moment 🎉 Perfect for get-togethers, IPL nights & thoughtful gifting 🎁\n\n👉🏻 Visit us today & bring home your summer chill partner 🍨\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #summerparty #icecreamcups #bowls #dessertbowls #summervibes\n\nMahavirhomestore, My Homely Store, Ice-Cream Cups, Dessert Bowls, Summer Vibes, Summer Party, Homestore, Home Decor, Home Essentials, Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+          "likes": 3,
+          "comments": 0,
+          "views": 292,
+          "posted_at": "2026-04-27T05:00:28.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/31vam9bTrXw",
+          "thumbnail_url": "https://i.ytimg.com/vi/31vam9bTrXw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYRyBRKGUwDw==&rs=AOn4CLCQbENjZwITKoePu2ZIohYTCa8iCg",
+          "caption": "This innovative stainless steel container is microwave-safe, leak-proof, and perfect for storage, tiffin, or on-the-go meals. Say goodbye to single-use containers and hello to convenience and eco-friendly living!\n\nVisit our stores to shop now!\n\n📍Santacruz\n📍Chembur\n📍Virar\n\nOr shop online at www.mahavirhomestore.com\n\n#mahavirhomestore #steelcontainer #steelbox #steeltiffin #stainlesssteel #homestore #homedecor #kitchenappliances #steel #kitchenessentials #homeessentials #homesweethome",
+          "likes": 3,
+          "comments": 0,
+          "views": 800,
+          "posted_at": "2026-04-24T06:19:09.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/WCr5pbcyCkw",
+          "thumbnail_url": "https://i.ytimg.com/vi/WCr5pbcyCkw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYKCBWKH8wDw==&rs=AOn4CLCvHFkjU02TDXgAIkuRN7iU-TL85A",
+          "caption": "Still serving warm drinks this summer? 🍷 That’s not it. 🏖️Upgrade to ice insulated boxes and keep every sip perfectly chilled for parties and picnics. 🧊 Limited pieces left.\n\n👉 Check out the range at our stores in⚡\n\n📍Santacruz\nPhone Number +919821139389.\nShop No.3B Matches Wala compound, Santacruz Railway Station Rd, Opp. Arun Bazaar, Santacruz west, Mumbai, Maharashtra 400054\n\n📍Chembur\nPhone Number +919967276114.\nGr Floor, Kukreja Arcade, 19th Rd, Opp Bata Showroom Chembur Gaothan , Chembur East, Mumbai Maharashtra 400071\n\n📍Virar\nPhone Number +919320550011.\nVirar, Road Opp Vitthal Mandir, Agashi, Virar Maharashtra 401303\n\n[ #summerparty #iceinsulatedboxes #chilleddrinks #summervibes #picnic\n\nMahavirhomestore, My Homely Store, Ice-Insulated Boxes, Summer Party, Chilled Drinks, Glassware, Snack Serveware, Homestore, Home Decor, Home Essentials, Home Sweet Home, Kitchen Appliances, Kitchen Essentials, Home Essentials ]",
+          "likes": 2,
+          "comments": 0,
+          "views": 155,
+          "posted_at": "2026-04-24T06:15:45.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/wzZLm2p_7tk",
+          "thumbnail_url": "https://i.ytimg.com/vi/wzZLm2p_7tk/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBjKFkwDw==&rs=AOn4CLBRNerHg0eA-ujaHcQjmSSSqsIhVQ",
+          "caption": "Induction back🔥Digital & keypad options with warranty No more cylinder hassle switch smarter today.",
+          "likes": 0,
+          "comments": 0,
+          "views": 115,
+          "posted_at": "2026-04-23T05:09:32.000Z"
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "+919821139389",
+          "date": "2026-04-22T03:26:03.000Z",
+          "post_url": "https://www.youtube.com/shorts/E4cWQ_EGVYI"
+        },
+        {
+          "type": "phone",
+          "value": "+919967276114",
+          "date": "2026-04-22T03:26:03.000Z",
+          "post_url": "https://www.youtube.com/shorts/E4cWQ_EGVYI"
+        },
+        {
+          "type": "phone",
+          "value": "+919320550011",
+          "date": "2026-04-22T03:26:03.000Z",
+          "post_url": "https://www.youtube.com/shorts/E4cWQ_EGVYI"
+        }
+      ],
+      "extra_profile": {
+        "location": null,
+        "links": []
+      }
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-04-28T17:56:36.819Z",
+    "duration_seconds": 172,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "ReviewsFetcher",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 16,
+      "Agent04/Media": 16,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "reviews",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [],
+        "quality_target": 0.8,
+        "reasoning": "The seller record contains company information, 258 raw products (processing up to 20 as per instruction), and a reviews API URL. Therefore, all relevant agents will be run: company, product, reviews, and dedup, followed by writing to the catalog. The quality target is set to 0.8 given the available data."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": 0.9,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 16,
+      "enriched": 16,
+      "catalog_items": 25,
+      "rejected": 0,
+      "with_vision": 16,
+      "vision_skipped": 0
+    },
+    "social": {
+      "urls_detected": 3,
+      "platforms_scraped": [
+        "facebook",
+        "instagram",
+        "youtube"
+      ],
+      "posts_collected": 15,
+      "social_products_extracted": 9
+    },
+    "overall_confidence": 0.9
+  },
+  "_saved_at": "2026-04-28T17:59:28.868Z"
+}
