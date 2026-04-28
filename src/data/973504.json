@@ -3,161 +3,198 @@
   "company_profile": {
     "name": {
       "value": "Kathuria Rollmill Private Limited",
-      "sources": ["website"],
-      "date": null,
-      "post_url": null
-    },
-    "description": {
-      "value": "Kathuria Rollmill Private Limited, based in Vijay Nagar, Uttar Pradesh, is a prominent industrial equipment supplier and manufacturing firm. They specialize in providing comprehensive steel rolling mill solutions, leveraging technology and innovation to deliver high-quality products and services, including specialized equipment like Grip Tilters. The company is dedicated to optimizing manufacturing processes for clients across India and globally.",
-      "sources": ["llm_generated"],
+      "sources": [
+        "website"
+      ],
       "date": null,
       "post_url": null
     },
     "city": {
       "value": "Vijay Nagar",
-      "sources": ["website"],
+      "sources": [
+        "website"
+      ],
       "date": null,
       "post_url": null
     },
     "state": {
       "value": "Uttar Pradesh",
-      "sources": ["gst"],
+      "sources": [
+        "gst"
+      ],
       "date": null,
       "post_url": null
     },
     "address": {
       "value": "A7/56-58, SSGT Road Industrial Area,Vijay Nagar,Uttar Pradesh 201009,India",
-      "sources": ["website"],
+      "sources": [
+        "website"
+      ],
       "date": null,
       "post_url": null
     },
     "pincode": {
       "value": "201009",
-      "sources": ["gst"],
+      "sources": [
+        "gst"
+      ],
       "date": null,
       "post_url": null
     },
     "website": {
       "value": "http://kathuriarollmill.com",
-      "sources": ["website"],
+      "sources": [
+        "website"
+      ],
       "date": null,
       "post_url": null
     },
     "business_type": {
       "value": "Industrial equipment supplier",
-      "sources": ["website"],
+      "sources": [
+        "website"
+      ],
       "date": null,
       "post_url": null
     },
     "owner_name": {
-      "value": "UMESH KATHURIA ,KAMAL KATHURIA ",
-      "sources": ["gst"],
+      "value": "UMESH  KATHURIA ,KAMAL  KATHURIA ",
+      "sources": [
+        "gst"
+      ],
       "date": null,
       "post_url": null
     },
     "gst_number": {
       "value": "09AABCK0457H1ZM",
-      "sources": ["gst"],
+      "sources": [
+        "gst"
+      ],
       "date": null,
       "post_url": null
     },
     "pan_number": {
       "value": "AABCK0457H",
-      "sources": ["gst"],
+      "sources": [
+        "gst"
+      ],
       "date": null,
       "post_url": null
     },
     "rating_value": {
       "value": 3.9,
-      "sources": ["website"],
+      "sources": [
+        "website"
+      ],
       "date": null,
       "post_url": null
     },
     "rating_count": {
       "value": 18,
-      "sources": ["website"],
+      "sources": [
+        "website"
+      ],
       "date": null,
       "post_url": null
     },
     "gst_registration_year": {
       "value": "2017-07-01",
-      "sources": ["gst"],
+      "sources": [
+        "gst"
+      ],
       "date": null,
       "post_url": null
     },
     "gmb_ludocid": {
       "value": "17672072894172846116",
-      "sources": ["google"],
+      "sources": [
+        "google"
+      ],
       "date": null,
       "post_url": null
     },
     "bio": {
-      "value": [
-        "Kathuria Rollmill. 5,487 likes",
-        "35 talking about this. Digital creator"
+      "value": "Uncomplicreate Studio helps you uncomplicate your creative, design and digital requirements.",
+      "sources": [
+        "youtube"
       ],
-      "sources": ["facebook"],
       "date": null,
       "post_url": null
     },
     "logo_url": {
-      "value": "https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/100949754_998790843868700_647132416229507072_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMDAuYzIifQ&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=LZ7vbe-LcEsQ7kNvwEQlAk0&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3-7V9f2Zmg5T_yx5TmP1gJquRCn48N1RdKP9RjmNaK5g&oe=69F4EDDF&_nc_sid=8b3546",
-      "sources": ["instagram"],
-      "date": null,
-      "post_url": null
-    },
-    "banner_url": {
-      "value": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/503701759_4189322768055569_5432207140032173282_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=mSr7W8gDJ6kQ7kNvwFSlgz-&_nc_oc=AdpRk_F26BpnZ1cPTBRfQ_yhYiYkuaxfFz-FjBzh7vJvTsgKQPYY00rakPSINlN_102AAiY0F13gQh8VoYMTDkRh&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=mldBEdTuTI0etCpBqvDVyA&_nc_ss=7c289&oh=00_Af0PqJdwWLeOhdvHu-9tG3e1HburRq_4oNk3pAktlbfmAA&oe=69F503E8",
-      "sources": ["facebook"],
+      "value": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/100949754_998790843868700_647132416229507072_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMDAuYzIifQ&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=LZ7vbe-LcEsQ7kNvwHVW2YP&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1M69Uno4NZnVX392lLYeodGb10AjlsnAAAEn012v3VoQ&oe=69F5261F&_nc_sid=8b3546",
+      "sources": [
+        "instagram"
+      ],
       "date": null,
       "post_url": null
     },
     "business_activity": {
       "value": "Factory / Manufacturing,Recipient of Goods or Services,EOU / STP / EHTP",
-      "sources": ["gst"],
+      "sources": [
+        "gst"
+      ],
       "date": null,
       "post_url": null
     },
     "facebook": {
       "value": "https://www.facebook.com/profile.php?id=100009336628468",
-      "sources": ["website", "google", "facebook"],
+      "sources": [
+        "website",
+        "google",
+        "facebook"
+      ],
       "date": null,
       "post_url": null
     },
     "instagram": {
       "value": "https://www.instagram.com/kathuriarollmill/",
-      "sources": ["website"],
+      "sources": [
+        "website"
+      ],
       "date": null,
       "post_url": null
     },
     "youtube": {
       "value": "https://www.youtube.com/channel/UCIatc2x_a0bemmwreUpR53A",
-      "sources": ["website", "youtube"],
+      "sources": [
+        "website",
+        "youtube"
+      ],
       "date": null,
       "post_url": null
     },
     "linkedin": {
       "value": "https://in.linkedin.com/company/kathuria-rollmill-pvt-ltd",
-      "sources": ["website"],
+      "sources": [
+        "website"
+      ],
       "date": null,
       "post_url": null
     },
     "twitter": {
       "value": "https://twitter.com/KRollmill",
-      "sources": ["website", "google"],
+      "sources": [
+        "website",
+        "google"
+      ],
       "date": null,
       "post_url": null
     },
     "phones": [
       {
         "value": "+911204179800",
-        "sources": ["website"],
+        "sources": [
+          "website"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "+917428982666",
-        "sources": ["instagram"],
+        "sources": [
+          "instagram"
+        ],
         "date": "2022-03-09T06:58:40.000Z",
         "post_url": "https://www.instagram.com/p/Ca36_x-A9af/"
       }
@@ -165,7 +202,10 @@
     "emails": [
       {
         "value": "info@kathuriarollmill.com",
-        "sources": ["website", "instagram"],
+        "sources": [
+          "website",
+          "instagram"
+        ],
         "date": "2022-03-09T06:58:40.000Z",
         "post_url": "https://www.instagram.com/p/Ca36_x-A9af/"
       }
@@ -173,68 +213,118 @@
     "social_urls": [
       {
         "value": "https://api.whatsapp.com/send?phone=+91+742+898+2666",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "https://www.facebook.com/profile.php?id=100009336628468",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "https://in.linkedin.com/company/kathuria-rollmill-pvt-ltd",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "https://twitter.com/KRollmill",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "https://www.instagram.com/kathuriarollmill/",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "https://www.youtube.com/channel/UCIatc2x_a0bemmwreUpR53A",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "https://instagram.com/kathuria_rollmill",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "https://youtube.com/@uncomplicreatestudio7380",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "https://facebook.com/profile.php",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       },
       {
         "value": "https://twitter.com/krollmill",
-        "sources": ["website", "youtube", "google", "facebook"],
+        "sources": [
+          "website",
+          "youtube",
+          "google",
+          "facebook"
+        ],
         "date": null,
         "post_url": null
       }
     ],
-    "followers_facebook": 5487,
     "followers_instagram": 105,
-    "confidence": 0.95,
+    "followers_youtube": 49,
+    "confidence": 0.8,
     "sources": [
       "website",
       "gst",
@@ -246,15 +336,19 @@
     ],
     "social_metrics": [
       {
-        "platform": "facebook",
-        "followers": 5487
-      },
-      {
         "platform": "instagram",
         "followers": 105
+      },
+      {
+        "platform": "youtube",
+        "followers": 49
       }
     ],
-    "data_sources": ["instagram", "website", "youtube"],
+    "data_sources": [
+      "instagram",
+      "website",
+      "youtube"
+    ],
     "reviews_api_url": "https://api.scrapingdog.com/google_maps/reviews?api_key=69859b2025968963c82b2349&data_id=0x390cee29dd21479d:0xf53fd0aaa5fb5824"
   },
   "products": [
@@ -262,16 +356,16 @@
       "raw_name": "Grip Tilter",
       "clean_name": "Grip Tilter",
       "fingerprint": "de7c9296f3e9",
-      "top_level_domain": "Industrial Machinery",
+      "top_level_domain": "Industrial Equipment",
       "industry_segment": "Material Handling Equipment",
       "product_category": "Tilter",
       "product_sub_type": "Grip Tilter",
-      "buyer_persona": "A production manager or safety officer in a manufacturing plant needing to safely and efficiently tilt heavy workpieces or containers.",
-      "description": "Grip Tilter is a grip tilter offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Priced at Rs. 100. Suitable for: A production manager or safety officer in a manufacturing plant needing to safely and efficiently tilt heavy workpieces or containers.",
+      "buyer_persona": "A procurement manager or operations supervisor in a manufacturing, warehousing, or logistics facility seeking equipment to safely and efficiently tilt or reorient materials.",
+      "description": "Grip Tilter is a grip tilter offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Priced at Rs. 100. Suitable for: A procurement manager or operations supervisor in a manufacturing, warehousing, or logistics facility seeking equipment to safely and efficiently tilt or reorient materials.",
       "seo_title": "Grip Tilter Grip Tilter | Catalog Listing",
       "tags": [
         "Grip Tilter",
-        "Industrial Machinery",
+        "Industrial Equipment",
         "Material Handling Equipment",
         "Tilter"
       ],
@@ -315,35 +409,37 @@
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"]
+      "sources": [
+        "website"
+      ]
     },
     {
       "raw_name": "Mill Stands",
       "clean_name": "Mill Stands",
       "fingerprint": "5ca2e9e0b4af",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Rolling Mill Component",
-      "product_sub_type": "Mill Stand",
-      "buyer_persona": "A plant manager or procurement specialist in a steel mill or metal rolling facility looking to replace or upgrade components for their rolling lines.",
-      "description": "Mill Stands is a mill stand offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A plant manager or procurement specialist in a steel mill or metal rolling facility looking to replace or upgrade components for their rolling lines.",
-      "seo_title": "Mill Stands Mill Stand | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metal Processing & Fabrication Machinery",
+      "product_category": "Mill Stand",
+      "product_sub_type": "Rolling Mill Stand",
+      "buyer_persona": "A procurement manager or plant engineer in a steel mill or metal fabrication facility looking for replacement parts or components for their rolling mill machinery.",
+      "description": "Mill Stands is a rolling mill stand offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or plant engineer in a steel mill or metal fabrication facility looking for replacement parts or components for their rolling mill machinery.",
+      "seo_title": "Mill Stands Rolling Mill Stand | Catalog Listing",
       "tags": [
         "Mill Stands",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Rolling Mill Component",
-        "Mill Stand"
+        "Industrial Equipment",
+        "Metal Processing & Fabrication Machinery",
+        "Mill Stand",
+        "Rolling Mill Stand"
       ],
       "alt_text": "Mill Stands from Kathuria Rollmill Private Limited",
       "domain_attributes": {
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/1.webp"
       },
       "specifications": {
-        "category": "Rolling Mill Component",
-        "sub_type": "Mill Stand",
+        "category": "Mill Stand",
+        "sub_type": "Rolling Mill Stand",
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/1.webp",
-        "source_url": null,
+        "source_url": "https://www.youtube.com/watch?v=bZnbYb_1YeI",
         "price_single": null,
         "price_min": null,
         "price_max": null,
@@ -369,35 +465,37 @@
       "currency": "INR",
       "primary_photo_url": "https://www.kathuriarollmill.com/images/case-studies/grid/1.webp",
       "photo_urls": [
-        "https://www.kathuriarollmill.com/images/case-studies/grid/1.webp"
+        "https://www.kathuriarollmill.com/images/case-studies/grid/1.webp",
+        "https://i.ytimg.com/vi/bZnbYb_1YeI/hqdefault.jpg",
+        "https://i.ytimg.com/vi/1z_LtW9wR4k/maxresdefault.jpg"
       ],
-      "source_url": null,
+      "source_url": "https://www.youtube.com/watch?v=bZnbYb_1YeI",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.98,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website", "instagram", "youtube"],
+      "sources": [
+        "website",
+        "youtube"
+      ],
       "social_sources": [
         {
-          "platform": "instagram",
-          "post_url": "https://www.instagram.com/p/CUCzZbdpKSq/",
-          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/619678760_18091307428819213_3906296258807921355_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=1J-6fxMTWg8Q7kNvwG6ojkx&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjY2NjkxOTk3NzIwNDA5ODIxOA%3D%3D.3-ccb7-5&oh=00_Af2aKUSzDf4B997FqSn_SGXsXkAC9c4XOURjQLwTTLYgRA&oe=69F4FB92&_nc_sid=8b3546",
-          "caption": "#Kathuria Rollmill is pleased to announce the successful and swift #commissioning of 300,000 TPA #TMT bar mill at Rungta Mines Ltd., Chaliyama Steel Plant II. \n.\n.\n.\nIf you have a question - please feel free to drop a comment. Or if you would like to get in touch with us, please contact us at info@kathuriarollmill.com or +91 120 4179800/+91 7428982666.\n\nAt Kathuria Rollmill (https://kathuriarollmill.com), we are working everyday to offer progressive - forward thinking - solutions. 100+ clients across the globe trust our commitment to quality. Become a part of the Kathuria family today! \n\n#Kathuria #rollingmill #TMTrebars #Steel #hotrolling #MakeinIndia",
-          "posted_at": "2021-09-20T12:40:57.000Z",
-          "likes": 21,
-          "views": null
-        },
-        {
           "platform": "youtube",
-          "post_url": "https://www.youtube.com/watch?v=0OASHOps8UI",
-          "thumbnail_url": "https://i.ytimg.com/vi/0OASHOps8UI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGHIgSCg3MA8=&rs=AOn4CLBrJKQcYF5utal2JxyzhOC5hgU2dA",
-          "caption": "Successful Installation and Running of 'kathuria' Housingless Mill Stands along with Gear Boxes & auxiliaries in 'Electrotherm'",
-          "posted_at": "2020-02-24T13:00:01.000Z",
-          "likes": 2,
-          "views": 227
+          "post_url": "https://www.youtube.com/watch?v=bZnbYb_1YeI",
+          "thumbnail_url": "https://i.ytimg.com/vi/bZnbYb_1YeI/hqdefault.jpg",
+          "caption": "Successful Installation and Running of 'kathuria' Pre-Stressed Mill Stands along with auxiliaries at one of our customer's site in India",
+          "posted_at": "2020-06-03T05:55:56.000Z",
+          "likes": 7,
+          "views": 607
+        }
+      ],
+      "source_urls": [
+        {
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=bZnbYb_1YeI"
         }
       ]
     },
@@ -405,27 +503,26 @@
       "raw_name": "Shears",
       "clean_name": "Shears",
       "fingerprint": "7a7b532c9626",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Cutting Machine",
-      "product_sub_type": "Shear",
-      "buyer_persona": "A production engineer or plant manager in a metal fabrication shop or steel mill requiring precise and efficient cutting of metal sheets, bars, or sections.",
-      "description": "Shears is a shear offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A production engineer or plant manager in a metal fabrication shop or steel mill requiring precise and efficient cutting of metal sheets, bars, or sections.",
-      "seo_title": "Shears Shear | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metalworking & Fabrication",
+      "product_category": "Shear",
+      "product_sub_type": "Industrial Shear",
+      "buyer_persona": "A procurement manager or workshop owner seeking cutting tools for industrial manufacturing, fabrication, or processing applications.",
+      "description": "Shears is a industrial shears offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or workshop owner seeking cutting tools for industrial manufacturing, fabrication, or processing applications.",
+      "seo_title": "Shears Industrial Shears | Catalog Listing",
       "tags": [
         "Shears",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Cutting Machine",
-        "Shear"
+        "Industrial Equipment",
+        "Metalworking & Fabrication",
+        "Industrial Shears"
       ],
       "alt_text": "Shears from Kathuria Rollmill Private Limited",
       "domain_attributes": {
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/3.webp"
       },
       "specifications": {
-        "category": "Cutting Machine",
-        "sub_type": "Shear",
+        "category": "Shear",
+        "sub_type": "Industrial Shear",
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/3.webp",
         "source_url": null,
         "price_single": null,
@@ -458,37 +555,42 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.97,
+      "classification_confidence": 0.8,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
-      "warnings": [],
-      "sources": ["website"]
+      "warnings": [
+        "Product name is generic, leading to a less specific classification. More details would improve accuracy."
+      ],
+      "sources": [
+        "website"
+      ]
     },
     {
       "raw_name": "Automatic Cooling Bed",
       "clean_name": "Automatic Cooling Bed",
       "fingerprint": "8a56d990d54c",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Cooling System",
-      "product_sub_type": "Automatic Cooling Bed",
-      "buyer_persona": "A project engineer or operations manager in a steel rolling mill seeking automated solutions for controlled cooling and handling of hot rolled products.",
-      "description": "Automatic Cooling Bed is a automatic cooling bed offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A project engineer or operations manager in a steel rolling mill seeking automated solutions for controlled cooling and handling of hot rolled products.",
-      "seo_title": "Automatic Cooling Bed Automatic Cooling Bed | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metal Processing & Fabrication",
+      "product_category": "Cooling Bed",
+      "product_sub_type": "Automatic Industrial Cooling Bed",
+      "buyer_persona": "A procurement manager or plant engineer in a metal processing, steel, or rolling mill facility, looking to cool hot-rolled products efficiently and automatically.",
+      "description": "Automatic Cooling Bed is a automatic industrial cooling bed offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or plant engineer in a metal processing, steel, or rolling mill facility, looking to cool hot-rolled products efficiently and automatically.",
+      "seo_title": "Automatic Cooling Bed Automatic Industrial Cooling Bed | Catalog Listi",
       "tags": [
         "Automatic Cooling Bed",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Cooling System"
+        "Industrial Equipment",
+        "Metal Processing & Fabrication",
+        "Cooling Bed",
+        "Automatic Industrial Cooling Bed"
       ],
       "alt_text": "Automatic Cooling Bed from Kathuria Rollmill Private Limited",
       "domain_attributes": {
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/4a.webp"
       },
       "specifications": {
-        "category": "Cooling System",
-        "sub_type": "Automatic Cooling Bed",
+        "category": "Cooling Bed",
+        "sub_type": "Automatic Industrial Cooling Bed",
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/4a.webp",
         "source_url": null,
         "price_single": null,
@@ -521,47 +623,38 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.98,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website", "youtube"],
-      "social_sources": [
-        {
-          "platform": "youtube",
-          "post_url": "https://www.youtube.com/watch?v=-Oay_1BdfEE",
-          "thumbnail_url": "https://i.ytimg.com/vi/-Oay_1BdfEE/hqdefault.jpg",
-          "caption": "Successful Installation and Running of 'kathuria' Complete Automatic Rack Type Cooling Bed (78 meters x 7 meters) at one of our customer's site in Maharashtra, India",
-          "posted_at": "2020-06-05T11:20:59.000Z",
-          "likes": 3,
-          "views": 479
-        }
+      "sources": [
+        "website"
       ]
     },
     {
       "raw_name": "Section Stacker",
       "clean_name": "Section Stacker",
       "fingerprint": "41365322ec81",
-      "top_level_domain": "Industrial Machinery",
+      "top_level_domain": "Industrial Equipment",
       "industry_segment": "Material Handling Equipment",
-      "product_category": "Stacking Machine",
+      "product_category": "Stacker",
       "product_sub_type": "Section Stacker",
-      "buyer_persona": "A logistics manager or production supervisor in a steel plant or fabrication facility needing to automate the stacking of various metal sections for storage or further processing.",
-      "description": "Section Stacker is a section stacker offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A logistics manager or production supervisor in a steel plant or fabrication facility needing to automate the stacking of various metal sections for storage or further processing.",
+      "buyer_persona": "A procurement manager or operations supervisor in a manufacturing, construction, or warehousing facility looking for equipment to efficiently stack and organize various sections of material.",
+      "description": "Section Stacker is a section stacker offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or operations supervisor in a manufacturing, construction, or warehousing facility looking for equipment to efficiently stack and organize various sections of material.",
       "seo_title": "Section Stacker Section Stacker | Catalog Listing",
       "tags": [
         "Section Stacker",
-        "Industrial Machinery",
+        "Industrial Equipment",
         "Material Handling Equipment",
-        "Stacking Machine"
+        "Stacker"
       ],
       "alt_text": "Section Stacker from Kathuria Rollmill Private Limited",
       "domain_attributes": {
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/5a.webp"
       },
       "specifications": {
-        "category": "Stacking Machine",
+        "category": "Stacker",
         "sub_type": "Section Stacker",
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/5a.webp",
         "source_url": null,
@@ -595,38 +688,40 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.97,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"]
+      "sources": [
+        "website"
+      ]
     },
     {
       "raw_name": "Handling Lines",
       "clean_name": "Handling Lines",
       "fingerprint": "4de8efad6d29",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Material Handling Equipment",
-      "product_category": "Material Handling System",
-      "product_sub_type": "Handling Line",
-      "buyer_persona": "A project manager or plant owner in heavy industry looking for integrated solutions to automate the movement, transfer, and processing of materials within their facility.",
-      "description": "Handling Lines is a handling line offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A project manager or plant owner in heavy industry looking for integrated solutions to automate the movement, transfer, and processing of materials within their facility.",
-      "seo_title": "Handling Lines Handling Line | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Manufacturing & Production",
+      "product_category": "Handling System",
+      "product_sub_type": "Industrial Handling Line",
+      "buyer_persona": "A procurement manager or operations director in a manufacturing or logistics company looking for equipment to automate or improve their material flow.",
+      "description": "Handling Lines is a industrial handling line offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or operations director in a manufacturing or logistics company looking for equipment to automate or improve their material flow.",
+      "seo_title": "Handling Lines Industrial Handling Line | Catalog Listing",
       "tags": [
         "Handling Lines",
-        "Industrial Machinery",
-        "Material Handling Equipment",
-        "Material Handling System",
-        "Handling Line"
+        "Industrial Equipment",
+        "Manufacturing & Production",
+        "Handling System",
+        "Industrial Handling Line"
       ],
       "alt_text": "Handling Lines from Kathuria Rollmill Private Limited",
       "domain_attributes": {
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/12.webp"
       },
       "specifications": {
-        "category": "Material Handling System",
-        "sub_type": "Handling Line",
+        "category": "Handling System",
+        "sub_type": "Industrial Handling Line",
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/12.webp",
         "source_url": null,
         "price_single": null,
@@ -659,37 +754,41 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.96,
+      "classification_confidence": 0.45,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
-      "warnings": [],
-      "sources": ["website"]
+      "warnings": [
+        "Product name too generic for specific classification. Seller context used to infer industrial application."
+      ],
+      "sources": [
+        "website"
+      ]
     },
     {
       "raw_name": "Hot Saw",
       "clean_name": "Hot Saw",
       "fingerprint": "4f7f2da1e06d",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Cutting Machine",
-      "product_sub_type": "Hot Saw",
-      "buyer_persona": "A production engineer in a steel mill requiring high-speed, precise cutting of hot rolled products immediately after the rolling process.",
-      "description": "Hot Saw is a hot saw offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A production engineer in a steel mill requiring high-speed, precise cutting of hot rolled products immediately after the rolling process.",
-      "seo_title": "Hot Saw Hot Saw | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metalworking & Fabrication",
+      "product_category": "Hot Saw",
+      "product_sub_type": "Industrial Hot Saw Machine",
+      "buyer_persona": "A procurement manager or plant engineer in a steel mill, foundry, or heavy metal fabrication facility seeking a robust and efficient saw for cutting hot metal.",
+      "description": "Hot Saw is a industrial hot saw machine offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or plant engineer in a steel mill, foundry, or heavy metal fabrication facility seeking a robust and efficient saw for cutting hot metal.",
+      "seo_title": "Hot Saw Industrial Hot Saw Machine | Catalog Listing",
       "tags": [
         "Hot Saw",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Cutting Machine"
+        "Industrial Equipment",
+        "Metalworking & Fabrication",
+        "Industrial Hot Saw Machine"
       ],
       "alt_text": "Hot Saw from Kathuria Rollmill Private Limited",
       "domain_attributes": {
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/11.webp"
       },
       "specifications": {
-        "category": "Cutting Machine",
-        "sub_type": "Hot Saw",
+        "category": "Hot Saw",
+        "sub_type": "Industrial Hot Saw Machine",
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/11.webp",
         "source_url": null,
         "price_single": null,
@@ -722,29 +821,32 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.98,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"]
+      "sources": [
+        "website"
+      ]
     },
     {
       "raw_name": "Online Section Straightening Machine",
       "clean_name": "Online Section Straightening Machine",
       "fingerprint": "1683c8f10311",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metalworking & Fabrication",
       "product_category": "Straightening Machine",
-      "product_sub_type": "Online Section Straightening Machine",
-      "buyer_persona": "A quality control manager or production supervisor in a steel rolling mill focused on achieving precise dimensional accuracy and straightness for finished metal sections.",
-      "description": "Online Section Straightening Machine is a online section straightening machine offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A quality control manager or production supervisor in a steel rolling mill focused on achieving precise dimensional accuracy and straightness for finished metal sections.",
-      "seo_title": "Online Section Straightening Machine Online Section Straightening Mach",
+      "product_sub_type": "Section Straightening Machine",
+      "buyer_persona": "A procurement manager or production engineer in a metal fabrication plant or steel mill, looking to integrate a machine for straightening metal sections into their production line to improve material quality and efficiency.",
+      "description": "Online Section Straightening Machine is a section straightening machine offered by Kathuria Rollmill Private Limited based in Vijay Nagar.",
+      "seo_title": "Online Section Straightening Machine Section Straightening Machine | C",
       "tags": [
         "Online Section Straightening Machine",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Straightening Machine"
+        "Industrial Equipment",
+        "Metalworking & Fabrication",
+        "Straightening Machine",
+        "Section Straightening Machine"
       ],
       "alt_text": "Online Section Straightening Machine from Kathuria Rollmill Private Limited",
       "domain_attributes": {
@@ -752,7 +854,7 @@
       },
       "specifications": {
         "category": "Straightening Machine",
-        "sub_type": "Online Section Straightening Machine",
+        "sub_type": "Section Straightening Machine",
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/13.webp",
         "source_url": null,
         "price_single": null,
@@ -785,38 +887,40 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.98,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"]
+      "sources": [
+        "website"
+      ]
     },
     {
       "raw_name": "Mill Gear Boxes",
       "clean_name": "Mill Gear Boxes",
       "fingerprint": "e92cbd0c36c7",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Power Transmission Component",
-      "product_category": "Gearbox",
-      "product_sub_type": "Mill Gearbox",
-      "buyer_persona": "A maintenance engineer or procurement specialist in a heavy industrial plant, particularly a rolling mill, needing robust and reliable gearboxes for power transmission.",
-      "description": "Mill Gear Boxes is a mill gearbox offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A maintenance engineer or procurement specialist in a heavy industrial plant, particularly a rolling mill, needing robust and reliable gearboxes for power transmission.",
-      "seo_title": "Mill Gear Boxes Mill Gearbox | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Power Transmission & Gearing",
+      "product_category": "Gear Box",
+      "product_sub_type": "Mill Gear Box",
+      "buyer_persona": "A procurement manager or engineer in a heavy industry manufacturing plant (e.g., cement, sugar, steel mill) seeking durable power transmission components for their machinery.",
+      "description": "Mill Gear Boxes is a mill gear box offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or engineer in a heavy industry manufacturing plant (e.g., cement, sugar, steel mill) seeking durable power transmission components for their machinery.",
+      "seo_title": "Mill Gear Boxes Mill Gear Box | Catalog Listing",
       "tags": [
         "Mill Gear Boxes",
-        "Industrial Machinery",
-        "Power Transmission Components",
-        "Gearbox",
-        "Mill Gearbox"
+        "Industrial Equipment",
+        "Power Transmission & Gearing",
+        "Gear Box",
+        "Mill Gear Box"
       ],
       "alt_text": "Mill Gear Boxes from Kathuria Rollmill Private Limited",
       "domain_attributes": {
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/millgearbox.webp"
       },
       "specifications": {
-        "category": "Gearbox",
-        "sub_type": "Mill Gearbox",
+        "category": "Gear Box",
+        "sub_type": "Mill Gear Box",
         "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/millgearbox.webp",
         "source_url": null,
         "price_single": null,
@@ -849,93 +953,32 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.97,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"]
-    },
-    {
-      "raw_name": "TMT Quenching System",
-      "clean_name": "TMT Quenching System",
-      "fingerprint": "2116794bef69",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Quenching System",
-      "product_sub_type": "Tmt Quenching System",
-      "buyer_persona": "A metallurgist or production manager in a steel plant specializing in TMT bar production, seeking advanced systems for controlled cooling to achieve desired mechanical properties.",
-      "description": "TMT Quenching System is a tmt quenching system offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A metallurgist or production manager in a steel plant specializing in TMT bar production, seeking advanced systems for controlled cooling to achieve desired mechanical properties.",
-      "seo_title": "TMT Quenching System TMT Quenching System | Catalog Listing",
-      "tags": [
-        "TMT Quenching System",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Quenching System"
-      ],
-      "alt_text": "TMT Quenching System from Kathuria Rollmill Private Limited",
-      "domain_attributes": {
-        "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/tmt-quenching-system.webp"
-      },
-      "specifications": {
-        "category": "Quenching System",
-        "sub_type": "Tmt Quenching System",
-        "image_url": "https://www.kathuriarollmill.com/images/case-studies/grid/tmt-quenching-system.webp",
-        "source_url": null,
-        "price_single": null,
-        "price_min": null,
-        "price_max": null,
-        "price_unit": null,
-        "currency": "INR"
-      },
-      "b2b_attributes": {
-        "moq": null,
-        "moq_unit": null,
-        "price_unit": null,
-        "hsn_code": null,
-        "gst_percent": null,
-        "country_of_origin": "India",
-        "brand": null,
-        "certifications": []
-      },
-      "price_single": null,
-      "price_min": null,
-      "price_max": null,
-      "is_price_range": false,
-      "price_on_request": true,
-      "price_unit": null,
-      "currency": "INR",
-      "primary_photo_url": "https://www.kathuriarollmill.com/images/case-studies/grid/tmt-quenching-system.webp",
-      "photo_urls": [
-        "https://www.kathuriarollmill.com/images/case-studies/grid/tmt-quenching-system.webp"
-      ],
-      "source_url": null,
-      "in_stock": true,
-      "page_slot": "products.item",
-      "classification_confidence": 0.98,
-      "extraction_confidence": 0.5,
-      "self_healing_attempted": false,
-      "retry_count": 0,
-      "warnings": [],
-      "sources": ["website"]
+      "sources": [
+        "website"
+      ]
     },
     {
       "raw_name": "Erection & Commissioning",
       "clean_name": "Erection & Commissioning",
       "fingerprint": "87549952a9bb",
-      "top_level_domain": "Service",
+      "top_level_domain": "Industrial Equipment",
       "industry_segment": "Industrial Service",
       "product_category": "Installation Service",
-      "product_sub_type": "Erection And Commissioning",
-      "buyer_persona": "A project manager or plant owner who has purchased complex industrial machinery and requires expert assistance for its assembly, installation, and initial operational setup.",
-      "description": "Erection & Commissioning is a erection and commissioning offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A project manager or plant owner who has purchased complex industrial machinery and requires expert assistance for its assembly, installation, and initial operational setup.",
-      "seo_title": "Erection & Commissioning Erection and Commissioning | Catalog Listing",
+      "product_sub_type": "Equipment Erection And Commissioning",
+      "buyer_persona": "A procurement manager or project engineer at an industrial facility seeking professional services to install and make new machinery operational.",
+      "description": "Erection & Commissioning is a equipment erection and commissioning offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or project engineer at an industrial facility seeking professional services to install and make new machinery operational.",
+      "seo_title": "Erection & Commissioning Equipment Erection and Commissioning | Catalo",
       "tags": [
         "Erection & Commissioning",
-        "Services",
+        "Industrial Equipment",
         "Industrial Services",
         "Installation Service",
-        "Erection and Commissioning"
+        "Equipment Erection and Commissioning"
       ],
       "alt_text": "Erection & Commissioning from Kathuria Rollmill Private Limited",
       "domain_attributes": {
@@ -943,7 +986,7 @@
       },
       "specifications": {
         "category": "Installation Service",
-        "sub_type": "Erection And Commissioning",
+        "sub_type": "Equipment Erection And Commissioning",
         "image_url": "https://www.kathuriarollmill.com/images/icons/erection.webp",
         "source_url": null,
         "price_single": null,
@@ -976,37 +1019,39 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.95,
+      "classification_confidence": 0.9,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"]
+      "sources": [
+        "website"
+      ]
     },
     {
       "raw_name": "After Sales Service",
       "clean_name": "After Sales Service",
       "fingerprint": "d5e8bafa22f2",
       "top_level_domain": "Service",
-      "industry_segment": "Industrial Service",
-      "product_category": "Support Service",
-      "product_sub_type": "After Sales Service",
-      "buyer_persona": "A plant manager or maintenance head seeking ongoing support, maintenance, and spare parts for their industrial machinery to ensure continuous operation and longevity.",
-      "description": "After Sales Service is a after sales service offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A plant manager or maintenance head seeking ongoing support, maintenance, and spare parts for their industrial machinery to ensure continuous operation and longevity.",
-      "seo_title": "After Sales Service After Sales Service | Catalog Listing",
+      "industry_segment": "Industrial Equipment Support",
+      "product_category": "After Sales Service",
+      "product_sub_type": "Industrial Equipment After Sales Service",
+      "buyer_persona": "A customer who has purchased industrial equipment and requires ongoing support, maintenance, or repair services to ensure operational continuity and maximize equipment lifespan.",
+      "description": "After Sales Service is a industrial equipment after sales service offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A customer who has purchased industrial equipment and requires ongoing support, maintenance, or repair services to ensure operational continuity and maximize equipment lifespan.",
+      "seo_title": "After Sales Service Industrial Equipment After Sales Service | Catalog",
       "tags": [
         "After Sales Service",
         "Services",
-        "Industrial Services",
-        "Support Service"
+        "Industrial Equipment Support",
+        "Industrial Equipment After Sales Service"
       ],
       "alt_text": "After Sales Service from Kathuria Rollmill Private Limited",
       "domain_attributes": {
         "image_url": "https://www.kathuriarollmill.com/images/icons/afterSales.webp"
       },
       "specifications": {
-        "category": "Support Service",
-        "sub_type": "After Sales Service",
+        "category": "After Sales Service",
+        "sub_type": "Industrial Equipment After Sales Service",
         "image_url": "https://www.kathuriarollmill.com/images/icons/afterSales.webp",
         "source_url": null,
         "price_single": null,
@@ -1044,7 +1089,9 @@
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"]
+      "sources": [
+        "website"
+      ]
     }
   ],
   "media_assets": [
@@ -1058,7 +1105,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-04-27T08:03:41.763Z"
+      "classified_at": "2026-04-27T12:04:43.406Z"
     },
     {
       "fingerprint": "5ca2e9e0b4af",
@@ -1067,21 +1114,21 @@
       "scene_type": "product_image",
       "media_confidence": 1,
       "visual_features": {
-        "product_type_confirmed": "Industrial rolling mill machine",
-        "shape_visible": null,
-        "color_appearance": null,
+        "product_type_confirmed": "Industrial rolling mill stand",
+        "shape_visible": "Complex industrial machinery with rectangular and cylindrical components",
+        "color_appearance": "Predominantly blue and yellow, with red-hot metal being processed",
         "clarity_appearance": null,
-        "size_impression": null,
-        "setting_or_mounting": null,
-        "metal_visible": null,
-        "certification_label_visible": true,
-        "presentation": "industrial setting, in operation",
-        "additional_visual_notes": "Visible branding 'Kathuria Rollmill' and 'C-9' on the blue casing, water cooling system in action, glowing hot metal being processed, various hoses and pipes."
+        "size_impression": "Very large, industrial scale",
+        "setting_or_mounting": "Industrial operational environment",
+        "metal_visible": "Steel/iron for the machine, red-hot processed metal",
+        "certification_label_visible": false,
+        "presentation": "Industrial operational environment",
+        "additional_visual_notes": "Water cooling system in operation, 'Kathuria Rollmill' brand name visible on the blue casing, product code 'C-9' visible."
       },
-      "visual_description": "The image displays a large, complex industrial machine, predominantly painted in blue and yellow, actively processing glowing hot metal bars. Water is visibly spraying over parts of the machinery, indicating a cooling process, while various hoses, pipes, and mechanical components are integrated throughout. The background suggests an active factory or workshop environment.",
-      "media_alt_text": "A large blue and yellow industrial rolling mill machine actively processing glowing hot metal bars with water spraying for cooling.",
+      "visual_description": "The image displays a large, robust industrial rolling mill stand, predominantly colored in blue and yellow, actively processing a glowing red-hot metal bar. Water is visibly spraying over the machinery, indicating a cooling process during operation. The background shows an industrial setting with other machinery and structures.",
+      "media_alt_text": "A blue and yellow industrial rolling mill stand with water spraying, processing a glowing red-hot metal bar in an operational factory.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:03:55.752Z"
+      "classified_at": "2026-04-27T12:04:58.161Z"
     },
     {
       "fingerprint": "7a7b532c9626",
@@ -1090,90 +1137,90 @@
       "scene_type": "product_image",
       "media_confidence": 1,
       "visual_features": {
-        "product_type_confirmed": "industrial cutting machine / heavy-duty shears machine",
-        "shape_visible": "complex, rectangular base with various protruding mechanical arms and components",
-        "color_appearance": "bright blue and yellow",
+        "product_type_confirmed": "heavy industrial machinery, possibly a component of a rolling mill or a large industrial shear",
+        "shape_visible": "complex, blocky, with various articulated arms and mechanisms",
+        "color_appearance": "predominantly bright blue with contrasting yellow components",
         "clarity_appearance": null,
-        "size_impression": "very large (industrial scale)",
-        "setting_or_mounting": "mounted on a heavy-duty platform",
-        "metal_visible": "painted metal (likely steel/iron)",
-        "certification_label_visible": false,
-        "presentation": "factory floor/industrial setting",
-        "additional_visual_notes": "Kathuria Rollmill brand label visible; sign with Hindi text in background"
+        "size_impression": "very large, industrial scale, appearing several meters in height and width",
+        "setting_or_mounting": "mounted on a heavy metal industrial platform",
+        "metal_visible": "painted metal (likely steel)",
+        "certification_label_visible": true,
+        "presentation": "industrial factory setting",
+        "additional_visual_notes": "The machine features visible bolts and structural elements, indicating its heavy-duty construction. A 'Kathuria Rollmill' label is visible on the blue body of the machine."
       },
-      "visual_description": "A large, heavy-duty industrial machine, predominantly painted bright blue with prominent yellow mechanical arms and components on its side. The machine has a robust, blocky structure with visible bolts and joints, suggesting a powerful and durable function. It is presented on a sturdy platform within what appears to be a factory or workshop environment, with other industrial elements and a sign with Hindi text visible in the background.",
-      "media_alt_text": "A large, blue and yellow industrial cutting machine with mechanical arms, set on a platform in a factory.",
+      "visual_description": "The image displays a large, heavy industrial machine, predominantly painted in a bright blue color with contrasting yellow articulated arms and components. The machine has a complex, blocky structure, appearing robust and well-maintained, and is mounted on a heavy metal industrial platform. The background suggests an industrial factory setting with other machinery and a sign with text in an Indian language visible.",
+      "media_alt_text": "Large blue and yellow industrial machine, possibly a rolling mill component or shear, mounted on a platform in a factory.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:03:51.122Z"
+      "classified_at": "2026-04-27T12:04:55.541Z"
     },
     {
       "fingerprint": "8a56d990d54c",
       "product_name": "Automatic Cooling Bed",
       "url": "https://www.kathuriarollmill.com/images/case-studies/grid/4a.webp",
       "scene_type": "product_lifestyle",
-      "media_confidence": 0.9,
+      "media_confidence": 1,
       "visual_features": {
-        "product_type_confirmed": "Industrial cooling bed / conveyor system",
-        "shape_visible": "Rectangular grid, linear components",
-        "color_appearance": null,
+        "product_type_confirmed": "industrial cooling bed / conveyor system",
+        "shape_visible": "long, rectangular, grid-like",
+        "color_appearance": "dark grey (bed), rust-red/orange (structural beams), various industrial blues/greys",
         "clarity_appearance": null,
-        "size_impression": null,
+        "size_impression": "very large, industrial scale",
         "setting_or_mounting": null,
-        "metal_visible": null,
+        "metal_visible": "steel, various industrial metals",
         "certification_label_visible": false,
-        "presentation": "Industrial factory interior",
-        "additional_visual_notes": "Large-scale industrial machinery with a long, gridded bed, overhead cranes, and various mechanical components in a factory setting."
+        "presentation": "industrial facility / factory floor / operational environment",
+        "additional_visual_notes": "overhead gantry cranes, complex truss system, industrial lighting, multiple rows of rollers"
       },
-      "visual_description": "The image displays a vast industrial cooling bed, characterized by a long, rectangular grid-like surface made of dark metallic bars. Surrounding the bed are various mechanical components, rollers, and robust reddish-brown structural beams, all situated within a large factory interior. The background features a high ceiling with exposed metal trusses, overhead cranes, and industrial lighting, indicating an operational manufacturing environment.",
-      "media_alt_text": "Wide shot of a large industrial cooling bed with a metallic grid surface inside a factory with overhead cranes and structural beams.",
+      "visual_description": "The image captures a vast industrial facility interior, showcasing a long, wide automatic cooling bed with a dark grey, grid-like surface extending into the distance. The bed is flanked by heavy-duty metal rollers and support structures, with a complex network of rust-red structural beams and an overhead gantry crane system visible above. The scene is illuminated by industrial lighting, emphasizing the scale and robust construction of the machinery within its operational environment.",
+      "media_alt_text": "Long automatic cooling bed with a dark grey grid surface inside a large industrial factory with overhead cranes and metal beams.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:04:09.114Z"
+      "classified_at": "2026-04-27T12:05:07.318Z"
     },
     {
       "fingerprint": "41365322ec81",
       "product_name": "Section Stacker",
       "url": "https://www.kathuriarollmill.com/images/case-studies/grid/5a.webp",
-      "scene_type": "product_lifestyle",
+      "scene_type": "product_image",
       "media_confidence": 1,
       "visual_features": {
-        "product_type_confirmed": null,
-        "shape_visible": null,
-        "color_appearance": null,
+        "product_type_confirmed": "Industrial Section Stacker machine",
+        "shape_visible": "Large, rectangular block with various attached components",
+        "color_appearance": "Predominantly bright blue, with yellow hydraulic cylinder, black hoses, and brass-colored circular components",
         "clarity_appearance": null,
-        "size_impression": null,
-        "setting_or_mounting": null,
-        "metal_visible": null,
+        "size_impression": "Very large, industrial scale",
+        "setting_or_mounting": "Freestanding industrial equipment",
+        "metal_visible": "Painted steel, brass/bronze, other industrial metals",
         "certification_label_visible": false,
-        "presentation": "factory/workshop setting",
-        "additional_visual_notes": "Company logo 'Kathuria Rollmill' visible on the machine. 'ASSEMBLY SHOP' sign in background."
+        "presentation": "Workshop/factory floor",
+        "additional_visual_notes": "Kathuria Rollmill company logo visible, hydraulic system components, electrical wiring, 'ASSEMBLY SHOP' sign in background."
       },
-      "visual_description": "A large, bright blue industrial machine, identified by the 'Kathuria Rollmill' logo, stands prominently in a factory or workshop setting. It features yellow hydraulic cylinders, black hoses, and brass-colored circular components on its sides. The background shows other machinery and a yellow 'ASSEMBLY SHOP' sign, indicating an industrial environment.",
-      "media_alt_text": "Large blue industrial section stacker machine with yellow hydraulic cylinders and black hoses in a factory setting.",
+      "visual_description": "A large, robust industrial machine, predominantly painted in a bright blue color, stands on a factory floor. It features several brass-colored circular components on its sides, a yellow hydraulic cylinder with black hoses, and a white rectangular opening on its front. The 'Kathuria Rollmill' logo is prominently displayed on the machine's side, and the background shows a busy workshop environment with other equipment and an 'ASSEMBLY SHOP' sign.",
+      "media_alt_text": "A large, bright blue industrial Section Stacker machine with brass-colored parts, yellow hydraulic cylinder, and black hoses, in a workshop.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:04:08.594Z"
+      "classified_at": "2026-04-27T12:05:08.701Z"
     },
     {
       "fingerprint": "4de8efad6d29",
       "product_name": "Handling Lines",
       "url": "https://www.kathuriarollmill.com/images/case-studies/grid/12.webp",
       "scene_type": "product_image",
-      "media_confidence": 1,
+      "media_confidence": 0.9,
       "visual_features": {
-        "product_type_confirmed": "industrial material handling machinery / production line equipment",
-        "shape_visible": "predominantly rectangular and angular structures, with some cylindrical and curved components",
-        "color_appearance": "dominant bright blue, with metallic grey, rusty brown on tracks, black hoses, and white control boxes",
+        "product_type_confirmed": "Industrial handling system / production line machinery",
+        "shape_visible": "Rectangular structural beams, cylindrical components, curved guards",
+        "color_appearance": "Predominantly blue, with rust-colored tracks, grey concrete floor, and yellow/orange accents in the background",
         "clarity_appearance": null,
-        "size_impression": "very large, industrial scale equipment",
+        "size_impression": "Very large, industrial scale",
         "setting_or_mounting": null,
-        "metal_visible": "steel, various industrial metals",
+        "metal_visible": "Steel (painted blue, some rusted areas)",
         "certification_label_visible": false,
-        "presentation": "industrial factory floor setting",
-        "additional_visual_notes": "a worker is visible in the background; the machine appears to be processing or handling long metal bars/rods"
+        "presentation": "Industrial factory setting",
+        "additional_visual_notes": "A worker is visible in the background; the machinery appears robust and functional, possibly for processing long materials like rebar."
       },
-      "visual_description": "The image displays a long, blue industrial machine, likely a material handling system, stretching across a factory floor. It consists of multiple interconnected blue modules with various mechanical components, white control boxes, black hoses, and metal tracks showing signs of wear and rust. In the background, more industrial structures are visible, along with a worker standing near what appears to be stacks of rebar or metal rods.",
-      "media_alt_text": "Long blue industrial material handling machinery on a factory floor, with metal tracks and a worker in the background.",
+      "visual_description": "The image displays a long line of heavy industrial machinery, predominantly painted blue, set within a factory environment. The machinery features multiple stations with structural beams, tracks, and various mechanical components, suggesting a handling or processing system for materials. A worker in a yellow shirt is visible in the background, indicating an active operational setting.",
+      "media_alt_text": "Long blue industrial handling line machinery in a factory, with structural beams, tracks, and a worker in the background.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:04:05.543Z"
+      "classified_at": "2026-04-27T12:05:08.006Z"
     },
     {
       "fingerprint": "4f7f2da1e06d",
@@ -1182,21 +1229,21 @@
       "scene_type": "product_image",
       "media_confidence": 1,
       "visual_features": {
-        "product_type_confirmed": "Hot Saw (industrial cutting machine)",
-        "shape_visible": null,
-        "color_appearance": null,
+        "product_type_confirmed": "Industrial Hot Saw Machine",
+        "shape_visible": "Large, complex industrial machinery with rectangular and cylindrical components",
+        "color_appearance": "Predominantly blue with yellow protective covers",
         "clarity_appearance": null,
-        "size_impression": "very large",
+        "size_impression": "Very large, industrial scale",
         "setting_or_mounting": null,
-        "metal_visible": "painted metal",
+        "metal_visible": "Painted steel",
         "certification_label_visible": false,
-        "presentation": "industrial workshop/factory floor",
-        "additional_visual_notes": "Kathuria Rollmill Private Limited logo visible on the machine, electric motor, heavy-duty construction."
+        "presentation": "Industrial factory floor",
+        "additional_visual_notes": "Kathuria Rollmill Private Limited logo visible on the machine, showing a red 'K' and text."
       },
-      "visual_description": "The image displays a large, heavy-duty industrial cutting machine, primarily painted in bright blue with prominent yellow safety guards. It features a large motor assembly, a long horizontal track or bed, and appears to be set up on a factory floor with other industrial equipment and structural elements in the background.",
-      "media_alt_text": "A large blue industrial hot saw machine with yellow safety guards on a factory floor, featuring the Kathuria Rollmill logo.",
+      "visual_description": "The image displays a large, robust industrial hot saw machine, predominantly painted in a bright blue color with prominent yellow protective covers over its moving parts. The machine features a long horizontal track, a main cutting assembly with a motor and gearbox, and a large circular saw blade partially visible under a yellow guard. It is presented on a green concrete factory floor, with other industrial equipment and structural beams visible in the background, indicating an active manufacturing environment.",
+      "media_alt_text": "A large blue and yellow industrial hot saw machine on a factory floor, with the Kathuria Rollmill Private Limited logo visible.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:04:08.016Z"
+      "classified_at": "2026-04-27T12:05:06.394Z"
     },
     {
       "fingerprint": "1683c8f10311",
@@ -1205,21 +1252,21 @@
       "scene_type": "product_image",
       "media_confidence": 1,
       "visual_features": {
-        "product_type_confirmed": null,
-        "shape_visible": null,
-        "color_appearance": null,
+        "product_type_confirmed": "Industrial straightening machine",
+        "shape_visible": "Rectangular and cylindrical components, complex assembly",
+        "color_appearance": "Bright blue and yellow paint, with some metallic bronze/gold rollers",
         "clarity_appearance": null,
-        "size_impression": null,
+        "size_impression": "Very large, industrial scale",
         "setting_or_mounting": null,
-        "metal_visible": null,
+        "metal_visible": "Painted steel, exposed metallic rollers",
         "certification_label_visible": false,
-        "presentation": "industrial setting",
-        "additional_visual_notes": "The company logo 'Kathuria Rollmill' is visible in red text on a blue panel of the machine. Some internal components appear to be a brass or bronze color."
+        "presentation": "Industrial factory setting",
+        "additional_visual_notes": "Prominent 'Kathuria Rollmill' logo, yellow hydraulic lines, heavy-duty construction, multiple sets of rollers visible."
       },
-      "visual_description": "A large, heavy-duty industrial machine, predominantly painted in bright blue and yellow, is shown in an industrial setting. The machine features multiple vertical supports, horizontal sections, and visible rollers or gears, with yellow piping running along its lower sections. The background reveals a factory or warehouse environment with metal structures.",
-      "media_alt_text": "Large blue and yellow industrial straightening machine with visible rollers and piping in a factory setting.",
+      "visual_description": "A large, heavy-duty industrial machine, predominantly painted in bright blue and yellow, is shown in an industrial setting. The machine features multiple sets of rollers, support columns, and intricate piping, suggesting a complex manufacturing or processing function. The 'Kathuria Rollmill' logo is visible on the top front section, indicating the manufacturer.",
+      "media_alt_text": "Large industrial straightening machine painted bright blue and yellow, with 'Kathuria Rollmill' logo, in a factory setting.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:04:09.009Z"
+      "classified_at": "2026-04-27T12:05:13.125Z"
     },
     {
       "fingerprint": "e92cbd0c36c7",
@@ -1228,51 +1275,28 @@
       "scene_type": "product_image",
       "media_confidence": 1,
       "visual_features": {
-        "product_type_confirmed": "industrial gearbox",
-        "shape_visible": "rectangular, blocky, with cylindrical components and pipes",
-        "color_appearance": "blue (main body), yellow (piping)",
+        "product_type_confirmed": "industrial gear box / heavy machinery",
+        "shape_visible": "rectangular, boxy, with cylindrical shafts and pipes",
+        "color_appearance": "predominantly blue, with yellow pipes and metallic grey components",
         "clarity_appearance": null,
-        "size_impression": "very large (>5ct equivalent in industrial scale)",
-        "setting_or_mounting": "mounted on a concrete base within an industrial facility",
-        "metal_visible": "painted steel/iron",
-        "certification_label_visible": false,
-        "presentation": "industrial facility",
-        "additional_visual_notes": "Manufacturer's label 'Kathuria Rollmill' visible on the blue casing."
-      },
-      "visual_description": "A large, robust industrial gearbox, predominantly painted in a dark blue color, with prominent yellow piping and accents. It features multiple bolted panels, circular covers, and various gauges and connections, suggesting complex internal mechanisms. The gearbox is presented in an active industrial environment, likely a factory floor, with other machinery and structural elements visible in the background.",
-      "media_alt_text": "Large blue industrial gearbox with yellow piping in a factory setting, featuring bolted panels and gauges.",
-      "used_vision": true,
-      "classified_at": "2026-04-27T08:04:22.597Z"
-    },
-    {
-      "fingerprint": "2116794bef69",
-      "product_name": "TMT Quenching System",
-      "url": "https://www.kathuriarollmill.com/images/case-studies/grid/tmt-quenching-system.webp",
-      "scene_type": "product_lifestyle",
-      "media_confidence": 0.9,
-      "visual_features": {
-        "product_type_confirmed": "large industrial processing system with water cooling",
-        "shape_visible": "rectangular, linear, modular",
-        "color_appearance": null,
-        "clarity_appearance": null,
-        "size_impression": "very large",
+        "size_impression": "very large, industrial scale",
         "setting_or_mounting": null,
-        "metal_visible": "painted steel",
+        "metal_visible": "not visible",
         "certification_label_visible": false,
         "presentation": "industrial factory setting",
-        "additional_visual_notes": "water flowing from the system, green pipes, overhead metal support structures"
+        "additional_visual_notes": "A label with 'Kathuria Rollmill' branding is visible on the top right side of the blue gear box. The machine shows signs of use, consistent with an operational industrial environment."
       },
-      "visual_description": "The image displays a large, blue industrial quenching system situated within a factory setting. The system consists of multiple rectangular, modular units arranged linearly, with water visibly flowing from one section into a channel below. The background features the interior of a spacious industrial building with high ceilings, exposed metal beams, and large windows providing natural light.",
-      "media_alt_text": "Large blue industrial TMT quenching system in operation within a factory, with water flowing into a channel.",
+      "visual_description": "The image displays a large, heavy-duty industrial gear box, predominantly painted in a vibrant blue color. It features numerous bolted panels, cylindrical components, and bright yellow piping running across its top and sides. The machine appears robust and is situated on a concrete base within what looks like an industrial factory setting, with other machinery and structural elements visible in the background.",
+      "media_alt_text": "Large blue industrial gear box with yellow pipes and 'Kathuria Rollmill' branding in a factory setting.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:04:19.976Z"
+      "classified_at": "2026-04-27T12:05:23.384Z"
     },
     {
       "fingerprint": "87549952a9bb",
       "product_name": "Erection & Commissioning",
       "url": "https://www.kathuriarollmill.com/images/icons/erection.webp",
-      "scene_type": "unknown",
-      "media_confidence": 1,
+      "scene_type": "product_image",
+      "media_confidence": 0.9,
       "visual_features": {
         "product_type_confirmed": null,
         "shape_visible": null,
@@ -1282,13 +1306,13 @@
         "setting_or_mounting": null,
         "metal_visible": null,
         "certification_label_visible": false,
-        "presentation": "digital icon on black background",
-        "additional_visual_notes": "The icon visually represents construction or installation activities."
+        "presentation": "black background / line art icon",
+        "additional_visual_notes": "The icon represents construction or installation work, featuring a crane and a building structure."
       },
-      "visual_description": "The image displays a simple, two-dimensional icon rendered in a solid orange color against a black background. The icon illustrates a construction site, featuring a tall tower crane on the right with its boom extending over a multi-story building under construction on the left, indicating a service related to building or installation.",
-      "media_alt_text": "Orange line art icon depicting a tower crane next to a multi-story building under construction on a black background.",
+      "visual_description": "The image displays a simple, orange-red line art icon on a solid black background. It depicts a construction scene with a tall tower crane on the right, lifting a rectangular object, and a multi-story building under construction on the left. The lines are clean and uniform, characteristic of a digital illustration or vector graphic.",
+      "media_alt_text": "Orange-red line art icon on black background depicting a tower crane lifting a load next to a multi-story building under construction.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:04:22.591Z"
+      "classified_at": "2026-04-27T12:05:25.121Z"
     },
     {
       "fingerprint": "d5e8bafa22f2",
@@ -1306,30 +1330,30 @@
         "metal_visible": null,
         "certification_label_visible": false,
         "presentation": "icon on black background",
-        "additional_visual_notes": "Stylized outline drawing, represents a person in a service role."
+        "additional_visual_notes": "Stylized icon of a person holding a pen and clipboard, commonly used to represent service, support, or a professional."
       },
-      "visual_description": "An orange outline icon on a solid black background depicts a stylized person wearing glasses and a striped shirt. The figure holds a pen in their left hand and a clipboard with lines in their right hand, suggesting a service or support role.",
-      "media_alt_text": "Orange outline icon of a person with glasses holding a pen and clipboard, representing customer service.",
+      "visual_description": "The image displays a stylized icon of a person, rendered in orange outline against a solid black background. The person is depicted wearing glasses and a collared shirt, holding a pen in their left hand and a clipboard with lines in their right hand. The overall style is minimalist and graphic.",
+      "media_alt_text": "Orange outline icon of a person wearing glasses, holding a pen and a clipboard, on a black background.",
       "used_vision": true,
-      "classified_at": "2026-04-27T08:04:21.676Z"
+      "classified_at": "2026-04-27T12:05:21.892Z"
     }
   ],
   "catalog_items": [
     {
       "clean_name": "Mill Stands",
       "fingerprint": "5ca2e9e0b4af",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Rolling Mill Component",
-      "product_sub_type": "Mill Stand",
-      "buyer_persona": "A plant manager or procurement specialist in a steel mill or metal rolling facility looking to replace or upgrade components for their rolling lines.",
-      "seo_title": "Mill Stands Mill Stand | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metal Processing & Fabrication Machinery",
+      "product_category": "Mill Stand",
+      "product_sub_type": "Rolling Mill Stand",
+      "buyer_persona": "A procurement manager or plant engineer in a steel mill or metal fabrication facility looking for replacement parts or components for their rolling mill machinery.",
+      "seo_title": "Mill Stands Rolling Mill Stand | Catalog Listing",
       "tags": [
         "Mill Stands",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Rolling Mill Component",
-        "Mill Stand"
+        "Industrial Equipment",
+        "Metal Processing & Fabrication Machinery",
+        "Mill Stand",
+        "Rolling Mill Stand"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1350,65 +1374,70 @@
       "currency": "INR",
       "primary_photo_url": "https://www.kathuriarollmill.com/images/case-studies/grid/1.webp",
       "photo_urls": [
-        "https://www.kathuriarollmill.com/images/case-studies/grid/1.webp"
+        "https://www.kathuriarollmill.com/images/case-studies/grid/1.webp",
+        "https://i.ytimg.com/vi/bZnbYb_1YeI/hqdefault.jpg",
+        "https://i.ytimg.com/vi/1z_LtW9wR4k/maxresdefault.jpg"
       ],
-      "source_url": null,
+      "source_url": "https://www.youtube.com/watch?v=bZnbYb_1YeI",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.98,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website", "instagram", "youtube"],
+      "sources": [
+        "website",
+        "youtube"
+      ],
       "social_sources": [
         {
-          "platform": "instagram",
-          "post_url": "https://www.instagram.com/p/CUCzZbdpKSq/",
-          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/619678760_18091307428819213_3906296258807921355_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=1J-6fxMTWg8Q7kNvwG6ojkx&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjY2NjkxOTk3NzIwNDA5ODIxOA%3D%3D.3-ccb7-5&oh=00_Af2aKUSzDf4B997FqSn_SGXsXkAC9c4XOURjQLwTTLYgRA&oe=69F4FB92&_nc_sid=8b3546",
-          "caption": "#Kathuria Rollmill is pleased to announce the successful and swift #commissioning of 300,000 TPA #TMT bar mill at Rungta Mines Ltd., Chaliyama Steel Plant II. \n.\n.\n.\nIf you have a question - please feel free to drop a comment. Or if you would like to get in touch with us, please contact us at info@kathuriarollmill.com or +91 120 4179800/+91 7428982666.\n\nAt Kathuria Rollmill (https://kathuriarollmill.com), we are working everyday to offer progressive - forward thinking - solutions. 100+ clients across the globe trust our commitment to quality. Become a part of the Kathuria family today! \n\n#Kathuria #rollingmill #TMTrebars #Steel #hotrolling #MakeinIndia",
-          "posted_at": "2021-09-20T12:40:57.000Z",
-          "likes": 21,
-          "views": null
-        },
-        {
           "platform": "youtube",
-          "post_url": "https://www.youtube.com/watch?v=0OASHOps8UI",
-          "thumbnail_url": "https://i.ytimg.com/vi/0OASHOps8UI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGHIgSCg3MA8=&rs=AOn4CLBrJKQcYF5utal2JxyzhOC5hgU2dA",
-          "caption": "Successful Installation and Running of 'kathuria' Housingless Mill Stands along with Gear Boxes & auxiliaries in 'Electrotherm'",
-          "posted_at": "2020-02-24T13:00:01.000Z",
-          "likes": 2,
-          "views": 227
+          "post_url": "https://www.youtube.com/watch?v=bZnbYb_1YeI",
+          "thumbnail_url": "https://i.ytimg.com/vi/bZnbYb_1YeI/hqdefault.jpg",
+          "caption": "Successful Installation and Running of 'kathuria' Pre-Stressed Mill Stands along with auxiliaries at one of our customer's site in India",
+          "posted_at": "2020-06-03T05:55:56.000Z",
+          "likes": 7,
+          "views": 607
         }
       ],
-      "description": "Mill Stands is a mill stand offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A plant manager or procurement specialist in a steel mill or metal rolling facility looking to replace or upgrade components for their rolling lines. The image displays a large, complex industrial machine, predominantly painted in blue and yellow, actively processing glowing hot metal bars. Water is visibly spraying over parts of the machinery, indicating a cooling process, while various hoses, pipes, and mechanical components are integrated throughout. The background suggests an active factory or workshop environment.",
+      "source_urls": [
+        {
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=bZnbYb_1YeI"
+        }
+      ],
+      "description": "Mill Stands is a rolling mill stand offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or plant engineer in a steel mill or metal fabrication facility looking for replacement parts or components for their rolling mill machinery. The image displays a large, robust industrial rolling mill stand, predominantly colored in blue and yellow, actively processing a glowing red-hot metal bar. Water is visibly spraying over the machinery, indicating a cooling process during operation. The background shows an industrial setting with other machinery and structures.",
       "specifications": {
-        "category": "Rolling Mill Component",
-        "sub_type": "Mill Stand",
-        "presentation": "industrial setting, in operation",
-        "visual_product_type": "Industrial rolling mill machine",
-        "visual_notes": "Visible branding 'Kathuria Rollmill' and 'C-9' on the blue casing, water cooling system in action, glowing hot metal being processed, various hoses and pipes.",
-        "certification_label_visible": true
+        "category": "Mill Stand",
+        "sub_type": "Rolling Mill Stand",
+        "visual_shape": "Complex industrial machinery with rectangular and cylindrical components",
+        "visual_color": "Predominantly blue and yellow, with red-hot metal being processed",
+        "visual_size": "Very large, industrial scale",
+        "setting": "Industrial operational environment",
+        "visual_metal": "Steel/iron for the machine, red-hot processed metal",
+        "presentation": "Industrial operational environment",
+        "visual_product_type": "Industrial rolling mill stand",
+        "visual_notes": "Water cooling system in operation, 'Kathuria Rollmill' brand name visible on the blue casing, product code 'C-9' visible."
       },
-      "alt_text": "A large blue and yellow industrial rolling mill machine actively processing glowing hot metal bars with water spraying for cooling.",
+      "alt_text": "A blue and yellow industrial rolling mill stand with water spraying, processing a glowing red-hot metal bar in an operational factory.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/case-studies/grid/1.webp"
     },
     {
       "clean_name": "Shears",
       "fingerprint": "7a7b532c9626",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Cutting Machine",
-      "product_sub_type": "Shear",
-      "buyer_persona": "A production engineer or plant manager in a metal fabrication shop or steel mill requiring precise and efficient cutting of metal sheets, bars, or sections.",
-      "seo_title": "Shears Shear | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metalworking & Fabrication",
+      "product_category": "Shear",
+      "product_sub_type": "Industrial Shear",
+      "buyer_persona": "A procurement manager or workshop owner seeking cutting tools for industrial manufacturing, fabrication, or processing applications.",
+      "seo_title": "Shears Industrial Shears | Catalog Listing",
       "tags": [
         "Shears",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Cutting Machine",
-        "Shear"
+        "Industrial Equipment",
+        "Metalworking & Fabrication",
+        "Industrial Shears"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1434,43 +1463,49 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.97,
+      "classification_confidence": 0.8,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
-      "warnings": [],
-      "sources": ["website"],
-      "description": "Shears is a shear offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A production engineer or plant manager in a metal fabrication shop or steel mill requiring precise and efficient cutting of metal sheets, bars, or sections. A large, heavy-duty industrial machine, predominantly painted bright blue with prominent yellow mechanical arms and components on its side. The machine has a robust, blocky structure with visible bolts and joints, suggesting a powerful and durable function. It is presented on a sturdy platform within what appears to be a factory or workshop environment, with other industrial elements and a sign with Hindi text visible in the background.",
+      "warnings": [
+        "Product name is generic, leading to a less specific classification. More details would improve accuracy."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "Shears is a industrial shears offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or workshop owner seeking cutting tools for industrial manufacturing, fabrication, or processing applications. The image displays a large, heavy industrial machine, predominantly painted in a bright blue color with contrasting yellow articulated arms and components. The machine has a complex, blocky structure, appearing robust and well-maintained, and is mounted on a heavy metal industrial platform. The background suggests an industrial factory setting with other machinery and a sign with text in an Indian language visible.",
       "specifications": {
-        "category": "Cutting Machine",
-        "sub_type": "Shear",
-        "visual_shape": "complex, rectangular base with various protruding mechanical arms and components",
-        "visual_color": "bright blue and yellow",
-        "visual_size": "very large (industrial scale)",
-        "setting": "mounted on a heavy-duty platform",
-        "visual_metal": "painted metal (likely steel/iron)",
-        "presentation": "factory floor/industrial setting",
-        "visual_product_type": "industrial cutting machine / heavy-duty shears machine",
-        "visual_notes": "Kathuria Rollmill brand label visible; sign with Hindi text in background"
+        "category": "Shear",
+        "sub_type": "Industrial Shear",
+        "visual_shape": "complex, blocky, with various articulated arms and mechanisms",
+        "visual_color": "predominantly bright blue with contrasting yellow components",
+        "visual_size": "very large, industrial scale, appearing several meters in height and width",
+        "setting": "mounted on a heavy metal industrial platform",
+        "visual_metal": "painted metal (likely steel)",
+        "presentation": "industrial factory setting",
+        "visual_product_type": "heavy industrial machinery, possibly a component of a rolling mill or a large industrial shear",
+        "visual_notes": "The machine features visible bolts and structural elements, indicating its heavy-duty construction. A 'Kathuria Rollmill' label is visible on the blue body of the machine.",
+        "certification_label_visible": true
       },
-      "alt_text": "A large, blue and yellow industrial cutting machine with mechanical arms, set on a platform in a factory.",
+      "alt_text": "Large blue and yellow industrial machine, possibly a rolling mill component or shear, mounted on a platform in a factory.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/case-studies/grid/3.webp"
     },
     {
       "clean_name": "Automatic Cooling Bed",
       "fingerprint": "8a56d990d54c",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Cooling System",
-      "product_sub_type": "Automatic Cooling Bed",
-      "buyer_persona": "A project engineer or operations manager in a steel rolling mill seeking automated solutions for controlled cooling and handling of hot rolled products.",
-      "seo_title": "Automatic Cooling Bed Automatic Cooling Bed | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metal Processing & Fabrication",
+      "product_category": "Cooling Bed",
+      "product_sub_type": "Automatic Industrial Cooling Bed",
+      "buyer_persona": "A procurement manager or plant engineer in a metal processing, steel, or rolling mill facility, looking to cool hot-rolled products efficiently and automatically.",
+      "seo_title": "Automatic Cooling Bed Automatic Industrial Cooling Bed | Catalog Listi",
       "tags": [
         "Automatic Cooling Bed",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Cooling System"
+        "Industrial Equipment",
+        "Metal Processing & Fabrication",
+        "Cooling Bed",
+        "Automatic Industrial Cooling Bed"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1496,50 +1531,44 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.98,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website", "youtube"],
-      "social_sources": [
-        {
-          "platform": "youtube",
-          "post_url": "https://www.youtube.com/watch?v=-Oay_1BdfEE",
-          "thumbnail_url": "https://i.ytimg.com/vi/-Oay_1BdfEE/hqdefault.jpg",
-          "caption": "Successful Installation and Running of 'kathuria' Complete Automatic Rack Type Cooling Bed (78 meters x 7 meters) at one of our customer's site in Maharashtra, India",
-          "posted_at": "2020-06-05T11:20:59.000Z",
-          "likes": 3,
-          "views": 479
-        }
+      "sources": [
+        "website"
       ],
-      "description": "Automatic Cooling Bed is a automatic cooling bed offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A project engineer or operations manager in a steel rolling mill seeking automated solutions for controlled cooling and handling of hot rolled products. The image displays a vast industrial cooling bed, characterized by a long, rectangular grid-like surface made of dark metallic bars. Surrounding the bed are various mechanical components, rollers, and robust reddish-brown structural beams, all situated within a large factory interior. The background features a high ceiling with exposed metal trusses, overhead cranes, and industrial lighting, indicating an operational manufacturing environment.",
+      "description": "Automatic Cooling Bed is a automatic industrial cooling bed offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or plant engineer in a metal processing, steel, or rolling mill facility, looking to cool hot-rolled products efficiently and automatically. The image captures a vast industrial facility interior, showcasing a long, wide automatic cooling bed with a dark grey, grid-like surface extending into the distance. The bed is flanked by heavy-duty metal rollers and support structures, with a complex network of rust-red structural beams and an overhead gantry crane system visible above. The scene is illuminated by industrial lighting, emphasizing the scale and robust construction of the machinery within its operational environment.",
       "specifications": {
-        "category": "Cooling System",
-        "sub_type": "Automatic Cooling Bed",
-        "visual_shape": "Rectangular grid, linear components",
-        "presentation": "Industrial factory interior",
-        "visual_product_type": "Industrial cooling bed / conveyor system",
-        "visual_notes": "Large-scale industrial machinery with a long, gridded bed, overhead cranes, and various mechanical components in a factory setting."
+        "category": "Cooling Bed",
+        "sub_type": "Automatic Industrial Cooling Bed",
+        "visual_shape": "long, rectangular, grid-like",
+        "visual_color": "dark grey (bed), rust-red/orange (structural beams), various industrial blues/greys",
+        "visual_size": "very large, industrial scale",
+        "visual_metal": "steel, various industrial metals",
+        "presentation": "industrial facility / factory floor / operational environment",
+        "visual_product_type": "industrial cooling bed / conveyor system",
+        "visual_notes": "overhead gantry cranes, complex truss system, industrial lighting, multiple rows of rollers"
       },
-      "alt_text": "Wide shot of a large industrial cooling bed with a metallic grid surface inside a factory with overhead cranes and structural beams.",
+      "alt_text": "Long automatic cooling bed with a dark grey grid surface inside a large industrial factory with overhead cranes and metal beams.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/case-studies/grid/4a.webp"
     },
     {
       "clean_name": "Section Stacker",
       "fingerprint": "41365322ec81",
-      "top_level_domain": "Industrial Machinery",
+      "top_level_domain": "Industrial Equipment",
       "industry_segment": "Material Handling Equipment",
-      "product_category": "Stacking Machine",
+      "product_category": "Stacker",
       "product_sub_type": "Section Stacker",
-      "buyer_persona": "A logistics manager or production supervisor in a steel plant or fabrication facility needing to automate the stacking of various metal sections for storage or further processing.",
+      "buyer_persona": "A procurement manager or operations supervisor in a manufacturing, construction, or warehousing facility looking for equipment to efficiently stack and organize various sections of material.",
       "seo_title": "Section Stacker Section Stacker | Catalog Listing",
       "tags": [
         "Section Stacker",
-        "Industrial Machinery",
+        "Industrial Equipment",
         "Material Handling Equipment",
-        "Stacking Machine"
+        "Stacker"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1565,38 +1594,46 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.97,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"],
-      "description": "Section Stacker is a section stacker offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A logistics manager or production supervisor in a steel plant or fabrication facility needing to automate the stacking of various metal sections for storage or further processing. A large, bright blue industrial machine, identified by the 'Kathuria Rollmill' logo, stands prominently in a factory or workshop setting. It features yellow hydraulic cylinders, black hoses, and brass-colored circular components on its sides. The background shows other machinery and a yellow 'ASSEMBLY SHOP' sign, indicating an industrial environment.",
+      "sources": [
+        "website"
+      ],
+      "description": "Section Stacker is a section stacker offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or operations supervisor in a manufacturing, construction, or warehousing facility looking for equipment to efficiently stack and organize various sections of material. A large, robust industrial machine, predominantly painted in a bright blue color, stands on a factory floor. It features several brass-colored circular components on its sides, a yellow hydraulic cylinder with black hoses, and a white rectangular opening on its front. The 'Kathuria Rollmill' logo is prominently displayed on the machine's side, and the background shows a busy workshop environment with other equipment and an 'ASSEMBLY SHOP' sign.",
       "specifications": {
-        "category": "Stacking Machine",
+        "category": "Stacker",
         "sub_type": "Section Stacker",
-        "presentation": "factory/workshop setting",
-        "visual_notes": "Company logo 'Kathuria Rollmill' visible on the machine. 'ASSEMBLY SHOP' sign in background."
+        "visual_shape": "Large, rectangular block with various attached components",
+        "visual_color": "Predominantly bright blue, with yellow hydraulic cylinder, black hoses, and brass-colored circular components",
+        "visual_size": "Very large, industrial scale",
+        "setting": "Freestanding industrial equipment",
+        "visual_metal": "Painted steel, brass/bronze, other industrial metals",
+        "presentation": "Workshop/factory floor",
+        "visual_product_type": "Industrial Section Stacker machine",
+        "visual_notes": "Kathuria Rollmill company logo visible, hydraulic system components, electrical wiring, 'ASSEMBLY SHOP' sign in background."
       },
-      "alt_text": "Large blue industrial section stacker machine with yellow hydraulic cylinders and black hoses in a factory setting.",
+      "alt_text": "A large, bright blue industrial Section Stacker machine with brass-colored parts, yellow hydraulic cylinder, and black hoses, in a workshop.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/case-studies/grid/5a.webp"
     },
     {
       "clean_name": "Handling Lines",
       "fingerprint": "4de8efad6d29",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Material Handling Equipment",
-      "product_category": "Material Handling System",
-      "product_sub_type": "Handling Line",
-      "buyer_persona": "A project manager or plant owner in heavy industry looking for integrated solutions to automate the movement, transfer, and processing of materials within their facility.",
-      "seo_title": "Handling Lines Handling Line | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Manufacturing & Production",
+      "product_category": "Handling System",
+      "product_sub_type": "Industrial Handling Line",
+      "buyer_persona": "A procurement manager or operations director in a manufacturing or logistics company looking for equipment to automate or improve their material flow.",
+      "seo_title": "Handling Lines Industrial Handling Line | Catalog Listing",
       "tags": [
         "Handling Lines",
-        "Industrial Machinery",
-        "Material Handling Equipment",
-        "Material Handling System",
-        "Handling Line"
+        "Industrial Equipment",
+        "Manufacturing & Production",
+        "Handling System",
+        "Industrial Handling Line"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1622,42 +1659,46 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.96,
+      "classification_confidence": 0.45,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
-      "warnings": [],
-      "sources": ["website"],
-      "description": "Handling Lines is a handling line offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A project manager or plant owner in heavy industry looking for integrated solutions to automate the movement, transfer, and processing of materials within their facility. The image displays a long, blue industrial machine, likely a material handling system, stretching across a factory floor. It consists of multiple interconnected blue modules with various mechanical components, white control boxes, black hoses, and metal tracks showing signs of wear and rust. In the background, more industrial structures are visible, along with a worker standing near what appears to be stacks of rebar or metal rods.",
+      "warnings": [
+        "Product name too generic for specific classification. Seller context used to infer industrial application."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "Handling Lines is a industrial handling line offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or operations director in a manufacturing or logistics company looking for equipment to automate or improve their material flow. The image displays a long line of heavy industrial machinery, predominantly painted blue, set within a factory environment. The machinery features multiple stations with structural beams, tracks, and various mechanical components, suggesting a handling or processing system for materials. A worker in a yellow shirt is visible in the background, indicating an active operational setting.",
       "specifications": {
-        "category": "Material Handling System",
-        "sub_type": "Handling Line",
-        "visual_shape": "predominantly rectangular and angular structures, with some cylindrical and curved components",
-        "visual_color": "dominant bright blue, with metallic grey, rusty brown on tracks, black hoses, and white control boxes",
-        "visual_size": "very large, industrial scale equipment",
-        "visual_metal": "steel, various industrial metals",
-        "presentation": "industrial factory floor setting",
-        "visual_product_type": "industrial material handling machinery / production line equipment",
-        "visual_notes": "a worker is visible in the background; the machine appears to be processing or handling long metal bars/rods"
+        "category": "Handling System",
+        "sub_type": "Industrial Handling Line",
+        "visual_shape": "Rectangular structural beams, cylindrical components, curved guards",
+        "visual_color": "Predominantly blue, with rust-colored tracks, grey concrete floor, and yellow/orange accents in the background",
+        "visual_size": "Very large, industrial scale",
+        "visual_metal": "Steel (painted blue, some rusted areas)",
+        "presentation": "Industrial factory setting",
+        "visual_product_type": "Industrial handling system / production line machinery",
+        "visual_notes": "A worker is visible in the background; the machinery appears robust and functional, possibly for processing long materials like rebar."
       },
-      "alt_text": "Long blue industrial material handling machinery on a factory floor, with metal tracks and a worker in the background.",
+      "alt_text": "Long blue industrial handling line machinery in a factory, with structural beams, tracks, and a worker in the background.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/case-studies/grid/12.webp"
     },
     {
       "clean_name": "Hot Saw",
       "fingerprint": "4f7f2da1e06d",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Cutting Machine",
-      "product_sub_type": "Hot Saw",
-      "buyer_persona": "A production engineer in a steel mill requiring high-speed, precise cutting of hot rolled products immediately after the rolling process.",
-      "seo_title": "Hot Saw Hot Saw | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metalworking & Fabrication",
+      "product_category": "Hot Saw",
+      "product_sub_type": "Industrial Hot Saw Machine",
+      "buyer_persona": "A procurement manager or plant engineer in a steel mill, foundry, or heavy metal fabrication facility seeking a robust and efficient saw for cutting hot metal.",
+      "seo_title": "Hot Saw Industrial Hot Saw Machine | Catalog Listing",
       "tags": [
         "Hot Saw",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Cutting Machine"
+        "Industrial Equipment",
+        "Metalworking & Fabrication",
+        "Industrial Hot Saw Machine"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1683,40 +1724,45 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.98,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"],
-      "description": "Hot Saw is a hot saw offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A production engineer in a steel mill requiring high-speed, precise cutting of hot rolled products immediately after the rolling process. The image displays a large, heavy-duty industrial cutting machine, primarily painted in bright blue with prominent yellow safety guards. It features a large motor assembly, a long horizontal track or bed, and appears to be set up on a factory floor with other industrial equipment and structural elements in the background.",
+      "sources": [
+        "website"
+      ],
+      "description": "Hot Saw is a industrial hot saw machine offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or plant engineer in a steel mill, foundry, or heavy metal fabrication facility seeking a robust and efficient saw for cutting hot metal. The image displays a large, robust industrial hot saw machine, predominantly painted in a bright blue color with prominent yellow protective covers over its moving parts. The machine features a long horizontal track, a main cutting assembly with a motor and gearbox, and a large circular saw blade partially visible under a yellow guard. It is presented on a green concrete factory floor, with other industrial equipment and structural beams visible in the background, indicating an active manufacturing environment.",
       "specifications": {
-        "category": "Cutting Machine",
-        "sub_type": "Hot Saw",
-        "visual_size": "very large",
-        "visual_metal": "painted metal",
-        "presentation": "industrial workshop/factory floor",
-        "visual_product_type": "Hot Saw (industrial cutting machine)",
-        "visual_notes": "Kathuria Rollmill Private Limited logo visible on the machine, electric motor, heavy-duty construction."
+        "category": "Hot Saw",
+        "sub_type": "Industrial Hot Saw Machine",
+        "visual_shape": "Large, complex industrial machinery with rectangular and cylindrical components",
+        "visual_color": "Predominantly blue with yellow protective covers",
+        "visual_size": "Very large, industrial scale",
+        "visual_metal": "Painted steel",
+        "presentation": "Industrial factory floor",
+        "visual_product_type": "Industrial Hot Saw Machine",
+        "visual_notes": "Kathuria Rollmill Private Limited logo visible on the machine, showing a red 'K' and text."
       },
-      "alt_text": "A large blue industrial hot saw machine with yellow safety guards on a factory floor, featuring the Kathuria Rollmill logo.",
+      "alt_text": "A large blue and yellow industrial hot saw machine on a factory floor, with the Kathuria Rollmill Private Limited logo visible.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/case-studies/grid/11.webp"
     },
     {
       "clean_name": "Online Section Straightening Machine",
       "fingerprint": "1683c8f10311",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metalworking & Fabrication",
       "product_category": "Straightening Machine",
-      "product_sub_type": "Online Section Straightening Machine",
-      "buyer_persona": "A quality control manager or production supervisor in a steel rolling mill focused on achieving precise dimensional accuracy and straightness for finished metal sections.",
-      "seo_title": "Online Section Straightening Machine Online Section Straightening Mach",
+      "product_sub_type": "Section Straightening Machine",
+      "buyer_persona": "A procurement manager or production engineer in a metal fabrication plant or steel mill, looking to integrate a machine for straightening metal sections into their production line to improve material quality and efficiency.",
+      "seo_title": "Online Section Straightening Machine Section Straightening Machine | C",
       "tags": [
         "Online Section Straightening Machine",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Straightening Machine"
+        "Industrial Equipment",
+        "Metalworking & Fabrication",
+        "Straightening Machine",
+        "Section Straightening Machine"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1742,38 +1788,45 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.98,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"],
-      "description": "Online Section Straightening Machine is a online section straightening machine offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A quality control manager or production supervisor in a steel rolling mill focused on achieving precise dimensional accuracy and straightness for finished metal sections. A large, heavy-duty industrial machine, predominantly painted in bright blue and yellow, is shown in an industrial setting. The machine features multiple vertical supports, horizontal sections, and visible rollers or gears, with yellow piping running along its lower sections. The background reveals a factory or warehouse environment with metal structures.",
+      "sources": [
+        "website"
+      ],
+      "description": "Online Section Straightening Machine is a section straightening machine offered by Kathuria Rollmill Private Limited based in Vijay Nagar. A large, heavy-duty industrial machine, predominantly painted in bright blue and yellow, is shown in an industrial setting. The machine features multiple sets of rollers, support columns, and intricate piping, suggesting a complex manufacturing or processing function. The 'Kathuria Rollmill' logo is visible on the top front section, indicating the manufacturer.",
       "specifications": {
         "category": "Straightening Machine",
-        "sub_type": "Online Section Straightening Machine",
-        "presentation": "industrial setting",
-        "visual_notes": "The company logo 'Kathuria Rollmill' is visible in red text on a blue panel of the machine. Some internal components appear to be a brass or bronze color."
+        "sub_type": "Section Straightening Machine",
+        "visual_shape": "Rectangular and cylindrical components, complex assembly",
+        "visual_color": "Bright blue and yellow paint, with some metallic bronze/gold rollers",
+        "visual_size": "Very large, industrial scale",
+        "visual_metal": "Painted steel, exposed metallic rollers",
+        "presentation": "Industrial factory setting",
+        "visual_product_type": "Industrial straightening machine",
+        "visual_notes": "Prominent 'Kathuria Rollmill' logo, yellow hydraulic lines, heavy-duty construction, multiple sets of rollers visible."
       },
-      "alt_text": "Large blue and yellow industrial straightening machine with visible rollers and piping in a factory setting.",
+      "alt_text": "Large industrial straightening machine painted bright blue and yellow, with 'Kathuria Rollmill' logo, in a factory setting.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/case-studies/grid/13.webp"
     },
     {
       "clean_name": "Mill Gear Boxes",
       "fingerprint": "e92cbd0c36c7",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Power Transmission Component",
-      "product_category": "Gearbox",
-      "product_sub_type": "Mill Gearbox",
-      "buyer_persona": "A maintenance engineer or procurement specialist in a heavy industrial plant, particularly a rolling mill, needing robust and reliable gearboxes for power transmission.",
-      "seo_title": "Mill Gear Boxes Mill Gearbox | Catalog Listing",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Power Transmission & Gearing",
+      "product_category": "Gear Box",
+      "product_sub_type": "Mill Gear Box",
+      "buyer_persona": "A procurement manager or engineer in a heavy industry manufacturing plant (e.g., cement, sugar, steel mill) seeking durable power transmission components for their machinery.",
+      "seo_title": "Mill Gear Boxes Mill Gear Box | Catalog Listing",
       "tags": [
         "Mill Gear Boxes",
-        "Industrial Machinery",
-        "Power Transmission Components",
-        "Gearbox",
-        "Mill Gearbox"
+        "Industrial Equipment",
+        "Power Transmission & Gearing",
+        "Gear Box",
+        "Mill Gear Box"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1799,104 +1852,44 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.97,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"],
-      "description": "Mill Gear Boxes is a mill gearbox offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A maintenance engineer or procurement specialist in a heavy industrial plant, particularly a rolling mill, needing robust and reliable gearboxes for power transmission. A large, robust industrial gearbox, predominantly painted in a dark blue color, with prominent yellow piping and accents. It features multiple bolted panels, circular covers, and various gauges and connections, suggesting complex internal mechanisms. The gearbox is presented in an active industrial environment, likely a factory floor, with other machinery and structural elements visible in the background.",
+      "sources": [
+        "website"
+      ],
+      "description": "Mill Gear Boxes is a mill gear box offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or engineer in a heavy industry manufacturing plant (e.g., cement, sugar, steel mill) seeking durable power transmission components for their machinery. The image displays a large, heavy-duty industrial gear box, predominantly painted in a vibrant blue color. It features numerous bolted panels, cylindrical components, and bright yellow piping running across its top and sides. The machine appears robust and is situated on a concrete base within what looks like an industrial factory setting, with other machinery and structural elements visible in the background.",
       "specifications": {
-        "category": "Gearbox",
-        "sub_type": "Mill Gearbox",
-        "visual_shape": "rectangular, blocky, with cylindrical components and pipes",
-        "visual_color": "blue (main body), yellow (piping)",
-        "visual_size": "very large (>5ct equivalent in industrial scale)",
-        "setting": "mounted on a concrete base within an industrial facility",
-        "visual_metal": "painted steel/iron",
-        "presentation": "industrial facility",
-        "visual_product_type": "industrial gearbox",
-        "visual_notes": "Manufacturer's label 'Kathuria Rollmill' visible on the blue casing."
+        "category": "Gear Box",
+        "sub_type": "Mill Gear Box",
+        "visual_shape": "rectangular, boxy, with cylindrical shafts and pipes",
+        "visual_color": "predominantly blue, with yellow pipes and metallic grey components",
+        "visual_size": "very large, industrial scale",
+        "presentation": "industrial factory setting",
+        "visual_product_type": "industrial gear box / heavy machinery",
+        "visual_notes": "A label with 'Kathuria Rollmill' branding is visible on the top right side of the blue gear box. The machine shows signs of use, consistent with an operational industrial environment."
       },
-      "alt_text": "Large blue industrial gearbox with yellow piping in a factory setting, featuring bolted panels and gauges.",
+      "alt_text": "Large blue industrial gear box with yellow pipes and 'Kathuria Rollmill' branding in a factory setting.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/case-studies/grid/millgearbox.webp"
     },
     {
-      "clean_name": "TMT Quenching System",
-      "fingerprint": "2116794bef69",
-      "top_level_domain": "Industrial Machinery",
-      "industry_segment": "Metal Processing Machinery",
-      "product_category": "Quenching System",
-      "product_sub_type": "Tmt Quenching System",
-      "buyer_persona": "A metallurgist or production manager in a steel plant specializing in TMT bar production, seeking advanced systems for controlled cooling to achieve desired mechanical properties.",
-      "seo_title": "TMT Quenching System TMT Quenching System | Catalog Listing",
-      "tags": [
-        "TMT Quenching System",
-        "Industrial Machinery",
-        "Metal Processing Machinery",
-        "Quenching System"
-      ],
-      "b2b_attributes": {
-        "moq": null,
-        "moq_unit": null,
-        "price_unit": null,
-        "hsn_code": null,
-        "gst_percent": null,
-        "country_of_origin": "India",
-        "brand": null,
-        "certifications": []
-      },
-      "price_single": null,
-      "price_min": null,
-      "price_max": null,
-      "is_price_range": false,
-      "price_on_request": true,
-      "price_unit": null,
-      "currency": "INR",
-      "primary_photo_url": "https://www.kathuriarollmill.com/images/case-studies/grid/tmt-quenching-system.webp",
-      "photo_urls": [
-        "https://www.kathuriarollmill.com/images/case-studies/grid/tmt-quenching-system.webp"
-      ],
-      "source_url": null,
-      "in_stock": true,
-      "page_slot": "products.item",
-      "classification_confidence": 0.98,
-      "extraction_confidence": 0.5,
-      "self_healing_attempted": false,
-      "retry_count": 0,
-      "warnings": [],
-      "sources": ["website"],
-      "description": "TMT Quenching System is a tmt quenching system offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A metallurgist or production manager in a steel plant specializing in TMT bar production, seeking advanced systems for controlled cooling to achieve desired mechanical properties. The image displays a large, blue industrial quenching system situated within a factory setting. The system consists of multiple rectangular, modular units arranged linearly, with water visibly flowing from one section into a channel below. The background features the interior of a spacious industrial building with high ceilings, exposed metal beams, and large windows providing natural light.",
-      "specifications": {
-        "category": "Quenching System",
-        "sub_type": "Tmt Quenching System",
-        "visual_shape": "rectangular, linear, modular",
-        "visual_size": "very large",
-        "visual_metal": "painted steel",
-        "presentation": "industrial factory setting",
-        "visual_product_type": "large industrial processing system with water cooling",
-        "visual_notes": "water flowing from the system, green pipes, overhead metal support structures"
-      },
-      "alt_text": "Large blue industrial TMT quenching system in operation within a factory, with water flowing into a channel.",
-      "used_vision": true,
-      "media_url": "https://www.kathuriarollmill.com/images/case-studies/grid/tmt-quenching-system.webp"
-    },
-    {
       "clean_name": "Erection & Commissioning",
       "fingerprint": "87549952a9bb",
-      "top_level_domain": "Service",
+      "top_level_domain": "Industrial Equipment",
       "industry_segment": "Industrial Service",
       "product_category": "Installation Service",
-      "product_sub_type": "Erection And Commissioning",
-      "buyer_persona": "A project manager or plant owner who has purchased complex industrial machinery and requires expert assistance for its assembly, installation, and initial operational setup.",
-      "seo_title": "Erection & Commissioning Erection and Commissioning | Catalog Listing",
+      "product_sub_type": "Equipment Erection And Commissioning",
+      "buyer_persona": "A procurement manager or project engineer at an industrial facility seeking professional services to install and make new machinery operational.",
+      "seo_title": "Erection & Commissioning Equipment Erection and Commissioning | Catalo",
       "tags": [
         "Erection & Commissioning",
-        "Services",
+        "Industrial Equipment",
         "Industrial Services",
         "Installation Service",
-        "Erection and Commissioning"
+        "Equipment Erection and Commissioning"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1922,20 +1915,22 @@
       "source_url": null,
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.95,
+      "classification_confidence": 0.9,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"],
-      "description": "Erection & Commissioning is a erection and commissioning offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A project manager or plant owner who has purchased complex industrial machinery and requires expert assistance for its assembly, installation, and initial operational setup. The image displays a simple, two-dimensional icon rendered in a solid orange color against a black background. The icon illustrates a construction site, featuring a tall tower crane on the right with its boom extending over a multi-story building under construction on the left, indicating a service related to building or installation.",
+      "sources": [
+        "website"
+      ],
+      "description": "Erection & Commissioning is a equipment erection and commissioning offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or project engineer at an industrial facility seeking professional services to install and make new machinery operational. The image displays a simple, orange-red line art icon on a solid black background. It depicts a construction scene with a tall tower crane on the right, lifting a rectangular object, and a multi-story building under construction on the left. The lines are clean and uniform, characteristic of a digital illustration or vector graphic.",
       "specifications": {
         "category": "Installation Service",
-        "sub_type": "Erection And Commissioning",
-        "presentation": "digital icon on black background",
-        "visual_notes": "The icon visually represents construction or installation activities."
+        "sub_type": "Equipment Erection And Commissioning",
+        "presentation": "black background / line art icon",
+        "visual_notes": "The icon represents construction or installation work, featuring a crane and a building structure."
       },
-      "alt_text": "Orange line art icon depicting a tower crane next to a multi-story building under construction on a black background.",
+      "alt_text": "Orange-red line art icon on black background depicting a tower crane lifting a load next to a multi-story building under construction.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/icons/erection.webp"
     },
@@ -1943,16 +1938,16 @@
       "clean_name": "After Sales Service",
       "fingerprint": "d5e8bafa22f2",
       "top_level_domain": "Service",
-      "industry_segment": "Industrial Service",
-      "product_category": "Support Service",
-      "product_sub_type": "After Sales Service",
-      "buyer_persona": "A plant manager or maintenance head seeking ongoing support, maintenance, and spare parts for their industrial machinery to ensure continuous operation and longevity.",
-      "seo_title": "After Sales Service After Sales Service | Catalog Listing",
+      "industry_segment": "Industrial Equipment Support",
+      "product_category": "After Sales Service",
+      "product_sub_type": "Industrial Equipment After Sales Service",
+      "buyer_persona": "A customer who has purchased industrial equipment and requires ongoing support, maintenance, or repair services to ensure operational continuity and maximize equipment lifespan.",
+      "seo_title": "After Sales Service Industrial Equipment After Sales Service | Catalog",
       "tags": [
         "After Sales Service",
         "Services",
-        "Industrial Services",
-        "Support Service"
+        "Industrial Equipment Support",
+        "Industrial Equipment After Sales Service"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -1983,15 +1978,17 @@
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"],
-      "description": "After Sales Service is a after sales service offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A plant manager or maintenance head seeking ongoing support, maintenance, and spare parts for their industrial machinery to ensure continuous operation and longevity. An orange outline icon on a solid black background depicts a stylized person wearing glasses and a striped shirt. The figure holds a pen in their left hand and a clipboard with lines in their right hand, suggesting a service or support role.",
+      "sources": [
+        "website"
+      ],
+      "description": "After Sales Service is a industrial equipment after sales service offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A customer who has purchased industrial equipment and requires ongoing support, maintenance, or repair services to ensure operational continuity and maximize equipment lifespan. The image displays a stylized icon of a person, rendered in orange outline against a solid black background. The person is depicted wearing glasses and a collared shirt, holding a pen in their left hand and a clipboard with lines in their right hand. The overall style is minimalist and graphic.",
       "specifications": {
-        "category": "Support Service",
-        "sub_type": "After Sales Service",
+        "category": "After Sales Service",
+        "sub_type": "Industrial Equipment After Sales Service",
         "presentation": "icon on black background",
-        "visual_notes": "Stylized outline drawing, represents a person in a service role."
+        "visual_notes": "Stylized icon of a person holding a pen and clipboard, commonly used to represent service, support, or a professional."
       },
-      "alt_text": "Orange outline icon of a person with glasses holding a pen and clipboard, representing customer service.",
+      "alt_text": "Orange outline icon of a person wearing glasses, holding a pen and a clipboard, on a black background.",
       "used_vision": true,
       "media_url": "https://www.kathuriarollmill.com/images/icons/afterSales.webp"
     },
@@ -1999,11 +1996,11 @@
       "fingerprint": "f977292d49f2",
       "raw_name": "Kathuria 'High Speed Tail Braker Pinch Roll'",
       "clean_name": "Kathuria 'High Speed Tail Braker Pinch Roll'",
-      "product_category": "Pinch Roll",
+      "product_category": "Steel Mill Machinery",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "This High Speed Tail Braker Pinch Roll is engineered for an impressive speed of 35 meters per second. It features a compact and rigid design with a shock-absorbing arrangement to effectively counter vibrations, ensuring durability and ease of use. It also includes an axial adjustment arrangement for roll assembly alignment and a highly engineered bearing arrangement.",
+      "description": "The Kathuria 'High Speed Tail Braker Pinch Roll' is engineered for an impressive speed of 35 meters per second. It features a compact and rigid design with a shock-absorbing arrangement to counter vibrations, ensuring durability and ease of use. Key features also include ease in maintenance, axial adjustment for roll assembly alignment, and a highly engineered bearing arrangement.",
       "seo_title": "Kathuria 'High Speed Tail Braker Pinch Roll'",
       "alt_text": "Kathuria 'High Speed Tail Braker Pinch Roll'",
       "tags": [
@@ -2022,130 +2019,51 @@
         "Design": "Compact & Rigid",
         "Vibration Countermeasure": "Shock-absorbing arrangement",
         "Maintenance": "Ease in Maintenance",
-        "Alignment": "Axial adjustment arrangement to hold & keep the Roll Assembly aligned & stable",
+        "Roll Assembly Alignment": "Axial adjustment arrangement to hold & keep the Roll Assembly aligned & stable",
         "Bearings": "Highly engineered bearing arrangement"
       },
       "b2b_attributes": {},
       "classification_confidence": 1,
       "extraction_confidence": 0.65,
       "source": "instagram",
-      "sources": ["instagram"],
-      "primary_photo_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/623669652_18115130080717932_7843298697868129547_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=YSBdR4lWHsIQ7kNvwHbIi2f&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NzQ3OTE0NzM0NDIwOTExMA%3D%3D.3-ccb7-5&oh=00_Af2Lp6ftYqQ0YvUxTl3yx9JQat67fRwIA72Raq2QenfoSg&oe=69F4E42F&_nc_sid=8b3546",
-      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/623669652_18115130080717932_7843298697868129547_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=YSBdR4lWHsIQ7kNvwHbIi2f&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NzQ3OTE0NzM0NDIwOTExMA%3D%3D.3-ccb7-5&oh=00_Af2Lp6ftYqQ0YvUxTl3yx9JQat67fRwIA72Raq2QenfoSg&oe=69F4E42F&_nc_sid=8b3546",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/C8mRUitP6TW/",
+      "photo_urls": [
+        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/623669652_18115130080717932_7843298697868129547_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=YSBdR4lWHsIQ7kNvwF03HhR&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NzQ3OTE0NzM0NDIwOTExMA%3D%3D.3-ccb7-5&oh=00_Af1a3z5qczqfMhDn6acKlxMip3yHIAGJzyX6dOrGyvTPbA&oe=69F51C6F&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/623669652_18115130080717932_7843298697868129547_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=YSBdR4lWHsIQ7kNvwF03HhR&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NzQ3OTE0NzM0NDIwOTExMA%3D%3D.3-ccb7-5&oh=00_Af1a3z5qczqfMhDn6acKlxMip3yHIAGJzyX6dOrGyvTPbA&oe=69F51C6F&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/623669652_18115130080717932_7843298697868129547_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=YSBdR4lWHsIQ7kNvwF03HhR&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NzQ3OTE0NzM0NDIwOTExMA%3D%3D.3-ccb7-5&oh=00_Af1a3z5qczqfMhDn6acKlxMip3yHIAGJzyX6dOrGyvTPbA&oe=69F51C6F&_nc_sid=8b3546",
       "used_vision": true,
       "social_source": {
         "platform": "instagram",
         "post_url": "https://www.instagram.com/p/C8mRUitP6TW/",
-        "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/623669652_18115130080717932_7843298697868129547_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=YSBdR4lWHsIQ7kNvwHbIi2f&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NzQ3OTE0NzM0NDIwOTExMA%3D%3D.3-ccb7-5&oh=00_Af2Lp6ftYqQ0YvUxTl3yx9JQat67fRwIA72Raq2QenfoSg&oe=69F4E42F&_nc_sid=8b3546",
+        "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/623669652_18115130080717932_7843298697868129547_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=YSBdR4lWHsIQ7kNvwF03HhR&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NzQ3OTE0NzM0NDIwOTExMA%3D%3D.3-ccb7-5&oh=00_Af1a3z5qczqfMhDn6acKlxMip3yHIAGJzyX6dOrGyvTPbA&oe=69F51C6F&_nc_sid=8b3546",
         "caption": "Introducing Kathuria 'High Speed Tail Braker Pinch Roll'\n\nEngineered to achieve an impressive speed of 35 meters per second, this Pinch Roll boasts a compact and rigid design, complete with a shock-absorbing arrangement to effectively counter vibrations. \n\nDiscover the perfect blend of speed, durability, and ease of use with Kathuria's latest innovation.\n\n#Kathuria #SteelMills #PinchRoll #Engineering #Innovation #HighPerformance",
         "posted_at": "2024-06-24T12:11:37.000Z",
         "likes": 3,
         "views": null
-      }
-    },
-    {
-      "fingerprint": "75f51455c516",
-      "raw_name": "kathuria Hydraulic Billet Shear",
-      "clean_name": "kathuria Hydraulic Billet Shear",
-      "product_category": "Industrial Equipment",
-      "product_sub_type": null,
-      "top_level_domain": null,
-      "industry_segment": null,
-      "description": "A 'kathuria' Hydraulic Billet Shear used for cutting cold billets of various sizes and lengths. This robust industrial machine is available in multiple capacities and is designed to cut billets up to 160 mm in size.",
-      "seo_title": "kathuria Hydraulic Billet Shear",
-      "alt_text": "kathuria Hydraulic Billet Shear",
-      "tags": [
-        "Hydraulic Billet Shear",
-        "Billet Cutting",
-        "Industrial Machine",
-        "Metalworking",
-        "Cold Billets",
-        "Kathuria"
-      ],
-      "price_single": null,
-      "price_text": null,
-      "currency": "INR",
-      "specifications": {
-        "Capacity": "800 Ton, 1000 Ton & 1200 Ton",
-        "Max Billet Size": "160 mm",
-        "Application": "Cutting of Cold Billets"
       },
-      "b2b_attributes": {},
-      "classification_confidence": 1,
-      "extraction_confidence": 0.65,
-      "source": "youtube",
-      "sources": ["youtube"],
-      "primary_photo_url": "https://i.ytimg.com/vi/B5zEHqiu9j0/hqdefault.jpg",
-      "media_url": "https://i.ytimg.com/vi/B5zEHqiu9j0/hqdefault.jpg",
-      "used_vision": true,
-      "social_source": {
-        "platform": "youtube",
-        "post_url": "https://www.youtube.com/watch?v=B5zEHqiu9j0",
-        "thumbnail_url": "https://i.ytimg.com/vi/B5zEHqiu9j0/hqdefault.jpg",
-        "caption": "'kathuria' Hydraulic Billet Shear used for cutting of Cold Billets for various sizes and lengths.\n\nThe machine is available with the capacity of 800 Ton, 1000 Ton & 1200 Ton. The machine has been designed to cut the Billets size up to 160 mm.",
-        "posted_at": "2020-06-18T04:53:39.000Z",
-        "likes": 8,
-        "views": 1091
-      }
-    },
-    {
-      "fingerprint": "60452bc006db",
-      "raw_name": "Complete Hot Steel Rolling Mill Solution",
-      "clean_name": "Complete Hot Steel Rolling Mill Solution",
-      "product_category": "Industrial Equipment & Solution",
-      "product_sub_type": null,
-      "top_level_domain": null,
-      "industry_segment": null,
-      "description": "This post showcases the execution of a Kathuria engineering project through a detailed time-lapse video, highlighting their expertise in delivering reliable, high-performance solutions for the steel rolling mill industry. Kathuria specializes in complete solutions for hot steel rolling mills, covering design, equipment supply, and installation.",
-      "seo_title": "Complete Hot Steel Rolling Mill Solution",
-      "alt_text": "Complete Hot Steel Rolling Mill Solution",
-      "tags": [
-        "steel rolling mill",
-        "industrial equipment",
-        "engineering project",
-        "manufacturing",
-        "installation",
-        "time-lapse",
-        "Kathuria"
-      ],
-      "price_single": null,
-      "price_text": null,
-      "currency": "INR",
-      "specifications": {
-        "Project Scope": "Groundwork, structural assembly, precision installation, design, equipment supply, installation",
-        "Industry Focus": "Steel rolling mill industry, hot steel rolling mills",
-        "Expertise": "Decades of experience in engineering, manufacturing, and project execution"
-      },
-      "b2b_attributes": {},
-      "classification_confidence": 0.95,
-      "extraction_confidence": 0.65,
-      "source": "youtube",
-      "sources": ["youtube"],
-      "primary_photo_url": "https://i.ytimg.com/vi/-qycmsiqNoA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFAgWihlMA8=&rs=AOn4CLAnMYHwX3Dz_y_nT2FZdc_GDQd9sA",
-      "media_url": "https://i.ytimg.com/vi/-qycmsiqNoA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFAgWihlMA8=&rs=AOn4CLAnMYHwX3Dz_y_nT2FZdc_GDQd9sA",
-      "used_vision": true,
-      "social_source": {
-        "platform": "youtube",
-        "post_url": "https://www.youtube.com/watch?v=-qycmsiqNoA",
-        "thumbnail_url": "https://i.ytimg.com/vi/-qycmsiqNoA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFAgWihlMA8=&rs=AOn4CLAnMYHwX3Dz_y_nT2FZdc_GDQd9sA",
-        "caption": "Experience the execution of a Kathuria engineering project through this detailed time-lapse video. From groundwork and structural assembly to precision installation, this project reflects Kathuria’s expertise in delivering reliable, high-performance solutions for the steel rolling mill industry.\n\nWith decades of experience in engineering, manufacturing, and project execution, Kathuria specializes in complete solutions for hot steel rolling mills—covering design, equipment supply, installation, and after-sales support. This time-lapse highlights the discipline, planning, and technical excellence that go into every Kathuria project.\n\nIf you are planning a new steel rolling mill or upgrading an existing setup, Kathuria offers proven engineering solutions built for performance, durability, and long-term value.\n\nVisit us at https://www.kathuriarollmill.com/",
-        "posted_at": "2025-12-15T08:53:09.000Z",
-        "likes": 2,
-        "views": 46
-      }
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/C8mRUitP6TW/"
+        }
+      ]
     },
     {
       "clean_name": "Grip Tilter",
       "fingerprint": "de7c9296f3e9",
-      "top_level_domain": "Industrial Machinery",
+      "top_level_domain": "Industrial Equipment",
       "industry_segment": "Material Handling Equipment",
       "product_category": "Tilter",
       "product_sub_type": "Grip Tilter",
-      "buyer_persona": "A production manager or safety officer in a manufacturing plant needing to safely and efficiently tilt heavy workpieces or containers.",
+      "buyer_persona": "A procurement manager or operations supervisor in a manufacturing, warehousing, or logistics facility seeking equipment to safely and efficiently tilt or reorient materials.",
       "seo_title": "Grip Tilter Grip Tilter | Catalog Listing",
       "tags": [
         "Grip Tilter",
-        "Industrial Machinery",
+        "Industrial Equipment",
         "Material Handling Equipment",
         "Tilter"
       ],
@@ -2176,8 +2094,10 @@
       "self_healing_attempted": false,
       "retry_count": 0,
       "warnings": [],
-      "sources": ["website"],
-      "description": "Grip Tilter is a grip tilter offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Priced at Rs. 100. Suitable for: A production manager or safety officer in a manufacturing plant needing to safely and efficiently tilt heavy workpieces or containers.",
+      "sources": [
+        "website"
+      ],
+      "description": "Grip Tilter is a grip tilter offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Priced at Rs. 100. Suitable for: A procurement manager or operations supervisor in a manufacturing, warehousing, or logistics facility seeking equipment to safely and efficiently tilt or reorient materials.",
       "specifications": {
         "category": "Tilter",
         "sub_type": "Grip Tilter"
@@ -2191,14 +2111,51 @@
     {
       "product_name": "Our Operations",
       "rejection_rule": "vague_ui_item",
-      "rejection_reason": "Name or category indicates website UI chrome, not a real product (cat=Company Information, conf=0.7)",
-      "rejected_at": "2026-04-27T08:04:52.971Z"
+      "rejection_reason": "Name or category indicates website UI chrome, not a real product (cat=Unclassified, conf=0.3)",
+      "rejected_at": "2026-04-27T12:06:06.591Z"
     },
     {
       "product_name": "Our Logistics",
       "rejection_rule": "vague_ui_item",
-      "rejection_reason": "Name or category indicates website UI chrome, not a real product (cat=Company Information, conf=0.7)",
-      "rejected_at": "2026-04-27T08:04:52.971Z"
+      "rejection_reason": "Name or category indicates website UI chrome, not a real product (cat=Logistics Service, conf=0.75)",
+      "rejected_at": "2026-04-27T12:06:06.591Z"
+    },
+    {
+      "product_name": "TMT Quenching System",
+      "raw_name": "TMT Quenching System",
+      "fingerprint": "2116794bef69",
+      "primary_photo_url": "https://www.kathuriarollmill.com/images/case-studies/grid/tmt-quenching-system.webp",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Quenching System\" but image clearly shows \"Industrial machinery\"",
+      "product_agent": {
+        "clean_name": "TMT Quenching System",
+        "category": "Quenching System",
+        "sub_type": "Tmt Quenching System",
+        "top_level_domain": "Industrial Equipment",
+        "industry_segment": "Metallurgy & Metal Processing",
+        "classification_confidence": 0.95,
+        "description": "TMT Quenching System is a tmt quenching system offered by Kathuria Rollmill Private Limited based in Vijay Nagar. Suitable for: A procurement manager or plant operator in the steel manufacturing or metal processing industry looking for equipment to perform controlled cooling of TMT bars.",
+        "tags": [
+          "TMT Quenching System",
+          "Industrial Equipment",
+          "Metallurgy & Metal Processing",
+          "Quenching System"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "Industrial machinery",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a large industrial quenching system inside a factory. The system consists of multiple blue, rectangular modules connected by a conveyor-like structure, with water visibly flowing from one section into a channel below. The background features the high ceiling and support beams of a large industrial building, indicating an operational environment.",
+        "confidence": 0.9,
+        "shape_visible": "Rectangular modules, structural beams, cylindrical pipes",
+        "color_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "Water flowing from the system, overhead support structures, green piping"
+      },
+      "rejected_at": "2026-04-27T12:06:06.591Z"
     }
   ],
   "reviews": [],
@@ -2219,28 +2176,8 @@
     "https://facebook.com/profile.php",
     "https://twitter.com/krollmill"
   ],
-  "overall_confidence": 0.948,
+  "overall_confidence": 0.864,
   "social_profiles": [
-    {
-      "platform": "facebook",
-      "url": "https://www.facebook.com/profile.php?id=100009336628468",
-      "profile_pic_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t1.6435-1/100596488_2691327384521789_5921573687051419648_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=fe59b0&_nc_ohc=aPNz6qtoIaQQ7kNvwFiYtNS&_nc_oc=AdoA-64gh_cyCaZ76G-pXBgK8XTJpkXFJFrB9lKr6Lr2gtNWwwjBS_eOI9NhV7xGDCfVxsmFCGYIBU4H9zp6oDZ5&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=B1V2sO0B8cBe52Z0U5unfw&_nc_ss=7c289&oh=00_Af02nNAe2PX0xXvIQlOzsqmFeBfaI0lvUKWdH9IOd8EUXg&oe=6A167983",
-      "banner_url": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/503701759_4189322768055569_5432207140032173282_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=mSr7W8gDJ6kQ7kNvwFSlgz-&_nc_oc=AdpRk_F26BpnZ1cPTBRfQ_yhYiYkuaxfFz-FjBzh7vJvTsgKQPYY00rakPSINlN_102AAiY0F13gQh8VoYMTDkRh&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=mldBEdTuTI0etCpBqvDVyA&_nc_ss=7c289&oh=00_Af0PqJdwWLeOhdvHu-9tG3e1HburRq_4oNk3pAktlbfmAA&oe=69F503E8",
-      "bio": [
-        "Kathuria Rollmill. 5,487 likes",
-        "35 talking about this. Digital creator"
-      ],
-      "followers_count": 5487,
-      "posts": [],
-      "contacts_from_posts": [],
-      "extra_profile": {
-        "phone": null,
-        "email": null,
-        "website": null,
-        "address": null,
-        "city": null
-      }
-    },
     {
       "platform": "linkedin",
       "url": "https://in.linkedin.com/company/kathuria-rollmill-pvt-ltd",
@@ -2264,7 +2201,7 @@
     {
       "platform": "instagram",
       "url": "https://www.instagram.com/kathuriarollmill/",
-      "profile_pic_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/100949754_998790843868700_647132416229507072_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMDAuYzIifQ&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=LZ7vbe-LcEsQ7kNvwEQlAk0&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3-7V9f2Zmg5T_yx5TmP1gJquRCn48N1RdKP9RjmNaK5g&oe=69F4EDDF&_nc_sid=8b3546",
+      "profile_pic_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/100949754_998790843868700_647132416229507072_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMDAuYzIifQ&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=LZ7vbe-LcEsQ7kNvwHVW2YP&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1M69Uno4NZnVX392lLYeodGb10AjlsnAAAEn012v3VoQ&oe=69F5261F&_nc_sid=8b3546",
       "banner_url": null,
       "bio": null,
       "followers_count": 105,
@@ -2274,7 +2211,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/CegQdyBJSWi/",
-          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/654938584_18099341356977001_7814604134751349547_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=GAmJb8KtfMcQ7kNvwHVE-N_&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mjg1NTM1NDU3Mzc0OTc3MTA3OA%3D%3D.3-ccb7-5&oh=00_Af27vW4vZTUiaPfHxhA104OZ4LEJP7tO95WOcQYtMRhNYQ&oe=69F4F5C3&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/654938584_18099341356977001_7814604134751349547_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=GAmJb8KtfMcQ7kNvwHEUvTn&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mjg1NTM1NDU3Mzc0OTc3MTA3OA%3D%3D.3-ccb7-5&oh=00_Af1X5WhfXT1eyoJsJIte493dDzv7pdvdJx_8BB2pIN5pjg&oe=69F52E03&_nc_sid=8b3546",
           "caption": "Join Us Today!\n.\n.\n.\n#Kathuria #rollingmill #TMTrebars #RollingMillManufacturer #Steel #hotrolling #makeinindia",
           "likes": 12,
           "comments": 1,
@@ -2284,7 +2221,7 @@
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/Ca36_x-A9af/",
-          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/640919073_1567772597613195_3256260507372488083_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=QHHrnwPYC_gQ7kNvwEuN5tR&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1BD_HFk4f8fryL49cCoWPWq4M1-w8kfO2i4Zjtg7r-Hg&oe=69F4D9FF&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/640919073_1567772597613195_3256260507372488083_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=QHHrnwPYC_gQ7kNvwF35FBR&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2vvS6nEWY6HxyMmhTTLADvRfXbI1M5B9aHK4wDiMXwLA&oe=69F5123F&_nc_sid=8b3546",
           "caption": "At #Kathuria Rollmill (kathuriarollmill.com), we are working everyday to offer progressive - forward thinking - solutions in the #Steel Rolling Mill domain. 100+ clients across the globe trust our unwavering commitment to #quality. Become a part of the Kathuria family today! \n.\n.\n.\nIf you have a question - please feel free to drop a comment. Or if you would like to get in touch with us, please contact us at info@kathuriarollmill.com or +91 120 4179800/+91 7428982666.\n\n#Kathuria #rollingmill #TMTrebars #wirerod #merchantmills #steelindustry #hotrolling #MakeinIndia #steelmanufacturing",
           "likes": 14,
           "comments": 1,
@@ -2294,7 +2231,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/CUCzZbdpKSq/",
-          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/619678760_18091307428819213_3906296258807921355_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=1J-6fxMTWg8Q7kNvwG6ojkx&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjY2NjkxOTk3NzIwNDA5ODIxOA%3D%3D.3-ccb7-5&oh=00_Af2aKUSzDf4B997FqSn_SGXsXkAC9c4XOURjQLwTTLYgRA&oe=69F4FB92&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/619678760_18091307428819213_3906296258807921355_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=1J-6fxMTWg8Q7kNvwGcqHG8&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjY2NjkxOTk3NzIwNDA5ODIxOA%3D%3D.3-ccb7-5&oh=00_Af1q2KZkvHhqr-pb4h4eB0zbnd5jOl5TGyrNB1PBXMCqYQ&oe=69F533D2&_nc_sid=8b3546",
           "caption": "#Kathuria Rollmill is pleased to announce the successful and swift #commissioning of 300,000 TPA #TMT bar mill at Rungta Mines Ltd., Chaliyama Steel Plant II. \n.\n.\n.\nIf you have a question - please feel free to drop a comment. Or if you would like to get in touch with us, please contact us at info@kathuriarollmill.com or +91 120 4179800/+91 7428982666.\n\nAt Kathuria Rollmill (https://kathuriarollmill.com), we are working everyday to offer progressive - forward thinking - solutions. 100+ clients across the globe trust our commitment to quality. Become a part of the Kathuria family today! \n\n#Kathuria #rollingmill #TMTrebars #Steel #hotrolling #MakeinIndia",
           "likes": 21,
           "comments": 0,
@@ -2304,7 +2241,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/C80_N3ZvI8H/",
-          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/623228731_18073761101615939_5955536856649286673_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=ngg1ydbeJqwQ7kNvwFsWt5z&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQwMTYyMTY0ODM0MjU1MjMyNw%3D%3D.3-ccb7-5&oh=00_Af0pycviZVpS4MzknbS0ep9C-giNUdTPZkfpRHzxe5qclA&oe=69F4D724&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/623228731_18073761101615939_5955536856649286673_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=ngg1ydbeJqwQ7kNvwGY30bU&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQwMTYyMTY0ODM0MjU1MjMyNw%3D%3D.3-ccb7-5&oh=00_Af3UV82ATtVOlAB53fNtDnH2vEFV09G99meX9x_968xQkQ&oe=69F50F64&_nc_sid=8b3546",
           "caption": "Kathuria sends wishes on World Social Media Day and honours the role of Social Media in uniting the Digital World from networking to knowledge sharing. #socialmedialife #socialmediaday",
           "likes": 1,
           "comments": 0,
@@ -2314,7 +2251,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/C8mRUitP6TW/",
-          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/623669652_18115130080717932_7843298697868129547_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=YSBdR4lWHsIQ7kNvwHbIi2f&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NzQ3OTE0NzM0NDIwOTExMA%3D%3D.3-ccb7-5&oh=00_Af2Lp6ftYqQ0YvUxTl3yx9JQat67fRwIA72Raq2QenfoSg&oe=69F4E42F&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/623669652_18115130080717932_7843298697868129547_n.jpg?stp=dst-jpg_e35_s1080x1080_sh0.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=YSBdR4lWHsIQ7kNvwF03HhR&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NzQ3OTE0NzM0NDIwOTExMA%3D%3D.3-ccb7-5&oh=00_Af1a3z5qczqfMhDn6acKlxMip3yHIAGJzyX6dOrGyvTPbA&oe=69F51C6F&_nc_sid=8b3546",
           "caption": "Introducing Kathuria 'High Speed Tail Braker Pinch Roll'\n\nEngineered to achieve an impressive speed of 35 meters per second, this Pinch Roll boasts a compact and rigid design, complete with a shock-absorbing arrangement to effectively counter vibrations. \n\nDiscover the perfect blend of speed, durability, and ease of use with Kathuria's latest innovation.\n\n#Kathuria #SteelMills #PinchRoll #Engineering #Innovation #HighPerformance",
           "likes": 3,
           "comments": 0,
@@ -2324,7 +2261,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/C8dwtJ4tQT3/",
-          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.82787-15/621190227_17974424915985291_6288382829354733204_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHQOoDnFNFIx5e_VpU3YPUYa9ugWUqQb-v9WkLVG3p0SPx5I5zIx-phu625oFPQ0Ew&_nc_ohc=sF0tWhqPhKUQ7kNvwFCO7TG&_nc_gid=J41J9LHvU1qZ0fJIwVtrXg&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NTA4MzkwMzMzMTI3MTkyNw%3D%3D.3-ccb7-5&oh=00_Af1Z7pK40Yl5SWJrvGKsf-0GR5dpkdoEf_oSNkad-AmFzw&oe=69F4E173&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/621190227_17974424915985291_6288382829354733204_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE8zR5FUe3xZlPTyLr5sEfv3hoKXyKWMI3TRRMTGPQj-vbqM_X0gkWdY_SiTrIm8RE&_nc_ohc=B8OVlIHWrUkQ7kNvwHQso4u&_nc_gid=ZSmmivi3e_Qy4Q8lKuX2dw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM5NTA4MzkwMzMzMTI3MTkyNw%3D%3D.3-ccb7-5&oh=00_Af1bBIoeoUNesxtMTkWb7usjMqSTsd3OpSynXhDv_l6G6g&oe=69F519B3&_nc_sid=8b3546",
           "caption": "Kathuria celebrates wellness for self through yoga to strengthen the mind, body, soul and society and wishes a very happy #InternationalYogaDay to everyone. \n#yogainspiration #yogalife #yogapractice",
           "likes": 2,
           "comments": 0,
@@ -2374,33 +2311,23 @@
         },
         {
           "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=bZnbYb_1YeI",
+          "thumbnail_url": "https://i.ytimg.com/vi/bZnbYb_1YeI/hqdefault.jpg",
+          "caption": "Successful Installation and Running of 'kathuria' Pre-Stressed Mill Stands along with auxiliaries at one of our customer's site in India",
+          "likes": 7,
+          "comments": 0,
+          "views": 607,
+          "posted_at": "2020-06-03T05:55:56.000Z"
+        },
+        {
+          "type": "video",
           "post_url": "https://www.youtube.com/watch?v=HzJC1MmXLng",
           "thumbnail_url": "https://i.ytimg.com/vi/HzJC1MmXLng/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC4AOKAgwIABABGHIgVCg1MA8=&rs=AOn4CLDBdoYw7FnjBWN4qeQAdcjyw8kw7Q",
           "caption": "Kathuria proudly participated as a Sponsor at AIIFA 2025, reaffirming its long-standing commitment to the growth and advancement of India’s steel industry. The event brought together key stakeholders, industry leaders, and technology providers to exchange insights on innovation, sustainability, and the future of steel manufacturing.\n\nThrough its presence at AIIFA 2025, Kathuria showcased its engineering capabilities and comprehensive solutions for the steel rolling mill sector—backed by decades of experience in design, manufacturing, project execution, and after-sales support.\n\nOur participation as a sponsor reflects Kathuria’s continued dedication to supporting industry platforms that drive collaboration, knowledge sharing, and technological progress within the steel ecosystem.",
           "likes": 0,
           "comments": 0,
-          "views": 17,
+          "views": 18,
           "posted_at": "2025-12-15T09:22:55.000Z"
-        },
-        {
-          "type": "video",
-          "post_url": "https://www.youtube.com/watch?v=-Oay_1BdfEE",
-          "thumbnail_url": "https://i.ytimg.com/vi/-Oay_1BdfEE/hqdefault.jpg",
-          "caption": "Successful Installation and Running of 'kathuria' Complete Automatic Rack Type Cooling Bed (78 meters x 7 meters) at one of our customer's site in Maharashtra, India",
-          "likes": 3,
-          "comments": 0,
-          "views": 479,
-          "posted_at": "2020-06-05T11:20:59.000Z"
-        },
-        {
-          "type": "video",
-          "post_url": "https://www.youtube.com/watch?v=B5zEHqiu9j0",
-          "thumbnail_url": "https://i.ytimg.com/vi/B5zEHqiu9j0/hqdefault.jpg",
-          "caption": "'kathuria' Hydraulic Billet Shear used for cutting of Cold Billets for various sizes and lengths.\n\nThe machine is available with the capacity of 800 Ton, 1000 Ton & 1200 Ton. The machine has been designed to cut the Billets size up to 160 mm.",
-          "likes": 8,
-          "comments": 1,
-          "views": 1091,
-          "posted_at": "2020-06-18T04:53:39.000Z"
         },
         {
           "type": "video",
@@ -2414,13 +2341,23 @@
         },
         {
           "type": "video",
-          "post_url": "https://www.youtube.com/watch?v=0OASHOps8UI",
-          "thumbnail_url": "https://i.ytimg.com/vi/0OASHOps8UI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHSBoAC4AOKAgwIABABGHIgSCg3MA8=&rs=AOn4CLBrJKQcYF5utal2JxyzhOC5hgU2dA",
-          "caption": "Successful Installation and Running of 'kathuria' Housingless Mill Stands along with Gear Boxes & auxiliaries in 'Electrotherm'",
-          "likes": 2,
+          "post_url": "https://www.youtube.com/watch?v=1z_LtW9wR4k",
+          "thumbnail_url": "https://i.ytimg.com/vi/1z_LtW9wR4k/maxresdefault.jpg",
+          "caption": "Kathuria successfully delivers and commissions its latest Housingless Mill Stand project in West Bengal (India), reinforcing its leadership in hot steel rolling mill solutions. Designed for high performance, precision, and long service life, Kathuria’s housingless stands ensure superior mill stability, productivity, and consistent output.\n\nWith over four decades of expertise, Kathuria continues to support the steel industry with reliable engineering, robust manufacturing, and strong after-sales service.",
+          "likes": 1,
           "comments": 0,
-          "views": 227,
-          "posted_at": "2020-02-24T13:00:01.000Z"
+          "views": 139,
+          "posted_at": "2025-12-12T09:45:00.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=ZiJDR3qZlG4",
+          "thumbnail_url": "https://i.ytimg.com/vi/ZiJDR3qZlG4/hqdefault.jpg",
+          "caption": "Successful Installation and Running of 'kathuria' TMT Quenching System at one of our customer's site in India",
+          "likes": 10,
+          "comments": 0,
+          "views": 940,
+          "posted_at": "2020-07-01T06:36:13.000Z"
         }
       ],
       "contacts_from_posts": [],
@@ -2430,6 +2367,81 @@
           "www.kathuriarollmill.com",
           "https://www.facebook.com/kathuriarollmill"
         ]
+      }
+    },
+    {
+      "platform": "youtube",
+      "url": "https://youtube.com/@uncomplicreatestudio7380",
+      "profile_pic_url": "https://yt3.googleusercontent.com/ytc/AIdro_mE4ogZPCUOMBsvRjnPLSYt1BfdIuQzIaezrTLFLQbUeQ=s160-c-k-c0x00ffffff-no-rj",
+      "banner_url": null,
+      "bio": "Uncomplicreate Studio helps you uncomplicate your creative, design and digital requirements.",
+      "followers_count": 49,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/tTqdsVFoeug",
+          "thumbnail_url": "https://i.ytimg.com/vi/tTqdsVFoeug/hq2.jpg",
+          "caption": "Corona Social Media post - 2",
+          "likes": 1,
+          "comments": 0,
+          "views": 19,
+          "posted_at": "2020-06-29T04:51:43.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=TXJ7KFHKkew",
+          "thumbnail_url": "https://i.ytimg.com/vi/TXJ7KFHKkew/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDYgVSh_MA8=&rs=AOn4CLDdsqK6coOj5d435D94IstBqwwSNw",
+          "caption": "2D Animation Video",
+          "likes": 0,
+          "comments": 0,
+          "views": 55,
+          "posted_at": "2023-05-30T10:58:57.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=VgVaX9R1SQ4",
+          "thumbnail_url": "https://i.ytimg.com/vi/VgVaX9R1SQ4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gOigrMA8=&rs=AOn4CLA60RwmSuJuryVy5_QmoZlu7dSxIA",
+          "caption": "Prosodium Social Media Post",
+          "likes": 0,
+          "comments": 0,
+          "views": 12,
+          "posted_at": "2023-05-30T10:46:40.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=bjQdsl2kU58",
+          "thumbnail_url": "https://i.ytimg.com/vi/bjQdsl2kU58/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gRSgTMA8=&rs=AOn4CLAjQwFdlaBkpe6INr59Q4OBfVQPLg",
+          "caption": "2D Animation Video",
+          "likes": 0,
+          "comments": 0,
+          "views": 39,
+          "posted_at": "2023-05-30T11:01:04.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=phsaZJ6Pzx4",
+          "thumbnail_url": "https://i.ytimg.com/vi/phsaZJ6Pzx4/hqdefault.jpg",
+          "caption": "Watchout Theme AV",
+          "likes": 0,
+          "comments": 0,
+          "views": 82,
+          "posted_at": "2023-05-30T11:31:28.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=bYdY8tWhIzc",
+          "thumbnail_url": "https://i.ytimg.com/vi/bYdY8tWhIzc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSigyMA8=&rs=AOn4CLD-l9eH_rBQaSEKZpzVTUUoNYz7wQ",
+          "caption": "Prosodium Social Media Post",
+          "likes": 0,
+          "comments": 0,
+          "views": 5,
+          "posted_at": "2023-05-30T10:42:27.000Z"
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "location": null,
+        "links": []
       }
     },
     {
@@ -2472,8 +2484,8 @@
     }
   ],
   "pipeline_summary": {
-    "run_started_at": "2026-04-27T08:02:16.393Z",
-    "duration_seconds": 157,
+    "run_started_at": "2026-04-27T12:03:01.534Z",
+    "duration_seconds": 185,
     "agents_in_order": [
       "CompanyEnricher",
       "Agent03/Product",
@@ -2484,7 +2496,7 @@
       "Agent02/Orchestrator": 1,
       "Agent03/Product": 1,
       "Agent03a/Category": 14,
-      "Agent04/Media": 12,
+      "Agent04/Media": 11,
       "Agent05/EnrichDedup": 1,
       "Agent07/Social": 1,
       "CompanyEnricher": 1,
@@ -2501,37 +2513,37 @@
         ],
         "skip_agents": [],
         "quality_target": 0.85,
-        "reasoning": "The seller record contains a good number of raw products (25), a complete company profile, and a reviews API URL. Therefore, all relevant agents (company, product, reviews, dedup) should be run to build a comprehensive catalog. Media classification will be handled by the product agent and other internal processes."
+        "reasoning": "Seller has 25 raw products, a website, and a reviews API URL. All core agents are needed to build a comprehensive catalog. Aiming for high quality due to rich input data."
       },
       "evaluate_product_output": {
         "decision": "proceed",
-        "avg_confidence": 0.93,
+        "avg_confidence": 0.84,
         "retry_triggered": false
       }
     },
     "products": {
       "raw_input": 14,
       "enriched": 14,
-      "catalog_items": 15,
-      "rejected": 2,
-      "with_vision": 11,
+      "catalog_items": 12,
+      "rejected": 3,
+      "with_vision": 10,
       "vision_skipped": 1
     },
     "social": {
       "urls_detected": 10,
       "platforms_scraped": [
-        "facebook",
         "linkedin",
         "twitter",
         "instagram",
         "youtube",
+        "youtube",
         "facebook",
         "twitter"
       ],
-      "posts_collected": 13,
-      "social_products_extracted": 3
+      "posts_collected": 19,
+      "social_products_extracted": 1
     },
-    "overall_confidence": 0.948
+    "overall_confidence": 0.864
   },
-  "_saved_at": "2026-04-27T08:04:52.976Z"
+  "_saved_at": "2026-04-27T12:06:06.594Z"
 }
