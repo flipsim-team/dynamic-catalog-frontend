@@ -1,0 +1,3505 @@
+{
+  "seller_id": 122074094,
+  "company_profile": {
+    "name": {
+      "value": "GPX Diamonds",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "GPX Diamonds is a premier jewelry store in New Delhi, specializing in exquisite IGI-certified lab-grown diamonds. They offer a stunning collection of fancy colored diamonds, including Fancy Vivid Pink, Intense Blue, and Vivid Yellow, available in diverse cuts like Oval, Heart, Radiant, and Emerald, all with exceptional clarity. Renowned for their quality and customer satisfaction, GPX Diamonds provides a brilliant choice for discerning buyers.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "New Delhi",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "Basement,B-273, Block B, Chittaranjan Park,New Delhi, Delhi 110019,India",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "110019",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://gridpx.com/",
+      "sources": [
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Jewelry store",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 5,
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 45,
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "bio": {
+      "value": "GPX Diamonds is designed for jewelers. Check out our website, you might find the diamonds you're looking for and really like.",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/431814203_409181245031622_5559423804516648262_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=ISiiASDmxOMQ7kNvwEAEcbl&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0g4cTNyKD2FM1431JV2R1FFQdR2f4M0FZio7DWiZXAkw&oe=69F7D135&_nc_sid=8b3546",
+      "sources": [
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://yt3.googleusercontent.com/v3PiNVmiVrX1g8O4Tzy68-aZL3J8dhspuozSJiRFN4STxelo-AqOoI8D7txejAv4bFqBY6Yk=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "sources": [
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/gridpx",
+      "sources": [
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "https://www.instagram.com/gpxdiamonds/",
+      "sources": [
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "youtube": {
+      "value": "https://www.youtube.com/@gpxdiamond",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "linkedin": {
+      "value": "https://www.linkedin.com/in/gpx-diamonds-0989b3299/",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "twitter": {
+      "value": "https://twitter.com/gpxdiamonds",
+      "sources": [
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "8851762100",
+        "sources": [
+          "google",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "info@gridpx.com",
+        "sources": [
+          "website",
+          "facebook",
+          "youtube"
+        ],
+        "date": "2024-06-27T14:00:50.000Z",
+        "post_url": "https://www.youtube.com/watch?v=EZHjNiMekQ4"
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/gridpx",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.instagram.com/gpxdiamonds/",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.youtube.com/@gpxdiamond",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.linkedin.com/in/gpx-diamonds-0989b3299/",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://twitter.com/gpxdiamonds",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "followers_facebook": 53,
+    "followers_instagram": 111,
+    "posts_count_instagram": 72,
+    "following_count_instagram": 3,
+    "followers_youtube": 731,
+    "confidence": 0.95,
+    "sources": [
+      "google",
+      "facebook",
+      "instagram",
+      "youtube"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 53
+      },
+      {
+        "platform": "instagram",
+        "followers": 111
+      },
+      {
+        "platform": "youtube",
+        "followers": 731
+      }
+    ],
+    "data_sources": [
+      "instagram",
+      "website",
+      "youtube"
+    ],
+    "reviews_api_url": "https://api.scrapingdog.com/google_maps/reviews?api_key=69859b2025968963c82b2349&data_id=0x390ce127cc3a7429:0x6dbed46e17b7849e"
+  },
+  "products": [
+    {
+      "raw_name": "1.56 CT Oval F / VS1 Lab Grown Diamond",
+      "clean_name": "1.56 CT Oval F / VS1 Lab Grown Diamond",
+      "fingerprint": "a1719aed4b05",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A discerning individual or a jewelry designer looking for a high-quality, ethically sourced diamond for a custom piece of jewelry or investment.",
+      "description": "1.56 CT Oval F / VS1 Lab Grown Diamond is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 1.56, Clarity: VS1, Cut: Oval, Color: Colorless (F). Priced at Rs. 6,00,000. Suitable for: A discerning individual or a jewelry designer looking for a high-quality, ethically sourced diamond for a custom piece of jewelry or investment.",
+      "seo_title": "1.56 CT Oval F / VS1 Lab Grown Diamond Lab Grown Diamond | Catalog Lis",
+      "tags": [
+        "1.56 CT Oval F / VS1 Lab Grown Diamond",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "1.56",
+        "VS1",
+        "Oval",
+        "Colorless (F)",
+        "Diamond"
+      ],
+      "alt_text": "1.56 CT Oval F / VS1 Lab Grown Diamond from GPX Diamonds",
+      "domain_attributes": {
+        "carat": "1.56",
+        "clarity": "VS1",
+        "cut": "Oval",
+        "color": "Colorless (F)",
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2023/08/oval-cut-diamond-1-768x768.jpg"
+      },
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2023/08/oval-cut-diamond-1-768x768.jpg",
+        "source_url": null,
+        "price_single": 600000,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "carat": "1.56",
+        "clarity": "VS1",
+        "cut": "Oval",
+        "color": "Colorless (F)",
+        "metal": "Diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 600000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2023/08/oval-cut-diamond-1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2023/08/oval-cut-diamond-1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.98,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity",
+      "clean_name": "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity",
+      "fingerprint": "d02a89e3965b",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A collector or an individual seeking a unique and vibrant colored diamond for a bespoke jewelry design, valuing both rarity and ethical sourcing.",
+      "description": "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 1.51, Clarity: SI1, Cut: Emerald, Metal: Diamond. Priced at Rs. 78,000. Suitable for: A collector or an individual seeking a unique and vibrant colored diamond for a bespoke jewelry design, valuing both rarity and ethical sourcing.",
+      "seo_title": "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity Lab Gro",
+      "tags": [
+        "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "1.51",
+        "SI1",
+        "Emerald",
+        "Diamond"
+      ],
+      "alt_text": "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity from GPX Diamonds",
+      "domain_attributes": {
+        "carat": "1.51",
+        "clarity": "SI1",
+        "cut": "Emerald",
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-47-768x768.jpg"
+      },
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-47-768x768.jpg",
+        "source_url": null,
+        "price_single": 78000,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "carat": "1.51",
+        "clarity": "SI1",
+        "cut": "Emerald",
+        "metal": "Diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 78000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-47-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-47-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality",
+      "clean_name": "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality",
+      "fingerprint": "8a374340e3ec",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "An individual looking for a striking and ethically produced blue diamond, possibly for an engagement ring or a statement piece, prioritizing both color and clarity.",
+      "description": "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 1.40, Clarity: VS1, Metal: Diamond. Priced at Rs. 2,21,618. Suitable for: An individual looking for a striking and ethically produced blue diamond, possibly for an engagement ring or a statement piece, prioritizing both color and clarity.",
+      "seo_title": "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality Lab Grown",
+      "tags": [
+        "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "1.40",
+        "VS1",
+        "Diamond"
+      ],
+      "alt_text": "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality from GPX Diamonds",
+      "domain_attributes": {
+        "carat": "1.40",
+        "clarity": "VS1",
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-93-768x768.jpg"
+      },
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-93-768x768.jpg",
+        "source_url": null,
+        "price_single": 221618,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "carat": "1.40",
+        "clarity": "VS1",
+        "metal": "Diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 221618,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-93-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-93-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity",
+      "clean_name": "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity",
+      "fingerprint": "50a04dfba401",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A connoisseur or a designer seeking a substantial and rare vivid blue diamond with an elegant emerald cut, valuing both size and ethical origin.",
+      "description": "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 2.14, Clarity: VS1, Cut: Emerald, Metal: Diamond. Priced at Rs. 51,000. Suitable for: A connoisseur or a designer seeking a substantial and rare vivid blue diamond with an elegant emerald cut, valuing both size and ethical origin.",
+      "seo_title": "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity Lab Grown",
+      "tags": [
+        "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "2.14",
+        "VS1",
+        "Emerald",
+        "Diamond"
+      ],
+      "alt_text": "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity from GPX Diamonds",
+      "domain_attributes": {
+        "carat": "2.14",
+        "clarity": "VS1",
+        "cut": "Emerald",
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-29-768x768.jpg"
+      },
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-29-768x768.jpg",
+        "source_url": null,
+        "price_single": 51000,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "carat": "2.14",
+        "clarity": "VS1",
+        "cut": "Emerald",
+        "metal": "Diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 51000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-29-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-29-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity",
+      "clean_name": "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity",
+      "fingerprint": "494318b0250a",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A luxury buyer or a collector interested in a significant and rare intense pink diamond, appreciating its unique color, size, and ethical lab-grown origin.",
+      "description": "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 3.01, Clarity: VS1, Cut: Emerald, Metal: Diamond. Priced at Rs. 2,95,000. Suitable for: A luxury buyer or a collector interested in a significant and rare intense pink diamond, appreciating its unique color, size, and ethical lab-grown origin.",
+      "seo_title": "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity Lab Grown D",
+      "tags": [
+        "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "3.01",
+        "VS1",
+        "Emerald",
+        "Diamond"
+      ],
+      "alt_text": "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity from GPX Diamonds",
+      "domain_attributes": {
+        "carat": "3.01",
+        "clarity": "VS1",
+        "cut": "Emerald",
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-26-768x768.jpg"
+      },
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-26-768x768.jpg",
+        "source_url": null,
+        "price_single": 295000,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "carat": "3.01",
+        "clarity": "VS1",
+        "cut": "Emerald",
+        "metal": "Diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 295000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-26-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-26-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Special 4.10 carat radiant diamond H, VS1 Lab Diamond",
+      "clean_name": "Special 4.10 carat radiant diamond H, VS1 Lab Diamond",
+      "fingerprint": "039b7b8bd9e6",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A high-end buyer or investor looking for a large, high-quality lab-grown diamond with excellent clarity and a brilliant radiant cut for a significant piece of jewelry.",
+      "description": "Special 4.10 carat radiant diamond H, VS1 Lab Diamond is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 4.10, Clarity: VS1, Color: Near Colorless (H), Metal: diamond. Priced at Rs. 2,50,000. Suitable for: A high-end buyer or investor looking for a large, high-quality lab-grown diamond with excellent clarity and a brilliant radiant cut for a significant piece of jewelry.",
+      "seo_title": "Special 4.10 carat radiant diamond H, VS1 Lab Diamond Lab Grown Diamon",
+      "tags": [
+        "Special 4.10 carat radiant diamond H, VS1 Lab Diamond",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "4.10",
+        "VS1",
+        "Near Colorless (H)",
+        "diamond"
+      ],
+      "alt_text": "Special 4.10 carat radiant diamond H, VS1 Lab Diamond from GPX Diamonds",
+      "domain_attributes": {
+        "carat": "4.10",
+        "clarity": "VS1",
+        "color": "Near Colorless (H)",
+        "metal": "diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2023/08/gpx-radiant-diamond-jewelry-5.jpg"
+      },
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2023/08/gpx-radiant-diamond-jewelry-5.jpg",
+        "source_url": null,
+        "price_single": 250000,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "carat": "4.10",
+        "clarity": "VS1",
+        "color": "Near Colorless (H)",
+        "metal": "diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 250000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2023/08/gpx-radiant-diamond-jewelry-5.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2023/08/gpx-radiant-diamond-jewelry-5.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.98,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond",
+      "clean_name": "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond",
+      "fingerprint": "01f767770a29",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "An individual seeking a distinctive and vibrant yellow diamond, appreciating its unique pear shape, substantial size, and ethical lab-grown origin for a statement piece.",
+      "description": "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 2.55, Clarity: VS1, Cut: Pear, Metal: Diamond. Priced at Rs. 1,60,999. Suitable for: An individual seeking a distinctive and vibrant yellow diamond, appreciating its unique pear shape, substantial size, and ethical lab-grown origin for a statement piece.",
+      "seo_title": "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond Lab G",
+      "tags": [
+        "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "2.55",
+        "VS1",
+        "Pear",
+        "Diamond"
+      ],
+      "alt_text": "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond from GPX Diamonds",
+      "domain_attributes": {
+        "carat": "2.55",
+        "clarity": "VS1",
+        "cut": "Pear",
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2025/05/2.55-ct-Pear-yellow-768x774.jpg"
+      },
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2025/05/2.55-ct-Pear-yellow-768x774.jpg",
+        "source_url": null,
+        "price_single": 160999,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "carat": "2.55",
+        "clarity": "VS1",
+        "cut": "Pear",
+        "metal": "Diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 160999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2025/05/2.55-ct-Pear-yellow-768x774.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2025/05/2.55-ct-Pear-yellow-768x774.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "2.13 carat Emerald step cut diamond | Vivid Pink Diamond",
+      "clean_name": "2.13 carat Emerald step cut diamond | Vivid Pink Diamond",
+      "fingerprint": "cfeeb20bb7ac",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A discerning buyer or collector looking for a rare and beautiful vivid pink diamond with an elegant emerald cut, potentially for a high-value custom jewelry piece.",
+      "description": "2.13 carat Emerald step cut diamond | Vivid Pink Diamond is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 2.13, Cut: Emerald, Metal: diamond. Priced at Rs. 72,990. Suitable for: A discerning buyer or collector looking for a rare and beautiful vivid pink diamond with an elegant emerald cut, potentially for a high-value custom jewelry piece.",
+      "seo_title": "2.13 carat Emerald step cut diamond | Vivid Pink Diamond Lab Grown Dia",
+      "tags": [
+        "2.13 carat Emerald step cut diamond | Vivid Pink Diamond",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "2.13",
+        "Emerald",
+        "diamond"
+      ],
+      "alt_text": "2.13 carat Emerald step cut diamond | Vivid Pink Diamond from GPX Diamonds",
+      "domain_attributes": {
+        "carat": "2.13",
+        "cut": "Emerald",
+        "metal": "diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2023/08/pink-diamond-emerald-cut-8-768x768.jpg"
+      },
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2023/08/pink-diamond-emerald-cut-8-768x768.jpg",
+        "source_url": null,
+        "price_single": 72990,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "carat": "2.13",
+        "cut": "Emerald",
+        "metal": "diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 72990,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2023/08/pink-diamond-emerald-cut-8-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2023/08/pink-diamond-emerald-cut-8-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Origin (Natural/Lab Grown) not explicitly stated, assumed Lab Grown based on other products."
+      ],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold",
+      "clean_name": "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold",
+      "fingerprint": "f2bdeae4d1e6",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Necklace",
+      "product_sub_type": "Pendant Necklace",
+      "buyer_persona": "A fashion-conscious individual seeking an elegant and delicate necklace for everyday wear or special occasions, appreciating floral designs and gold craftsmanship.",
+      "description": "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold is a pendant necklace offered by GPX Diamonds based in New Delhi. Key specifications include Cut: Pear, Metal: Gold. Price range: Rs. 88,200 to Rs. 97,200. Suitable for: A fashion-conscious individual seeking an elegant and delicate necklace for everyday wear or special occasions, appreciating floral designs and gold craftsmanship.",
+      "seo_title": "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold Pendant Neckla",
+      "tags": [
+        "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold",
+        "Jewelry",
+        "Fine Jewelry",
+        "Necklace",
+        "Pendant Necklace",
+        "Pear",
+        "Gold"
+      ],
+      "alt_text": "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold from GPX Diamonds",
+      "domain_attributes": {
+        "cut": "Pear",
+        "metal": "Gold",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_41.1-768x768.jpg"
+      },
+      "specifications": {
+        "category": "Necklace",
+        "sub_type": "Pendant Necklace",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_41.1-768x768.jpg",
+        "source_url": null,
+        "price_single": null,
+        "price_min": 88200,
+        "price_max": 97200,
+        "price_unit": null,
+        "currency": "INR",
+        "cut": "Pear",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": 88200,
+      "price_max": 97200,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_41.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_41.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Elegance",
+      "clean_name": "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Elegance",
+      "fingerprint": "e11b6cc3bedc",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Necklace",
+      "product_sub_type": "Diamond Necklace",
+      "buyer_persona": "An individual looking for a versatile and elegant diamond necklace suitable for daily wear, valuing quality craftsmanship and hallmarked gold.",
+      "description": "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Elegance is a diamond necklace offered by GPX Diamonds based in New Delhi. Key specifications include Cut: Round, Metal: Diamond. Price range: Rs. 68,600 to Rs. 75,500. Suitable for: An individual looking for a versatile and elegant diamond necklace suitable for daily wear, valuing quality craftsmanship and hallmarked gold.",
+      "seo_title": "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Ele",
+      "tags": [
+        "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Elegance",
+        "Jewelry",
+        "Fine Jewelry",
+        "Necklace",
+        "Diamond Necklace",
+        "Round",
+        "Diamond"
+      ],
+      "alt_text": "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Elegance from GPX Diamonds",
+      "domain_attributes": {
+        "cut": "Round",
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_39.1-768x768.jpg"
+      },
+      "specifications": {
+        "category": "Necklace",
+        "sub_type": "Diamond Necklace",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_39.1-768x768.jpg",
+        "source_url": null,
+        "price_single": null,
+        "price_min": 68600,
+        "price_max": 75500,
+        "price_unit": null,
+        "currency": "INR",
+        "cut": "Round",
+        "metal": "Diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": 68600,
+      "price_max": 75500,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_39.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_39.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.96,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Timeless Trio Diamond Halo Pendant Necklace in Hallmarked 14K/18K Gold",
+      "clean_name": "Timeless Trio Diamond Halo Pendant Necklace in Hallmarked 14K/18K Gold",
+      "fingerprint": "396635ab2fea",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Necklace",
+      "product_sub_type": "Pendant Necklace",
+      "buyer_persona": "A customer seeking a classic and sophisticated diamond necklace, ideal for gifting or personal indulgence, appreciating the halo design and quality gold.",
+      "description": "This exquisite Timeless Trio Diamond Halo Pendant Necklace features a captivating trio of diamonds set in a radiant halo design, crafted from hallmarked 14K or 18K gold. Available from INR 59,000 to INR 63,600, this piece offers exceptional value for its quality and design. Perfect for special occasions or as a luxurious everyday accessory, it appeals to discerning customers seeking sophisticated fine jewelry. GPX Diamonds ensures authenticity and lasting brilliance with hallmarked gold and meticulously selected diamonds.",
+      "seo_title": "Diamond Halo Pendant Necklace — Hallmarked Gold | Buy Online",
+      "tags": [
+        "Diamond Necklace",
+        "Pendant Necklace",
+        "Halo Necklace",
+        "Gold Necklace",
+        "Fine Jewelry",
+        "Women's Necklace",
+        "Gift for Her",
+        "Hallmarked Gold",
+        "Trio Diamond",
+        "Luxury Jewelry",
+        "GPX Diamonds"
+      ],
+      "alt_text": "Timeless Trio Diamond Halo Pendant Necklace in Hallmarked 14K/18K Gold by GPX Diamonds",
+      "domain_attributes": {
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_38.1-768x768.jpg",
+        "material": "14K/18K Hallmarked Gold",
+        "gemstone_type": "Diamond",
+        "design_style": "Halo",
+        "necklace_type": "Pendant",
+        "number_of_stones": "Trio"
+      },
+      "specifications": {
+        "category": "Necklace",
+        "sub_type": "Pendant Necklace",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_38.1-768x768.jpg",
+        "source_url": null,
+        "price_single": null,
+        "price_min": 59000,
+        "price_max": 63600,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Diamond",
+        "material": "14K/18K Hallmarked Gold",
+        "gemstone_type": "Diamond",
+        "design_style": "Halo",
+        "necklace_type": "Pendant",
+        "number_of_stones": "Trio"
+      },
+      "b2b_attributes": {
+        "moq": 1,
+        "moq_unit": "piece",
+        "price_unit": "piece",
+        "hsn_code": "7113",
+        "gst_percent": 3,
+        "country_of_origin": "India",
+        "brand": "GPX Diamonds",
+        "certifications": [
+          "Hallmarked"
+        ]
+      },
+      "price_single": null,
+      "price_min": 59000,
+      "price_max": 63600,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_38.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_38.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Halo Round Diamond Necklace in Hallmarked Gold | Gift-Ready Jewellery",
+      "clean_name": "Halo Round Diamond Necklace in Hallmarked Gold | Gift-Ready Jewellery",
+      "fingerprint": "ec4916e55c6d",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Necklace",
+      "product_sub_type": "Diamond Necklace",
+      "buyer_persona": "A gift-giver or an individual looking for a beautiful and classic diamond necklace, valuing the halo design and the convenience of a gift-ready item.",
+      "description": "This stunning Halo Round Diamond Necklace features brilliant round-cut diamonds encircled by a radiant halo, crafted in hallmarked gold and presented as gift-ready jewellery. Priced between INR 98,200 and INR 107,200, it represents an exquisite investment in timeless elegance. Ideal for significant celebrations or as a luxurious personal treat, this necklace is perfect for those who appreciate classic design and convenience. GPX Diamonds guarantees superior craftsmanship and the authenticity of hallmarked gold, ensuring a cherished piece for years to come.",
+      "seo_title": "Round Diamond Halo Necklace — Hallmarked Gold, Gift-Ready | Buy Online",
+      "tags": [
+        "Diamond Necklace",
+        "Halo Necklace",
+        "Round Diamond",
+        "Gold Necklace",
+        "Fine Jewellery",
+        "Gift Jewellery",
+        "Hallmarked Gold",
+        "Luxury Gift",
+        "Women's Jewellery",
+        "GPX Diamonds",
+        "Special Occasion Gift"
+      ],
+      "alt_text": "Halo Round Diamond Necklace in Hallmarked Gold, Gift-Ready Jewellery by GPX Diamonds",
+      "domain_attributes": {
+        "cut": "Round",
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_37.1-768x768.jpg",
+        "material": "Hallmarked Gold",
+        "gemstone_type": "Diamond",
+        "gemstone_cut": "Round",
+        "design_style": "Halo",
+        "packaging": "Gift-Ready"
+      },
+      "specifications": {
+        "category": "Necklace",
+        "sub_type": "Diamond Necklace",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_37.1-768x768.jpg",
+        "source_url": null,
+        "price_single": null,
+        "price_min": 98200,
+        "price_max": 107200,
+        "price_unit": null,
+        "currency": "INR",
+        "cut": "Round",
+        "metal": "Diamond",
+        "material": "Hallmarked Gold",
+        "gemstone_type": "Diamond",
+        "gemstone_cut": "Round",
+        "design_style": "Halo",
+        "packaging": "Gift-Ready"
+      },
+      "b2b_attributes": {
+        "moq": 1,
+        "moq_unit": "piece",
+        "price_unit": "piece",
+        "hsn_code": "7113",
+        "gst_percent": 3,
+        "country_of_origin": "India",
+        "brand": "GPX Diamonds",
+        "certifications": [
+          "Hallmarked"
+        ]
+      },
+      "price_single": null,
+      "price_min": 98200,
+      "price_max": 107200,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_37.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_37.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Princess and Pear Cut Diamond Earrings in Hallmarked Gold",
+      "clean_name": "Princess and Pear Cut Diamond Earrings in Hallmarked Gold",
+      "fingerprint": "412357c79b83",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Earring",
+      "product_sub_type": "Diamond Earring",
+      "buyer_persona": "An individual seeking elegant and versatile diamond earrings, appreciating the combination of princess and pear cuts and the assurance of hallmarked gold.",
+      "description": "These elegant Princess and Pear Cut Diamond Earrings showcase a sophisticated combination of princess and pear-cut diamonds, meticulously set in hallmarked gold. With a price range from INR 12,200 to INR 46,000, these earrings offer versatile luxury for various budgets. Perfect for both daily wear and special events, they cater to individuals seeking distinctive and high-quality diamond earrings. GPX Diamonds ensures each pair meets stringent quality standards, providing hallmarked gold for guaranteed purity and lasting beauty.",
+      "seo_title": "Princess Pear Cut Diamond Earrings — Hallmarked Gold | Buy Online",
+      "tags": [
+        "Diamond Earrings",
+        "Princess Cut",
+        "Pear Cut",
+        "Gold Earrings",
+        "Fine Jewelry",
+        "Women's Earrings",
+        "Hallmarked Gold",
+        "Luxury Earrings",
+        "Gift for Her",
+        "GPX Diamonds",
+        "Designer Earrings"
+      ],
+      "alt_text": "Princess and Pear Cut Diamond Earrings in Hallmarked Gold by GPX Diamonds",
+      "domain_attributes": {
+        "cut": "Princess",
+        "metal": "Diamond",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_ERR_34.1-768x768.jpg",
+        "material": "Hallmarked Gold",
+        "gemstone_type": "Diamond",
+        "gemstone_cut": "Princess, Pear"
+      },
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Diamond Earring",
+        "image_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_ERR_34.1-768x768.jpg",
+        "source_url": null,
+        "price_single": null,
+        "price_min": 12200,
+        "price_max": 46000,
+        "price_unit": null,
+        "currency": "INR",
+        "cut": "Princess",
+        "metal": "Diamond",
+        "material": "Hallmarked Gold",
+        "gemstone_type": "Diamond",
+        "gemstone_cut": "Princess, Pear"
+      },
+      "b2b_attributes": {
+        "moq": 1,
+        "moq_unit": "pair",
+        "price_unit": "pair",
+        "hsn_code": "7113",
+        "gst_percent": 3,
+        "country_of_origin": "India",
+        "brand": "GPX Diamonds",
+        "certifications": [
+          "Hallmarked"
+        ]
+      },
+      "price_single": null,
+      "price_min": 12200,
+      "price_max": 46000,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_ERR_34.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_ERR_34.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "a1719aed4b05",
+      "product_name": "1.56 CT Oval F / VS1 Lab Grown Diamond",
+      "url": "https://gridpx.com/wp-content/uploads/2023/08/oval-cut-diamond-1-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "loose diamond",
+        "shape_visible": "oval",
+        "color_appearance": "colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "medium 0.5-2ct",
+        "setting_or_mounting": "loose stone",
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "studio shot / grey background",
+        "additional_visual_notes": "diamond held by black tweezers"
+      },
+      "visual_description": "The image displays a single oval-shaped diamond held by black-tipped tweezers against a plain grey background. The diamond exhibits strong brilliance and fire, appearing colorless and eye-clean with no visible inclusions. Its facets reflect light intensely, indicating good cut quality.",
+      "media_alt_text": "A brilliant oval-cut loose diamond held by black tweezers against a grey background, showcasing its colorless appearance and sparkle.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:46.490Z"
+    },
+    {
+      "fingerprint": "d02a89e3965b",
+      "product_name": "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity",
+      "url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-47-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "loose diamond",
+        "shape_visible": "emerald",
+        "color_appearance": "fancy blue",
+        "clarity_appearance": "slight inclusions visible",
+        "size_impression": "medium 0.5-2ct",
+        "setting_or_mounting": "loose stone",
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "step-cut facets, visible internal characteristics"
+      },
+      "visual_description": "The image displays a single, loose emerald-cut diamond with a vibrant fancy blue color. Its step-cut facets create parallel lines and geometric patterns, reflecting light. Several small dark inclusions are visible within the stone, particularly along the facets. The diamond is presented against a plain, neutral gray background, emphasizing its form and color.",
+      "media_alt_text": "A vibrant fancy blue emerald-cut loose diamond with step facets, showing some visible inclusions, against a gray background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:46.914Z"
+    },
+    {
+      "fingerprint": "8a374340e3ec",
+      "product_name": "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality",
+      "url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-93-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "loose diamond",
+        "shape_visible": "radiant",
+        "color_appearance": "fancy blue",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "medium 0.5-2ct",
+        "setting_or_mounting": "loose stone",
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": null
+      },
+      "visual_description": "The image displays a single loose radiant cut diamond, exhibiting a vibrant fancy blue color with strong brilliance and fire. The diamond appears eye-clean with no visible inclusions, showcasing its well-cut facets. It is presented against a plain, solid grey background, typical of a studio product shot.",
+      "media_alt_text": "A vibrant fancy blue radiant cut loose diamond, showcasing its brilliant facets against a plain grey background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:49.294Z"
+    },
+    {
+      "fingerprint": "50a04dfba401",
+      "product_name": "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity",
+      "url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-29-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "loose diamond",
+        "shape_visible": "emerald",
+        "color_appearance": "fancy blue",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "large 2-5ct",
+        "setting_or_mounting": "loose stone",
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "prominent step-cut facets"
+      },
+      "visual_description": "The image displays a single, loose emerald-cut diamond against a plain, solid grey background. The diamond exhibits a vibrant blue hue with strong internal reflections and distinct step-cut facets. Its surface appears clean and free of visible inclusions, indicating high clarity.",
+      "media_alt_text": "A vivid blue emerald-cut loose diamond, showcasing its step facets and brilliant reflections against a grey background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:46.037Z"
+    },
+    {
+      "fingerprint": "494318b0250a",
+      "product_name": "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity",
+      "url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-26-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "loose diamond",
+        "shape_visible": "emerald",
+        "color_appearance": "fancy pink",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "large 2-5ct",
+        "setting_or_mounting": "loose stone",
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": null
+      },
+      "visual_description": "The image displays a single, loose emerald-cut diamond with a distinct pinkish-peach hue. Its step-cut facets are clearly visible, creating parallel lines and geometric patterns within the stone, reflecting light with a high degree of brilliance. The diamond is presented against a plain, solid grey background, emphasizing its color and clarity.",
+      "media_alt_text": "A large, loose emerald-cut diamond with a vibrant fancy pink color, showcasing its step-cut facets against a grey background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:45.302Z"
+    },
+    {
+      "fingerprint": "039b7b8bd9e6",
+      "product_name": "Special 4.10 carat radiant diamond H, VS1 Lab Diamond",
+      "url": "https://gridpx.com/wp-content/uploads/2023/08/gpx-radiant-diamond-jewelry-5.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "loose diamond",
+        "shape_visible": "radiant",
+        "color_appearance": "colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "large 2-5ct",
+        "setting_or_mounting": "loose stone",
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "The diamond shows strong brilliance and scintillation, typical of a well-cut stone. No visible inclusions or blemishes."
+      },
+      "visual_description": "A close-up, top-down studio shot of a single, brilliant radiant-cut diamond. The diamond exhibits excellent sparkle and fire, with numerous facets reflecting light in a complex pattern. It appears eye-clean and colorless, presented against a stark white background.",
+      "media_alt_text": "A brilliant, eye-clean radiant-cut loose diamond, sparkling intensely against a pure white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:55.295Z"
+    },
+    {
+      "fingerprint": "01f767770a29",
+      "product_name": "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond",
+      "url": "https://gridpx.com/wp-content/uploads/2025/05/2.55-ct-Pear-yellow-768x774.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "loose diamond",
+        "shape_visible": "pear",
+        "color_appearance": "fancy vivid yellow",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "large 2-5ct",
+        "setting_or_mounting": "loose stone",
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "The diamond is presented upright, possibly on a small, unidentifiable stand, maximizing its visual impact and sparkle."
+      },
+      "visual_description": "A single, large pear-shaped diamond is prominently displayed against a clean, light gray to white background. The diamond exhibits a vibrant, intense yellow color and appears eye-clean with no visible inclusions. Its facets are well-defined, showcasing strong brilliance and light reflection, suggesting a high-quality cut.",
+      "media_alt_text": "A vibrant, fancy vivid yellow pear-shaped loose diamond, showcasing its brilliant facets against a clean white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:56.028Z"
+    },
+    {
+      "fingerprint": "cfeeb20bb7ac",
+      "product_name": "2.13 carat Emerald step cut diamond | Vivid Pink Diamond",
+      "url": "https://gridpx.com/wp-content/uploads/2023/08/pink-diamond-emerald-cut-8-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "loose diamond",
+        "shape_visible": "emerald",
+        "color_appearance": "fancy pink",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "large 2-5ct",
+        "setting_or_mounting": "loose stone",
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "studio shot / grey background / held by tweezers",
+        "additional_visual_notes": "black tweezers holding the diamond"
+      },
+      "visual_description": "A single, rectangular emerald-cut diamond with a distinct pink hue is prominently displayed, held by the tips of black tweezers. The diamond exhibits clear step facets and strong brilliance, appearing eye-clean. It is presented against a smooth, solid grey background, suggesting a professional studio setting.",
+      "media_alt_text": "A vivid pink emerald-cut diamond held by black tweezers against a grey background, showcasing its step facets and brilliance.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:56.177Z"
+    },
+    {
+      "fingerprint": "f2bdeae4d1e6",
+      "product_name": "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold",
+      "url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_41.1-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "necklace",
+        "shape_visible": "pear, round brilliant",
+        "color_appearance": "colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "medium",
+        "setting_or_mounting": "prong set, necklace",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "multiple stones, flower cluster design, dainty chain"
+      },
+      "visual_description": "The image displays a dainty yellow gold necklace featuring a central pendant composed of multiple flower-like clusters. Each cluster is formed by pear-cut stones arranged around a central round brilliant stone, all appearing colorless and eye-clean. The necklace is presented against a clean white background, highlighting its intricate design and sparkling stones.",
+      "media_alt_text": "Dainty yellow gold necklace with a curved pendant featuring three flower clusters made of pear and round brilliant stones.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:57.063Z"
+    },
+    {
+      "fingerprint": "e11b6cc3bedc",
+      "product_name": "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Elegance",
+      "url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_39.1-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "necklace",
+        "shape_visible": "round",
+        "color_appearance": "colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "small",
+        "setting_or_mounting": "necklace / pave set / cluster setting",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Five circular diamond motifs, each with a central cluster and a halo of smaller diamonds."
+      },
+      "visual_description": "The image displays a delicate gold necklace featuring five circular diamond-set motifs arranged in a gentle curve. Each motif consists of a central cluster of small, round diamonds surrounded by a halo of even smaller, round diamonds, all set in yellow gold. The necklace is presented against a clean white background, highlighting its sparkle and intricate design.",
+      "media_alt_text": "A delicate gold necklace with five sparkling circular diamond motifs, each featuring a central cluster and a halo of round diamonds.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:40:57.340Z"
+    },
+    {
+      "fingerprint": "396635ab2fea",
+      "product_name": "Timeless Trio Diamond Halo Pendant Necklace in Hallmarked 14K/18K Gold",
+      "url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_38.1-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "necklace",
+        "shape_visible": "round brilliant, pear",
+        "color_appearance": "colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "small",
+        "setting_or_mounting": "necklace / halo set / prong set",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Three main stones (one round, two pear) each with a diamond halo, connected by a delicate chain."
+      },
+      "visual_description": "The image displays a delicate gold necklace with a central pendant featuring three diamond-set motifs. The central motif is a round brilliant diamond surrounded by a halo of smaller diamonds, flanked by two pear-shaped diamonds, each also encircled by a halo of smaller diamonds. The necklace is presented against a clean white background, highlighting its intricate design and sparkling gemstones.",
+      "media_alt_text": "Gold necklace with a trio of diamond halo pendants: a central round brilliant flanked by two pear-shaped diamonds.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:41:05.485Z"
+    },
+    {
+      "fingerprint": "ec4916e55c6d",
+      "product_name": "Halo Round Diamond Necklace in Hallmarked Gold | Gift-Ready Jewellery",
+      "url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_37.1-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "necklace",
+        "shape_visible": "round brilliant (individual stones), flower/cluster (pendant design)",
+        "color_appearance": "colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "small (individual stones), medium (pendant cluster)",
+        "setting_or_mounting": "prong set / necklace",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "seven stones in a cluster arrangement forming a floral or halo-like design"
+      },
+      "visual_description": "The image displays a delicate yellow gold necklace with a flower-shaped diamond cluster pendant, set against a plain white background. The pendant features seven round brilliant cut stones, with one central stone surrounded by six others, all appearing bright and sparkling. The chain is a fine link style, matching the yellow gold setting of the pendant.",
+      "media_alt_text": "A delicate yellow gold necklace with a flower-shaped pendant featuring seven sparkling round brilliant diamonds on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:41:04.355Z"
+    },
+    {
+      "fingerprint": "412357c79b83",
+      "product_name": "Princess and Pear Cut Diamond Earrings in Hallmarked Gold",
+      "url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_ERR_34.1-768x768.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "earrings",
+        "shape_visible": "pear, princess",
+        "color_appearance": "colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "medium",
+        "setting_or_mounting": "prong set, hoop earrings",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "multiple stones, alternating pear and princess cuts"
+      },
+      "visual_description": "The image displays a pair of yellow gold hoop earrings, each adorned with alternating pear and princess cut diamonds. The diamonds appear colorless and eye-clean, set in individual prongs along the outer edge of the hoops. The earrings are presented against a clean white background, highlighting their intricate design and brilliant sparkle.",
+      "media_alt_text": "A pair of yellow gold hoop earrings featuring alternating pear and princess cut colorless diamonds on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T12:41:03.451Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "1.56 CT Oval F / VS1 Lab Grown Diamond",
+      "fingerprint": "a1719aed4b05",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A discerning individual or a jewelry designer looking for a high-quality, ethically sourced diamond for a custom piece of jewelry or investment.",
+      "seo_title": "1.56 CT Oval F / VS1 Lab Grown Diamond Lab Grown Diamond | Catalog Lis",
+      "tags": [
+        "1.56 CT Oval F / VS1 Lab Grown Diamond",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "1.56",
+        "VS1",
+        "Oval",
+        "Colorless (F)",
+        "Diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 600000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2023/08/oval-cut-diamond-1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2023/08/oval-cut-diamond-1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.98,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "1.56 CT Oval F / VS1 Lab Grown Diamond is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 1.56, Clarity: VS1, Cut: Oval, Color: Colorless (F). Priced at Rs. 6,00,000. Suitable for: A discerning individual or a jewelry designer looking for a high-quality, ethically sourced diamond for a custom piece of jewelry or investment. The image displays a single oval-shaped diamond held by black-tipped tweezers against a plain grey background. The diamond exhibits strong brilliance and fire, appearing colorless and eye-clean with no visible inclusions. Its facets reflect light intensely, indicating good cut quality.",
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "carat": "1.56",
+        "clarity": "VS1",
+        "cut": "Oval",
+        "color": "Colorless (F)",
+        "metal": "Diamond",
+        "visual_shape": "oval",
+        "visual_color": "colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "medium 0.5-2ct",
+        "presentation": "studio shot / grey background",
+        "visual_product_type": "loose diamond",
+        "visual_notes": "diamond held by black tweezers"
+      },
+      "alt_text": "A brilliant oval-cut loose diamond held by black tweezers against a grey background, showcasing its colorless appearance and sparkle.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2023/08/oval-cut-diamond-1-768x768.jpg"
+    },
+    {
+      "clean_name": "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity",
+      "fingerprint": "d02a89e3965b",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A collector or an individual seeking a unique and vibrant colored diamond for a bespoke jewelry design, valuing both rarity and ethical sourcing.",
+      "seo_title": "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity Lab Gro",
+      "tags": [
+        "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "1.51",
+        "SI1",
+        "Emerald",
+        "Diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 78000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-47-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-47-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "1.51 Carat Intense Blue Lab Grown Emerald Diamond, SI1 Clarity is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 1.51, Clarity: SI1, Cut: Emerald, Metal: Diamond. Priced at Rs. 78,000. Suitable for: A collector or an individual seeking a unique and vibrant colored diamond for a bespoke jewelry design, valuing both rarity and ethical sourcing. The image displays a single, loose emerald-cut diamond with a vibrant fancy blue color. Its step-cut facets create parallel lines and geometric patterns, reflecting light. Several small dark inclusions are visible within the stone, particularly along the facets. The diamond is presented against a plain, neutral gray background, emphasizing its form and color.",
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "carat": "1.51",
+        "clarity": "SI1",
+        "cut": "Emerald",
+        "metal": "Diamond",
+        "visual_shape": "emerald",
+        "visual_color": "fancy blue",
+        "visual_clarity": "slight inclusions visible",
+        "visual_size": "medium 0.5-2ct",
+        "presentation": "white background studio",
+        "visual_product_type": "loose diamond",
+        "visual_notes": "step-cut facets, visible internal characteristics"
+      },
+      "alt_text": "A vibrant fancy blue emerald-cut loose diamond with step facets, showing some visible inclusions, against a gray background.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-47-768x768.jpg"
+    },
+    {
+      "clean_name": "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality",
+      "fingerprint": "8a374340e3ec",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "An individual looking for a striking and ethically produced blue diamond, possibly for an engagement ring or a statement piece, prioritizing both color and clarity.",
+      "seo_title": "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality Lab Grown",
+      "tags": [
+        "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "1.40",
+        "VS1",
+        "Diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 221618,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-93-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-93-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Radiant cut 1.40 Ct Vivid Blue Lab Grown Diamond VS1 quality is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 1.40, Clarity: VS1, Metal: Diamond. Priced at Rs. 2,21,618. Suitable for: An individual looking for a striking and ethically produced blue diamond, possibly for an engagement ring or a statement piece, prioritizing both color and clarity. The image displays a single loose radiant cut diamond, exhibiting a vibrant fancy blue color with strong brilliance and fire. The diamond appears eye-clean with no visible inclusions, showcasing its well-cut facets. It is presented against a plain, solid grey background, typical of a studio product shot.",
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "carat": "1.40",
+        "clarity": "VS1",
+        "metal": "Diamond",
+        "visual_shape": "radiant",
+        "visual_color": "fancy blue",
+        "visual_clarity": "eye-clean",
+        "visual_size": "medium 0.5-2ct",
+        "presentation": "white background studio",
+        "visual_product_type": "loose diamond"
+      },
+      "alt_text": "A vibrant fancy blue radiant cut loose diamond, showcasing its brilliant facets against a plain grey background.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-93-768x768.jpg"
+    },
+    {
+      "clean_name": "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity",
+      "fingerprint": "50a04dfba401",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A connoisseur or a designer seeking a substantial and rare vivid blue diamond with an elegant emerald cut, valuing both size and ethical origin.",
+      "seo_title": "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity Lab Grown",
+      "tags": [
+        "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "2.14",
+        "VS1",
+        "Emerald",
+        "Diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 51000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-29-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-29-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "2.14 Carat Vivid Blue Lab Grown Emerald Diamond, VS1 Clarity is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 2.14, Clarity: VS1, Cut: Emerald, Metal: Diamond. Priced at Rs. 51,000. Suitable for: A connoisseur or a designer seeking a substantial and rare vivid blue diamond with an elegant emerald cut, valuing both size and ethical origin. The image displays a single, loose emerald-cut diamond against a plain, solid grey background. The diamond exhibits a vibrant blue hue with strong internal reflections and distinct step-cut facets. Its surface appears clean and free of visible inclusions, indicating high clarity.",
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "carat": "2.14",
+        "clarity": "VS1",
+        "cut": "Emerald",
+        "metal": "Diamond",
+        "visual_shape": "emerald",
+        "visual_color": "fancy blue",
+        "visual_clarity": "eye-clean",
+        "visual_size": "large 2-5ct",
+        "presentation": "white background studio",
+        "visual_product_type": "loose diamond",
+        "visual_notes": "prominent step-cut facets"
+      },
+      "alt_text": "A vivid blue emerald-cut loose diamond, showcasing its step facets and brilliant reflections against a grey background.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-29-768x768.jpg"
+    },
+    {
+      "clean_name": "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity",
+      "fingerprint": "494318b0250a",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A luxury buyer or a collector interested in a significant and rare intense pink diamond, appreciating its unique color, size, and ethical lab-grown origin.",
+      "seo_title": "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity Lab Grown D",
+      "tags": [
+        "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "3.01",
+        "VS1",
+        "Emerald",
+        "Diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 295000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-26-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-26-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "3.01Ct Intense Pink Lab Grown Emerald Diamond, VS1 Clarity is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 3.01, Clarity: VS1, Cut: Emerald, Metal: Diamond. Priced at Rs. 2,95,000. Suitable for: A luxury buyer or a collector interested in a significant and rare intense pink diamond, appreciating its unique color, size, and ethical lab-grown origin. The image displays a single, loose emerald-cut diamond with a distinct pinkish-peach hue. Its step-cut facets are clearly visible, creating parallel lines and geometric patterns within the stone, reflecting light with a high degree of brilliance. The diamond is presented against a plain, solid grey background, emphasizing its color and clarity.",
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "carat": "3.01",
+        "clarity": "VS1",
+        "cut": "Emerald",
+        "metal": "Diamond",
+        "visual_shape": "emerald",
+        "visual_color": "fancy pink",
+        "visual_clarity": "eye-clean",
+        "visual_size": "large 2-5ct",
+        "presentation": "white background studio",
+        "visual_product_type": "loose diamond"
+      },
+      "alt_text": "A large, loose emerald-cut diamond with a vibrant fancy pink color, showcasing its step-cut facets against a grey background.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2024/07/fancy-color-diamond-online-shop-26-768x768.jpg"
+    },
+    {
+      "clean_name": "Special 4.10 carat radiant diamond H, VS1 Lab Diamond",
+      "fingerprint": "039b7b8bd9e6",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A high-end buyer or investor looking for a large, high-quality lab-grown diamond with excellent clarity and a brilliant radiant cut for a significant piece of jewelry.",
+      "seo_title": "Special 4.10 carat radiant diamond H, VS1 Lab Diamond Lab Grown Diamon",
+      "tags": [
+        "Special 4.10 carat radiant diamond H, VS1 Lab Diamond",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "4.10",
+        "VS1",
+        "Near Colorless (H)",
+        "diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 250000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2023/08/gpx-radiant-diamond-jewelry-5.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2023/08/gpx-radiant-diamond-jewelry-5.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.98,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Special 4.10 carat radiant diamond H, VS1 Lab Diamond is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 4.10, Clarity: VS1, Color: Near Colorless (H), Metal: diamond. Priced at Rs. 2,50,000. Suitable for: A high-end buyer or investor looking for a large, high-quality lab-grown diamond with excellent clarity and a brilliant radiant cut for a significant piece of jewelry. A close-up, top-down studio shot of a single, brilliant radiant-cut diamond. The diamond exhibits excellent sparkle and fire, with numerous facets reflecting light in a complex pattern. It appears eye-clean and colorless, presented against a stark white background.",
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "carat": "4.10",
+        "clarity": "VS1",
+        "color": "Near Colorless (H)",
+        "metal": "diamond",
+        "visual_shape": "radiant",
+        "visual_color": "colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "large 2-5ct",
+        "presentation": "white background studio",
+        "visual_product_type": "loose diamond",
+        "visual_notes": "The diamond shows strong brilliance and scintillation, typical of a well-cut stone. No visible inclusions or blemishes."
+      },
+      "alt_text": "A brilliant, eye-clean radiant-cut loose diamond, sparkling intensely against a pure white background.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2023/08/gpx-radiant-diamond-jewelry-5.jpg"
+    },
+    {
+      "clean_name": "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond",
+      "fingerprint": "01f767770a29",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "An individual seeking a distinctive and vibrant yellow diamond, appreciating its unique pear shape, substantial size, and ethical lab-grown origin for a statement piece.",
+      "seo_title": "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond Lab G",
+      "tags": [
+        "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "2.55",
+        "VS1",
+        "Pear",
+        "Diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 160999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2025/05/2.55-ct-Pear-yellow-768x774.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2025/05/2.55-ct-Pear-yellow-768x774.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "2.55 Carat VS1 Clarity Pear Shape Vivid Yellow Lab Grown Diamond is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 2.55, Clarity: VS1, Cut: Pear, Metal: Diamond. Priced at Rs. 1,60,999. Suitable for: An individual seeking a distinctive and vibrant yellow diamond, appreciating its unique pear shape, substantial size, and ethical lab-grown origin for a statement piece. A single, large pear-shaped diamond is prominently displayed against a clean, light gray to white background. The diamond exhibits a vibrant, intense yellow color and appears eye-clean with no visible inclusions. Its facets are well-defined, showcasing strong brilliance and light reflection, suggesting a high-quality cut.",
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "carat": "2.55",
+        "clarity": "VS1",
+        "cut": "Pear",
+        "metal": "Diamond",
+        "visual_shape": "pear",
+        "visual_color": "fancy vivid yellow",
+        "visual_clarity": "eye-clean",
+        "visual_size": "large 2-5ct",
+        "presentation": "white background studio",
+        "visual_product_type": "loose diamond",
+        "visual_notes": "The diamond is presented upright, possibly on a small, unidentifiable stand, maximizing its visual impact and sparkle."
+      },
+      "alt_text": "A vibrant, fancy vivid yellow pear-shaped loose diamond, showcasing its brilliant facets against a clean white background.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2025/05/2.55-ct-Pear-yellow-768x774.jpg"
+    },
+    {
+      "clean_name": "2.13 carat Emerald step cut diamond | Vivid Pink Diamond",
+      "fingerprint": "cfeeb20bb7ac",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Loose Diamond",
+      "product_sub_type": "Lab Grown Diamond",
+      "buyer_persona": "A discerning buyer or collector looking for a rare and beautiful vivid pink diamond with an elegant emerald cut, potentially for a high-value custom jewelry piece.",
+      "seo_title": "2.13 carat Emerald step cut diamond | Vivid Pink Diamond Lab Grown Dia",
+      "tags": [
+        "2.13 carat Emerald step cut diamond | Vivid Pink Diamond",
+        "Jewelry",
+        "Fine Jewelry",
+        "Loose Diamond",
+        "Lab Grown Diamond",
+        "2.13",
+        "Emerald",
+        "diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 72990,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2023/08/pink-diamond-emerald-cut-8-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2023/08/pink-diamond-emerald-cut-8-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Origin (Natural/Lab Grown) not explicitly stated, assumed Lab Grown based on other products."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "2.13 carat Emerald step cut diamond | Vivid Pink Diamond is a lab grown diamond offered by GPX Diamonds based in New Delhi. Key specifications include Carat: 2.13, Cut: Emerald, Metal: diamond. Priced at Rs. 72,990. Suitable for: A discerning buyer or collector looking for a rare and beautiful vivid pink diamond with an elegant emerald cut, potentially for a high-value custom jewelry piece. A single, rectangular emerald-cut diamond with a distinct pink hue is prominently displayed, held by the tips of black tweezers. The diamond exhibits clear step facets and strong brilliance, appearing eye-clean. It is presented against a smooth, solid grey background, suggesting a professional studio setting.",
+      "specifications": {
+        "category": "Loose Diamond",
+        "sub_type": "Lab Grown Diamond",
+        "carat": "2.13",
+        "cut": "Emerald",
+        "metal": "diamond",
+        "visual_shape": "emerald",
+        "visual_color": "fancy pink",
+        "visual_clarity": "eye-clean",
+        "visual_size": "large 2-5ct",
+        "presentation": "studio shot / grey background / held by tweezers",
+        "visual_product_type": "loose diamond",
+        "visual_notes": "black tweezers holding the diamond"
+      },
+      "alt_text": "A vivid pink emerald-cut diamond held by black tweezers against a grey background, showcasing its step facets and brilliance.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2023/08/pink-diamond-emerald-cut-8-768x768.jpg"
+    },
+    {
+      "clean_name": "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold",
+      "fingerprint": "f2bdeae4d1e6",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Necklace",
+      "product_sub_type": "Pendant Necklace",
+      "buyer_persona": "A fashion-conscious individual seeking an elegant and delicate necklace for everyday wear or special occasions, appreciating floral designs and gold craftsmanship.",
+      "seo_title": "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold Pendant Neckla",
+      "tags": [
+        "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold",
+        "Jewelry",
+        "Fine Jewelry",
+        "Necklace",
+        "Pendant Necklace",
+        "Pear",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": 88200,
+      "price_max": 97200,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_41.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_41.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Pear-Cut Crystal Flower Dainty Necklace in 14k/18k Gold is a pendant necklace offered by GPX Diamonds based in New Delhi. Key specifications include Cut: Pear, Metal: Gold. Price range: Rs. 88,200 to Rs. 97,200. Suitable for: A fashion-conscious individual seeking an elegant and delicate necklace for everyday wear or special occasions, appreciating floral designs and gold craftsmanship. The image displays a dainty yellow gold necklace featuring a central pendant composed of multiple flower-like clusters. Each cluster is formed by pear-cut stones arranged around a central round brilliant stone, all appearing colorless and eye-clean. The necklace is presented against a clean white background, highlighting its intricate design and sparkling stones.",
+      "specifications": {
+        "category": "Necklace",
+        "sub_type": "Pendant Necklace",
+        "cut": "Pear",
+        "metal": "Gold",
+        "visual_shape": "pear, round brilliant",
+        "visual_color": "colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "medium",
+        "setting": "prong set, necklace",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "necklace",
+        "visual_notes": "multiple stones, flower cluster design, dainty chain",
+        "name_colour": "gold",
+        "colour_discrepancy": true
+      },
+      "alt_text": "Dainty yellow gold necklace with a curved pendant featuring three flower clusters made of pear and round brilliant stones.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_41.1-768x768.jpg"
+    },
+    {
+      "clean_name": "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Elegance",
+      "fingerprint": "e11b6cc3bedc",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Necklace",
+      "product_sub_type": "Diamond Necklace",
+      "buyer_persona": "An individual looking for a versatile and elegant diamond necklace suitable for daily wear, valuing quality craftsmanship and hallmarked gold.",
+      "seo_title": "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Ele",
+      "tags": [
+        "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Elegance",
+        "Jewelry",
+        "Fine Jewelry",
+        "Necklace",
+        "Diamond Necklace",
+        "Round",
+        "Diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": 68600,
+      "price_max": 75500,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_39.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_39.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.96,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Multi-Round Diamond Necklace Crafted in Hallmarked Gold – Everyday Elegance is a diamond necklace offered by GPX Diamonds based in New Delhi. Key specifications include Cut: Round, Metal: Diamond. Price range: Rs. 68,600 to Rs. 75,500. Suitable for: An individual looking for a versatile and elegant diamond necklace suitable for daily wear, valuing quality craftsmanship and hallmarked gold. The image displays a delicate gold necklace featuring five circular diamond-set motifs arranged in a gentle curve. Each motif consists of a central cluster of small, round diamonds surrounded by a halo of even smaller, round diamonds, all set in yellow gold. The necklace is presented against a clean white background, highlighting its sparkle and intricate design.",
+      "specifications": {
+        "category": "Necklace",
+        "sub_type": "Diamond Necklace",
+        "cut": "Round",
+        "metal": "Diamond",
+        "visual_shape": "round",
+        "visual_color": "colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "small",
+        "setting": "necklace / pave set / cluster setting",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "necklace",
+        "visual_notes": "Five circular diamond motifs, each with a central cluster and a halo of smaller diamonds.",
+        "name_colour": "gold",
+        "colour_discrepancy": true
+      },
+      "alt_text": "A delicate gold necklace with five sparkling circular diamond motifs, each featuring a central cluster and a halo of round diamonds.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_39.1-768x768.jpg"
+    },
+    {
+      "clean_name": "Timeless Trio Diamond Halo Pendant Necklace in Hallmarked 14K/18K Gold",
+      "fingerprint": "396635ab2fea",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Necklace",
+      "product_sub_type": "Pendant Necklace",
+      "buyer_persona": "A customer seeking a classic and sophisticated diamond necklace, ideal for gifting or personal indulgence, appreciating the halo design and quality gold.",
+      "seo_title": "Diamond Halo Pendant Necklace — Hallmarked Gold | Buy Online",
+      "tags": [
+        "Diamond Necklace",
+        "Pendant Necklace",
+        "Halo Necklace",
+        "Gold Necklace",
+        "Fine Jewelry",
+        "Women's Necklace",
+        "Gift for Her",
+        "Hallmarked Gold",
+        "Trio Diamond",
+        "Luxury Jewelry",
+        "GPX Diamonds"
+      ],
+      "b2b_attributes": {
+        "moq": 1,
+        "moq_unit": "piece",
+        "price_unit": "piece",
+        "hsn_code": "7113",
+        "gst_percent": 3,
+        "country_of_origin": "India",
+        "brand": "GPX Diamonds",
+        "certifications": [
+          "Hallmarked"
+        ]
+      },
+      "price_single": null,
+      "price_min": 59000,
+      "price_max": 63600,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_38.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_38.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "This exquisite Timeless Trio Diamond Halo Pendant Necklace features a captivating trio of diamonds set in a radiant halo design, crafted from hallmarked 14K or 18K gold. Available from INR 59,000 to INR 63,600, this piece offers exceptional value for its quality and design. Perfect for special occasions or as a luxurious everyday accessory, it appeals to discerning customers seeking sophisticated fine jewelry. GPX Diamonds ensures authenticity and lasting brilliance with hallmarked gold and meticulously selected diamonds. The image displays a delicate gold necklace with a central pendant featuring three diamond-set motifs. The central motif is a round brilliant diamond surrounded by a halo of smaller diamonds, flanked by two pear-shaped diamonds, each also encircled by a halo of smaller diamonds. The necklace is presented against a clean white background, highlighting its intricate design and sparkling gemstones.",
+      "specifications": {
+        "category": "Necklace",
+        "sub_type": "Pendant Necklace",
+        "metal": "Diamond",
+        "material": "14K/18K Hallmarked Gold",
+        "gemstone_type": "Diamond",
+        "design_style": "Halo",
+        "necklace_type": "Pendant",
+        "number_of_stones": "Trio",
+        "visual_shape": "round brilliant, pear",
+        "visual_color": "colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "small",
+        "setting": "necklace / halo set / prong set",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "necklace",
+        "visual_notes": "Three main stones (one round, two pear) each with a diamond halo, connected by a delicate chain.",
+        "name_colour": "gold",
+        "colour_discrepancy": true
+      },
+      "alt_text": "Gold necklace with a trio of diamond halo pendants: a central round brilliant flanked by two pear-shaped diamonds.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_38.1-768x768.jpg"
+    },
+    {
+      "clean_name": "Halo Round Diamond Necklace in Hallmarked Gold | Gift-Ready Jewellery",
+      "fingerprint": "ec4916e55c6d",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Necklace",
+      "product_sub_type": "Diamond Necklace",
+      "buyer_persona": "A gift-giver or an individual looking for a beautiful and classic diamond necklace, valuing the halo design and the convenience of a gift-ready item.",
+      "seo_title": "Round Diamond Halo Necklace — Hallmarked Gold, Gift-Ready | Buy Online",
+      "tags": [
+        "Diamond Necklace",
+        "Halo Necklace",
+        "Round Diamond",
+        "Gold Necklace",
+        "Fine Jewellery",
+        "Gift Jewellery",
+        "Hallmarked Gold",
+        "Luxury Gift",
+        "Women's Jewellery",
+        "GPX Diamonds",
+        "Special Occasion Gift"
+      ],
+      "b2b_attributes": {
+        "moq": 1,
+        "moq_unit": "piece",
+        "price_unit": "piece",
+        "hsn_code": "7113",
+        "gst_percent": 3,
+        "country_of_origin": "India",
+        "brand": "GPX Diamonds",
+        "certifications": [
+          "Hallmarked"
+        ]
+      },
+      "price_single": null,
+      "price_min": 98200,
+      "price_max": 107200,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_37.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_37.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "This stunning Halo Round Diamond Necklace features brilliant round-cut diamonds encircled by a radiant halo, crafted in hallmarked gold and presented as gift-ready jewellery. Priced between INR 98,200 and INR 107,200, it represents an exquisite investment in timeless elegance. Ideal for significant celebrations or as a luxurious personal treat, this necklace is perfect for those who appreciate classic design and convenience. GPX Diamonds guarantees superior craftsmanship and the authenticity of hallmarked gold, ensuring a cherished piece for years to come. The image displays a delicate yellow gold necklace with a flower-shaped diamond cluster pendant, set against a plain white background. The pendant features seven round brilliant cut stones, with one central stone surrounded by six others, all appearing bright and sparkling. The chain is a fine link style, matching the yellow gold setting of the pendant.",
+      "specifications": {
+        "category": "Necklace",
+        "sub_type": "Diamond Necklace",
+        "cut": "Round",
+        "metal": "Diamond",
+        "material": "Hallmarked Gold",
+        "gemstone_type": "Diamond",
+        "gemstone_cut": "Round",
+        "design_style": "Halo",
+        "packaging": "Gift-Ready",
+        "visual_shape": "round brilliant (individual stones), flower/cluster (pendant design)",
+        "visual_color": "colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "small (individual stones), medium (pendant cluster)",
+        "setting": "prong set / necklace",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "necklace",
+        "visual_notes": "seven stones in a cluster arrangement forming a floral or halo-like design",
+        "name_colour": "gold",
+        "colour_discrepancy": true
+      },
+      "alt_text": "A delicate yellow gold necklace with a flower-shaped pendant featuring seven sparkling round brilliant diamonds on a white background.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_NCK_37.1-768x768.jpg"
+    },
+    {
+      "clean_name": "Princess and Pear Cut Diamond Earrings in Hallmarked Gold",
+      "fingerprint": "412357c79b83",
+      "top_level_domain": "Jewelry",
+      "industry_segment": "Fine Jewelry",
+      "product_category": "Earring",
+      "product_sub_type": "Diamond Earring",
+      "buyer_persona": "An individual seeking elegant and versatile diamond earrings, appreciating the combination of princess and pear cuts and the assurance of hallmarked gold.",
+      "seo_title": "Princess Pear Cut Diamond Earrings — Hallmarked Gold | Buy Online",
+      "tags": [
+        "Diamond Earrings",
+        "Princess Cut",
+        "Pear Cut",
+        "Gold Earrings",
+        "Fine Jewelry",
+        "Women's Earrings",
+        "Hallmarked Gold",
+        "Luxury Earrings",
+        "Gift for Her",
+        "GPX Diamonds",
+        "Designer Earrings"
+      ],
+      "b2b_attributes": {
+        "moq": 1,
+        "moq_unit": "pair",
+        "price_unit": "pair",
+        "hsn_code": "7113",
+        "gst_percent": 3,
+        "country_of_origin": "India",
+        "brand": "GPX Diamonds",
+        "certifications": [
+          "Hallmarked"
+        ]
+      },
+      "price_single": null,
+      "price_min": 12200,
+      "price_max": 46000,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_ERR_34.1-768x768.jpg",
+      "photo_urls": [
+        "https://gridpx.com/wp-content/uploads/2026/01/GPXD_ERR_34.1-768x768.jpg"
+      ],
+      "source_url": null,
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.97,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "These elegant Princess and Pear Cut Diamond Earrings showcase a sophisticated combination of princess and pear-cut diamonds, meticulously set in hallmarked gold. With a price range from INR 12,200 to INR 46,000, these earrings offer versatile luxury for various budgets. Perfect for both daily wear and special events, they cater to individuals seeking distinctive and high-quality diamond earrings. GPX Diamonds ensures each pair meets stringent quality standards, providing hallmarked gold for guaranteed purity and lasting beauty. The image displays a pair of yellow gold hoop earrings, each adorned with alternating pear and princess cut diamonds. The diamonds appear colorless and eye-clean, set in individual prongs along the outer edge of the hoops. The earrings are presented against a clean white background, highlighting their intricate design and brilliant sparkle.",
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Diamond Earring",
+        "cut": "Princess",
+        "metal": "Diamond",
+        "material": "Hallmarked Gold",
+        "gemstone_type": "Diamond",
+        "gemstone_cut": "Princess, Pear",
+        "visual_shape": "pear, princess",
+        "visual_color": "colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "medium",
+        "setting": "prong set, hoop earrings",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "earrings",
+        "visual_notes": "multiple stones, alternating pear and princess cuts",
+        "name_colour": "gold",
+        "colour_discrepancy": true
+      },
+      "alt_text": "A pair of yellow gold hoop earrings featuring alternating pear and princess cut colorless diamonds on a white background.",
+      "used_vision": true,
+      "media_url": "https://gridpx.com/wp-content/uploads/2026/01/GPXD_ERR_34.1-768x768.jpg"
+    },
+    {
+      "fingerprint": "5fe294bf88bb",
+      "raw_name": "Gold Diamond Ring",
+      "clean_name": "Gold Diamond Ring",
+      "product_category": "Diamond Ring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A classic gold ring featuring a prominent clear diamond as the center stone, set in a six-prong setting. The ring's shoulders are adorned with smaller accent diamonds, adding to its elegance.",
+      "seo_title": "Gold Diamond Ring",
+      "alt_text": "Gold Diamond Ring",
+      "tags": [
+        "diamondring",
+        "gold",
+        "ring",
+        "jewelry"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Metal": "Gold",
+        "Main Stone Type": "Diamond",
+        "Main Stone Shape": "Round",
+        "Setting Style": "Six-prong",
+        "Accent Stones": "Diamonds"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DQ-wGAkAcwU/",
+      "photo_urls": [
+        "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/580851546_1405508594469937_34654864239678245_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=NaYlMa50Yu8Q7kNvwEiIqy-&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0_QRz94BfnpVtlQHvqjIs9UH3-TdtRmNzUdOEBBFc88w&oe=69F7CBCA&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/580851546_1405508594469937_34654864239678245_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=NaYlMa50Yu8Q7kNvwEiIqy-&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0_QRz94BfnpVtlQHvqjIs9UH3-TdtRmNzUdOEBBFc88w&oe=69F7CBCA&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/580851546_1405508594469937_34654864239678245_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=NaYlMa50Yu8Q7kNvwEiIqy-&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0_QRz94BfnpVtlQHvqjIs9UH3-TdtRmNzUdOEBBFc88w&oe=69F7CBCA&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DQ-wGAkAcwU/",
+        "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/580851546_1405508594469937_34654864239678245_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=NaYlMa50Yu8Q7kNvwEiIqy-&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0_QRz94BfnpVtlQHvqjIs9UH3-TdtRmNzUdOEBBFc88w&oe=69F7CBCA&_nc_sid=8b3546",
+        "caption": "#diamondring",
+        "posted_at": "2025-11-13T02:51:11.000Z",
+        "likes": 1,
+        "views": 39
+      }
+    },
+    {
+      "fingerprint": "10f48052ca65",
+      "raw_name": "Premium Oval Diamond Ring",
+      "clean_name": "Premium Oval Diamond Ring",
+      "product_category": "Diamond Ring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A premium oval diamond ring featuring a brilliant oval-cut center stone in a classic prong setting. The elegant yellow gold band is adorned with smaller diamonds in a pavé setting, enhancing its overall sparkle and luxurious appeal.",
+      "seo_title": "Premium Oval Diamond Ring",
+      "alt_text": "Premium Oval Diamond Ring",
+      "tags": [
+        "diamondring",
+        "diamondjewelry"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Shape": "Oval",
+        "Metal": "Yellow Gold",
+        "Main Stone Type": "Diamond",
+        "Setting Style": "Prong (center stone), Pavé (band)"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DWX6R1XAZ4s/",
+      "photo_urls": [
+        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/658307005_17981205317968192_6224565274510178746_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=fs1DRWaStH0Q7kNvwEsFIBv&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0pd9wC5nLTdalpQLXwSkvoj39hdpIqf3euVofhWuaZZQ&oe=69F7B783&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/658307005_17981205317968192_6224565274510178746_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=fs1DRWaStH0Q7kNvwEsFIBv&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0pd9wC5nLTdalpQLXwSkvoj39hdpIqf3euVofhWuaZZQ&oe=69F7B783&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/658307005_17981205317968192_6224565274510178746_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=fs1DRWaStH0Q7kNvwEsFIBv&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0pd9wC5nLTdalpQLXwSkvoj39hdpIqf3euVofhWuaZZQ&oe=69F7B783&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DWX6R1XAZ4s/",
+        "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/658307005_17981205317968192_6224565274510178746_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=fs1DRWaStH0Q7kNvwEsFIBv&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0pd9wC5nLTdalpQLXwSkvoj39hdpIqf3euVofhWuaZZQ&oe=69F7B783&_nc_sid=8b3546",
+        "caption": "Premium oval diamond ring #diamondring #diamondjewelry",
+        "posted_at": "2026-03-27T03:58:48.000Z",
+        "likes": 1,
+        "views": 19
+      }
+    },
+    {
+      "fingerprint": "83339363bc40",
+      "raw_name": "Diamond Engagement Ring",
+      "clean_name": "Diamond Engagement Ring",
+      "product_category": "Diamond Ring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This 18kt gold diamond ring is presented as an ideal choice for engagement and wedding, designed to be budget-friendly. It features a central cluster of diamonds surrounded by smaller accent diamonds on a split, intertwined band.",
+      "seo_title": "Diamond Engagement Ring",
+      "alt_text": "Diamond Engagement Ring",
+      "tags": [
+        "diamond ring",
+        "engagement ring",
+        "wedding ring",
+        "18kt gold",
+        "budget friendly"
+      ],
+      "price_single": null,
+      "price_text": "Under 60k",
+      "currency": "INR",
+      "specifications": {
+        "metal": "18kt gold",
+        "occasion": "engagement, wedding",
+        "price_limit": "60k"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DWAn5f7gQsp/",
+      "photo_urls": [
+        "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/652767201_1441500567673011_5876381411403226384_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=A75_Q7FQHcwQ7kNvwHbg-I5&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3jCLyaBXYRpmlYZD8VpMZS0dgRVu_oTVg1C2yA-hP8Uw&oe=69F7E4F4&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/652767201_1441500567673011_5876381411403226384_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=A75_Q7FQHcwQ7kNvwHbg-I5&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3jCLyaBXYRpmlYZD8VpMZS0dgRVu_oTVg1C2yA-hP8Uw&oe=69F7E4F4&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/652767201_1441500567673011_5876381411403226384_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=A75_Q7FQHcwQ7kNvwHbg-I5&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3jCLyaBXYRpmlYZD8VpMZS0dgRVu_oTVg1C2yA-hP8Uw&oe=69F7E4F4&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DWAn5f7gQsp/",
+        "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/652767201_1441500567673011_5876381411403226384_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=A75_Q7FQHcwQ7kNvwHbg-I5&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3jCLyaBXYRpmlYZD8VpMZS0dgRVu_oTVg1C2yA-hP8Uw&oe=69F7E4F4&_nc_sid=8b3546",
+        "caption": "Diamond ring for engagement and wedding under budget. 18kt gold",
+        "posted_at": "2026-03-18T02:54:33.000Z",
+        "likes": 3,
+        "views": 21
+      }
+    },
+    {
+      "fingerprint": "0e899eacc4c6",
+      "raw_name": "5 Carat Round Diamond Solitaire Pendant Necklace in 14kt Gold",
+      "clean_name": "5 Carat Round Diamond Solitaire Pendant Necklace in 14kt Gold",
+      "product_category": "Necklace",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This elegant necklace features a large 5 carat round brilliant cut diamond set in a classic 6-prong solitaire pendant, crafted from 14kt gold. The post highlights a limited-time offer for this stunning piece.",
+      "seo_title": "5 Carat Round Diamond Solitaire Pendant Necklace in 14kt Gold",
+      "alt_text": "5 Carat Round Diamond Solitaire Pendant Necklace in 14kt Gold",
+      "tags": [
+        "Diamond Necklace",
+        "Gold Necklace",
+        "Solitaire Pendant",
+        "5 Carat Diamond",
+        "Limited Offer"
+      ],
+      "price_single": 88500,
+      "price_text": "88500",
+      "currency": "INR",
+      "specifications": {
+        "Carat Weight": "5 Carat",
+        "Metal": "14kt gold",
+        "Diamond Shape": "Round Brilliant",
+        "Setting Style": "Solitaire 6-prong"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DVxSmL1AW00/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/650901366_1310923190915915_6746760058091175594_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=tzTELswyXo4Q7kNvwERb90I&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Vk8MSWPjlJ9unNslntJMryhphe8wu2qapIZluRz8Bzg&oe=69F7B48B&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/650901366_1310923190915915_6746760058091175594_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=tzTELswyXo4Q7kNvwERb90I&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Vk8MSWPjlJ9unNslntJMryhphe8wu2qapIZluRz8Bzg&oe=69F7B48B&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/650901366_1310923190915915_6746760058091175594_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=tzTELswyXo4Q7kNvwERb90I&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Vk8MSWPjlJ9unNslntJMryhphe8wu2qapIZluRz8Bzg&oe=69F7B48B&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DVxSmL1AW00/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/650901366_1310923190915915_6746760058091175594_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=tzTELswyXo4Q7kNvwERb90I&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Vk8MSWPjlJ9unNslntJMryhphe8wu2qapIZluRz8Bzg&oe=69F7B48B&_nc_sid=8b3546",
+        "caption": "Huge 5 Carat Diamond Pendant with 14kt gold, Book now or loose it.",
+        "posted_at": "2026-03-12T04:00:45.000Z",
+        "likes": null,
+        "views": 17
+      }
+    },
+    {
+      "fingerprint": "208a93b34bf9",
+      "raw_name": "Pear Shape Blue Diamond Ring",
+      "clean_name": "Pear Shape Blue Diamond Ring",
+      "product_category": "Diamond Ring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This ring features a shiny blue diamond in a pear shape, set in a gold metal band. The band is available in 14k, 18k, or 22k gold and appears to have accent diamonds along the shoulders, making it a very pretty and special piece of jewelry.",
+      "seo_title": "Pear Shape Blue Diamond Ring",
+      "alt_text": "Pear Shape Blue Diamond Ring",
+      "tags": [
+        "blue diamond",
+        "pear shape",
+        "diamond ring",
+        "gold ring",
+        "fine jewelry"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "diamond_shape": "Pear",
+        "diamond_color": "Blue",
+        "metal": "Gold",
+        "metal_karat_options": "14k, 18k, 22k",
+        "accent_stones": "Diamonds on band"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=pEj9ckbpiZc",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/pEj9ckbpiZc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChJMA8=&rs=AOn4CLA0hzwJ-kdrugOj2X69sPQFFcTfsw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/pEj9ckbpiZc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChJMA8=&rs=AOn4CLA0hzwJ-kdrugOj2X69sPQFFcTfsw",
+      "media_url": "https://i.ytimg.com/vi/pEj9ckbpiZc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChJMA8=&rs=AOn4CLA0hzwJ-kdrugOj2X69sPQFFcTfsw",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=pEj9ckbpiZc",
+        "thumbnail_url": "https://i.ytimg.com/vi/pEj9ckbpiZc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChJMA8=&rs=AOn4CLA0hzwJ-kdrugOj2X69sPQFFcTfsw",
+        "caption": "This ring has a shiny blue diamond in a pear shape. The diamond looks very bright and special. The metal part of the ring is made of gold. You can choose from different kinds of gold, like 14k, 18k, or 22k. Gold makes the ring strong and shiny. This ring is very pretty and perfect for someone who loves beautiful jewelry.\n\nShop Page : https://gridpx.com/product-category/j...",
+        "posted_at": "2024-04-29T06:35:29.000Z",
+        "likes": 12,
+        "views": 507
+      }
+    },
+    {
+      "fingerprint": "4a6ec502276e",
+      "raw_name": "Diamond Pendant",
+      "clean_name": "Diamond Pendant",
+      "product_category": "Pendant",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A simple and elegant gold pendant featuring a single lab-grown diamond, offered at a price point under ₹30,000.",
+      "seo_title": "Diamond Pendant",
+      "alt_text": "Diamond Pendant",
+      "tags": [
+        "diamondjewelry",
+        "diamonds",
+        "jewelry",
+        "labgrowndiamonds"
+      ],
+      "price_single": null,
+      "price_text": "under ₹30,000",
+      "currency": "INR",
+      "specifications": {
+        "Metal": "Gold",
+        "Stone Type": "Diamond",
+        "Diamond Type": "Lab Grown",
+        "Price Range": "Under ₹30,000",
+        "Diamond Shape": "Round"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DQvaU40AccN/",
+      "photo_urls": [
+        "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/573878293_842221588215775_8325623461664139405_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=BB_cnGa48NkQ7kNvwGUM6if&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3BFaivfnGMDQWKkiPKh1IbGj1FekeHtAwLiMxkWem6Dg&oe=69F7D6AE&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/573878293_842221588215775_8325623461664139405_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=BB_cnGa48NkQ7kNvwGUM6if&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3BFaivfnGMDQWKkiPKh1IbGj1FekeHtAwLiMxkWem6Dg&oe=69F7D6AE&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/573878293_842221588215775_8325623461664139405_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=BB_cnGa48NkQ7kNvwGUM6if&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3BFaivfnGMDQWKkiPKh1IbGj1FekeHtAwLiMxkWem6Dg&oe=69F7D6AE&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DQvaU40AccN/",
+        "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/573878293_842221588215775_8325623461664139405_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=BB_cnGa48NkQ7kNvwGUM6if&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3BFaivfnGMDQWKkiPKh1IbGj1FekeHtAwLiMxkWem6Dg&oe=69F7D6AE&_nc_sid=8b3546",
+        "caption": "#diamondjewelry #diamonds #jewelry #labgrowndiamonds",
+        "posted_at": "2025-11-07T03:51:50.000Z",
+        "likes": null,
+        "views": 33
+      }
+    },
+    {
+      "fingerprint": "b9be52db6a76",
+      "raw_name": "Studded Diamond Earrings",
+      "clean_name": "Studded Diamond Earrings",
+      "product_category": "Earring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A pair of elegant diamond stud earrings set in yellow gold, featuring a cluster or halo design to maximize sparkle. These earrings are secured with screw-back posts for comfortable and safe wear.",
+      "seo_title": "Studded Diamond Earrings",
+      "alt_text": "Studded Diamond Earrings",
+      "tags": [
+        "studdedearrings",
+        "earrings",
+        "diamomdearrings"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "metal": "Yellow Gold",
+        "gemstone": "Diamond",
+        "style": "Stud, Cluster/Halo",
+        "backing_type": "Screw-back"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DNw2kYZQhax/",
+      "photo_urls": [
+        "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/539313802_924043796605572_2391707772064647004_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=Bf_1sNGeyGQQ7kNvwGUzzpz&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3CHg0hE1pY6_G2mm3ww6zezc8nUrrctbNqcQjyLtzy5Q&oe=69F7CDFF&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/539313802_924043796605572_2391707772064647004_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=Bf_1sNGeyGQQ7kNvwGUzzpz&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3CHg0hE1pY6_G2mm3ww6zezc8nUrrctbNqcQjyLtzy5Q&oe=69F7CDFF&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/539313802_924043796605572_2391707772064647004_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=Bf_1sNGeyGQQ7kNvwGUzzpz&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3CHg0hE1pY6_G2mm3ww6zezc8nUrrctbNqcQjyLtzy5Q&oe=69F7CDFF&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DNw2kYZQhax/",
+        "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/539313802_924043796605572_2391707772064647004_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=Bf_1sNGeyGQQ7kNvwGUzzpz&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3CHg0hE1pY6_G2mm3ww6zezc8nUrrctbNqcQjyLtzy5Q&oe=69F7CDFF&_nc_sid=8b3546",
+        "caption": "Contact GPX diamonds or visit www.gridpx.com for order #studdedearrings #earrings #diamomdearrings",
+        "posted_at": "2025-08-25T03:45:24.000Z",
+        "likes": null,
+        "views": 44
+      }
+    },
+    {
+      "fingerprint": "28a7f0c0e5c1",
+      "raw_name": "Diamond Solitaire Ring with Pave Band",
+      "clean_name": "Diamond Solitaire Ring with Pave Band",
+      "product_category": "Diamond Ring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A beautiful gold ring featuring a sparkling 1 carat round diamond as the centerpiece, complemented by smaller diamonds set along the band. The gold band is available in 14k, 18k, or 22k gold, offering versatility for various styles and occasions.",
+      "seo_title": "Diamond Solitaire Ring with Pave Band",
+      "alt_text": "Diamond Solitaire Ring with Pave Band",
+      "tags": [
+        "diamond ring",
+        "gold ring",
+        "1 carat diamond",
+        "solitaire",
+        "elegance",
+        "luxury",
+        "14k gold",
+        "18k gold",
+        "22k gold"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Diamond Carat Weight": "1 carat",
+        "Main Diamond Shape": "Round",
+        "Metal Type": "Gold",
+        "Gold Purity Options": "14k, 18k, or 22k",
+        "Setting Style": "Solitaire with pave accents"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=ZiZ0N235Fss",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/ZiZ0N235Fss/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gUigfMA8=&rs=AOn4CLCGIbItBzJyKmJ9Mdiy6LwYNjfULA"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/ZiZ0N235Fss/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gUigfMA8=&rs=AOn4CLCGIbItBzJyKmJ9Mdiy6LwYNjfULA",
+      "media_url": "https://i.ytimg.com/vi/ZiZ0N235Fss/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gUigfMA8=&rs=AOn4CLCGIbItBzJyKmJ9Mdiy6LwYNjfULA",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=ZiZ0N235Fss",
+        "thumbnail_url": "https://i.ytimg.com/vi/ZiZ0N235Fss/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gUigfMA8=&rs=AOn4CLCGIbItBzJyKmJ9Mdiy6LwYNjfULA",
+        "caption": "This beautiful ring features a sparkling 1 carat diamond. You can choose the gold band in 14k, 18k, or 22k gold, making it perfect for any style or occasion. Enjoy wearing a ring that combines elegance and luxury.",
+        "posted_at": "2024-05-19T14:58:12.000Z",
+        "likes": 8,
+        "views": 190
+      }
+    },
+    {
+      "fingerprint": "1466bd1f81f0",
+      "raw_name": "Fancy Pear CVD Diamond Ring",
+      "clean_name": "Fancy Pear CVD Diamond Ring",
+      "product_category": "Diamond Ring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A beautiful diamond ring featuring a brilliant pear-shaped CVD diamond as the center stone, complemented by two smaller accent diamonds. The ring is set on a polished metal band, designed for elegance and sparkle.",
+      "seo_title": "Fancy Pear CVD Diamond Ring",
+      "alt_text": "Fancy Pear CVD Diamond Ring",
+      "tags": [
+        "diamond ring",
+        "pear shape",
+        "fancy diamond",
+        "CVD diamond",
+        "lab grown diamond"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Shape": "Pear",
+        "Type": "CVD Diamond (Lab Grown Diamond)",
+        "Style": "Fancy",
+        "Metal": "White Gold / Platinum (inferred)"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/ImpuhA0B30U",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/ImpuhA0B30U/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBBKEEwDw==&rs=AOn4CLB0J4LoYT43oQyvtYXwobQsjtNn9A"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/ImpuhA0B30U/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBBKEEwDw==&rs=AOn4CLB0J4LoYT43oQyvtYXwobQsjtNn9A",
+      "media_url": "https://i.ytimg.com/vi/ImpuhA0B30U/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBBKEEwDw==&rs=AOn4CLB0J4LoYT43oQyvtYXwobQsjtNn9A",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/ImpuhA0B30U",
+        "thumbnail_url": "https://i.ytimg.com/vi/ImpuhA0B30U/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBBKEEwDw==&rs=AOn4CLB0J4LoYT43oQyvtYXwobQsjtNn9A",
+        "caption": "Girls favourite fancy diamond 💍 https://gridpx.com/product-category/cvd-diamond/pear-diamond/",
+        "posted_at": "2023-10-22T03:49:31.000Z",
+        "likes": 41,
+        "views": 990
+      }
+    },
+    {
+      "fingerprint": "d7b046895633",
+      "raw_name": "Kohinoor Affordable Real Diamonds",
+      "clean_name": "Kohinoor Affordable Real Diamonds",
+      "product_category": "Loose Diamond",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases a collection of loose, real diamonds, branded as 'Indian Kohinoor,' emphasizing their affordability. The diamonds appear to be white and come in various cuts, suitable for different jewelry settings.",
+      "seo_title": "Kohinoor Affordable Real Diamonds",
+      "alt_text": "Kohinoor Affordable Real Diamonds",
+      "tags": [
+        "kohinoor",
+        "realdiamonds",
+        "diamondjewellery",
+        "loose diamonds",
+        "affordable"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Type": "Real Diamond",
+        "Form": "Loose Diamonds",
+        "Color": "White/Colorless",
+        "Shape": "Assorted (e.g., Oval, Cushion)"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/6V4Q0xCP224",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/6V4Q0xCP224/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBXKEEwDw==&rs=AOn4CLCAQDEbZkfjb3iRj-WBGfqEbaqNWg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/6V4Q0xCP224/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBXKEEwDw==&rs=AOn4CLCAQDEbZkfjb3iRj-WBGfqEbaqNWg",
+      "media_url": "https://i.ytimg.com/vi/6V4Q0xCP224/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBXKEEwDw==&rs=AOn4CLCAQDEbZkfjb3iRj-WBGfqEbaqNWg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/6V4Q0xCP224",
+        "thumbnail_url": "https://i.ytimg.com/vi/6V4Q0xCP224/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBXKEEwDw==&rs=AOn4CLCAQDEbZkfjb3iRj-WBGfqEbaqNWg",
+        "caption": "Indian Kohinoor, It's diamond time everyone can afford #kohinoor #realdiamonds #diamondjewellery",
+        "posted_at": "2023-09-19T03:13:05.000Z",
+        "likes": 18,
+        "views": 603
+      }
+    },
+    {
+      "fingerprint": "a847bb4530ac",
+      "raw_name": "Exquisite Diamond Rings Collection",
+      "clean_name": "Exquisite Diamond Rings Collection",
+      "product_category": "Diamond Ring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This collection showcases a selection of exquisite diamond rings, featuring various designs such as a prominent cushion-cut diamond with a double pavé band and an elegant pear-cut diamond with a halo and split shank. Each piece is crafted with precision and care to meet the highest standards of luxury and elegance.",
+      "seo_title": "Exquisite Diamond Rings Collection",
+      "alt_text": "Exquisite Diamond Rings Collection",
+      "tags": [
+        "Diamond Ring",
+        "Luxury Ring",
+        "Engagement Ring",
+        "Wedding Ring",
+        "Cushion Cut Diamond Ring",
+        "Pear Cut Diamond Ring",
+        "Halo Ring",
+        "Pave Setting",
+        "White Gold Ring",
+        "Platinum Ring"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Diamond Shapes": "Cushion, Pear",
+        "Metal Type": "White Gold or Platinum (appears white metal)",
+        "Setting Styles": "Halo, Pavé, Double Band, Split Shank",
+        "Style": "Luxury, Bridal, Engagement"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=EZHjNiMekQ4",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/EZHjNiMekQ4/maxresdefault.jpg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/EZHjNiMekQ4/maxresdefault.jpg",
+      "media_url": "https://i.ytimg.com/vi/EZHjNiMekQ4/maxresdefault.jpg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=EZHjNiMekQ4",
+        "thumbnail_url": "https://i.ytimg.com/vi/EZHjNiMekQ4/maxresdefault.jpg",
+        "caption": "Welcome to GPX Diamonds! We are a premier diamond retailer and wholesaler based in Delhi, dedicated to bringing you the finest luxury diamond rings. In this video, we showcase a selection of our exquisite diamond rings, handpicked by our valued customers from around the world. Each piece is crafted with the utmost precision and care to meet the highest standards of luxury and elegance.\n\nOur commitment to providing top-quality diamond rings at reasonable prices ensures that you will find the perfect piece to fit your budget. Whether you are looking for a classic diamond ring or a gold ring adorned with sparkling diamonds, we have something special for you.\n\nFor inquiries or to place an order, please feel free to contact us at +91 8851762100. Thank you for choosing GPX Diamonds, where luxury meets affordability!\n\nWebsite :  www.gridpx.com\nJewellery section : https://gridpx.com/product-category/j...\nEmail : info@gridpx.com\nContact number : +91 8851762100\n#diamondring #goldring #solitairering #jewelrydesigner",
+        "posted_at": "2024-06-27T14:00:50.000Z",
+        "likes": 57,
+        "views": 2509
+      }
+    }
+  ],
+  "rejected_items": [],
+  "reviews": [
+    {
+      "author": "Bhaskar Das",
+      "rating": 5,
+      "text": "This is the Most quality piece I ever had.\nThey are very helpful.\nVery Good experience with Gpx.\nDefinitely buy again from gpx..",
+      "original_lang": null,
+      "date": "2025-11-07T07:42:38Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Kailash Prasad",
+      "rating": 5,
+      "text": "Superbe build quality. Happy with their jewellery. Diamonds also looks premium. I got it tested and it came out genuine 👍",
+      "original_lang": null,
+      "date": "2025-12-15T13:13:22Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Aryan panchal",
+      "rating": 5,
+      "text": "Awesome Experience would highly recommend GPX for diamond Jewellery or Ring purchase, we had urgent requirement but Nipun Took care of it and delivered it under 3 days.\nLove the ring",
+      "original_lang": null,
+      "date": "2025-11-29T14:57:58Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Aryan Mishra",
+      "rating": 5,
+      "text": "Great experience, timely delivery, and custom piece made just how I wanted. Nipun Ji is very helpful and responsive throughout the process.",
+      "original_lang": null,
+      "date": "2026-02-19T03:27:55Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Ash",
+      "rating": 5,
+      "text": "Got a ring made and was perfect ❤️\nExtremely happy that I choose gpx diamonds\nWould recomend to everyone,",
+      "original_lang": null,
+      "date": "2026-03-04T08:29:42Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Suraj Kumar",
+      "rating": 5,
+      "text": "I recently purchased a pair of diamonds and couldn't be happier with my experience! The quality is exceptional brilliant sparkle, perfect cut, and exactly as described. The pricing was unbeatable for such high quality stones, and the service was smooth and professional from start to finish. Highly recommended for anyone looking for genuine diamonds at great value. Will definitely be shopping again. 👍🏻",
+      "original_lang": null,
+      "date": "2025-05-14T16:00:20Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Chandhra KV",
+      "rating": 5,
+      "text": "I am really amazed with the diamond and the craftmen work. I was initially skeptical to buy expensive diamonds online. But Mr. Nipun Bakshi is really amazing person who helped in understading the authenticity and quality of work they do. Most interesting is transparent communication on the making process. Happy to own 7.01 carat Diamond at amazing price. Absolute brilliant!!!",
+      "original_lang": null,
+      "date": "2025-08-31T12:18:27Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Abeer Banerjee",
+      "rating": 5,
+      "text": "GPX Diamonds, especially Nipun knows the art of winning customer trust. Right from the beginning he made me comfortable in buying online after asking him multiple queries. Post sale, also his customer service was top notch. His knowledge and skills answered my doubts and helped me establish trust and integrity with GPX Diamonds. He also provided good discount considering both, the availability of a better piece and customer satisfaction.",
+      "original_lang": null,
+      "date": "2025-06-17T12:09:03Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 5,
+    "no_of_ratings": 45,
+    "rating_comments": [
+      "This is the Most quality piece I ever had.\nThey are very helpful.\nVery Good experience with Gpx.\nDefinitely buy again from gpx..",
+      "Superbe build quality. Happy with their jewellery. Diamonds also looks premium. I got it tested and it came out genuine 👍",
+      "Awesome Experience would highly recommend GPX for diamond Jewellery or Ring purchase, we had urgent requirement but Nipun Took care of it and delivered it under 3 days.\nLove the ring",
+      "Great experience, timely delivery, and custom piece made just how I wanted. Nipun Ji is very helpful and responsive throughout the process.",
+      "Got a ring made and was perfect ❤️\nExtremely happy that I choose gpx diamonds\nWould recomend to everyone,",
+      "I recently purchased a pair of diamonds and couldn't be happier with my experience! The quality is exceptional brilliant sparkle, perfect cut, and exactly as described. The pricing was unbeatable for such high quality stones, and the service was smooth and professional from start to finish. Highly recommended for anyone looking for genuine diamonds at great value. Will definitely be shopping again. 👍🏻",
+      "I am really amazed with the diamond and the craftmen work. I was initially skeptical to buy expensive diamonds online. But Mr. Nipun Bakshi is really amazing person who helped in understading the authenticity and quality of work they do. Most interesting is transparent communication on the making process. Happy to own 7.01 carat Diamond at amazing price. Absolute brilliant!!!",
+      "GPX Diamonds, especially Nipun knows the art of winning customer trust. Right from the beginning he made me comfortable in buying online after asking him multiple queries. Post sale, also his customer service was top notch. His knowledge and skills answered my doubts and helped me establish trust and integrity with GPX Diamonds. He also provided good discount considering both, the availability of a better piece and customer satisfaction."
+    ]
+  },
+  "overall_confidence": 0.966,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/gridpx",
+      "profile_pic_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/374239283_790886696371564_3234367798653032877_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=f907e8&_nc_ohc=nvzSB1jqP3AQ7kNvwGVLMpA&_nc_oc=AdrOAd6qa8Xl66w8cHBaYdy2cPFx3K9NEC8ln-n1qJrbrwpwAY_VtkGU9X6TlGBR0-w&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=Yscoo4oBeUpCa6q-rELvcw&_nc_ss=7c289&oh=00_Af3oydy9zUBACCk43IG5LiFz0deKgwe0y5Z0bUYL9YKjxw&oe=69F7D69C",
+      "banner_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/490822787_1237065008420395_1665870460701329007_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=2a1932&_nc_ohc=Yzibcq7Q7JcQ7kNvwEUKvmm&_nc_oc=Adpro-VlCAd8cngHRDr8QqklAXbuvsP9M-JPKLzU-XwM6qn9IOz_TegWCl1uqPc2oHI&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=vGgZtbV7o1P1pxvuhTh0xA&_nc_ss=7c289&oh=00_Af00I4qsEU5bCnSQAZ9lByYUlkU0HRXFKp_tiGMbJWK3JQ&oe=69F7E795",
+      "bio": "GPX Diamonds is designed for jewelers. Check out our website, you might find the diamonds you're looking for and really like.",
+      "followers_count": 53,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1295684685961725/",
+          "thumbnail_url": "https://www.facebook.com/reel/1295684685961725/",
+          "caption": "Premium oval diamond ring #diamondring #diamondjewelry",
+          "likes": 1,
+          "comments": null,
+          "views": null,
+          "posted_at": 1774583940
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1664002521624576/",
+          "thumbnail_url": "https://www.facebook.com/reel/1664002521624576/",
+          "caption": "Diamond ring for engagement and wedding under budget. 18kt gold",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1773802495
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1709351370029879/",
+          "thumbnail_url": "https://www.facebook.com/reel/1709351370029879/",
+          "caption": "Huge 5 Carat Diamond Pendant with 14kt gold, Book now or loose it.",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1773288057
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": "+91 88517 62100",
+        "email": "info@gridpx.com",
+        "website": "https://gridpx.com/",
+        "address": "B-273, Basement, C R park, Delhi, India, 110019",
+        "city": null
+      }
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/gpxdiamonds/",
+      "profile_pic_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/431814203_409181245031622_5559423804516648262_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=ISiiASDmxOMQ7kNvwEAEcbl&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0g4cTNyKD2FM1431JV2R1FFQdR2f4M0FZio7DWiZXAkw&oe=69F7D135&_nc_sid=8b3546",
+      "banner_url": null,
+      "bio": "GSTIN : 07CCXPB8747A2ZC\nPocket Friendly Diamond💎 & Jewelry💍\nYou are in right place \nCall 📳 08851762100\nor visit : www.gridpx.com",
+      "followers_count": 111,
+      "following_count": 3,
+      "posts_count": 72,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DWX6R1XAZ4s/",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/658307005_17981205317968192_6224565274510178746_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=fs1DRWaStH0Q7kNvwEsFIBv&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0pd9wC5nLTdalpQLXwSkvoj39hdpIqf3euVofhWuaZZQ&oe=69F7B783&_nc_sid=8b3546",
+          "caption": "Premium oval diamond ring #diamondring #diamondjewelry",
+          "likes": 1,
+          "comments": 0,
+          "views": 19,
+          "posted_at": "2026-03-27T03:58:48.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DWAn5f7gQsp/",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/652767201_1441500567673011_5876381411403226384_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=A75_Q7FQHcwQ7kNvwHbg-I5&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3jCLyaBXYRpmlYZD8VpMZS0dgRVu_oTVg1C2yA-hP8Uw&oe=69F7E4F4&_nc_sid=8b3546",
+          "caption": "Diamond ring for engagement and wedding under budget. 18kt gold",
+          "likes": 3,
+          "comments": 0,
+          "views": 21,
+          "posted_at": "2026-03-18T02:54:33.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DVxSmL1AW00/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.71878-15/650901366_1310923190915915_6746760058091175594_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=tzTELswyXo4Q7kNvwERb90I&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1Vk8MSWPjlJ9unNslntJMryhphe8wu2qapIZluRz8Bzg&oe=69F7B48B&_nc_sid=8b3546",
+          "caption": "Huge 5 Carat Diamond Pendant with 14kt gold, Book now or loose it.",
+          "likes": 0,
+          "comments": 0,
+          "views": 17,
+          "posted_at": "2026-03-12T04:00:45.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DQ-wGAkAcwU/",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/580851546_1405508594469937_34654864239678245_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=NaYlMa50Yu8Q7kNvwEiIqy-&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0_QRz94BfnpVtlQHvqjIs9UH3-TdtRmNzUdOEBBFc88w&oe=69F7CBCA&_nc_sid=8b3546",
+          "caption": "#diamondring",
+          "likes": 1,
+          "comments": 0,
+          "views": 39,
+          "posted_at": "2025-11-13T02:51:11.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DQvaU40AccN/",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/573878293_842221588215775_8325623461664139405_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=BB_cnGa48NkQ7kNvwGUM6if&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3BFaivfnGMDQWKkiPKh1IbGj1FekeHtAwLiMxkWem6Dg&oe=69F7D6AE&_nc_sid=8b3546",
+          "caption": "#diamondjewelry #diamonds #jewelry #labgrowndiamonds",
+          "likes": 0,
+          "comments": 0,
+          "views": 33,
+          "posted_at": "2025-11-07T03:51:50.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DNw2kYZQhax/",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.71878-15/539313802_924043796605572_2391707772064647004_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEzxnohOUuOJQFOWfiur5ELt2fVbVPGHGrG2tElrjVo0xFNsGEmesCg2LVO4s--41g&_nc_ohc=Bf_1sNGeyGQQ7kNvwGUzzpz&_nc_gid=dY7vO0GxvGDyOrWo_U_TLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3CHg0hE1pY6_G2mm3ww6zezc8nUrrctbNqcQjyLtzy5Q&oe=69F7CDFF&_nc_sid=8b3546",
+          "caption": "Contact GPX diamonds or visit www.gridpx.com for order #studdedearrings #earrings #diamomdearrings",
+          "likes": 0,
+          "comments": 2,
+          "views": 44,
+          "posted_at": "2025-08-25T03:45:24.000Z"
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": "http://www.gridpx.com/",
+        "address": null,
+        "city": null
+      }
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@gpxdiamond",
+      "profile_pic_url": "https://yt3.googleusercontent.com/OmTI0KM4-MpQAh-5MX88XJFErx70_3Zy_avB3fIGAVpMlY-m4AiXLkAIRs7zcnXaNUBdj_GnLw=s68-c-k-c0x00ffffff-no-rj",
+      "banner_url": "https://yt3.googleusercontent.com/v3PiNVmiVrX1g8O4Tzy68-aZL3J8dhspuozSJiRFN4STxelo-AqOoI8D7txejAv4bFqBY6Yk=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "bio": "GPX Diamonds is a highly reputed diamond seller in the world, known for its exceptional quality, unparalleled craftsmanship, and outstanding customer service. With a commitment to excellence and a passion for diamonds, GPX Diamonds has become a trusted name in the diamond industry, catering to customers from all over the world.\n\nOverall, GPX Diamonds is a highly respected and reputable diamond seller in Delhi NCR, India, known for its exceptional quality, outstanding customer service, and commitment to sustainability and ethical practices. Whether you are looking for a diamond engagement ring, a special piece of jewelry, or simply want to invest in a beautiful and valuable diamond, GPX Diamonds is the perfect choice.",
+      "followers_count": 731,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=ZiZ0N235Fss",
+          "thumbnail_url": "https://i.ytimg.com/vi/ZiZ0N235Fss/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gUigfMA8=&rs=AOn4CLCGIbItBzJyKmJ9Mdiy6LwYNjfULA",
+          "caption": "This beautiful ring features a sparkling 1 carat diamond. You can choose the gold band in 14k, 18k, or 22k gold, making it perfect for any style or occasion. Enjoy wearing a ring that combines elegance and luxury.",
+          "likes": 8,
+          "comments": 0,
+          "views": 190,
+          "posted_at": "2024-05-19T14:58:12.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=pEj9ckbpiZc",
+          "thumbnail_url": "https://i.ytimg.com/vi/pEj9ckbpiZc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChJMA8=&rs=AOn4CLA0hzwJ-kdrugOj2X69sPQFFcTfsw",
+          "caption": "This ring has a shiny blue diamond in a pear shape. The diamond looks very bright and special. The metal part of the ring is made of gold. You can choose from different kinds of gold, like 14k, 18k, or 22k. Gold makes the ring strong and shiny. This ring is very pretty and perfect for someone who loves beautiful jewelry.\n\nShop Page : https://gridpx.com/product-category/j...",
+          "likes": 12,
+          "comments": 0,
+          "views": 507,
+          "posted_at": "2024-04-29T06:35:29.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/ImpuhA0B30U",
+          "thumbnail_url": "https://i.ytimg.com/vi/ImpuhA0B30U/maxresdefault.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBBKEEwDw==&rs=AOn4CLB0J4LoYT43oQyvtYXwobQsjtNn9A",
+          "caption": "Girls favourite fancy diamond 💍 https://gridpx.com/product-category/cvd-diamond/pear-diamond/",
+          "likes": 41,
+          "comments": 1,
+          "views": 990,
+          "posted_at": "2023-10-22T03:49:31.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/6V4Q0xCP224",
+          "thumbnail_url": "https://i.ytimg.com/vi/6V4Q0xCP224/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBXKEEwDw==&rs=AOn4CLCAQDEbZkfjb3iRj-WBGfqEbaqNWg",
+          "caption": "Indian Kohinoor, It's diamond time everyone can afford #kohinoor #realdiamonds #diamondjewellery",
+          "likes": 18,
+          "comments": 0,
+          "views": 603,
+          "posted_at": "2023-09-19T03:13:05.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/2m4aU3Oz7M0",
+          "thumbnail_url": "https://i.ytimg.com/vi/2m4aU3Oz7M0/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLC_MlhXr5b_FaejeO6t9hEyQR_SoQ",
+          "caption": "You can get this diamond for free.  Go to www.gridpx.com and leave a comment.",
+          "likes": 40,
+          "comments": 1,
+          "views": 854,
+          "posted_at": "2023-10-06T04:48:44.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=EZHjNiMekQ4",
+          "thumbnail_url": "https://i.ytimg.com/vi/EZHjNiMekQ4/maxresdefault.jpg",
+          "caption": "Welcome to GPX Diamonds! We are a premier diamond retailer and wholesaler based in Delhi, dedicated to bringing you the finest luxury diamond rings. In this video, we showcase a selection of our exquisite diamond rings, handpicked by our valued customers from around the world. Each piece is crafted with the utmost precision and care to meet the highest standards of luxury and elegance.\n\nOur commitment to providing top-quality diamond rings at reasonable prices ensures that you will find the perfect piece to fit your budget. Whether you are looking for a classic diamond ring or a gold ring adorned with sparkling diamonds, we have something special for you.\n\nFor inquiries or to place an order, please feel free to contact us at +91 8851762100. Thank you for choosing GPX Diamonds, where luxury meets affordability!\n\nWebsite :  www.gridpx.com\nJewellery section : https://gridpx.com/product-category/j...\nEmail : info@gridpx.com\nContact number : +91 8851762100\n#diamondring #goldring #solitairering #jewelrydesigner",
+          "likes": 57,
+          "comments": 4,
+          "views": 2509,
+          "posted_at": "2024-06-27T14:00:50.000Z"
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "+918851762100",
+          "date": "2024-06-27T14:00:50.000Z",
+          "post_url": "https://www.youtube.com/watch?v=EZHjNiMekQ4"
+        },
+        {
+          "type": "email",
+          "value": "info@gridpx.com",
+          "date": "2024-06-27T14:00:50.000Z",
+          "post_url": "https://www.youtube.com/watch?v=EZHjNiMekQ4"
+        }
+      ],
+      "extra_profile": {
+        "location": "India",
+        "links": [
+          "https://gridpx.com/",
+          "https://www.facebook.com/gridpx",
+          "https://www.instagram.com/gridpx/",
+          "https://www.reddit.com/user/GridpxDiamondDeal",
+          "https://in.pinterest.com/gridpx/"
+        ]
+      }
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/gpx-diamonds-0989b3299/",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/gpxdiamonds",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "Twitter/X public scraping not available — requires authenticated Apify actor (paid)"
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-04-29T12:39:28.520Z",
+    "duration_seconds": 132,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "ReviewsFetcher",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 13,
+      "Agent04/Media": 13,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "reviews",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [],
+        "quality_target": 0.85,
+        "reasoning": "Seller has a good number of products and a reviews API. Company profile confidence is 0.8. Aiming for high quality."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": 0.96,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 13,
+      "enriched": 13,
+      "catalog_items": 24,
+      "rejected": 0,
+      "with_vision": 13,
+      "vision_skipped": 0
+    },
+    "social": {
+      "urls_detected": 5,
+      "platforms_scraped": [
+        "facebook",
+        "instagram",
+        "youtube",
+        "linkedin",
+        "twitter"
+      ],
+      "posts_collected": 15,
+      "social_products_extracted": 11
+    },
+    "overall_confidence": 0.966
+  },
+  "_saved_at": "2026-04-29T12:41:40.952Z"
+}
