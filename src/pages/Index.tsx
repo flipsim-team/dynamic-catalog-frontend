@@ -178,8 +178,8 @@ const Index = () => {
         SHADING={false}
         COLOR_UPDATE_SPEED={12}
         TRANSPARENT
-        RAINBOW_MODE={true}
-        COLOR="#FFF6F6"
+        RAINBOW_MODE={false}
+        COLOR="#B4EBE6"
         BACK_COLOR={{ r: 0.5, g: 0, b: 0 }}
       />
       {/* <CursorFollower /> */}
