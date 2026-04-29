@@ -1,0 +1,1762 @@
+{
+  "seller_id": 3842081,
+  "company_profile": {
+    "name": {
+      "value": "Shri Navdeep Healthcare Pvt Ltd",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "Shri Navdeep Healthcare Pvt Ltd is a Mumbai-based pharmaceutical company dedicated to providing a comprehensive range of healthcare products. They specialize in manufacturing and distributing various pharmaceutical formulations, including tablets, capsules, and antiseptic solutions. The company is committed to delivering quality and effective medical solutions to meet diverse health needs.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Mumbai",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "Mumbai, Maharashtra, India",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "http://www.navdeephealthcare.com",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Pharmaceuticals",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gst_number": {
+      "value": "27AAUCS3823N1ZK",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "http://www.navdeephealthcare.com/assets/imgs/logo/logo-white.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/480979893_1212290517563534_2465190624829462774_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2a1932&_nc_ohc=e7vqTe_mwGMQ7kNvwFr4kAF&_nc_oc=AdpKq6CMPmC1oStnthmfkMUk4oBAB-QTU8f8JEdz4FHvGEcwRQrOPPO7KfwfQrutESk&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=I-fn3Q9SfR_Tp77hU1DAag&_nc_ss=72289&oh=00_Af1re3Eg4WtKcKePagOQcPn1xbWs2ppMV0Rx4XcNasyrow&oe=69F7572D",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/navdeephealthcare/",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "linkedin": {
+      "value": "https://www.linkedin.com/company/shri-navdeep-healthcare-pvt-ltd---india/?originalSubdomain=in",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "9619878805",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "2249731002",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "+91 22 4311 9315",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "info@navdeephealthcare.com",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "vineet@navdeephealthcare.com",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/navdeephealthcare/",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.linkedin.com/company/shri-navdeep-healthcare-pvt-ltd---india/?originalSubdomain=in",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "followers_facebook": 630,
+    "confidence": 0.88,
+    "sources": [
+      "website",
+      "facebook"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 630
+      }
+    ],
+    "data_sources": [
+      "website"
+    ]
+  },
+  "products": [
+    {
+      "raw_name": "DYFIRA 120 MG TAB",
+      "clean_name": "DYFIRA 120 MG TAB",
+      "fingerprint": "768939f5b8d4",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical",
+      "product_category": "Medication Tablet",
+      "product_sub_type": "Oral Medication Tablet",
+      "buyer_persona": "A pharmacist, hospital procurement manager, or individual consumer purchasing prescribed medication for therapeutic use.",
+      "description": "DYFIRA 120 MG TAB is a oral medication tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 724. Suitable for: A pharmacist, hospital procurement manager, or individual consumer purchasing prescribed medication for therapeutic use.",
+      "seo_title": "DYFIRA 120 MG TAB Oral Medication Tablet | Catalog Listing",
+      "tags": [
+        "DYFIRA 120 MG TAB",
+        "Healthcare & Pharma",
+        "Pharmaceuticals",
+        "Medication Tablet",
+        "Oral Medication Tablet"
+      ],
+      "alt_text": "DYFIRA 120 MG TAB from Shri Navdeep Healthcare Pvt Ltd",
+      "domain_attributes": {
+        "image_url": "http://www.navdeephealthcare.com/admin/products/DYFIRA_120_MG_TAB_20251215_111055.jpeg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=3284"
+      },
+      "specifications": {
+        "category": "Medication Tablet",
+        "sub_type": "Oral Medication Tablet",
+        "image_url": "http://www.navdeephealthcare.com/admin/products/DYFIRA_120_MG_TAB_20251215_111055.jpeg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=3284",
+        "price_single": 724,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 724,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/DYFIRA_120_MG_TAB_20251215_111055.jpeg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/DYFIRA_120_MG_TAB_20251215_111055.jpeg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=3284",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "CIPLADINE ANTISEP BAN",
+      "clean_name": "CIPLADINE ANTISEP BAN",
+      "fingerprint": "50abec186bd4",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical Product",
+      "product_category": "Antiseptic",
+      "product_sub_type": "Topical Antiseptic Solution",
+      "buyer_persona": "A healthcare professional, hospital procurement manager, or consumer purchasing for wound care, skin disinfection, or general hygiene.",
+      "description": "CIPLADINE ANTISEP BAN is a topical antiseptic solution offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 281. Suitable for: A healthcare professional, hospital procurement manager, or consumer purchasing for wound care, skin disinfection, or general hygiene.",
+      "seo_title": "CIPLADINE ANTISEP BAN Topical Antiseptic Solution | Catalog Listing",
+      "tags": [
+        "CIPLADINE ANTISEP BAN",
+        "Healthcare & Pharma",
+        "Pharmaceutical Products",
+        "Antiseptic",
+        "Topical Antiseptic Solution"
+      ],
+      "alt_text": "CIPLADINE ANTISEP BAN from Shri Navdeep Healthcare Pvt Ltd",
+      "domain_attributes": {
+        "image_url": "http://www.navdeephealthcare.com/admin/products/CIPLADINE_ANTISEP_BAN_20251130_094622.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=5121"
+      },
+      "specifications": {
+        "category": "Antiseptic",
+        "sub_type": "Topical Antiseptic Solution",
+        "image_url": "http://www.navdeephealthcare.com/admin/products/CIPLADINE_ANTISEP_BAN_20251130_094622.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=5121",
+        "price_single": 281,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 281,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/CIPLADINE_ANTISEP_BAN_20251130_094622.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/CIPLADINE_ANTISEP_BAN_20251130_094622.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=5121",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "TAFERO TAB",
+      "clean_name": "TAFERO TAB",
+      "fingerprint": "0efb6893acfa",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical",
+      "product_category": "Pharmaceutical Tablet",
+      "product_sub_type": "Antiviral Pharmaceutical Tablet",
+      "buyer_persona": "A pharmacist, hospital procurement manager, or individual consumer (with prescription) purchasing medication for treatment.",
+      "description": "TAFERO TAB is a antiviral pharmaceutical tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 1,539. Suitable for: A pharmacist, hospital procurement manager, or individual consumer (with prescription) purchasing medication for treatment.",
+      "seo_title": "TAFERO TAB Antiviral Pharmaceutical Tablet | Catalog Listing",
+      "tags": [
+        "TAFERO TAB",
+        "Healthcare & Pharma",
+        "Pharmaceuticals",
+        "Pharmaceutical Tablet",
+        "Antiviral Pharmaceutical Tablet"
+      ],
+      "alt_text": "TAFERO TAB from Shri Navdeep Healthcare Pvt Ltd",
+      "domain_attributes": {
+        "image_url": "http://www.navdeephealthcare.com/admin/products/TAFERO__TAB_20251130_090545.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=10504"
+      },
+      "specifications": {
+        "category": "Pharmaceutical Tablet",
+        "sub_type": "Antiviral Pharmaceutical Tablet",
+        "image_url": "http://www.navdeephealthcare.com/admin/products/TAFERO__TAB_20251130_090545.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=10504",
+        "price_single": 1539,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 1539,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/TAFERO__TAB_20251130_090545.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/TAFERO__TAB_20251130_090545.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=10504",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "KUSHAL KANTHIL PILLS(",
+      "clean_name": "KUSHAL KANTHIL PILLS(",
+      "fingerprint": "d7845404e221",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical",
+      "product_category": "Medicinal Preparation",
+      "product_sub_type": "Ayurvedic Pill",
+      "buyer_persona": "A consumer or healthcare provider seeking a specific traditional or pharmaceutical oral medication for a particular health condition.",
+      "description": "KUSHAL KANTHIL PILLS( is a ayurvedic pill offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 126. Suitable for: A consumer or healthcare provider seeking a specific traditional or pharmaceutical oral medication for a particular health condition.",
+      "seo_title": "KUSHAL KANTHIL PILLS( Ayurvedic Pill | Catalog Listing",
+      "tags": [
+        "KUSHAL KANTHIL PILLS(",
+        "Healthcare & Pharma",
+        "Pharmaceuticals",
+        "Medicinal Preparation",
+        "Ayurvedic Pill"
+      ],
+      "alt_text": "KUSHAL KANTHIL PILLS( from Shri Navdeep Healthcare Pvt Ltd",
+      "domain_attributes": {
+        "image_url": "http://www.navdeephealthcare.com/admin/products/KUSHAL_KANTHIL_PILLS__20251130_094924.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=11984"
+      },
+      "specifications": {
+        "category": "Medicinal Preparation",
+        "sub_type": "Ayurvedic Pill",
+        "image_url": "http://www.navdeephealthcare.com/admin/products/KUSHAL_KANTHIL_PILLS__20251130_094924.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=11984",
+        "price_single": 126,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 126,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/KUSHAL_KANTHIL_PILLS__20251130_094924.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/KUSHAL_KANTHIL_PILLS__20251130_094924.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=11984",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "JET SPRAY(PEESAFE)POR",
+      "clean_name": "JET SPRAY(PEESAFE)POR",
+      "fingerprint": "892df10e0d24",
+      "top_level_domain": "Healthcare & Personal Care",
+      "industry_segment": "Personal Hygiene Product",
+      "product_category": "Sanitizer Spray",
+      "product_sub_type": "Toilet Seat Sanitizer Spray",
+      "buyer_persona": "A consumer or business looking for a portable and effective solution for sanitizing toilet seats and maintaining personal hygiene.",
+      "description": "JET SPRAY(PEESAFE)POR is a toilet seat sanitizer spray offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 2,668. Suitable for: A consumer or business looking for a portable and effective solution for sanitizing toilet seats and maintaining personal hygiene.",
+      "seo_title": "JET SPRAY(PEESAFE)POR Toilet Seat Sanitizer Spray | Catalog Listing",
+      "tags": [
+        "JET SPRAY(PEESAFE)POR",
+        "Healthcare & Personal Care",
+        "Personal Hygiene Products",
+        "Sanitizer Spray",
+        "Toilet Seat Sanitizer Spray"
+      ],
+      "alt_text": "JET SPRAY(PEESAFE)POR from Shri Navdeep Healthcare Pvt Ltd",
+      "domain_attributes": {
+        "image_url": "http://www.navdeephealthcare.com/admin/products/JET_SPRAY_PEESAFE_POR_20251130_091650.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=17927"
+      },
+      "specifications": {
+        "category": "Sanitizer Spray",
+        "sub_type": "Toilet Seat Sanitizer Spray",
+        "image_url": "http://www.navdeephealthcare.com/admin/products/JET_SPRAY_PEESAFE_POR_20251130_091650.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=17927",
+        "price_single": 2668,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2668,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/JET_SPRAY_PEESAFE_POR_20251130_091650.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/JET_SPRAY_PEESAFE_POR_20251130_091650.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=17927",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "FREESTYLE LIBRE (NO R",
+      "clean_name": "FREESTYLE LIBRE (NO R",
+      "fingerprint": "7c528663ed74",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Medical Devices & Diagnostics",
+      "product_category": "Continuous Glucose Monitor",
+      "product_sub_type": "Freestyle Libre System",
+      "buyer_persona": "Individuals with diabetes or healthcare professionals seeking a system for continuous glucose level monitoring and management.",
+      "description": "FREESTYLE LIBRE (NO R is a freestyle libre system offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 4,671. Suitable for: Individuals with diabetes or healthcare professionals seeking a system for continuous glucose level monitoring and management.",
+      "seo_title": "FREESTYLE LIBRE (NO R Freestyle Libre System | Catalog Listing",
+      "tags": [
+        "FREESTYLE LIBRE (NO R",
+        "Healthcare & Pharma",
+        "Medical Devices & Diagnostics",
+        "Continuous Glucose Monitor",
+        "Freestyle Libre System"
+      ],
+      "alt_text": "FREESTYLE LIBRE (NO R from Shri Navdeep Healthcare Pvt Ltd",
+      "domain_attributes": {
+        "image_url": "http://www.navdeephealthcare.com/admin/products/FREESTYLE_LIBRE__NO_R_20251217_130759.jpeg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=25016"
+      },
+      "specifications": {
+        "category": "Continuous Glucose Monitor",
+        "sub_type": "Freestyle Libre System",
+        "image_url": "http://www.navdeephealthcare.com/admin/products/FREESTYLE_LIBRE__NO_R_20251217_130759.jpeg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=25016",
+        "price_single": 4671,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 4671,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/FREESTYLE_LIBRE__NO_R_20251217_130759.jpeg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/FREESTYLE_LIBRE__NO_R_20251217_130759.jpeg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=25016",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "AROSTAT-20 TAB",
+      "clean_name": "AROSTAT-20 TAB",
+      "fingerprint": "9bcee1e7fb39",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical",
+      "product_category": "Tablet",
+      "product_sub_type": "Pharmaceutical Tablet",
+      "buyer_persona": "A pharmacist, hospital procurement manager, or individual consumer purchasing medication for a specific therapeutic need.",
+      "description": "AROSTAT-20 TAB is a pharmaceutical tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 195. Suitable for: A pharmacist, hospital procurement manager, or individual consumer purchasing medication for a specific therapeutic need.",
+      "seo_title": "AROSTAT-20 TAB Pharmaceutical Tablet | Catalog Listing",
+      "tags": [
+        "AROSTAT-20 TAB",
+        "Healthcare & Pharma",
+        "Pharmaceuticals",
+        "Tablet",
+        "Pharmaceutical Tablet"
+      ],
+      "alt_text": "AROSTAT-20 TAB from Shri Navdeep Healthcare Pvt Ltd",
+      "domain_attributes": {
+        "image_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=1239"
+      },
+      "specifications": {
+        "category": "Tablet",
+        "sub_type": "Pharmaceutical Tablet",
+        "image_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+        "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=1239",
+        "price_single": 195,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 195,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/product.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=1239",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "768939f5b8d4",
+      "product_name": "DYFIRA 120 MG TAB",
+      "url": "http://www.navdeephealthcare.com/admin/products/DYFIRA_120_MG_TAB_20251215_111055.jpeg",
+      "scene_type": "product_image",
+      "media_confidence": 0.98,
+      "visual_features": {
+        "product_type_confirmed": "Medication Capsules Box",
+        "shape_visible": "Rectangular box",
+        "color_appearance": "White box with black and blue text, blue/grey pattern",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Text '14 Capsules' visible on top flap, 'INTAS' logo visible on the patterned section, Hindi text present."
+      },
+      "visual_description": "The image displays a white rectangular cardboard box for medication, angled slightly to show the front and a sliver of the top. The front of the box features black text detailing 'DIMETHYL FUMARATE DELAYED-RELEASE CAPSULES 120 mg' and 'DYFIRA 120' in a larger blue font, along with Hindi text below it. The bottom portion of the box has a blue and grey abstract pattern, and the top flap indicates '14 Capsules'. The product is presented against a plain, light grey background.",
+      "media_alt_text": "White and blue medication box for DYFIRA 120 mg Delayed-Release Capsules, showing product name and dosage.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:33:43.850Z"
+    },
+    {
+      "fingerprint": "50abec186bd4",
+      "product_name": "CIPLADINE ANTISEP BAN",
+      "url": "http://www.navdeephealthcare.com/admin/products/CIPLADINE_ANTISEP_BAN_20251130_094622.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "antiseptic bandages in a plastic container",
+        "shape_visible": "rectangular jar, rectangular bandages on label",
+        "color_appearance": "clear plastic container, brown lid, white and blue label, beige/skin-toned bandage graphics",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": true,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Label indicates '100 + 36 STRIPS FREE', 'WASH PROOF', 'STRONG ADHESIVENESS', 'PROTECTS & HEALS'."
+      },
+      "visual_description": "A clear plastic rectangular jar with rounded corners and a brown screw-top lid is displayed against a plain white background. The jar contains antiseptic bandages, visible through the clear plastic. A white and blue label on the front features text like 'CiplaHealth', 'ANTISEPTIC BANDAGE', 'By CIPLADINE', 'WASH PROOF', and 'India's No.1', along with graphics of skin-toned bandages with water droplets.",
+      "media_alt_text": "A clear plastic jar of CiplaHealth Antiseptic Bandages with a brown lid on a white background. The label highlights 'WASH PROOF' and 'India's No.1' with bandage graphics.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:33:46.550Z"
+    },
+    {
+      "fingerprint": "0efb6893acfa",
+      "product_name": "TAFERO TAB",
+      "url": "http://www.navdeephealthcare.com/admin/products/TAFERO__TAB_20251130_090545.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "pharmaceutical tablet box",
+        "shape_visible": "rectangular",
+        "color_appearance": "white box with black and red text, multi-color holographic sticker",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": true,
+        "presentation": "white background studio",
+        "additional_visual_notes": "holographic security sticker, 'NAVDEEP' watermark, text 'Tenofovir Alafenamide Tablets IP 25 mg TAFERO' and 'For India only' visible"
+      },
+      "visual_description": "The image displays a white rectangular pharmaceutical box for 'TAFERO' tablets, featuring black and red text detailing 'Tenofovir Alafenamide Tablets IP 25 mg' and 'For India only'. A holographic security sticker is visible on the top right corner of the box, which is presented against a plain light grey and light blue background. A 'NAVDEEP' watermark is faintly visible across the product.",
+      "media_alt_text": "White rectangular box of TAFERO Tenofovir Alafenamide Tablets IP 25 mg with a holographic sticker, 'For India only' text.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:33:43.210Z"
+    },
+    {
+      "fingerprint": "d7845404e221",
+      "product_name": "KUSHAL KANTHIL PILLS(",
+      "url": "http://www.navdeephealthcare.com/admin/products/KUSHAL_KANTHIL_PILLS__20251130_094924.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.93,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Product — Shri Navdeep Healthcare Pvt Ltd",
+      "used_vision": false,
+      "classified_at": "2026-04-29T05:34:01.667Z"
+    },
+    {
+      "fingerprint": "892df10e0d24",
+      "product_name": "JET SPRAY(PEESAFE)POR",
+      "url": "http://www.navdeephealthcare.com/admin/products/JET_SPRAY_PEESAFE_POR_20251130_091650.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "portable personal hygiene spray / bidet",
+        "shape_visible": "cylindrical, elongated",
+        "color_appearance": "white (device), grey (nozzle), black (packaging), yellow/green accents (packaging text/icons)",
+        "clarity_appearance": null,
+        "size_impression": "handheld, compact",
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Brand 'Pee Safe' visible on product and packaging. Packaging highlights 'Portable Jet Spray', 'Light Weight', 'Adjustable Flow', and shows feature icons like 180-degree rotation. A 'NAVDEEP' watermark is present."
+      },
+      "visual_description": "The image displays a white, cylindrical portable personal hygiene spray device with a grey extendable nozzle, presented alongside its black retail packaging. The packaging features the 'PEE SAFE PORTABLE JET SPRAY' branding in white and yellow text, along with illustrations and feature icons. Both items are set against a clean white studio background, with a 'NAVDEEP' watermark visible across the packaging.",
+      "media_alt_text": "White Pee Safe Portable Jet Spray device with grey nozzle, displayed next to its black retail packaging on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:33:58.377Z"
+    },
+    {
+      "fingerprint": "7c528663ed74",
+      "product_name": "FREESTYLE LIBRE (NO R",
+      "url": "http://www.navdeephealthcare.com/admin/products/FREESTYLE_LIBRE__NO_R_20251217_130759.jpeg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "retail box for a continuous glucose monitor",
+        "shape_visible": "rectangular",
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Yellow box with 'FreeStyle Libre' branding, a butterfly logo, and graphics of a sensor and reader device. Text 'FLASH GLUCOSE MONITORING SYSTEM' and 'READY' are visible."
+      },
+      "visual_description": "The image displays a rectangular yellow retail box for the 'FreeStyle Libre' Flash Glucose Monitoring System, presented at an angle on a clean white background. The box features a prominent butterfly logo, the product name in blue and orange text, and small graphic icons of a circular sensor and a smartphone-like reader device. The overall presentation is a professional studio shot, highlighting the product packaging.",
+      "media_alt_text": "Yellow retail box for FreeStyle Libre Flash Glucose Monitoring System, featuring a butterfly logo and images of a sensor and reader.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:33:57.067Z"
+    },
+    {
+      "fingerprint": "9bcee1e7fb39",
+      "product_name": "AROSTAT-20 TAB",
+      "url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.93,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Product — Shri Navdeep Healthcare Pvt Ltd",
+      "used_vision": false,
+      "classified_at": "2026-04-29T05:34:16.784Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "DYFIRA 120 MG TAB",
+      "fingerprint": "768939f5b8d4",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical",
+      "product_category": "Medication Tablet",
+      "product_sub_type": "Oral Medication Tablet",
+      "buyer_persona": "A pharmacist, hospital procurement manager, or individual consumer purchasing prescribed medication for therapeutic use.",
+      "seo_title": "DYFIRA 120 MG TAB Oral Medication Tablet | Catalog Listing",
+      "tags": [
+        "DYFIRA 120 MG TAB",
+        "Healthcare & Pharma",
+        "Pharmaceuticals",
+        "Medication Tablet",
+        "Oral Medication Tablet"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 724,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/DYFIRA_120_MG_TAB_20251215_111055.jpeg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/DYFIRA_120_MG_TAB_20251215_111055.jpeg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=3284",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "DYFIRA 120 MG TAB is a oral medication tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 724. Suitable for: A pharmacist, hospital procurement manager, or individual consumer purchasing prescribed medication for therapeutic use. The image displays a white rectangular cardboard box for medication, angled slightly to show the front and a sliver of the top. The front of the box features black text detailing 'DIMETHYL FUMARATE DELAYED-RELEASE CAPSULES 120 mg' and 'DYFIRA 120' in a larger blue font, along with Hindi text below it. The bottom portion of the box has a blue and grey abstract pattern, and the top flap indicates '14 Capsules'. The product is presented against a plain, light grey background.",
+      "specifications": {
+        "category": "Medication Tablet",
+        "sub_type": "Oral Medication Tablet",
+        "visual_shape": "Rectangular box",
+        "visual_color": "White box with black and blue text, blue/grey pattern",
+        "presentation": "white background studio",
+        "visual_product_type": "Medication Capsules Box",
+        "visual_notes": "Text '14 Capsules' visible on top flap, 'INTAS' logo visible on the patterned section, Hindi text present."
+      },
+      "alt_text": "White and blue medication box for DYFIRA 120 mg Delayed-Release Capsules, showing product name and dosage.",
+      "used_vision": true,
+      "media_url": "http://www.navdeephealthcare.com/admin/products/DYFIRA_120_MG_TAB_20251215_111055.jpeg"
+    },
+    {
+      "clean_name": "CIPLADINE ANTISEP BAN",
+      "fingerprint": "50abec186bd4",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical Product",
+      "product_category": "Antiseptic",
+      "product_sub_type": "Topical Antiseptic Solution",
+      "buyer_persona": "A healthcare professional, hospital procurement manager, or consumer purchasing for wound care, skin disinfection, or general hygiene.",
+      "seo_title": "CIPLADINE ANTISEP BAN Topical Antiseptic Solution | Catalog Listing",
+      "tags": [
+        "CIPLADINE ANTISEP BAN",
+        "Healthcare & Pharma",
+        "Pharmaceutical Products",
+        "Antiseptic",
+        "Topical Antiseptic Solution"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 281,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/CIPLADINE_ANTISEP_BAN_20251130_094622.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/CIPLADINE_ANTISEP_BAN_20251130_094622.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=5121",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "CIPLADINE ANTISEP BAN is a topical antiseptic solution offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 281. Suitable for: A healthcare professional, hospital procurement manager, or consumer purchasing for wound care, skin disinfection, or general hygiene. A clear plastic rectangular jar with rounded corners and a brown screw-top lid is displayed against a plain white background. The jar contains antiseptic bandages, visible through the clear plastic. A white and blue label on the front features text like 'CiplaHealth', 'ANTISEPTIC BANDAGE', 'By CIPLADINE', 'WASH PROOF', and 'India's No.1', along with graphics of skin-toned bandages with water droplets.",
+      "specifications": {
+        "category": "Antiseptic",
+        "sub_type": "Topical Antiseptic Solution",
+        "visual_shape": "rectangular jar, rectangular bandages on label",
+        "visual_color": "clear plastic container, brown lid, white and blue label, beige/skin-toned bandage graphics",
+        "visual_size": "medium",
+        "presentation": "white background studio",
+        "visual_product_type": "antiseptic bandages in a plastic container",
+        "visual_notes": "Label indicates '100 + 36 STRIPS FREE', 'WASH PROOF', 'STRONG ADHESIVENESS', 'PROTECTS & HEALS'.",
+        "certification_label_visible": true
+      },
+      "alt_text": "A clear plastic jar of CiplaHealth Antiseptic Bandages with a brown lid on a white background. The label highlights 'WASH PROOF' and 'India's No.1' with bandage graphics.",
+      "used_vision": true,
+      "media_url": "http://www.navdeephealthcare.com/admin/products/CIPLADINE_ANTISEP_BAN_20251130_094622.jpg"
+    },
+    {
+      "clean_name": "TAFERO TAB",
+      "fingerprint": "0efb6893acfa",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical",
+      "product_category": "Pharmaceutical Tablet",
+      "product_sub_type": "Antiviral Pharmaceutical Tablet",
+      "buyer_persona": "A pharmacist, hospital procurement manager, or individual consumer (with prescription) purchasing medication for treatment.",
+      "seo_title": "TAFERO TAB Antiviral Pharmaceutical Tablet | Catalog Listing",
+      "tags": [
+        "TAFERO TAB",
+        "Healthcare & Pharma",
+        "Pharmaceuticals",
+        "Pharmaceutical Tablet",
+        "Antiviral Pharmaceutical Tablet"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 1539,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/TAFERO__TAB_20251130_090545.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/TAFERO__TAB_20251130_090545.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=10504",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "TAFERO TAB is a antiviral pharmaceutical tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 1,539. Suitable for: A pharmacist, hospital procurement manager, or individual consumer (with prescription) purchasing medication for treatment. The image displays a white rectangular pharmaceutical box for 'TAFERO' tablets, featuring black and red text detailing 'Tenofovir Alafenamide Tablets IP 25 mg' and 'For India only'. A holographic security sticker is visible on the top right corner of the box, which is presented against a plain light grey and light blue background. A 'NAVDEEP' watermark is faintly visible across the product.",
+      "specifications": {
+        "category": "Pharmaceutical Tablet",
+        "sub_type": "Antiviral Pharmaceutical Tablet",
+        "visual_shape": "rectangular",
+        "visual_color": "white box with black and red text, multi-color holographic sticker",
+        "visual_size": "medium",
+        "presentation": "white background studio",
+        "visual_product_type": "pharmaceutical tablet box",
+        "visual_notes": "holographic security sticker, 'NAVDEEP' watermark, text 'Tenofovir Alafenamide Tablets IP 25 mg TAFERO' and 'For India only' visible",
+        "certification_label_visible": true
+      },
+      "alt_text": "White rectangular box of TAFERO Tenofovir Alafenamide Tablets IP 25 mg with a holographic sticker, 'For India only' text.",
+      "used_vision": true,
+      "media_url": "http://www.navdeephealthcare.com/admin/products/TAFERO__TAB_20251130_090545.jpg"
+    },
+    {
+      "clean_name": "KUSHAL KANTHIL PILLS(",
+      "fingerprint": "d7845404e221",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical",
+      "product_category": "Medicinal Preparation",
+      "product_sub_type": "Ayurvedic Pill",
+      "buyer_persona": "A consumer or healthcare provider seeking a specific traditional or pharmaceutical oral medication for a particular health condition.",
+      "seo_title": "KUSHAL KANTHIL PILLS( Ayurvedic Pill | Catalog Listing",
+      "tags": [
+        "KUSHAL KANTHIL PILLS(",
+        "Healthcare & Pharma",
+        "Pharmaceuticals",
+        "Medicinal Preparation",
+        "Ayurvedic Pill"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 126,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/KUSHAL_KANTHIL_PILLS__20251130_094924.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/KUSHAL_KANTHIL_PILLS__20251130_094924.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=11984",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "KUSHAL KANTHIL PILLS( is a ayurvedic pill offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 126. Suitable for: A consumer or healthcare provider seeking a specific traditional or pharmaceutical oral medication for a particular health condition.",
+      "specifications": {
+        "category": "Medicinal Preparation",
+        "sub_type": "Ayurvedic Pill"
+      },
+      "alt_text": "Product — Shri Navdeep Healthcare Pvt Ltd",
+      "used_vision": false,
+      "media_url": "http://www.navdeephealthcare.com/admin/products/KUSHAL_KANTHIL_PILLS__20251130_094924.jpg"
+    },
+    {
+      "clean_name": "JET SPRAY(PEESAFE)POR",
+      "fingerprint": "892df10e0d24",
+      "top_level_domain": "Healthcare & Personal Care",
+      "industry_segment": "Personal Hygiene Product",
+      "product_category": "Sanitizer Spray",
+      "product_sub_type": "Toilet Seat Sanitizer Spray",
+      "buyer_persona": "A consumer or business looking for a portable and effective solution for sanitizing toilet seats and maintaining personal hygiene.",
+      "seo_title": "JET SPRAY(PEESAFE)POR Toilet Seat Sanitizer Spray | Catalog Listing",
+      "tags": [
+        "JET SPRAY(PEESAFE)POR",
+        "Healthcare & Personal Care",
+        "Personal Hygiene Products",
+        "Sanitizer Spray",
+        "Toilet Seat Sanitizer Spray"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2668,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/JET_SPRAY_PEESAFE_POR_20251130_091650.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/JET_SPRAY_PEESAFE_POR_20251130_091650.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=17927",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "JET SPRAY(PEESAFE)POR is a toilet seat sanitizer spray offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 2,668. Suitable for: A consumer or business looking for a portable and effective solution for sanitizing toilet seats and maintaining personal hygiene. The image displays a white, cylindrical portable personal hygiene spray device with a grey extendable nozzle, presented alongside its black retail packaging. The packaging features the 'PEE SAFE PORTABLE JET SPRAY' branding in white and yellow text, along with illustrations and feature icons. Both items are set against a clean white studio background, with a 'NAVDEEP' watermark visible across the packaging.",
+      "specifications": {
+        "category": "Sanitizer Spray",
+        "sub_type": "Toilet Seat Sanitizer Spray",
+        "visual_shape": "cylindrical, elongated",
+        "visual_color": "white (device), grey (nozzle), black (packaging), yellow/green accents (packaging text/icons)",
+        "visual_size": "handheld, compact",
+        "presentation": "white background studio",
+        "visual_product_type": "portable personal hygiene spray / bidet",
+        "visual_notes": "Brand 'Pee Safe' visible on product and packaging. Packaging highlights 'Portable Jet Spray', 'Light Weight', 'Adjustable Flow', and shows feature icons like 180-degree rotation. A 'NAVDEEP' watermark is present."
+      },
+      "alt_text": "White Pee Safe Portable Jet Spray device with grey nozzle, displayed next to its black retail packaging on a white background.",
+      "used_vision": true,
+      "media_url": "http://www.navdeephealthcare.com/admin/products/JET_SPRAY_PEESAFE_POR_20251130_091650.jpg"
+    },
+    {
+      "clean_name": "FREESTYLE LIBRE (NO R",
+      "fingerprint": "7c528663ed74",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Medical Devices & Diagnostics",
+      "product_category": "Continuous Glucose Monitor",
+      "product_sub_type": "Freestyle Libre System",
+      "buyer_persona": "Individuals with diabetes or healthcare professionals seeking a system for continuous glucose level monitoring and management.",
+      "seo_title": "FREESTYLE LIBRE (NO R Freestyle Libre System | Catalog Listing",
+      "tags": [
+        "FREESTYLE LIBRE (NO R",
+        "Healthcare & Pharma",
+        "Medical Devices & Diagnostics",
+        "Continuous Glucose Monitor",
+        "Freestyle Libre System"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 4671,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/FREESTYLE_LIBRE__NO_R_20251217_130759.jpeg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/FREESTYLE_LIBRE__NO_R_20251217_130759.jpeg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=25016",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "FREESTYLE LIBRE (NO R is a freestyle libre system offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 4,671. Suitable for: Individuals with diabetes or healthcare professionals seeking a system for continuous glucose level monitoring and management. The image displays a rectangular yellow retail box for the 'FreeStyle Libre' Flash Glucose Monitoring System, presented at an angle on a clean white background. The box features a prominent butterfly logo, the product name in blue and orange text, and small graphic icons of a circular sensor and a smartphone-like reader device. The overall presentation is a professional studio shot, highlighting the product packaging.",
+      "specifications": {
+        "category": "Continuous Glucose Monitor",
+        "sub_type": "Freestyle Libre System",
+        "visual_shape": "rectangular",
+        "presentation": "white background studio",
+        "visual_product_type": "retail box for a continuous glucose monitor",
+        "visual_notes": "Yellow box with 'FreeStyle Libre' branding, a butterfly logo, and graphics of a sensor and reader device. Text 'FLASH GLUCOSE MONITORING SYSTEM' and 'READY' are visible."
+      },
+      "alt_text": "Yellow retail box for FreeStyle Libre Flash Glucose Monitoring System, featuring a butterfly logo and images of a sensor and reader.",
+      "used_vision": true,
+      "media_url": "http://www.navdeephealthcare.com/admin/products/FREESTYLE_LIBRE__NO_R_20251217_130759.jpeg"
+    },
+    {
+      "clean_name": "AROSTAT-20 TAB",
+      "fingerprint": "9bcee1e7fb39",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Pharmaceutical",
+      "product_category": "Tablet",
+      "product_sub_type": "Pharmaceutical Tablet",
+      "buyer_persona": "A pharmacist, hospital procurement manager, or individual consumer purchasing medication for a specific therapeutic need.",
+      "seo_title": "AROSTAT-20 TAB Pharmaceutical Tablet | Catalog Listing",
+      "tags": [
+        "AROSTAT-20 TAB",
+        "Healthcare & Pharma",
+        "Pharmaceuticals",
+        "Tablet",
+        "Pharmaceutical Tablet"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 195,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "photo_urls": [
+        "http://www.navdeephealthcare.com/admin/products/product.jpg"
+      ],
+      "source_url": "http://www.navdeephealthcare.com/product_detail.php?product_id=1239",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "AROSTAT-20 TAB is a pharmaceutical tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 195. Suitable for: A pharmacist, hospital procurement manager, or individual consumer purchasing medication for a specific therapeutic need.",
+      "specifications": {
+        "category": "Tablet",
+        "sub_type": "Pharmaceutical Tablet"
+      },
+      "alt_text": "Product — Shri Navdeep Healthcare Pvt Ltd",
+      "used_vision": false,
+      "media_url": "http://www.navdeephealthcare.com/admin/products/product.jpg"
+    }
+  ],
+  "rejected_items": [
+    {
+      "product_name": "PANSPARK AMB TAB",
+      "raw_name": "PANSPARK AMB TAB",
+      "fingerprint": "15865a66d871",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/PANSPARK_AMB_TAB_20251217_114110.jpeg",
+      "price_single": 3280,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Pharmaceutical Tablet\" but image clearly shows \"dietary supplement bottle\"",
+      "product_agent": {
+        "clean_name": "PANSPARK AMB TAB",
+        "category": "Pharmaceutical Tablet",
+        "sub_type": "Branded Pharmaceutical Tablet",
+        "top_level_domain": "Healthcare & Pharma",
+        "industry_segment": "Pharmaceutical",
+        "classification_confidence": 0.95,
+        "description": "PANSPARK AMB TAB is a branded pharmaceutical tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 3,280. Suitable for: A pharmacist, hospital procurement manager, or patient purchasing medication for medical treatment.",
+        "tags": [
+          "PANSPARK AMB TAB",
+          "Healthcare & Pharma",
+          "Pharmaceuticals",
+          "Pharmaceutical Tablet",
+          "Branded Pharmaceutical Tablet"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "dietary supplement bottle",
+        "scene_type": "product_image",
+        "visual_description": "The image features a black cylindrical bottle with a black screw-on cap, containing what appears to be dietary supplements. A white and green label wraps around the bottle, prominently displaying the brand name \"PANSPARK AMB\" in red and green text, along with English and Arabic descriptions. The bottle is positioned on a light brown, possibly wooden, surface.",
+        "confidence": 0.9,
+        "shape_visible": "cylindrical",
+        "color_appearance": "black bottle with white and green label, red and orange text accents",
+        "size_impression": "medium",
+        "setting_or_mounting": "bottle with screw-on cap",
+        "additional_notes": "The label indicates '30 Tablets - Dietary Supplement', 'Power of 18 Ingredients', and benefits like 'Pancreas Health', 'Immunity & Energy', 'Nerve Health', 'Sugar Metabolism'. Arabic text is also visible. A faint 'FEEP' watermark is present across the image."
+      },
+      "rejected_at": "2026-04-29T05:34:46.031Z"
+    },
+    {
+      "product_name": "CENTRIVIVE 200 CAP",
+      "raw_name": "CENTRIVIVE 200 CAP",
+      "fingerprint": "25142ba38cee",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/CENTRIVIVE_200_CAP_20251217_120150.jpeg",
+      "price_single": 2669,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Capsule\" but image clearly shows \"bottle of capsules/supplements\"",
+      "product_agent": {
+        "clean_name": "CENTRIVIVE 200 CAP",
+        "category": "Capsule",
+        "sub_type": "Pharmaceutical Capsule",
+        "top_level_domain": "Healthcare & Pharma",
+        "industry_segment": "Pharmaceutical",
+        "classification_confidence": 0.95,
+        "description": "CENTRIVIVE 200 CAP is a pharmaceutical capsule offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 2,669. Suitable for: A patient or healthcare provider purchasing medication for a specific therapeutic purpose.",
+        "tags": [
+          "CENTRIVIVE 200 CAP",
+          "Healthcare & Pharma",
+          "Pharmaceuticals",
+          "Capsule",
+          "Pharmaceutical Capsule"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "bottle of capsules/supplements",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a white, opaque plastic bottle with a bright red flip-top cap, presented against a clean white background. The bottle features a label with black and red text, including the product name 'Centrivive' and a description of its contents as 'Vegetarian Capsules'. A green vegetarian symbol is visible on the label, and faint watermarks of 'NAVDEEP' and 'truemeds' are present on the bottle and cap.",
+        "confidence": 1,
+        "shape_visible": "cylindrical bottle with a flip-top cap",
+        "color_appearance": "white bottle, red cap, black and red text on label",
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "additional_notes": "vegetarian symbol visible, 'truemeds' logo on cap, 'NAVDEEP' watermark on bottle"
+      },
+      "rejected_at": "2026-04-29T05:34:46.035Z"
+    },
+    {
+      "product_name": "BREINVEL TAB",
+      "raw_name": "BREINVEL TAB",
+      "fingerprint": "1f5551103bbe",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/BREINVEL_TAB_20251218_084402.jpeg",
+      "price_single": 2571,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Tablet\" but image clearly shows \"medicine/supplement box\"",
+      "product_agent": {
+        "clean_name": "BREINVEL TAB",
+        "category": "Tablet",
+        "sub_type": "Branded Pharmaceutical Tablet",
+        "top_level_domain": "Healthcare & Pharma",
+        "industry_segment": "Pharmaceutical",
+        "classification_confidence": 0.95,
+        "description": "BREINVEL TAB is a branded pharmaceutical tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 2,571. Suitable for: A pharmacist, hospital procurement manager, or individual consumer (with prescription) buying medication for health treatment.",
+        "tags": [
+          "BREINVEL TAB",
+          "Healthcare & Pharma",
+          "Pharmaceuticals",
+          "Tablet",
+          "Branded Pharmaceutical Tablet"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "medicine/supplement box",
+        "scene_type": "product_image",
+        "visual_description": "A white rectangular cardboard box for \"Breinvel Tablet\" is displayed against a plain, light background. The box features product details in black, red, and blue text, including \"30 Tablets\" and a description of its contents. A green vegetarian symbol is visible in the top right, and a stylized human-tree logo with red and blue elements adorns the bottom half.",
+        "confidence": 1,
+        "shape_visible": "rectangular box",
+        "color_appearance": "white box with red, blue, and black text/graphics",
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "Watermark 'SHRINAVDEEP' is visible diagonally across the box. The box indicates '30 Tablets' and 'Food for special medical purpose'."
+      },
+      "rejected_at": "2026-04-29T05:34:46.037Z"
+    },
+    {
+      "product_name": "V WASH PLUS (BIG)",
+      "raw_name": "V WASH PLUS (BIG)",
+      "fingerprint": "8f83aaff846b",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "price_single": 410,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Intimate Wash\" but image clearly shows \"flexible packaging pouch\"",
+      "product_agent": {
+        "clean_name": "V WASH PLUS (BIG)",
+        "category": "Intimate Wash",
+        "sub_type": "Feminine Hygiene Wash",
+        "top_level_domain": "Personal Care & Hygiene",
+        "industry_segment": "Feminine Care",
+        "classification_confidence": 0.95,
+        "description": "V WASH PLUS (BIG) is a feminine hygiene wash offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 410. Suitable for: A consumer seeking a specialized hygiene product for feminine intimate care, likely valuing pH balance and specific ingredients.",
+        "tags": [
+          "V WASH PLUS (BIG)",
+          "Personal Care & Hygiene",
+          "Feminine Care",
+          "Intimate Wash",
+          "Feminine Hygiene Wash"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "flexible packaging pouch",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a generic, unbranded white flexible packaging pouch with a rectangular shape. The pouch appears to be made of a slightly glossy plastic material, showing subtle wrinkles and reflections, and features sealed edges at the top and bottom with horizontal line details. It is presented against a plain white background, suggesting a studio shot.",
+        "confidence": 1,
+        "shape_visible": "rectangular pouch",
+        "color_appearance": "white/translucent",
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "Generic, unbranded packaging mockup."
+      },
+      "rejected_at": "2026-04-29T05:34:46.039Z"
+    },
+    {
+      "product_name": "V WASH PLUS (MEDIUM)",
+      "raw_name": "V WASH PLUS (MEDIUM)",
+      "fingerprint": "051f4f424737",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "price_single": 200,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Feminine Hygiene Wash\" but image clearly shows \"generic flexible packaging pouch\"",
+      "product_agent": {
+        "clean_name": "V WASH PLUS (MEDIUM)",
+        "category": "Feminine Hygiene Wash",
+        "sub_type": "V Wash Plus Feminine Hygiene Wash",
+        "top_level_domain": "Healthcare & Pharma",
+        "industry_segment": "Personal Care & Hygiene",
+        "classification_confidence": 0.95,
+        "description": "V WASH PLUS (MEDIUM) is a v wash plus feminine hygiene wash offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 200. Suitable for: A consumer seeking a specific brand or type of feminine hygiene product for personal care.",
+        "tags": [
+          "V WASH PLUS (MEDIUM)",
+          "Healthcare & Pharma",
+          "Personal Care & Hygiene",
+          "Feminine Hygiene Wash",
+          "V Wash Plus Feminine Hygiene Wash"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "generic flexible packaging pouch",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a generic, unbranded, flexible packaging pouch with a rectangular shape. The pouch is predominantly white with a translucent quality, showing subtle shading and folds that suggest a soft, pliable material. It is presented as a clean, isolated object against a pure white background, likely a digital render.",
+        "confidence": 1,
+        "shape_visible": "rectangular",
+        "color_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "Generic, unbranded, flexible packaging pouch. Appears to be a digital render or illustration. No text, logos, or specific product details are visible."
+      },
+      "rejected_at": "2026-04-29T05:34:46.040Z"
+    },
+    {
+      "product_name": "V WASH PLUS (SMALL)",
+      "raw_name": "V WASH PLUS (SMALL)",
+      "fingerprint": "711db60a4c94",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "price_single": 50,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Feminine Hygiene Wash\" but image clearly shows \"generic flexible packaging pouch\"",
+      "product_agent": {
+        "clean_name": "V WASH PLUS (SMALL)",
+        "category": "Feminine Hygiene Wash",
+        "sub_type": "Vaginal Wash",
+        "top_level_domain": "Healthcare & Pharma",
+        "industry_segment": "Personal Care & Hygiene",
+        "classification_confidence": 0.95,
+        "description": "V WASH PLUS (SMALL) is a vaginal wash offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 50. Suitable for: A consumer seeking a personal hygiene product for feminine intimate care.",
+        "tags": [
+          "V WASH PLUS (SMALL)",
+          "Healthcare & Pharma",
+          "Personal Care & Hygiene",
+          "Feminine Hygiene Wash",
+          "Vaginal Wash"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "generic flexible packaging pouch",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a generic, rectangular, white or silver foil pouch with sealed top and bottom edges. The pouch has a slightly reflective, crinkled surface, suggesting a flexible packaging material. It is presented against a plain white background with a subtle shadow beneath it.",
+        "confidence": 0.9,
+        "shape_visible": "rectangular",
+        "color_appearance": "white / silver",
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "additional_notes": "blank packaging, no branding or text visible"
+      },
+      "rejected_at": "2026-04-29T05:34:46.041Z"
+    },
+    {
+      "product_name": "AROSTAT-10 TAB",
+      "raw_name": "AROSTAT-10 TAB",
+      "fingerprint": "2baa59ed8985",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "price_single": 133,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Tablet\" but image clearly shows \"flexible packaging pouch\"",
+      "product_agent": {
+        "clean_name": "AROSTAT-10 TAB",
+        "category": "Tablet",
+        "sub_type": "Branded Pharmaceutical Tablet",
+        "top_level_domain": "Healthcare & Pharma",
+        "industry_segment": "Pharmaceutical",
+        "classification_confidence": 0.95,
+        "description": "AROSTAT-10 TAB is a branded pharmaceutical tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 133. Suitable for: A pharmacist, hospital procurement manager, or individual consumer purchasing medication for a specific therapeutic need.",
+        "tags": [
+          "AROSTAT-10 TAB",
+          "Healthcare & Pharma",
+          "Pharmaceuticals",
+          "Tablet",
+          "Branded Pharmaceutical Tablet"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "flexible packaging pouch",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a generic, blank white flexible packaging pouch, sealed at the top and bottom with horizontal lines. The pouch has subtle wrinkles and a slight shadow beneath it, suggesting a three-dimensional object on a flat surface. The background is plain white.",
+        "confidence": 1,
+        "shape_visible": "rectangular",
+        "color_appearance": "white / translucent",
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "generic blank mockup, sealed top and bottom"
+      },
+      "rejected_at": "2026-04-29T05:34:46.043Z"
+    },
+    {
+      "product_name": "AROSTAT-20 GOLD",
+      "raw_name": "AROSTAT-20 GOLD",
+      "fingerprint": "a27adc054ddf",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "price_single": 262,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Pharmaceutical Drug\" but image clearly shows \"generic sealed pouch\"",
+      "product_agent": {
+        "clean_name": "AROSTAT-20 GOLD",
+        "category": "Pharmaceutical Drug",
+        "sub_type": "Branded Pharmaceutical Drug",
+        "top_level_domain": "Healthcare & Pharma",
+        "industry_segment": "Pharmaceutical",
+        "classification_confidence": 0.95,
+        "description": "AROSTAT-20 GOLD is a branded pharmaceutical drug offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Key specifications include Metal: GOLD. Priced at Rs. 262. Suitable for: A pharmacist, hospital procurement manager, or medical professional purchasing medication for dispensing or patient care.",
+        "tags": [
+          "AROSTAT-20 GOLD",
+          "Healthcare & Pharma",
+          "Pharmaceuticals",
+          "Pharmaceutical Drug",
+          "Branded Pharmaceutical Drug",
+          "GOLD"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "generic sealed pouch",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a generic, unbranded white or translucent rectangular pouch, sealed at the top and bottom with horizontal crimps. The pouch has soft folds and creases, suggesting a flexible material, and is presented against a plain white background with a subtle shadow beneath it.",
+        "confidence": 1,
+        "shape_visible": "rectangular",
+        "color_appearance": "white / translucent",
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "blank, unbranded packaging; no product contents visible"
+      },
+      "rejected_at": "2026-04-29T05:34:46.044Z"
+    },
+    {
+      "product_name": "AROSTAT-40",
+      "raw_name": "AROSTAT-40",
+      "fingerprint": "39ab4ba86e8f",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "price_single": 374,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Pharmaceutical Drug\" but image clearly shows \"sealed pouch / packaging\"",
+      "product_agent": {
+        "clean_name": "AROSTAT-40",
+        "category": "Pharmaceutical Drug",
+        "sub_type": "Branded Pharmaceutical Drug",
+        "top_level_domain": "Healthcare & Pharma",
+        "industry_segment": "Pharmaceutical",
+        "classification_confidence": 0.95,
+        "description": "AROSTAT-40 is a branded pharmaceutical drug offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 374. Suitable for: A healthcare professional or patient purchasing a specific medication for treatment.",
+        "tags": [
+          "AROSTAT-40",
+          "Healthcare & Pharma",
+          "Pharmaceuticals",
+          "Pharmaceutical Drug",
+          "Branded Pharmaceutical Drug"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "sealed pouch / packaging",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a blank, white, rectangular, sealed pouch, likely made of flexible plastic or foil material. It features horizontal crimped seals at the top and bottom edges, with subtle wrinkles and highlights suggesting its texture. The pouch is presented against a plain white background, casting a soft shadow beneath it.",
+        "confidence": 1,
+        "shape_visible": "rectangular",
+        "color_appearance": "white / translucent",
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "No branding, text, or contents are visible on the pouch. It appears to be a generic packaging template."
+      },
+      "rejected_at": "2026-04-29T05:34:46.045Z"
+    },
+    {
+      "product_name": "AROSTAT-ASP-10/75",
+      "raw_name": "AROSTAT-ASP-10/75",
+      "fingerprint": "e4df051da51d",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "price_single": 78,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Combination Drug\" but image clearly shows \"generic flexible packaging pouch\"",
+      "product_agent": {
+        "clean_name": "AROSTAT-ASP-10/75",
+        "category": "Combination Drug",
+        "sub_type": "Statin And Aspirin Combination Tablet",
+        "top_level_domain": "Healthcare & Pharma",
+        "industry_segment": "Pharmaceutical Drug",
+        "classification_confidence": 0.9,
+        "description": "AROSTAT-ASP-10/75 is a statin and aspirin combination tablet offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 78. Suitable for: A pharmacist, hospital procurement manager, or medical professional purchasing medication for patient treatment.",
+        "tags": [
+          "AROSTAT-ASP-10/75",
+          "Healthcare & Pharma",
+          "Pharmaceutical Drugs",
+          "Combination Drug",
+          "Statin And Aspirin Combination Tablet"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "generic flexible packaging pouch",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a generic, blank, rectangular flexible packaging pouch with a slightly crinkled texture, presented vertically. The pouch is opaque white or light silver in color, with sealed, ridged edges at the top and bottom. It is centrally placed against a plain white background, casting a subtle shadow to its left and bottom.",
+        "confidence": 1,
+        "shape_visible": "rectangular",
+        "color_appearance": "white / light silver",
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "Blank packaging, no branding, text, or specific product contents are visible."
+      },
+      "rejected_at": "2026-04-29T05:34:46.057Z"
+    },
+    {
+      "product_name": "AROSTAT-ASP-20/75",
+      "raw_name": "AROSTAT-ASP-20/75",
+      "fingerprint": "bd2f440960db",
+      "primary_photo_url": "http://www.navdeephealthcare.com/admin/products/product.jpg",
+      "price_single": 112,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Medication\" but image clearly shows \"generic packaging pouch\"",
+      "product_agent": {
+        "clean_name": "AROSTAT-ASP-20/75",
+        "category": "Medication",
+        "sub_type": "Branded Pharmaceutical Drug",
+        "top_level_domain": "Pharmaceuticals & Healthcare",
+        "industry_segment": "Pharmaceutical Product",
+        "classification_confidence": 0.95,
+        "description": "AROSTAT-ASP-20/75 is a branded pharmaceutical drug offered by Shri Navdeep Healthcare Pvt Ltd based in Mumbai. Priced at Rs. 112. Suitable for: A pharmacist, hospital procurement manager, or individual consumer purchasing a specific branded medication for treatment.",
+        "tags": [
+          "AROSTAT-ASP-20/75",
+          "Pharmaceuticals & Healthcare",
+          "Pharmaceutical Products",
+          "Medication",
+          "Branded Pharmaceutical Drug"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "generic packaging pouch",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a generic, unbranded white rectangular pouch with sealed edges at the top and bottom. The flexible packaging shows subtle wrinkles and shading, suggesting a soft material. It is presented against a plain white background.",
+        "confidence": 1,
+        "shape_visible": "rectangular",
+        "color_appearance": "white/translucent",
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "unbranded packaging mockup"
+      },
+      "rejected_at": "2026-04-29T05:34:46.058Z"
+    }
+  ],
+  "reviews": [],
+  "reviews_summary": {
+    "total_rating": null,
+    "no_of_ratings": 0,
+    "rating_comments": []
+  },
+  "social_urls": [
+    "https://www.facebook.com/navdeephealthcare/",
+    "https://www.linkedin.com/company/shri-navdeep-healthcare-pvt-ltd---india/?originalSubdomain=in"
+  ],
+  "overall_confidence": 0.946,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/navdeephealthcare/",
+      "profile_pic_url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/299195214_502648385194421_815072274515349732_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=f907e8&_nc_ohc=-d5oG8KqGTQQ7kNvwG3OFQp&_nc_oc=Ado1Gq9x3J6abcAmCAE7n38a9iTMwbzJ_FBuSXPmF0Wzh3kLZlbcsg3p1ajYfiA2MVs&_nc_zt=24&_nc_ht=scontent-hou1-1.xx&_nc_gid=I-fn3Q9SfR_Tp77hU1DAag&_nc_ss=72289&oh=00_Af0ujMdJewujjpqwt2fPxD7C187rWxO5VSFRgqGWa1aaUQ&oe=69F768FD",
+      "banner_url": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/480979893_1212290517563534_2465190624829462774_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2a1932&_nc_ohc=e7vqTe_mwGMQ7kNvwFr4kAF&_nc_oc=AdpKq6CMPmC1oStnthmfkMUk4oBAB-QTU8f8JEdz4FHvGEcwRQrOPPO7KfwfQrutESk&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=I-fn3Q9SfR_Tp77hU1DAag&_nc_ss=72289&oh=00_Af1re3Eg4WtKcKePagOQcPn1xbWs2ppMV0Rx4XcNasyrow&oe=69F7572D",
+      "bio": "DISTRIBUTORS OF MEDICINES",
+      "followers_count": 630,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/navdeephealthcare/posts/pfbid0293sE5oAAycs2nDzd2Vzys3RhK4AcNPnykhiMJMN6beo9riGw6nGF1NugKK2tVAwgl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1510380514421198&set=a.502648355194424",
+          "caption": "HAPPY REPUBLIC DAY 🎊🎊",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1769399637
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/navdeephealthcare/posts/pfbid0j73MXEZ94fUyBLyvMT9gLx8w35U6T4HJUJfQQ6rYtPm9xHESq7zbmzYjKuJKi72kl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1125618626230724&set=a.502648355194424",
+          "caption": "SAAL MUBARAK!!!!",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1730485846
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/navdeephealthcare/posts/pfbid05eXPPZcV1MUCkPVkic9M6evi3eoVzDi3UfDz2pPHa8vLSwy3nfBTk7G7pfaVrfZXl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1056980766427844&set=a.502648355194424",
+          "caption": "SHASVAT A2 GIR COW GHEE AVAILABLE \n\nFREE HOME DELIVERY. \n\nFREE 1GM SILVER COIN 🪙🪙 FREE. \n\nORDER ON 077100 08820 \n #discountshopping #A2 GHEE #healthyfood #healthylifestyle #healthiswealth #discounts .",
+          "likes": 4,
+          "comments": null,
+          "views": null,
+          "posted_at": 1723312103
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": "+91 22 4311 9315",
+        "email": "vineet@navdeephealthcare.com",
+        "website": "http://www.navdeephealthcare.com/",
+        "address": "99/101 Keshavji naik rd.  2/3 c.v.o.d. jain mahajan bldg., Mumbai, India, 400009",
+        "city": null
+      }
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/shri-navdeep-healthcare-pvt-ltd---india/?originalSubdomain=in",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-04-29T05:32:04.517Z",
+    "duration_seconds": 162,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 18,
+      "Agent04/Media": 7,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [
+          "reviews"
+        ],
+        "quality_target": 0.75,
+        "reasoning": "Company profile needs enrichment, and there are many products to process. Reviews agent will be skipped as no reviews API URL is provided."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": 0.95,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 18,
+      "enriched": 18,
+      "catalog_items": 7,
+      "rejected": 11,
+      "with_vision": 5,
+      "vision_skipped": 2
+    },
+    "social": {
+      "urls_detected": 2,
+      "platforms_scraped": [
+        "facebook",
+        "linkedin"
+      ],
+      "posts_collected": 3,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.946
+  },
+  "_saved_at": "2026-04-29T05:34:46.071Z"
+}
