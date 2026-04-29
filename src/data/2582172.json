@@ -1,0 +1,3312 @@
+{
+  "seller_id": 2582172,
+  "company_profile": {
+    "name": {
+      "value": "OSR Jewellers",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "OSR Jewellers is an exquisite online destination for fine jewelry, offering a diverse collection that blends traditional elegance with contemporary design. From stunning diamond and pure silver necklace sets to intricately crafted gold-plated and Kundan earrings, they provide a wide array of adornments for every occasion. Based out of Delhi, OSR Jewellers is dedicated to delivering quality craftsmanship and beautiful pieces to enhance personal style.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "C-115 LAJPAT NAGAR -1 ,OPP. DEFENCE COLONY FLYOVER,, Delhi, India, 110024",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://www.osrjewellers.com",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Online Jewelry Retailer",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://cdn.shopify.com/extensions/019c89a4-30a6-7578-a451-8aea1afd5fc7/gropulse-google-reviews-16/assets/google_g_logo.svg",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "http://osrjewellers.com/cdn/shop/files/ChatGPTImageMar21_2026_06_35_24PM.png?v=1774099011",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/OsrJewellers",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "http://instagram.com/osrjewellers",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "7838119986",
+        "sources": [
+          "website",
+          "facebook",
+          "instagram"
+        ],
+        "date": 1777438317,
+        "post_url": "https://www.facebook.com/reel/2050193565871370/"
+      },
+      {
+        "value": "9871088896",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "7838119986",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "1146569044",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "+91 78381 19986",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "info@osrjewellers.com",
+        "sources": [
+          "website",
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/OsrJewellers",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "http://instagram.com/osrjewellers",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "followers_facebook": 620145,
+    "followers_instagram": 319131,
+    "confidence": 0.65,
+    "sources": [
+      "website",
+      "facebook",
+      "instagram"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 620145
+      },
+      {
+        "platform": "instagram",
+        "followers": 319131
+      }
+    ],
+    "data_sources": [
+      "instagram",
+      "website"
+    ]
+  },
+  "products": [
+    {
+      "raw_name": "Yellow Opal Diamond Classic Necklace Set",
+      "clean_name": "Yellow Opal Diamond Classic Necklace Set",
+      "fingerprint": "272c49207c15",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Opal Diamond Necklace Set",
+      "buyer_persona": "A consumer looking for a complete jewelry set, likely for a special occasion or as a gift, valuing gemstone type, metal, and design.",
+      "description": "Yellow Opal Diamond Classic Necklace Set is a opal diamond necklace set offered by OSR Jewellers. Key specifications include Metal: Diamond. Priced at Rs. 11,499. Suitable for: A consumer looking for a complete jewelry set, likely for a special occasion or as a gift, valuing gemstone type, metal, and design.",
+      "seo_title": "Yellow Opal Diamond Classic Necklace Set Opal Diamond Necklace Set | C",
+      "tags": [
+        "Yellow Opal Diamond Classic Necklace Set",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Necklace Set",
+        "Opal Diamond Necklace Set",
+        "Diamond"
+      ],
+      "alt_text": "Yellow Opal Diamond Classic Necklace Set from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Diamond",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/Screenshot_2026-01-06_130011.png?v=1767684646&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-with-diamond-necklace-set-copy"
+      },
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Opal Diamond Necklace Set",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/Screenshot_2026-01-06_130011.png?v=1767684646&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-with-diamond-necklace-set-copy",
+        "price_single": 11499,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 11499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/Screenshot_2026-01-06_130011.png?v=1767684646&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/Screenshot_2026-01-06_130011.png?v=1767684646&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-with-diamond-necklace-set-copy",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Yellow Diamond Silver Plated Necklace Set",
+      "clean_name": "Yellow Diamond Silver Plated Necklace Set",
+      "fingerprint": "240efca1cb22",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Silver Plated Diamond Necklace Set",
+      "buyer_persona": "A consumer looking for a jewelry set, likely for personal adornment or as a gift, valuing the design, material, and gemstone type.",
+      "description": "Yellow Diamond Silver Plated Necklace Set is a silver plated diamond necklace set offered by OSR Jewellers. Key specifications include Metal: Diamond. Priced at Rs. 4,999. Suitable for: A consumer looking for a jewelry set, likely for personal adornment or as a gift, valuing the design, material, and gemstone type.",
+      "seo_title": "Yellow Diamond Silver Plated Necklace Set Silver Plated Diamond Neckla",
+      "tags": [
+        "Yellow Diamond Silver Plated Necklace Set",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Necklace Set",
+        "Silver Plated Diamond Necklace Set",
+        "Diamond"
+      ],
+      "alt_text": "Yellow Diamond Silver Plated Necklace Set from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Diamond",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-07at12.01.28PM_2.jpg?v=1765105073&width=533",
+        "source_url": "https://www.osrjewellers.com/products/yellow-diamond-silver-plated-necklace-set"
+      },
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Silver Plated Diamond Necklace Set",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-07at12.01.28PM_2.jpg?v=1765105073&width=533",
+        "source_url": "https://www.osrjewellers.com/products/yellow-diamond-silver-plated-necklace-set",
+        "price_single": 4999,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Diamond"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 4999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-07at12.01.28PM_2.jpg?v=1765105073&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-07at12.01.28PM_2.jpg?v=1765105073&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/yellow-diamond-silver-plated-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "White Ruby & Green Jadau Chand Bali",
+      "clean_name": "White Ruby & Green Jadau Chand Bali",
+      "fingerprint": "92b0cfdfa225",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Chand Bali Earring",
+      "buyer_persona": "A consumer looking for traditional Indian earrings, specifically Chand Bali style, featuring ruby and jadau work for festive or special occasions.",
+      "description": "White Ruby & Green Jadau Chand Bali is a chand bali earring offered by OSR Jewellers. Priced at Rs. 5,499. Suitable for: A consumer looking for traditional Indian earrings, specifically Chand Bali style, featuring ruby and jadau work for festive or special occasions.",
+      "seo_title": "White Ruby & Green Jadau Chand Bali Chand Bali Earring | Catalog Listi",
+      "tags": [
+        "White Ruby & Green Jadau Chand Bali",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Earring",
+        "Chand Bali Earring"
+      ],
+      "alt_text": "White Ruby & Green Jadau Chand Bali from OSR Jewellers",
+      "domain_attributes": {
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-01-30at14.11.49_2.jpg?v=1769921180&width=533",
+        "source_url": "https://www.osrjewellers.com/products/white-ruby-green-jadau-chand-bali"
+      },
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Chand Bali Earring",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-01-30at14.11.49_2.jpg?v=1769921180&width=533",
+        "source_url": "https://www.osrjewellers.com/products/white-ruby-green-jadau-chand-bali",
+        "price_single": 5499,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 5499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-01-30at14.11.49_2.jpg?v=1769921180&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-01-30at14.11.49_2.jpg?v=1769921180&width=533",
+        "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/682002559_961753112892076_7138861935613592310_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=MioZSg3kADoQ7kNvwHzPV-A&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Up-cRouQz0oxz7wbC5oDc2n-jb_bSWSWpKaiv3zNvRQ&oe=69F766E2&_nc_sid=8b3546"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/white-ruby-green-jadau-chand-bali",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website",
+        "instagram"
+      ],
+      "social_sources": [
+        {
+          "platform": "instagram",
+          "post_url": "https://www.instagram.com/p/DXqy4sejhkS/",
+          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/682002559_961753112892076_7138861935613592310_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=MioZSg3kADoQ7kNvwHzPV-A&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Up-cRouQz0oxz7wbC5oDc2n-jb_bSWSWpKaiv3zNvRQ&oe=69F766E2&_nc_sid=8b3546",
+          "caption": "JADAU Navratan chandbali",
+          "posted_at": "2026-04-28T08:31:32.000Z",
+          "likes": 46,
+          "views": 934
+        }
+      ],
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/DXqy4sejhkS/"
+        }
+      ]
+    },
+    {
+      "raw_name": "Gold plated latest Design Earring",
+      "clean_name": "Gold plated latest Design Earring",
+      "fingerprint": "6fe7f3bf570d",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Gold Plated Earring",
+      "buyer_persona": "A consumer looking for fashion accessories, specifically earrings, for personal wear or as a gift.",
+      "description": "Gold plated latest Design Earring is a gold plated earring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,199. Suitable for: A consumer looking for fashion accessories, specifically earrings, for personal wear or as a gift.",
+      "seo_title": "Gold plated latest Design Earring Gold Plated Earring | Catalog Listin",
+      "tags": [
+        "Gold plated latest Design Earring",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Earring",
+        "Gold Plated Earring",
+        "Gold"
+      ],
+      "alt_text": "Gold plated latest Design Earring from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Gold",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-21at12.22.06PM_1.jpg?v=1774167686&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-latest-design-earring"
+      },
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Gold Plated Earring",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-21at12.22.06PM_1.jpg?v=1774167686&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-latest-design-earring",
+        "price_single": 2199,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2199,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-21at12.22.06PM_1.jpg?v=1774167686&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-21at12.22.06PM_1.jpg?v=1774167686&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-latest-design-earring",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Gold Plated Kundan Ruby Earring",
+      "clean_name": "Gold Plated Kundan Ruby Earring",
+      "fingerprint": "4280729d7816",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Gold Plated Kundan Ruby Earring",
+      "buyer_persona": "A consumer looking for fashion accessories, specifically earrings, for personal use or as a gift, likely for a special occasion given the 'Kundan Ruby' description.",
+      "description": "Gold Plated Kundan Ruby Earring is a gold plated kundan ruby earring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 3,999. Suitable for: A consumer looking for fashion accessories, specifically earrings, for personal use or as a gift, likely for a special occasion given the 'Kundan Ruby' description.",
+      "seo_title": "Gold Plated Kundan Ruby Earring Gold Plated Kundan Ruby Earring | Cata",
+      "tags": [
+        "Gold Plated Kundan Ruby Earring",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Earring",
+        "Gold"
+      ],
+      "alt_text": "Gold Plated Kundan Ruby Earring from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Gold",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.53PM.jpg?v=1773750825&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-kundan-ruby-earring"
+      },
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Gold Plated Kundan Ruby Earring",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.53PM.jpg?v=1773750825&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-kundan-ruby-earring",
+        "price_single": 3999,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 3999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.53PM.jpg?v=1773750825&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.53PM.jpg?v=1773750825&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-kundan-ruby-earring",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Moissanite Half Bali",
+      "clean_name": "Moissanite Half Bali",
+      "fingerprint": "d29c6624c98e",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Moissanite Half Bali Earring",
+      "buyer_persona": "A consumer looking for fashionable earrings, specifically a unique style like Half Bali, with the brilliance of Moissanite as an alternative to diamond.",
+      "description": "Moissanite Half Bali is a moissanite half bali earring offered by OSR Jewellers. Priced at Rs. 2,499. Suitable for: A consumer looking for fashionable earrings, specifically a unique style like Half Bali, with the brilliance of Moissanite as an alternative to diamond.",
+      "seo_title": "Moissanite Half Bali Moissanite Half Bali Earring | Catalog Listing",
+      "tags": [
+        "Moissanite Half Bali",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Earring",
+        "Moissanite Half Bali Earring"
+      ],
+      "alt_text": "Moissanite Half Bali from OSR Jewellers",
+      "domain_attributes": {
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.52PM_2.jpg?v=1773750756&width=533",
+        "source_url": "https://www.osrjewellers.com/products/moissanite-half-bali"
+      },
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Moissanite Half Bali Earring",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.52PM_2.jpg?v=1773750756&width=533",
+        "source_url": "https://www.osrjewellers.com/products/moissanite-half-bali",
+        "price_single": 2499,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.52PM_2.jpg?v=1773750756&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.52PM_2.jpg?v=1773750756&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/moissanite-half-bali",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Gold Plated Polki Stud",
+      "clean_name": "Gold Plated Polki Stud",
+      "fingerprint": "ab18646417e0",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Polki Stud Earring",
+      "buyer_persona": "A consumer looking for fashionable earrings, specifically with a traditional Polki design and gold plating, for personal wear or gifting.",
+      "description": "Gold Plated Polki Stud is a polki stud earring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for fashionable earrings, specifically with a traditional Polki design and gold plating, for personal wear or gifting.",
+      "seo_title": "Gold Plated Polki Stud Polki Stud Earring | Catalog Listing",
+      "tags": [
+        "Gold Plated Polki Stud",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Earring",
+        "Polki Stud Earring",
+        "Gold"
+      ],
+      "alt_text": "Gold Plated Polki Stud from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Gold",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsApp_Image_2026-03-12_at_2.24.52_PM_1.jpg?v=1773750645&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-polki-stud-1"
+      },
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Polki Stud Earring",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsApp_Image_2026-03-12_at_2.24.52_PM_1.jpg?v=1773750645&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-polki-stud-1",
+        "price_single": 2499,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsApp_Image_2026-03-12_at_2.24.52_PM_1.jpg?v=1773750645&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsApp_Image_2026-03-12_at_2.24.52_PM_1.jpg?v=1773750645&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-polki-stud-1",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Emerald Jadau Necklace Set",
+      "clean_name": "Emerald Jadau Necklace Set",
+      "fingerprint": "94fce1394bdc",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Emerald Jadau Necklace Set",
+      "buyer_persona": "A consumer looking for traditional or ethnic jewelry for special occasions, weddings, or gifting.",
+      "description": "Emerald Jadau Necklace Set is a emerald jadau necklace set offered by OSR Jewellers. Key specifications include Cut: Emerald. Priced at Rs. 8,999. Suitable for: A consumer looking for traditional or ethnic jewelry for special occasions, weddings, or gifting.",
+      "seo_title": "Emerald Jadau Necklace Set Emerald Jadau Necklace Set | Catalog Listin",
+      "tags": [
+        "Emerald Jadau Necklace Set",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Necklace Set",
+        "Emerald"
+      ],
+      "alt_text": "Emerald Jadau Necklace Set from OSR Jewellers",
+      "domain_attributes": {
+        "cut": "Emerald",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/ChatGPTImageMar21_2026_06_35_24PM.png?v=1774099011&width=533",
+        "source_url": "https://www.osrjewellers.com/products/emerald-jadau-necklace-set"
+      },
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Emerald Jadau Necklace Set",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/ChatGPTImageMar21_2026_06_35_24PM.png?v=1774099011&width=533",
+        "source_url": "https://www.osrjewellers.com/products/emerald-jadau-necklace-set",
+        "price_single": 8999,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "cut": "Emerald"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 8999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/ChatGPTImageMar21_2026_06_35_24PM.png?v=1774099011&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/ChatGPTImageMar21_2026_06_35_24PM.png?v=1774099011&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/emerald-jadau-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Multi Color Jadau Necklace Set",
+      "clean_name": "Multi Color Jadau Necklace Set",
+      "fingerprint": "8acb105e5408",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Jadau Necklace Set",
+      "buyer_persona": "A consumer looking for traditional or ethnic jewellery, specifically a necklace set with a Jadau design, likely for special occasions or gifting.",
+      "description": "Multi Color Jadau Necklace Set is a jadau necklace set offered by OSR Jewellers. Priced at Rs. 8,999. Suitable for: A consumer looking for traditional or ethnic jewellery, specifically a necklace set with a Jadau design, likely for special occasions or gifting.",
+      "seo_title": "Multi Color Jadau Necklace Set Jadau Necklace Set | Catalog Listing",
+      "tags": [
+        "Multi Color Jadau Necklace Set",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Necklace Set",
+        "Jadau Necklace Set"
+      ],
+      "alt_text": "Multi Color Jadau Necklace Set from OSR Jewellers",
+      "domain_attributes": {
+        "image_url": "https://osrjewellers.com/cdn/shop/files/osr_3.png?v=1774013127&width=533",
+        "source_url": "https://www.osrjewellers.com/products/multi-color-jadau-necklace-set"
+      },
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Jadau Necklace Set",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/osr_3.png?v=1774013127&width=533",
+        "source_url": "https://www.osrjewellers.com/products/multi-color-jadau-necklace-set",
+        "price_single": 8999,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 8999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/osr_3.png?v=1774013127&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/osr_3.png?v=1774013127&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/multi-color-jadau-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Peach Stone Antique Gold Plated Necklace Set",
+      "clean_name": "Peach Stone Antique Gold Plated Necklace Set",
+      "fingerprint": "4b1a952518f8",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Stone Embellished Necklace Set",
+      "buyer_persona": "A consumer looking for fashion jewellery, specifically a necklace set, for personal adornment or gifting, often for special occasions.",
+      "description": "Peach Stone Antique Gold Plated Necklace Set is a stone embellished necklace set offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 12,499. Suitable for: A consumer looking for fashion jewellery, specifically a necklace set, for personal adornment or gifting, often for special occasions.",
+      "seo_title": "Peach Stone Antique Gold Plated Necklace Set Stone Embellished Necklac",
+      "tags": [
+        "Peach Stone Antique Gold Plated Necklace Set",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Necklace Set",
+        "Stone Embellished Necklace Set",
+        "Gold"
+      ],
+      "alt_text": "Peach Stone Antique Gold Plated Necklace Set from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Gold",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/osr.png?v=1774012591&width=533",
+        "source_url": "https://www.osrjewellers.com/products/peach-stone-antique-gold-plated-necklace-set"
+      },
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Stone Embellished Necklace Set",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/osr.png?v=1774012591&width=533",
+        "source_url": "https://www.osrjewellers.com/products/peach-stone-antique-gold-plated-necklace-set",
+        "price_single": 12499,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 12499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/osr.png?v=1774012591&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/osr.png?v=1774012591&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/peach-stone-antique-gold-plated-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Multi color Antique Gold Plated Necklace Set",
+      "clean_name": "Multi color Antique Gold Plated Necklace Set",
+      "fingerprint": "290473c04aa3",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Gold Plated Necklace Set",
+      "buyer_persona": "A consumer looking for fashion jewelry, specifically a necklace set with an antique, gold-plated, multi-color design for personal wear or gifting.",
+      "description": "Multi color Antique Gold Plated Necklace Set is a gold plated necklace set offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 12,499. Suitable for: A consumer looking for fashion jewelry, specifically a necklace set with an antique, gold-plated, multi-color design for personal wear or gifting.",
+      "seo_title": "Multi color Antique Gold Plated Necklace Set Gold Plated Necklace Set ",
+      "tags": [
+        "Multi color Antique Gold Plated Necklace Set",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Necklace Set",
+        "Gold Plated Necklace Set",
+        "Gold"
+      ],
+      "alt_text": "Multi color Antique Gold Plated Necklace Set from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Gold",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/osr_2.png?v=1774012322&width=533",
+        "source_url": "https://www.osrjewellers.com/products/multi-color-antique-gold-plated-necklace-set"
+      },
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Gold Plated Necklace Set",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/osr_2.png?v=1774012322&width=533",
+        "source_url": "https://www.osrjewellers.com/products/multi-color-antique-gold-plated-necklace-set",
+        "price_single": 12499,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 12499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/osr_2.png?v=1774012322&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/osr_2.png?v=1774012322&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/multi-color-antique-gold-plated-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Ring & Earring Organize Box",
+      "clean_name": "Ring & Earring Organize Box",
+      "fingerprint": "df074f88915b",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home Organization & Storage",
+      "product_category": "Jewelry Organizer",
+      "product_sub_type": "Ring And Earring Organizer",
+      "buyer_persona": "A consumer looking for a storage solution to organize and protect their rings and earrings.",
+      "description": "Ring & Earring Organize Box is a ring and earring organizer offered by OSR Jewellers. Priced at Rs. 999. Suitable for: A consumer looking for a storage solution to organize and protect their rings and earrings.",
+      "seo_title": "Ring & Earring Organize Box Ring And Earring Organizer | Catalog Listi",
+      "tags": [
+        "Ring & Earring Organize Box",
+        "Consumer Goods",
+        "Home Organization & Storage",
+        "Jewelry Organizer",
+        "Ring And Earring Organizer"
+      ],
+      "alt_text": "Ring & Earring Organize Box from OSR Jewellers",
+      "domain_attributes": {
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2023-11-07at12.14.45PM.jpg?v=1699422856&width=533",
+        "source_url": "https://www.osrjewellers.com/products/ring-earring-organize-box"
+      },
+      "specifications": {
+        "category": "Jewelry Organizer",
+        "sub_type": "Ring And Earring Organizer",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2023-11-07at12.14.45PM.jpg?v=1699422856&width=533",
+        "source_url": "https://www.osrjewellers.com/products/ring-earring-organize-box",
+        "price_single": 999,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2023-11-07at12.14.45PM.jpg?v=1699422856&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2023-11-07at12.14.45PM.jpg?v=1699422856&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/ring-earring-organize-box",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Gold Plated Pearl Ring",
+      "clean_name": "Gold Plated Pearl Ring",
+      "fingerprint": "ad46b5115e69",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Ring",
+      "product_sub_type": "Gold Plated Pearl Ring",
+      "buyer_persona": "A consumer looking for a fashionable ring, possibly for a gift or personal accessory, valuing design and material.",
+      "description": "Gold Plated Pearl Ring is a gold plated pearl ring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for a fashionable ring, possibly for a gift or personal accessory, valuing design and material.",
+      "seo_title": "Gold Plated Pearl Ring Gold Plated Pearl Ring | Catalog Listing",
+      "tags": [
+        "Gold Plated Pearl Ring",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Ring",
+        "Gold"
+      ],
+      "alt_text": "Gold Plated Pearl Ring from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Gold",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/Gemini_Generated_Image_ee3dx7ee3dx7ee3d.png?v=1770708323&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-pearl-ring-1"
+      },
+      "specifications": {
+        "category": "Ring",
+        "sub_type": "Gold Plated Pearl Ring",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/Gemini_Generated_Image_ee3dx7ee3dx7ee3d.png?v=1770708323&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-pearl-ring-1",
+        "price_single": 2499,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/Gemini_Generated_Image_ee3dx7ee3dx7ee3d.png?v=1770708323&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/Gemini_Generated_Image_ee3dx7ee3dx7ee3d.png?v=1770708323&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-pearl-ring-1",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Ruby Gold Plated Diamond Ring",
+      "clean_name": "Ruby Gold Plated Diamond Ring",
+      "fingerprint": "b016a072f377",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Ring",
+      "product_sub_type": "Ruby Diamond Gold Plated Ring",
+      "buyer_persona": "A consumer looking for a decorative ring, possibly for a gift or personal adornment, valuing the combination of ruby, diamond, and gold plating.",
+      "description": "Ruby Gold Plated Diamond Ring is a ruby diamond gold plated ring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for a decorative ring, possibly for a gift or personal adornment, valuing the combination of ruby, diamond, and gold plating.",
+      "seo_title": "Ruby Gold Plated Diamond Ring Ruby Diamond Gold Plated Ring | Catalog ",
+      "tags": [
+        "Ruby Gold Plated Diamond Ring",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Ring",
+        "Ruby Diamond Gold Plated Ring",
+        "Gold"
+      ],
+      "alt_text": "Ruby Gold Plated Diamond Ring from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Gold",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-02-28at5.14.55PM_6.jpg?v=1772707181&width=533",
+        "source_url": "https://www.osrjewellers.com/products/ruby-gold-plated-diamond-ring-2"
+      },
+      "specifications": {
+        "category": "Ring",
+        "sub_type": "Ruby Diamond Gold Plated Ring",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-02-28at5.14.55PM_6.jpg?v=1772707181&width=533",
+        "source_url": "https://www.osrjewellers.com/products/ruby-gold-plated-diamond-ring-2",
+        "price_single": 2499,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-02-28at5.14.55PM_6.jpg?v=1772707181&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-02-28at5.14.55PM_6.jpg?v=1772707181&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/ruby-gold-plated-diamond-ring-2",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Gold Plated Ruby Diamond Ring",
+      "clean_name": "Gold Plated Ruby Diamond Ring",
+      "fingerprint": "1a128d056ffb",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Ring",
+      "product_sub_type": "Gold Plated Gemstone Ring",
+      "buyer_persona": "A consumer looking for a decorative ring, possibly for a special occasion or as a gift, valuing the aesthetic appeal of gold plating and gemstones.",
+      "description": "Gold Plated Ruby Diamond Ring is a gold plated gemstone ring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for a decorative ring, possibly for a special occasion or as a gift, valuing the aesthetic appeal of gold plating and gemstones.",
+      "seo_title": "Gold Plated Ruby Diamond Ring Gold Plated Gemstone Ring | Catalog List",
+      "tags": [
+        "Gold Plated Ruby Diamond Ring",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Ring",
+        "Gold Plated Gemstone Ring",
+        "Gold"
+      ],
+      "alt_text": "Gold Plated Ruby Diamond Ring from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Gold",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-09at11.41.47AM_1.jpg?v=1765535959&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-ruby-diamond-ring"
+      },
+      "specifications": {
+        "category": "Ring",
+        "sub_type": "Gold Plated Gemstone Ring",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-09at11.41.47AM_1.jpg?v=1765535959&width=533",
+        "source_url": "https://www.osrjewellers.com/products/gold-plated-ruby-diamond-ring",
+        "price_single": 2499,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-09at11.41.47AM_1.jpg?v=1765535959&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-09at11.41.47AM_1.jpg?v=1765535959&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-ruby-diamond-ring",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Aqua Gold Plated Pendant Set",
+      "clean_name": "Aqua Gold Plated Pendant Set",
+      "fingerprint": "b8cb2e02559e",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Pendant Set",
+      "product_sub_type": "Gold Plated Pendant Set",
+      "buyer_persona": "A consumer looking for fashion jewelry, specifically a pendant set with a gold-plated finish and an aqua-colored element, for personal wear or gifting.",
+      "description": "Aqua Gold Plated Pendant Set is a gold plated pendant set offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,999. Suitable for: A consumer looking for fashion jewelry, specifically a pendant set with a gold-plated finish and an aqua-colored element, for personal wear or gifting.",
+      "seo_title": "Aqua Gold Plated Pendant Set Gold Plated Pendant Set | Catalog Listing",
+      "tags": [
+        "Aqua Gold Plated Pendant Set",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Pendant Set",
+        "Gold Plated Pendant Set",
+        "Gold"
+      ],
+      "alt_text": "Aqua Gold Plated Pendant Set from OSR Jewellers",
+      "domain_attributes": {
+        "metal": "Gold",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-01at3.09.59PM_5.jpg?v=1772954930&width=533",
+        "source_url": "https://www.osrjewellers.com/products/aqua-gold-plated-pendant-set"
+      },
+      "specifications": {
+        "category": "Pendant Set",
+        "sub_type": "Gold Plated Pendant Set",
+        "image_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-01at3.09.59PM_5.jpg?v=1772954930&width=533",
+        "source_url": "https://www.osrjewellers.com/products/aqua-gold-plated-pendant-set",
+        "price_single": 2999,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "metal": "Gold"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-01at3.09.59PM_5.jpg?v=1772954930&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-01at3.09.59PM_5.jpg?v=1772954930&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/aqua-gold-plated-pendant-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "272c49207c15",
+      "product_name": "Yellow Opal Diamond Classic Necklace Set",
+      "url": "https://osrjewellers.com/cdn/shop/files/Screenshot_2026-01-06_130011.png?v=1767684646&width=533",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Necklace and matching dangle earrings",
+        "shape_visible": "Round brilliant, Pear",
+        "color_appearance": "Colorless/Near-colorless (for white stones), Fancy Yellow (for pear-shaped stones)",
+        "clarity_appearance": "Eye-clean",
+        "size_impression": "Small (for round brilliants), Medium (for pear-shaped drops)",
+        "setting_or_mounting": "Prong set, forming a necklace and dangle earrings",
+        "metal_visible": "White gold or platinum",
+        "certification_label_visible": false,
+        "presentation": "Model wearing the jewelry, against a plain light background",
+        "additional_visual_notes": "The set features numerous small colorless stones and larger pear-shaped yellow stones, creating a striking contrast. The necklace has a tiered, bib-like design."
+      },
+      "visual_description": "The image displays a woman wearing an elaborate necklace and matching dangle earrings. The necklace features multiple rows of small, colorless round brilliant stones forming a collar, with several pear-shaped yellow stones suspended as drops along the bottom edge. The matching earrings mirror this design with colorless round brilliant stones leading to a single pear-shaped yellow drop. The jewelry is presented against a plain light grey background, highlighting its intricate design and vibrant yellow accents.",
+      "media_alt_text": "A woman models an elaborate necklace and matching dangle earrings featuring colorless round brilliant stones and fancy yellow pear-shaped drops.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:12.438Z"
+    },
+    {
+      "fingerprint": "240efca1cb22",
+      "product_name": "Yellow Diamond Silver Plated Necklace Set",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-07at12.01.28PM_2.jpg?v=1765105073&width=533",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "necklace set",
+        "shape_visible": "emerald (rectangular), round brilliant",
+        "color_appearance": "fancy yellow, colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "medium",
+        "setting_or_mounting": "necklace / drop earrings / prong set / pave set",
+        "metal_visible": "silver",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "The set includes a matching necklace and earrings. The design features a central yellow stone surrounded by a halo of smaller colorless stones."
+      },
+      "visual_description": "A silver-toned necklace and matching drop earrings are displayed against a plain white background. The necklace features a prominent rectangular yellow gemstone pendant surrounded by smaller colorless stones, with the chain adorned by additional smaller yellow and colorless stones. The earrings mirror the pendant's design, each featuring a rectangular yellow gemstone surrounded by colorless accent stones.",
+      "media_alt_text": "A silver-toned necklace and matching drop earrings featuring fancy yellow emerald-cut gemstones with colorless accents.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:11.943Z"
+    },
+    {
+      "fingerprint": "92b0cfdfa225",
+      "product_name": "White Ruby & Green Jadau Chand Bali",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-01-30at14.11.49_2.jpg?v=1769921180&width=533",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "earrings",
+        "shape_visible": "chand bali (crescent/hoop), floral motifs, teardrop pearls",
+        "color_appearance": "red, green, cream (pearls), gold (metal)",
+        "clarity_appearance": "eye-clean (for small stones), lustrous (pearls)",
+        "size_impression": "medium to large",
+        "setting_or_mounting": "earrings",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Intricate traditional design, multiple small red and green stones, numerous pearl drops, likely Kundan or Jadau style."
+      },
+      "visual_description": "A pair of ornate gold-toned chand bali earrings is displayed against a plain white background. Each earring features a crescent-shaped hoop adorned with intricate patterns of small red and green stones, with a central floral motif and numerous cream-colored pearl drops dangling from the bottom edge. The overall design suggests traditional Indian jewelry with a rich, colorful aesthetic.",
+      "media_alt_text": "A pair of ornate gold chand bali earrings with red and green stones, and dangling cream pearl drops, on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:10.600Z"
+    },
+    {
+      "fingerprint": "6fe7f3bf570d",
+      "product_name": "Gold plated latest Design Earring",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-21at12.22.06PM_1.jpg?v=1774167686&width=533",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "earrings",
+        "shape_visible": "floral",
+        "color_appearance": "fancy pink, colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "small",
+        "setting_or_mounting": "earrings / pave set / prong set",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "multiple stones, two-tone stone design"
+      },
+      "visual_description": "The image displays a pair of floral-design stud earrings against a plain white background. Each earring features five petals paved with small, colorless/white stones, surrounding a center composed of smaller, teardrop-shaped pink/ruby-colored stones arranged around a single central colorless stone. The metal setting appears to be a polished gold tone.",
+      "media_alt_text": "A pair of gold-toned floral stud earrings with pave-set white stones on petals and pink teardrop stones around a central white stone.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:10.120Z"
+    },
+    {
+      "fingerprint": "4280729d7816",
+      "product_name": "Gold Plated Kundan Ruby Earring",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.53PM.jpg?v=1773750825&width=533",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "earrings",
+        "shape_visible": "teardrop, oval, chandelier",
+        "color_appearance": "colorless/near-colorless (main stones), deep red (beads), white (pearls)",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "medium",
+        "setting_or_mounting": "bezel set / strung",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Intricate filigree details, multiple clear stones, small white pearls, and red bead drops."
+      },
+      "visual_description": "A pair of ornate gold-toned chandelier earrings is displayed against a plain white background. Each earring features a fan-like structure adorned with numerous bezel-set, clear, teardrop-shaped stones, intricate filigree work, and small white pearls. Dangling from the bottom are multiple deep red, elongated bead drops, adding a vibrant contrast to the gold and clear elements.",
+      "media_alt_text": "A pair of ornate gold-toned chandelier earrings with clear teardrop stones, small pearls, and deep red bead drops on white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:17.891Z"
+    },
+    {
+      "fingerprint": "d29c6624c98e",
+      "product_name": "Moissanite Half Bali",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.52PM_2.jpg?v=1773750756&width=533",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "earrings",
+        "shape_visible": "crescent / half-hoop (earring shape), round (stone shape)",
+        "color_appearance": "colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "small",
+        "setting_or_mounting": "bezel set (stones), post-back (earrings)",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "textured gold edges, multiple stones per earring"
+      },
+      "visual_description": "The image displays a pair of gold-toned half-hoop earrings, each adorned with multiple clear, round-cut stones bezel-set along its curved surface. The earrings feature a textured, beaded edge and a post-back closure, presented against a clean, plain white background. The overall impression is one of traditional elegance and good craftsmanship.",
+      "media_alt_text": "A pair of gold-toned half-hoop earrings, each featuring multiple bezel-set clear round stones and textured edges, on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:17.530Z"
+    },
+    {
+      "fingerprint": "ab18646417e0",
+      "product_name": "Gold Plated Polki Stud",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsApp_Image_2026-03-12_at_2.24.52_PM_1.jpg?v=1773750645&width=533",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "earrings",
+        "shape_visible": "irregular freeform",
+        "color_appearance": "colorless",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "medium",
+        "setting_or_mounting": "bezel set, stud earrings",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Matching pair of two earrings, textured metal border around the bezel."
+      },
+      "visual_description": "The image displays a pair of gold-toned stud earrings, each featuring a large, irregularly shaped, clear gemstone set in a textured bezel. The gemstones exhibit a high degree of transparency and reflect light, appearing colorless. The earrings are presented against a plain white background, suggesting a studio product shot.",
+      "media_alt_text": "A pair of gold-toned stud earrings with irregular, clear gemstones set in textured gold bezels on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:20.094Z"
+    },
+    {
+      "fingerprint": "94fce1394bdc",
+      "product_name": "Emerald Jadau Necklace Set",
+      "url": "https://osrjewellers.com/cdn/shop/files/ChatGPTImageMar21_2026_06_35_24PM.png?v=1774099011&width=533",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "necklace and earrings set",
+        "shape_visible": "oval (for green stones and necklace links), teardrop (for pearls), chandelier (for earrings)",
+        "color_appearance": "vibrant green (for stones), white/cream (for pearls), gold (for metal)",
+        "clarity_appearance": "opaque to semi-translucent (for green stones), lustrous (for pearls)",
+        "size_impression": "medium (for individual green stones), large (for overall necklace and earrings)",
+        "setting_or_mounting": "necklace / earrings",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "hand model / lifestyle",
+        "additional_visual_notes": "traditional Indian jewelry style, features multiple green stones and pearls, adjustable necklace cord visible"
+      },
+      "visual_description": "A smiling woman with dark hair pulled back models an ornate gold necklace and matching chandelier earrings. The jewelry features numerous small, oval-shaped green stones, likely emeralds, set within intricate gold frames, accented by dangling white pearls. The background is a soft, light cream color, suggesting an indoor lifestyle setting.",
+      "media_alt_text": "Smiling woman wearing an ornate gold necklace and matching chandelier earrings with green stones and white pearls.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:19.611Z"
+    },
+    {
+      "fingerprint": "8acb105e5408",
+      "product_name": "Multi Color Jadau Necklace Set",
+      "url": "https://osrjewellers.com/cdn/shop/files/osr_3.png?v=1774013127&width=533",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "necklace and matching earrings",
+        "shape_visible": "V-shape for the necklace, chandelier/drop shape for the earrings, various small geometric shapes for the stones/enamel",
+        "color_appearance": "multi-color (red, green, blue, white/cream pearls)",
+        "clarity_appearance": "eye-clean",
+        "size_impression": "necklace is a medium-sized collar/choker, earrings are medium-sized drops",
+        "setting_or_mounting": "necklace / drop earrings",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "hand model / lifestyle / studio lighting",
+        "additional_visual_notes": "intricate traditional design, multiple small pearls, colored gemstones or enamel work"
+      },
+      "visual_description": "The image features a smiling woman wearing an intricate multi-color necklace and matching drop earrings. The jewelry set appears to be crafted from gold-toned metal, adorned with small red, green, and blue gemstones or enamel, and accented with numerous small white/cream pearls. The woman is wearing a light-colored saree or traditional attire, and the background is a soft, light studio setting with visible softbox lighting.",
+      "media_alt_text": "Smiling woman wearing an ornate gold-toned multi-color necklace and matching drop earrings with pearls and colored stones.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:21.828Z"
+    },
+    {
+      "fingerprint": "4b1a952518f8",
+      "product_name": "Peach Stone Antique Gold Plated Necklace Set",
+      "url": "https://osrjewellers.com/cdn/shop/files/osr.png?v=1774012591&width=533",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "necklace set (necklace and earrings)",
+        "shape_visible": "oval, pear, round, baguette-like (rectangular)",
+        "color_appearance": "main stones appear yellowish-orange (like citrine or peach stone), accent stones are colorless and multi-colored (red, green, blue, yellow)",
+        "clarity_appearance": "main stones appear eye-clean, smaller stones are too small to assess precisely but appear bright",
+        "size_impression": "main stones on pendant and earrings are large (likely >2ct equivalent if they were diamonds), overall set is substantial",
+        "setting_or_mounting": "necklace, earrings, stones appear prong or bezel set within intricate metalwork",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "hand model / lifestyle",
+        "additional_visual_notes": "intricate antique design, multi-colored accent stones, large central yellowish-orange stones"
+      },
+      "visual_description": "A smiling female model is shown from the chest up, wearing an intricate antique gold-toned necklace set. The necklace is a wide choker style with a central pendant featuring a large yellowish-orange oval stone, surrounded by smaller colorless stones. The necklace itself is adorned with rows of colorless stones and small multi-colored accent stones (red, green, blue, yellow), while matching drop earrings with similar yellowish-orange oval stones and multi-colored accents complete the set. The background is a plain, light, neutral color, and the model is wearing a light-colored saree.",
+      "media_alt_text": "Smiling model wearing an antique gold-toned necklace set with a large yellowish-orange oval stone pendant and matching earrings.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:28.661Z"
+    },
+    {
+      "fingerprint": "290473c04aa3",
+      "product_name": "Multi color Antique Gold Plated Necklace Set",
+      "url": "https://osrjewellers.com/cdn/shop/files/osr_2.png?v=1774012322&width=533",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "necklace and earrings set",
+        "shape_visible": "pear, oval, round, various cabochon shapes",
+        "color_appearance": "multi-color (green, red, brown, cream, blue, clear)",
+        "clarity_appearance": "cabochon stones appear opaque to translucent; small accent stones appear eye-clean",
+        "size_impression": "necklace is medium to large, earrings are medium",
+        "setting_or_mounting": "necklace / dangle earrings",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "hand model / lifestyle",
+        "additional_visual_notes": "intricate floral/leafy design with small clear and colored accent stones, surrounding larger multi-colored cabochon stones"
+      },
+      "visual_description": "The image features a smiling woman of South Asian descent wearing a multi-colored necklace and matching dangle earrings. The necklace is adorned with various large, polished cabochon gemstones in shades of green, red, brown, and cream, interspersed with intricate gold-toned settings featuring small, clear accent stones and tiny colored gems. The background is a plain, light beige color, and the woman is wearing a light-colored traditional garment.",
+      "media_alt_text": "Smiling woman wearing an antique gold-plated necklace and matching earrings with multi-colored cabochon gemstones.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:28.766Z"
+    },
+    {
+      "fingerprint": "df074f88915b",
+      "product_name": "Ring & Earring Organize Box",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2023-11-07at12.14.45PM.jpg?v=1699422856&width=533",
+      "scene_type": "product_image",
+      "media_confidence": 0.95,
+      "visual_features": {
+        "product_type_confirmed": "jewelry organizer box",
+        "shape_visible": "rectangular",
+        "color_appearance": "black",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "silver",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "clear top lid, multiple ring slots, 'Ring' label visible, metal clasps and corner protectors"
+      },
+      "visual_description": "The image displays an open, rectangular jewelry organizer box designed for rings. The box is black with a textured, possibly faux leather, exterior and features a clear, transparent lid held open by a black ribbon. Inside, the bottom compartment has multiple padded black slots, clearly labeled with a silver-colored 'Ring' tag on the front edge, indicating its purpose. The box has silver-toned metal clasps and corner protectors, presented against a plain white studio background with some reflections visible in the clear lid.",
+      "media_alt_text": "Open black rectangular jewelry organizer box with a clear lid, showing multiple padded slots for rings and silver-toned hardware.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:27.885Z"
+    },
+    {
+      "fingerprint": "ad46b5115e69",
+      "product_name": "Gold Plated Pearl Ring",
+      "url": "https://osrjewellers.com/cdn/shop/files/Gemini_Generated_Image_ee3dx7ee3dx7ee3d.png?v=1770708323&width=533",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 0.95,
+      "visual_features": {
+        "product_type_confirmed": "pearl ring",
+        "shape_visible": "round",
+        "color_appearance": "white (pearl), gold (metal)",
+        "clarity_appearance": "eye-clean (pearl appears smooth and lustrous)",
+        "size_impression": "medium (pearl appears to be approximately 8-10mm)",
+        "setting_or_mounting": "halo setting / prong set",
+        "metal_visible": "gold",
+        "certification_label_visible": false,
+        "presentation": "hand model / lifestyle",
+        "additional_visual_notes": "The ring features a central pearl with a halo of small accent stones and a textured, possibly beaded, band. The model is wearing traditional embroidered clothing."
+      },
+      "visual_description": "The image displays a hand wearing a gold-colored ring featuring a prominent round white pearl surrounded by a halo of smaller, sparkling stones. The ring has a textured band. The hand has light pink manicured nails and is positioned against a backdrop of a person wearing intricate, embroidered cream and pink traditional attire, with dark wavy hair visible. The background is softly blurred with a warm light source.",
+      "media_alt_text": "A hand wearing a gold-colored pearl ring with a halo of small stones and a textured band, against an embroidered garment.",
+      "used_vision": true,
+      "classified_at": "2026-04-29T05:11:27.965Z"
+    },
+    {
+      "fingerprint": "b016a072f377",
+      "product_name": "Ruby Gold Plated Diamond Ring",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-02-28at5.14.55PM_6.jpg?v=1772707181&width=533",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "OSR Jewellers",
+      "used_vision": false,
+      "classified_at": "2026-04-29T05:11:22.704Z"
+    },
+    {
+      "fingerprint": "1a128d056ffb",
+      "product_name": "Gold Plated Ruby Diamond Ring",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-09at11.41.47AM_1.jpg?v=1765535959&width=533",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "OSR Jewellers",
+      "used_vision": false,
+      "classified_at": "2026-04-29T05:11:29.318Z"
+    },
+    {
+      "fingerprint": "b8cb2e02559e",
+      "product_name": "Aqua Gold Plated Pendant Set",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-01at3.09.59PM_5.jpg?v=1772954930&width=533",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "OSR Jewellers",
+      "used_vision": false,
+      "classified_at": "2026-04-29T05:11:29.207Z"
+    },
+    {
+      "fingerprint": "b22723b51bc9",
+      "product_name": "Gold Plated Pendant Set",
+      "url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-07at1.34.02PM_2.jpg?v=1772890159&width=533",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "OSR Jewellers",
+      "used_vision": false,
+      "classified_at": "2026-04-29T05:11:29.846Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "Yellow Opal Diamond Classic Necklace Set",
+      "fingerprint": "272c49207c15",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Opal Diamond Necklace Set",
+      "buyer_persona": "A consumer looking for a complete jewelry set, likely for a special occasion or as a gift, valuing gemstone type, metal, and design.",
+      "seo_title": "Yellow Opal Diamond Classic Necklace Set Opal Diamond Necklace Set | C",
+      "tags": [
+        "Yellow Opal Diamond Classic Necklace Set",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Necklace Set",
+        "Opal Diamond Necklace Set",
+        "Diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 11499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/Screenshot_2026-01-06_130011.png?v=1767684646&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/Screenshot_2026-01-06_130011.png?v=1767684646&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-with-diamond-necklace-set-copy",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Yellow Opal Diamond Classic Necklace Set is a opal diamond necklace set offered by OSR Jewellers. Key specifications include Metal: Diamond. Priced at Rs. 11,499. Suitable for: A consumer looking for a complete jewelry set, likely for a special occasion or as a gift, valuing gemstone type, metal, and design. The image displays a woman wearing an elaborate necklace and matching dangle earrings. The necklace features multiple rows of small, colorless round brilliant stones forming a collar, with several pear-shaped yellow stones suspended as drops along the bottom edge. The matching earrings mirror this design with colorless round brilliant stones leading to a single pear-shaped yellow drop. The jewelry is presented against a plain light grey background, highlighting its intricate design and vibrant yellow accents.",
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Opal Diamond Necklace Set",
+        "metal": "Diamond",
+        "visual_shape": "Round brilliant, Pear",
+        "visual_color": "Colorless/Near-colorless (for white stones), Fancy Yellow (for pear-shaped stones)",
+        "visual_clarity": "Eye-clean",
+        "visual_size": "Small (for round brilliants), Medium (for pear-shaped drops)",
+        "setting": "Prong set, forming a necklace and dangle earrings",
+        "visual_metal": "White gold or platinum",
+        "presentation": "Model wearing the jewelry, against a plain light background",
+        "visual_product_type": "Necklace and matching dangle earrings",
+        "visual_notes": "The set features numerous small colorless stones and larger pear-shaped yellow stones, creating a striking contrast. The necklace has a tiered, bib-like design."
+      },
+      "alt_text": "A woman models an elaborate necklace and matching dangle earrings featuring colorless round brilliant stones and fancy yellow pear-shaped drops.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/Screenshot_2026-01-06_130011.png?v=1767684646&width=533"
+    },
+    {
+      "clean_name": "Yellow Diamond Silver Plated Necklace Set",
+      "fingerprint": "240efca1cb22",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Silver Plated Diamond Necklace Set",
+      "buyer_persona": "A consumer looking for a jewelry set, likely for personal adornment or as a gift, valuing the design, material, and gemstone type.",
+      "seo_title": "Yellow Diamond Silver Plated Necklace Set Silver Plated Diamond Neckla",
+      "tags": [
+        "Yellow Diamond Silver Plated Necklace Set",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Necklace Set",
+        "Silver Plated Diamond Necklace Set",
+        "Diamond"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 4999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-07at12.01.28PM_2.jpg?v=1765105073&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-07at12.01.28PM_2.jpg?v=1765105073&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/yellow-diamond-silver-plated-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Yellow Diamond Silver Plated Necklace Set is a silver plated diamond necklace set offered by OSR Jewellers. Key specifications include Metal: Diamond. Priced at Rs. 4,999. Suitable for: A consumer looking for a jewelry set, likely for personal adornment or as a gift, valuing the design, material, and gemstone type. A silver-toned necklace and matching drop earrings are displayed against a plain white background. The necklace features a prominent rectangular yellow gemstone pendant surrounded by smaller colorless stones, with the chain adorned by additional smaller yellow and colorless stones. The earrings mirror the pendant's design, each featuring a rectangular yellow gemstone surrounded by colorless accent stones.",
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Silver Plated Diamond Necklace Set",
+        "metal": "Diamond",
+        "visual_shape": "emerald (rectangular), round brilliant",
+        "visual_color": "fancy yellow, colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "medium",
+        "setting": "necklace / drop earrings / prong set / pave set",
+        "visual_metal": "silver",
+        "presentation": "white background studio",
+        "visual_product_type": "necklace set",
+        "visual_notes": "The set includes a matching necklace and earrings. The design features a central yellow stone surrounded by a halo of smaller colorless stones."
+      },
+      "alt_text": "A silver-toned necklace and matching drop earrings featuring fancy yellow emerald-cut gemstones with colorless accents.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-07at12.01.28PM_2.jpg?v=1765105073&width=533"
+    },
+    {
+      "clean_name": "White Ruby & Green Jadau Chand Bali",
+      "fingerprint": "92b0cfdfa225",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Chand Bali Earring",
+      "buyer_persona": "A consumer looking for traditional Indian earrings, specifically Chand Bali style, featuring ruby and jadau work for festive or special occasions.",
+      "seo_title": "White Ruby & Green Jadau Chand Bali Chand Bali Earring | Catalog Listi",
+      "tags": [
+        "White Ruby & Green Jadau Chand Bali",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Earring",
+        "Chand Bali Earring"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 5499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-01-30at14.11.49_2.jpg?v=1769921180&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-01-30at14.11.49_2.jpg?v=1769921180&width=533",
+        "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/682002559_961753112892076_7138861935613592310_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=MioZSg3kADoQ7kNvwHzPV-A&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Up-cRouQz0oxz7wbC5oDc2n-jb_bSWSWpKaiv3zNvRQ&oe=69F766E2&_nc_sid=8b3546"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/white-ruby-green-jadau-chand-bali",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website",
+        "instagram"
+      ],
+      "social_sources": [
+        {
+          "platform": "instagram",
+          "post_url": "https://www.instagram.com/p/DXqy4sejhkS/",
+          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/682002559_961753112892076_7138861935613592310_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=MioZSg3kADoQ7kNvwHzPV-A&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Up-cRouQz0oxz7wbC5oDc2n-jb_bSWSWpKaiv3zNvRQ&oe=69F766E2&_nc_sid=8b3546",
+          "caption": "JADAU Navratan chandbali",
+          "posted_at": "2026-04-28T08:31:32.000Z",
+          "likes": 46,
+          "views": 934
+        }
+      ],
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/DXqy4sejhkS/"
+        }
+      ],
+      "description": "White Ruby & Green Jadau Chand Bali is a chand bali earring offered by OSR Jewellers. Priced at Rs. 5,499. Suitable for: A consumer looking for traditional Indian earrings, specifically Chand Bali style, featuring ruby and jadau work for festive or special occasions. A pair of ornate gold-toned chand bali earrings is displayed against a plain white background. Each earring features a crescent-shaped hoop adorned with intricate patterns of small red and green stones, with a central floral motif and numerous cream-colored pearl drops dangling from the bottom edge. The overall design suggests traditional Indian jewelry with a rich, colorful aesthetic.",
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Chand Bali Earring",
+        "visual_shape": "chand bali (crescent/hoop), floral motifs, teardrop pearls",
+        "visual_color": "red, green, cream (pearls), gold (metal)",
+        "visual_clarity": "eye-clean (for small stones), lustrous (pearls)",
+        "visual_size": "medium to large",
+        "setting": "earrings",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "earrings",
+        "visual_notes": "Intricate traditional design, multiple small red and green stones, numerous pearl drops, likely Kundan or Jadau style.",
+        "name_colour": "white",
+        "colour_discrepancy": true
+      },
+      "alt_text": "A pair of ornate gold chand bali earrings with red and green stones, and dangling cream pearl drops, on a white background.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-01-30at14.11.49_2.jpg?v=1769921180&width=533"
+    },
+    {
+      "clean_name": "Gold plated latest Design Earring",
+      "fingerprint": "6fe7f3bf570d",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Gold Plated Earring",
+      "buyer_persona": "A consumer looking for fashion accessories, specifically earrings, for personal wear or as a gift.",
+      "seo_title": "Gold plated latest Design Earring Gold Plated Earring | Catalog Listin",
+      "tags": [
+        "Gold plated latest Design Earring",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Earring",
+        "Gold Plated Earring",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2199,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-21at12.22.06PM_1.jpg?v=1774167686&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-21at12.22.06PM_1.jpg?v=1774167686&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-latest-design-earring",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Gold plated latest Design Earring is a gold plated earring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,199. Suitable for: A consumer looking for fashion accessories, specifically earrings, for personal wear or as a gift. The image displays a pair of floral-design stud earrings against a plain white background. Each earring features five petals paved with small, colorless/white stones, surrounding a center composed of smaller, teardrop-shaped pink/ruby-colored stones arranged around a single central colorless stone. The metal setting appears to be a polished gold tone.",
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Gold Plated Earring",
+        "metal": "Gold",
+        "visual_shape": "floral",
+        "visual_color": "fancy pink, colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "small",
+        "setting": "earrings / pave set / prong set",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "earrings",
+        "visual_notes": "multiple stones, two-tone stone design",
+        "name_colour": "gold",
+        "colour_discrepancy": true
+      },
+      "alt_text": "A pair of gold-toned floral stud earrings with pave-set white stones on petals and pink teardrop stones around a central white stone.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-21at12.22.06PM_1.jpg?v=1774167686&width=533"
+    },
+    {
+      "clean_name": "Gold Plated Kundan Ruby Earring",
+      "fingerprint": "4280729d7816",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Gold Plated Kundan Ruby Earring",
+      "buyer_persona": "A consumer looking for fashion accessories, specifically earrings, for personal use or as a gift, likely for a special occasion given the 'Kundan Ruby' description.",
+      "seo_title": "Gold Plated Kundan Ruby Earring Gold Plated Kundan Ruby Earring | Cata",
+      "tags": [
+        "Gold Plated Kundan Ruby Earring",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Earring",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 3999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.53PM.jpg?v=1773750825&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.53PM.jpg?v=1773750825&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-kundan-ruby-earring",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Gold Plated Kundan Ruby Earring is a gold plated kundan ruby earring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 3,999. Suitable for: A consumer looking for fashion accessories, specifically earrings, for personal use or as a gift, likely for a special occasion given the 'Kundan Ruby' description. A pair of ornate gold-toned chandelier earrings is displayed against a plain white background. Each earring features a fan-like structure adorned with numerous bezel-set, clear, teardrop-shaped stones, intricate filigree work, and small white pearls. Dangling from the bottom are multiple deep red, elongated bead drops, adding a vibrant contrast to the gold and clear elements.",
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Gold Plated Kundan Ruby Earring",
+        "metal": "Gold",
+        "visual_shape": "teardrop, oval, chandelier",
+        "visual_color": "colorless/near-colorless (main stones), deep red (beads), white (pearls)",
+        "visual_clarity": "eye-clean",
+        "visual_size": "medium",
+        "setting": "bezel set / strung",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "earrings",
+        "visual_notes": "Intricate filigree details, multiple clear stones, small white pearls, and red bead drops.",
+        "name_colour": "gold",
+        "colour_discrepancy": true
+      },
+      "alt_text": "A pair of ornate gold-toned chandelier earrings with clear teardrop stones, small pearls, and deep red bead drops on white background.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.53PM.jpg?v=1773750825&width=533"
+    },
+    {
+      "clean_name": "Moissanite Half Bali",
+      "fingerprint": "d29c6624c98e",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Moissanite Half Bali Earring",
+      "buyer_persona": "A consumer looking for fashionable earrings, specifically a unique style like Half Bali, with the brilliance of Moissanite as an alternative to diamond.",
+      "seo_title": "Moissanite Half Bali Moissanite Half Bali Earring | Catalog Listing",
+      "tags": [
+        "Moissanite Half Bali",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Earring",
+        "Moissanite Half Bali Earring"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.52PM_2.jpg?v=1773750756&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.52PM_2.jpg?v=1773750756&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/moissanite-half-bali",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Moissanite Half Bali is a moissanite half bali earring offered by OSR Jewellers. Priced at Rs. 2,499. Suitable for: A consumer looking for fashionable earrings, specifically a unique style like Half Bali, with the brilliance of Moissanite as an alternative to diamond. The image displays a pair of gold-toned half-hoop earrings, each adorned with multiple clear, round-cut stones bezel-set along its curved surface. The earrings feature a textured, beaded edge and a post-back closure, presented against a clean, plain white background. The overall impression is one of traditional elegance and good craftsmanship.",
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Moissanite Half Bali Earring",
+        "visual_shape": "crescent / half-hoop (earring shape), round (stone shape)",
+        "visual_color": "colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "small",
+        "setting": "bezel set (stones), post-back (earrings)",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "earrings",
+        "visual_notes": "textured gold edges, multiple stones per earring"
+      },
+      "alt_text": "A pair of gold-toned half-hoop earrings, each featuring multiple bezel-set clear round stones and textured edges, on a white background.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-12at2.24.52PM_2.jpg?v=1773750756&width=533"
+    },
+    {
+      "clean_name": "Gold Plated Polki Stud",
+      "fingerprint": "ab18646417e0",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Earring",
+      "product_sub_type": "Polki Stud Earring",
+      "buyer_persona": "A consumer looking for fashionable earrings, specifically with a traditional Polki design and gold plating, for personal wear or gifting.",
+      "seo_title": "Gold Plated Polki Stud Polki Stud Earring | Catalog Listing",
+      "tags": [
+        "Gold Plated Polki Stud",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Earring",
+        "Polki Stud Earring",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsApp_Image_2026-03-12_at_2.24.52_PM_1.jpg?v=1773750645&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsApp_Image_2026-03-12_at_2.24.52_PM_1.jpg?v=1773750645&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-polki-stud-1",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Gold Plated Polki Stud is a polki stud earring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for fashionable earrings, specifically with a traditional Polki design and gold plating, for personal wear or gifting. The image displays a pair of gold-toned stud earrings, each featuring a large, irregularly shaped, clear gemstone set in a textured bezel. The gemstones exhibit a high degree of transparency and reflect light, appearing colorless. The earrings are presented against a plain white background, suggesting a studio product shot.",
+      "specifications": {
+        "category": "Earring",
+        "sub_type": "Polki Stud Earring",
+        "metal": "Gold",
+        "visual_shape": "irregular freeform",
+        "visual_color": "colorless",
+        "visual_clarity": "eye-clean",
+        "visual_size": "medium",
+        "setting": "bezel set, stud earrings",
+        "visual_metal": "gold",
+        "presentation": "white background studio",
+        "visual_product_type": "earrings",
+        "visual_notes": "Matching pair of two earrings, textured metal border around the bezel.",
+        "name_colour": "gold",
+        "colour_discrepancy": true
+      },
+      "alt_text": "A pair of gold-toned stud earrings with irregular, clear gemstones set in textured gold bezels on a white background.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsApp_Image_2026-03-12_at_2.24.52_PM_1.jpg?v=1773750645&width=533"
+    },
+    {
+      "clean_name": "Emerald Jadau Necklace Set",
+      "fingerprint": "94fce1394bdc",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Emerald Jadau Necklace Set",
+      "buyer_persona": "A consumer looking for traditional or ethnic jewelry for special occasions, weddings, or gifting.",
+      "seo_title": "Emerald Jadau Necklace Set Emerald Jadau Necklace Set | Catalog Listin",
+      "tags": [
+        "Emerald Jadau Necklace Set",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Necklace Set",
+        "Emerald"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 8999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/ChatGPTImageMar21_2026_06_35_24PM.png?v=1774099011&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/ChatGPTImageMar21_2026_06_35_24PM.png?v=1774099011&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/emerald-jadau-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Emerald Jadau Necklace Set is a emerald jadau necklace set offered by OSR Jewellers. Key specifications include Cut: Emerald. Priced at Rs. 8,999. Suitable for: A consumer looking for traditional or ethnic jewelry for special occasions, weddings, or gifting. A smiling woman with dark hair pulled back models an ornate gold necklace and matching chandelier earrings. The jewelry features numerous small, oval-shaped green stones, likely emeralds, set within intricate gold frames, accented by dangling white pearls. The background is a soft, light cream color, suggesting an indoor lifestyle setting.",
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Emerald Jadau Necklace Set",
+        "cut": "Emerald",
+        "visual_shape": "oval (for green stones and necklace links), teardrop (for pearls), chandelier (for earrings)",
+        "visual_color": "vibrant green (for stones), white/cream (for pearls), gold (for metal)",
+        "visual_clarity": "opaque to semi-translucent (for green stones), lustrous (for pearls)",
+        "visual_size": "medium (for individual green stones), large (for overall necklace and earrings)",
+        "setting": "necklace / earrings",
+        "visual_metal": "gold",
+        "presentation": "hand model / lifestyle",
+        "visual_product_type": "necklace and earrings set",
+        "visual_notes": "traditional Indian jewelry style, features multiple green stones and pearls, adjustable necklace cord visible"
+      },
+      "alt_text": "Smiling woman wearing an ornate gold necklace and matching chandelier earrings with green stones and white pearls.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/ChatGPTImageMar21_2026_06_35_24PM.png?v=1774099011&width=533"
+    },
+    {
+      "clean_name": "Multi Color Jadau Necklace Set",
+      "fingerprint": "8acb105e5408",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Jadau Necklace Set",
+      "buyer_persona": "A consumer looking for traditional or ethnic jewellery, specifically a necklace set with a Jadau design, likely for special occasions or gifting.",
+      "seo_title": "Multi Color Jadau Necklace Set Jadau Necklace Set | Catalog Listing",
+      "tags": [
+        "Multi Color Jadau Necklace Set",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Necklace Set",
+        "Jadau Necklace Set"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 8999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/osr_3.png?v=1774013127&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/osr_3.png?v=1774013127&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/multi-color-jadau-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Multi Color Jadau Necklace Set is a jadau necklace set offered by OSR Jewellers. Priced at Rs. 8,999. Suitable for: A consumer looking for traditional or ethnic jewellery, specifically a necklace set with a Jadau design, likely for special occasions or gifting. The image features a smiling woman wearing an intricate multi-color necklace and matching drop earrings. The jewelry set appears to be crafted from gold-toned metal, adorned with small red, green, and blue gemstones or enamel, and accented with numerous small white/cream pearls. The woman is wearing a light-colored saree or traditional attire, and the background is a soft, light studio setting with visible softbox lighting.",
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Jadau Necklace Set",
+        "visual_shape": "V-shape for the necklace, chandelier/drop shape for the earrings, various small geometric shapes for the stones/enamel",
+        "visual_color": "multi-color (red, green, blue, white/cream pearls)",
+        "visual_clarity": "eye-clean",
+        "visual_size": "necklace is a medium-sized collar/choker, earrings are medium-sized drops",
+        "setting": "necklace / drop earrings",
+        "visual_metal": "gold",
+        "presentation": "hand model / lifestyle / studio lighting",
+        "visual_product_type": "necklace and matching earrings",
+        "visual_notes": "intricate traditional design, multiple small pearls, colored gemstones or enamel work"
+      },
+      "alt_text": "Smiling woman wearing an ornate gold-toned multi-color necklace and matching drop earrings with pearls and colored stones.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/osr_3.png?v=1774013127&width=533"
+    },
+    {
+      "clean_name": "Peach Stone Antique Gold Plated Necklace Set",
+      "fingerprint": "4b1a952518f8",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Stone Embellished Necklace Set",
+      "buyer_persona": "A consumer looking for fashion jewellery, specifically a necklace set, for personal adornment or gifting, often for special occasions.",
+      "seo_title": "Peach Stone Antique Gold Plated Necklace Set Stone Embellished Necklac",
+      "tags": [
+        "Peach Stone Antique Gold Plated Necklace Set",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Necklace Set",
+        "Stone Embellished Necklace Set",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 12499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/osr.png?v=1774012591&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/osr.png?v=1774012591&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/peach-stone-antique-gold-plated-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Peach Stone Antique Gold Plated Necklace Set is a stone embellished necklace set offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 12,499. Suitable for: A consumer looking for fashion jewellery, specifically a necklace set, for personal adornment or gifting, often for special occasions. A smiling female model is shown from the chest up, wearing an intricate antique gold-toned necklace set. The necklace is a wide choker style with a central pendant featuring a large yellowish-orange oval stone, surrounded by smaller colorless stones. The necklace itself is adorned with rows of colorless stones and small multi-colored accent stones (red, green, blue, yellow), while matching drop earrings with similar yellowish-orange oval stones and multi-colored accents complete the set. The background is a plain, light, neutral color, and the model is wearing a light-colored saree.",
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Stone Embellished Necklace Set",
+        "metal": "Gold",
+        "visual_shape": "oval, pear, round, baguette-like (rectangular)",
+        "visual_color": "main stones appear yellowish-orange (like citrine or peach stone), accent stones are colorless and multi-colored (red, green, blue, yellow)",
+        "visual_clarity": "main stones appear eye-clean, smaller stones are too small to assess precisely but appear bright",
+        "visual_size": "main stones on pendant and earrings are large (likely >2ct equivalent if they were diamonds), overall set is substantial",
+        "setting": "necklace, earrings, stones appear prong or bezel set within intricate metalwork",
+        "visual_metal": "gold",
+        "presentation": "hand model / lifestyle",
+        "visual_product_type": "necklace set (necklace and earrings)",
+        "visual_notes": "intricate antique design, multi-colored accent stones, large central yellowish-orange stones"
+      },
+      "alt_text": "Smiling model wearing an antique gold-toned necklace set with a large yellowish-orange oval stone pendant and matching earrings.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/osr.png?v=1774012591&width=533"
+    },
+    {
+      "clean_name": "Multi color Antique Gold Plated Necklace Set",
+      "fingerprint": "290473c04aa3",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Necklace Set",
+      "product_sub_type": "Gold Plated Necklace Set",
+      "buyer_persona": "A consumer looking for fashion jewelry, specifically a necklace set with an antique, gold-plated, multi-color design for personal wear or gifting.",
+      "seo_title": "Multi color Antique Gold Plated Necklace Set Gold Plated Necklace Set ",
+      "tags": [
+        "Multi color Antique Gold Plated Necklace Set",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Necklace Set",
+        "Gold Plated Necklace Set",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 12499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/osr_2.png?v=1774012322&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/osr_2.png?v=1774012322&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/multi-color-antique-gold-plated-necklace-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Multi color Antique Gold Plated Necklace Set is a gold plated necklace set offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 12,499. Suitable for: A consumer looking for fashion jewelry, specifically a necklace set with an antique, gold-plated, multi-color design for personal wear or gifting. The image features a smiling woman of South Asian descent wearing a multi-colored necklace and matching dangle earrings. The necklace is adorned with various large, polished cabochon gemstones in shades of green, red, brown, and cream, interspersed with intricate gold-toned settings featuring small, clear accent stones and tiny colored gems. The background is a plain, light beige color, and the woman is wearing a light-colored traditional garment.",
+      "specifications": {
+        "category": "Necklace Set",
+        "sub_type": "Gold Plated Necklace Set",
+        "metal": "Gold",
+        "visual_shape": "pear, oval, round, various cabochon shapes",
+        "visual_color": "multi-color (green, red, brown, cream, blue, clear)",
+        "visual_clarity": "cabochon stones appear opaque to translucent; small accent stones appear eye-clean",
+        "visual_size": "necklace is medium to large, earrings are medium",
+        "setting": "necklace / dangle earrings",
+        "visual_metal": "gold",
+        "presentation": "hand model / lifestyle",
+        "visual_product_type": "necklace and earrings set",
+        "visual_notes": "intricate floral/leafy design with small clear and colored accent stones, surrounding larger multi-colored cabochon stones",
+        "name_colour": "gold",
+        "colour_discrepancy": true
+      },
+      "alt_text": "Smiling woman wearing an antique gold-plated necklace and matching earrings with multi-colored cabochon gemstones.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/osr_2.png?v=1774012322&width=533"
+    },
+    {
+      "clean_name": "Ring & Earring Organize Box",
+      "fingerprint": "df074f88915b",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Home Organization & Storage",
+      "product_category": "Jewelry Organizer",
+      "product_sub_type": "Ring And Earring Organizer",
+      "buyer_persona": "A consumer looking for a storage solution to organize and protect their rings and earrings.",
+      "seo_title": "Ring & Earring Organize Box Ring And Earring Organizer | Catalog Listi",
+      "tags": [
+        "Ring & Earring Organize Box",
+        "Consumer Goods",
+        "Home Organization & Storage",
+        "Jewelry Organizer",
+        "Ring And Earring Organizer"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2023-11-07at12.14.45PM.jpg?v=1699422856&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2023-11-07at12.14.45PM.jpg?v=1699422856&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/ring-earring-organize-box",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Ring & Earring Organize Box is a ring and earring organizer offered by OSR Jewellers. Priced at Rs. 999. Suitable for: A consumer looking for a storage solution to organize and protect their rings and earrings. The image displays an open, rectangular jewelry organizer box designed for rings. The box is black with a textured, possibly faux leather, exterior and features a clear, transparent lid held open by a black ribbon. Inside, the bottom compartment has multiple padded black slots, clearly labeled with a silver-colored 'Ring' tag on the front edge, indicating its purpose. The box has silver-toned metal clasps and corner protectors, presented against a plain white studio background with some reflections visible in the clear lid.",
+      "specifications": {
+        "category": "Jewelry Organizer",
+        "sub_type": "Ring And Earring Organizer",
+        "visual_shape": "rectangular",
+        "visual_color": "black",
+        "visual_size": "medium",
+        "visual_metal": "silver",
+        "presentation": "white background studio",
+        "visual_product_type": "jewelry organizer box",
+        "visual_notes": "clear top lid, multiple ring slots, 'Ring' label visible, metal clasps and corner protectors"
+      },
+      "alt_text": "Open black rectangular jewelry organizer box with a clear lid, showing multiple padded slots for rings and silver-toned hardware.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2023-11-07at12.14.45PM.jpg?v=1699422856&width=533"
+    },
+    {
+      "clean_name": "Gold Plated Pearl Ring",
+      "fingerprint": "ad46b5115e69",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Ring",
+      "product_sub_type": "Gold Plated Pearl Ring",
+      "buyer_persona": "A consumer looking for a fashionable ring, possibly for a gift or personal accessory, valuing design and material.",
+      "seo_title": "Gold Plated Pearl Ring Gold Plated Pearl Ring | Catalog Listing",
+      "tags": [
+        "Gold Plated Pearl Ring",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Ring",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/Gemini_Generated_Image_ee3dx7ee3dx7ee3d.png?v=1770708323&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/Gemini_Generated_Image_ee3dx7ee3dx7ee3d.png?v=1770708323&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-pearl-ring-1",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Gold Plated Pearl Ring is a gold plated pearl ring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for a fashionable ring, possibly for a gift or personal accessory, valuing design and material. The image displays a hand wearing a gold-colored ring featuring a prominent round white pearl surrounded by a halo of smaller, sparkling stones. The ring has a textured band. The hand has light pink manicured nails and is positioned against a backdrop of a person wearing intricate, embroidered cream and pink traditional attire, with dark wavy hair visible. The background is softly blurred with a warm light source.",
+      "specifications": {
+        "category": "Ring",
+        "sub_type": "Gold Plated Pearl Ring",
+        "metal": "Gold",
+        "visual_shape": "round",
+        "visual_color": "white (pearl), gold (metal)",
+        "visual_clarity": "eye-clean (pearl appears smooth and lustrous)",
+        "visual_size": "medium (pearl appears to be approximately 8-10mm)",
+        "setting": "halo setting / prong set",
+        "visual_metal": "gold",
+        "presentation": "hand model / lifestyle",
+        "visual_product_type": "pearl ring",
+        "visual_notes": "The ring features a central pearl with a halo of small accent stones and a textured, possibly beaded, band. The model is wearing traditional embroidered clothing."
+      },
+      "alt_text": "A hand wearing a gold-colored pearl ring with a halo of small stones and a textured band, against an embroidered garment.",
+      "used_vision": true,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/Gemini_Generated_Image_ee3dx7ee3dx7ee3d.png?v=1770708323&width=533"
+    },
+    {
+      "clean_name": "Ruby Gold Plated Diamond Ring",
+      "fingerprint": "b016a072f377",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Ring",
+      "product_sub_type": "Ruby Diamond Gold Plated Ring",
+      "buyer_persona": "A consumer looking for a decorative ring, possibly for a gift or personal adornment, valuing the combination of ruby, diamond, and gold plating.",
+      "seo_title": "Ruby Gold Plated Diamond Ring Ruby Diamond Gold Plated Ring | Catalog ",
+      "tags": [
+        "Ruby Gold Plated Diamond Ring",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Ring",
+        "Ruby Diamond Gold Plated Ring",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-02-28at5.14.55PM_6.jpg?v=1772707181&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-02-28at5.14.55PM_6.jpg?v=1772707181&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/ruby-gold-plated-diamond-ring-2",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Ruby Gold Plated Diamond Ring is a ruby diamond gold plated ring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for a decorative ring, possibly for a gift or personal adornment, valuing the combination of ruby, diamond, and gold plating.",
+      "specifications": {
+        "category": "Ring",
+        "sub_type": "Ruby Diamond Gold Plated Ring",
+        "metal": "Gold"
+      },
+      "alt_text": "OSR Jewellers",
+      "used_vision": false,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-02-28at5.14.55PM_6.jpg?v=1772707181&width=533"
+    },
+    {
+      "clean_name": "Gold Plated Ruby Diamond Ring",
+      "fingerprint": "1a128d056ffb",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Ring",
+      "product_sub_type": "Gold Plated Gemstone Ring",
+      "buyer_persona": "A consumer looking for a decorative ring, possibly for a special occasion or as a gift, valuing the aesthetic appeal of gold plating and gemstones.",
+      "seo_title": "Gold Plated Ruby Diamond Ring Gold Plated Gemstone Ring | Catalog List",
+      "tags": [
+        "Gold Plated Ruby Diamond Ring",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Ring",
+        "Gold Plated Gemstone Ring",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-09at11.41.47AM_1.jpg?v=1765535959&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-09at11.41.47AM_1.jpg?v=1765535959&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-ruby-diamond-ring",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Gold Plated Ruby Diamond Ring is a gold plated gemstone ring offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for a decorative ring, possibly for a special occasion or as a gift, valuing the aesthetic appeal of gold plating and gemstones.",
+      "specifications": {
+        "category": "Ring",
+        "sub_type": "Gold Plated Gemstone Ring",
+        "metal": "Gold"
+      },
+      "alt_text": "OSR Jewellers",
+      "used_vision": false,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2025-12-09at11.41.47AM_1.jpg?v=1765535959&width=533"
+    },
+    {
+      "clean_name": "Aqua Gold Plated Pendant Set",
+      "fingerprint": "b8cb2e02559e",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewellery & Accessory",
+      "product_category": "Pendant Set",
+      "product_sub_type": "Gold Plated Pendant Set",
+      "buyer_persona": "A consumer looking for fashion jewelry, specifically a pendant set with a gold-plated finish and an aqua-colored element, for personal wear or gifting.",
+      "seo_title": "Aqua Gold Plated Pendant Set Gold Plated Pendant Set | Catalog Listing",
+      "tags": [
+        "Aqua Gold Plated Pendant Set",
+        "Fashion & Apparel",
+        "Jewellery & Accessories",
+        "Pendant Set",
+        "Gold Plated Pendant Set",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2999,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-01at3.09.59PM_5.jpg?v=1772954930&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-01at3.09.59PM_5.jpg?v=1772954930&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/aqua-gold-plated-pendant-set",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Aqua Gold Plated Pendant Set is a gold plated pendant set offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,999. Suitable for: A consumer looking for fashion jewelry, specifically a pendant set with a gold-plated finish and an aqua-colored element, for personal wear or gifting.",
+      "specifications": {
+        "category": "Pendant Set",
+        "sub_type": "Gold Plated Pendant Set",
+        "metal": "Gold"
+      },
+      "alt_text": "OSR Jewellers",
+      "used_vision": false,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-01at3.09.59PM_5.jpg?v=1772954930&width=533"
+    },
+    {
+      "clean_name": "Gold Plated Pendant Set",
+      "fingerprint": "b22723b51bc9",
+      "top_level_domain": "Fashion & Apparel",
+      "industry_segment": "Jewelry & Accessory",
+      "product_category": "Pendant Set",
+      "product_sub_type": "Gold Plated Pendant Set",
+      "buyer_persona": "A consumer looking for fashion jewelry, specifically a coordinated pendant and earring set, for personal use or as a gift.",
+      "seo_title": "Gold Plated Pendant Set Gold Plated Pendant Set | Catalog Listing",
+      "tags": [
+        "Gold Plated Pendant Set",
+        "Fashion & Apparel",
+        "Jewelry & Accessories",
+        "Pendant Set",
+        "Gold"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 2499,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-07at1.34.02PM_2.jpg?v=1772890159&width=533",
+      "photo_urls": [
+        "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-07at1.34.02PM_2.jpg?v=1772890159&width=533"
+      ],
+      "source_url": "https://www.osrjewellers.com/products/gold-plated-pendant-set-2",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Gold Plated Pendant Set is a gold plated pendant set offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for fashion jewelry, specifically a coordinated pendant and earring set, for personal use or as a gift.",
+      "specifications": {
+        "category": "Pendant Set",
+        "sub_type": "Gold Plated Pendant Set",
+        "metal": "Gold"
+      },
+      "alt_text": "OSR Jewellers",
+      "used_vision": false,
+      "media_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-07at1.34.02PM_2.jpg?v=1772890159&width=533"
+    },
+    {
+      "fingerprint": "bc539114f88c",
+      "raw_name": "JADAU Multi Jhumka",
+      "clean_name": "JADAU Multi Jhumka",
+      "product_category": "Earring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "An elaborate pair of multi-tiered Jhumka earrings featuring traditional Jadau work. They are adorned with small red and green stones, likely rubies and emeralds, and numerous small white pearls, all set in a gold-toned finish.",
+      "seo_title": "JADAU Multi Jhumka",
+      "alt_text": "JADAU Multi Jhumka",
+      "tags": [
+        "jadaujewellery",
+        "jhumka",
+        "earrings",
+        "multi-color",
+        "pearls"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "style": "Jhumka, Multi-tiered",
+        "work": "Jadau",
+        "stones": "Red, Green, Pearls",
+        "metal_finish": "Gold-toned"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DXrDyi2j9j4/",
+      "photo_urls": [
+        "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/684146771_906126099150981_6211816863046931911_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=UdKwJWBktIoQ7kNvwEnSXxP&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af36_kO01n6DWGglceklrpeukmUKSpdIHX6vbjtehUZGEg&oe=69F76FC5&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/684146771_906126099150981_6211816863046931911_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=UdKwJWBktIoQ7kNvwEnSXxP&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af36_kO01n6DWGglceklrpeukmUKSpdIHX6vbjtehUZGEg&oe=69F76FC5&_nc_sid=8b3546",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/684146771_906126099150981_6211816863046931911_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=UdKwJWBktIoQ7kNvwEnSXxP&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af36_kO01n6DWGglceklrpeukmUKSpdIHX6vbjtehUZGEg&oe=69F76FC5&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DXrDyi2j9j4/",
+        "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/684146771_906126099150981_6211816863046931911_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=UdKwJWBktIoQ7kNvwEnSXxP&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af36_kO01n6DWGglceklrpeukmUKSpdIHX6vbjtehUZGEg&oe=69F76FC5&_nc_sid=8b3546",
+        "caption": "JADAU Multi Jhumka \n\n#osrjewellers #jadaujewellery",
+        "posted_at": "2026-04-28T10:57:43.000Z",
+        "likes": 64,
+        "views": 1313
+      },
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/DXrDyi2j9j4/"
+        }
+      ]
+    },
+    {
+      "fingerprint": "39e331e5b19c",
+      "raw_name": "Screw Back Solitaire Stud Earrings",
+      "clean_name": "Screw Back Solitaire Stud Earrings",
+      "product_category": "Earring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A pair of elegant gold-toned stud earrings, each featuring a cluster of five round brilliant cut diamonds arranged in a floral or clover-like design. The earrings are designed with a secure screw-back mechanism.",
+      "seo_title": "Screw Back Solitaire Stud Earrings",
+      "alt_text": "Screw Back Solitaire Stud Earrings",
+      "tags": [
+        "solitaire",
+        "earrings",
+        "studs",
+        "screw back",
+        "diamond",
+        "gold",
+        "osrjewellers",
+        "kartiknayyar"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "style": "solitaire",
+        "back_type": "screw back",
+        "metal_color": "gold",
+        "stone_type": "diamond",
+        "stone_shape": "round brilliant",
+        "setting": "cluster"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DWdLHPJkd4v/",
+      "photo_urls": [
+        "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/658285612_2184580482294660_3809357319500142960_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=2JM_8YQMElYQ7kNvwFd2gKd&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1aQ4mYepHVcZywH9Gt0sZ-H6-2_Rr9Aq2XJzGd3j8AaA&oe=69F77389&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/658285612_2184580482294660_3809357319500142960_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=2JM_8YQMElYQ7kNvwFd2gKd&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1aQ4mYepHVcZywH9Gt0sZ-H6-2_Rr9Aq2XJzGd3j8AaA&oe=69F77389&_nc_sid=8b3546",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/658285612_2184580482294660_3809357319500142960_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=2JM_8YQMElYQ7kNvwFd2gKd&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1aQ4mYepHVcZywH9Gt0sZ-H6-2_Rr9Aq2XJzGd3j8AaA&oe=69F77389&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DWdLHPJkd4v/",
+        "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/658285612_2184580482294660_3809357319500142960_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=2JM_8YQMElYQ7kNvwFd2gKd&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1aQ4mYepHVcZywH9Gt0sZ-H6-2_Rr9Aq2XJzGd3j8AaA&oe=69F77389&_nc_sid=8b3546",
+        "caption": "Screw back solitaire \n\nFree cash on delivery in india \n\n#osrjewellers #solitaire #kartiknayyar",
+        "posted_at": "2026-03-29T05:01:00.000Z",
+        "likes": 952,
+        "views": 27017
+      },
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/DWdLHPJkd4v/"
+        }
+      ]
+    },
+    {
+      "fingerprint": "db9d9df1c53a",
+      "raw_name": "Pure Silver Solitaire Style Cluster Earrings",
+      "clean_name": "Pure Silver Solitaire Style Cluster Earrings",
+      "product_category": "Earring",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A pair of elegant pure silver earrings featuring a central brilliant-cut stone surrounded by a halo of smaller, sparkling stones, creating a dazzling cluster design. These earrings are advertised as never fading or tarnishing and come with a lifetime guarantee.",
+      "seo_title": "Pure Silver Solitaire Style Cluster Earrings",
+      "alt_text": "Pure Silver Solitaire Style Cluster Earrings",
+      "tags": [
+        "Pure Silver Luxury",
+        "Lifetime Guarantee",
+        "OSR Jewellers",
+        "Silver Jewellery",
+        "Forever Shine",
+        "Luxury That Lasts",
+        "Shop With Love",
+        "Solitaire Style",
+        "Everyday Luxury",
+        "India Jewellery",
+        "Earrings",
+        "Cluster Earrings"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "metal": "Pure Silver",
+        "guarantee": "Lifetime Guarantee",
+        "style": "Solitaire Style Cluster"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DWNwJ1Wj7_-/",
+      "photo_urls": [
+        "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/657172087_1603341250970011_1685807398398822325_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=lx6MjhJQz5kQ7kNvwGO3En0&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af13Axm-edtDVWz4xx-MnM4EZHKaSK9AbrYQL4bm0LsjmA&oe=69F75815&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/657172087_1603341250970011_1685807398398822325_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=lx6MjhJQz5kQ7kNvwGO3En0&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af13Axm-edtDVWz4xx-MnM4EZHKaSK9AbrYQL4bm0LsjmA&oe=69F75815&_nc_sid=8b3546",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/657172087_1603341250970011_1685807398398822325_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=lx6MjhJQz5kQ7kNvwGO3En0&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af13Axm-edtDVWz4xx-MnM4EZHKaSK9AbrYQL4bm0LsjmA&oe=69F75815&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DWNwJ1Wj7_-/",
+        "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/657172087_1603341250970011_1685807398398822325_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=lx6MjhJQz5kQ7kNvwGO3En0&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af13Axm-edtDVWz4xx-MnM4EZHKaSK9AbrYQL4bm0LsjmA&oe=69F75815&_nc_sid=8b3546",
+        "caption": "PURE SILVER. FOREVER YOURS. ♥️💎\n\nJewellery that never fades, never tarnishes – and comes with a LIFETIME GUARANTEE.\n\n🎁 Free Gift with Every Order\n🚚 Free COD Across India\n📲 WhatsApp: 7838119986\n\nShop luxury that lasts: www.osrjewellers.com\nVisit us: C-115, Lajpat Nagar 1, New Delhi\n\n#PureSilverLuxury #LifetimeGuarantee #OSRJewellers #SilverJewellery #ForeverShine LuxuryThatLasts ShopWithLove SolitaireStyle EverydayLuxury IndiaJewellery",
+        "posted_at": "2026-03-23T05:17:57.000Z",
+        "likes": 5892,
+        "views": 196178
+      },
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/DWNwJ1Wj7_-/"
+        }
+      ]
+    },
+    {
+      "fingerprint": "9bee8506d1b1",
+      "raw_name": "Single line diamond necklace",
+      "clean_name": "Single line diamond necklace",
+      "product_category": "Necklace",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A stunning single line diamond necklace featuring numerous round, brilliant-cut diamonds set closely together in a continuous row. The diamonds are set in a gold-toned metal, creating a luxurious and sparkling piece.",
+      "seo_title": "Single line diamond necklace",
+      "alt_text": "Single line diamond necklace",
+      "tags": [
+        "osrjewellers",
+        "jewellery",
+        "diamond",
+        "single line"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "style": "Single line",
+        "gemstone": "Diamond",
+        "metal_color": "Gold",
+        "gemstone_shape": "Round"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DXJxFHSj_Gf/",
+      "photo_urls": [
+        "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/670346247_1275128584148661_1063658000767454816_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=ytwRIyRmRWwQ7kNvwFFPUm_&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1L1teuLl3lX8qxNOmMiMnBA4VkN1eoy6tLJMlOudms3w&oe=69F76706&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/670346247_1275128584148661_1063658000767454816_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=ytwRIyRmRWwQ7kNvwFFPUm_&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1L1teuLl3lX8qxNOmMiMnBA4VkN1eoy6tLJMlOudms3w&oe=69F76706&_nc_sid=8b3546",
+      "media_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/670346247_1275128584148661_1063658000767454816_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=ytwRIyRmRWwQ7kNvwFFPUm_&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1L1teuLl3lX8qxNOmMiMnBA4VkN1eoy6tLJMlOudms3w&oe=69F76706&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DXJxFHSj_Gf/",
+        "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/670346247_1275128584148661_1063658000767454816_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=ytwRIyRmRWwQ7kNvwFFPUm_&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1L1teuLl3lX8qxNOmMiMnBA4VkN1eoy6tLJMlOudms3w&oe=69F76706&_nc_sid=8b3546",
+        "caption": "Single line diamond necklace \n\n#osrjewellers #jewellery",
+        "posted_at": "2026-04-15T12:43:01.000Z",
+        "likes": 1059,
+        "views": 35141
+      },
+      "source_urls": [
+        {
+          "source": "instagram",
+          "url": "https://www.instagram.com/p/DXJxFHSj_Gf/"
+        }
+      ]
+    }
+  ],
+  "rejected_items": [
+    {
+      "product_name": "Yellow Diamond Pure Silver 92.5",
+      "raw_name": "Yellow Diamond Pure Silver 92.5",
+      "fingerprint": "6baaa423acf3",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2024-05-26at4.18.29PM.jpg?v=1716727725&width=533",
+      "price_single": 2999,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Diamond\" but image clearly shows \"earrings\"",
+      "product_agent": {
+        "clean_name": "Yellow Diamond Pure Silver 92.5",
+        "category": "Diamond",
+        "sub_type": "Yellow Diamond Jewelry",
+        "top_level_domain": "Fashion & Apparel",
+        "industry_segment": "Jewelry & Precious Metal",
+        "classification_confidence": 0.95,
+        "description": "Yellow Diamond Pure Silver 92.5 is a yellow diamond jewelry offered by OSR Jewellers. Key specifications include Metal: Diamond. Priced at Rs. 2,999. Suitable for: A consumer looking to purchase jewelry, specifically an item featuring a yellow diamond set in silver.",
+        "tags": [
+          "Yellow Diamond Pure Silver 92.5",
+          "Fashion & Apparel",
+          "Jewelry & Precious Metals",
+          "Diamond",
+          "Yellow Diamond Jewelry"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "earrings",
+        "scene_type": "product_image",
+        "visual_description": "A pair of stud earrings is displayed on a clean white background. Each earring features a prominent cushion-cut yellow gemstone surrounded by a halo of smaller, colorless round brilliant stones, all set in a silver-toned metal. The overall presentation is simple and highlights the jewelry.",
+        "confidence": 1,
+        "shape_visible": "cushion (center), round brilliant (halo)",
+        "color_appearance": "fancy yellow (center), colorless (halo)",
+        "size_impression": "medium (center stones appear 1-1.5ct equivalent each)",
+        "setting_or_mounting": "stud earrings / halo setting",
+        "additional_notes": "pair of earrings"
+      },
+      "rejected_at": "2026-04-29T05:11:54.735Z"
+    },
+    {
+      "product_name": "Gold Plated Pendant set",
+      "raw_name": "Gold Plated Pendant set",
+      "fingerprint": "b22723b51bc9",
+      "primary_photo_url": "https://osrjewellers.com/cdn/shop/files/WhatsAppImage2026-03-07at1.33.47PM_2.jpg?v=1772885445&width=533",
+      "price_single": 2499,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Pendant Set\" but image clearly shows \"necklace and stud earrings\"",
+      "product_agent": {
+        "clean_name": "Gold Plated Pendant set",
+        "category": "Pendant Set",
+        "sub_type": "Gold Plated Pendant Set",
+        "top_level_domain": "Fashion & Apparel",
+        "industry_segment": "Jewelry & Accessory",
+        "classification_confidence": 0.95,
+        "description": "Gold Plated Pendant set is a gold plated pendant set offered by OSR Jewellers. Key specifications include Metal: Gold. Priced at Rs. 2,499. Suitable for: A consumer looking for fashion accessories, specifically jewelry for personal wear or gifting, with a preference for plated items.",
+        "tags": [
+          "Gold Plated Pendant set",
+          "Fashion & Apparel",
+          "Jewelry & Accessories",
+          "Pendant Set",
+          "Gold Plated Pendant Set",
+          "Gold"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "necklace and stud earrings",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a gold-toned pendant set, including a necklace and a pair of stud earrings, against a plain white background. The pendant and earrings feature an interlocking circular design, with one of the circles on each piece appearing to be set with numerous small, colorless stones in a silver or white metal, contrasting with the gold-toned metal of the other circle and the chain/posts. The overall presentation is clean and highlights the jewelry pieces.",
+        "confidence": 0.95,
+        "shape_visible": "circular, interlocking circles",
+        "color_appearance": "colorless / near-colorless (for stones)",
+        "size_impression": "small to medium",
+        "setting_or_mounting": "pave set, necklace, stud earrings",
+        "additional_notes": "two-tone metal design, small pave-set stones"
+      },
+      "rejected_at": "2026-04-29T05:11:54.740Z"
+    }
+  ],
+  "reviews": [],
+  "reviews_summary": {
+    "total_rating": null,
+    "no_of_ratings": 0,
+    "rating_comments": []
+  },
+  "social_urls": [
+    "https://www.facebook.com/OsrJewellers",
+    "http://instagram.com/osrjewellers"
+  ],
+  "overall_confidence": 0.9,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/OsrJewellers",
+      "profile_pic_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/352295665_792714025535929_1034527473676248368_n.jpg?stp=dst-jpg_p200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=f907e8&_nc_ohc=LoP9DnNluQMQ7kNvwHwOk35&_nc_oc=AdpcbhWtAFGKFe7qBPWHxlOJEyPj3LSqgTRoD4r--UIWuLtmpDGOKmDhWpf1TEPnqeo&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=YXSMg_A3RbiYuZLaPc6mug&_nc_ss=7e289&oh=00_Af2g6IcB3Sy0wQr-INxUhwOAYIgKV-ZAcv_ZrOc01is5CA&oe=69F760EB",
+      "banner_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/489703847_1101983195289309_8295155070734311606_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2a1932&_nc_ohc=6k-Hl20d2FkQ7kNvwGq47v8&_nc_oc=AdqYWyc6-N3oxKpZ86g-BMkp9w7ppj2B51mvzFCV3zf_8a9hk3S2ioG85nFRHOwKCEA&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=4q-PkmkBIi3nXFLnmRDyNQ&_nc_ss=7e289&oh=00_Af0NIIhjo-DyVk1hZSzxrYFJ0LF5Al_ZlKAhHm02pBNrfg&oe=69F766A5",
+      "bio": "07838119986 \nC-115 LAJPAT NAGAR -1 , NEW DELHI \nFREE COD IN INDIA\nBUY 1 GET FREE GIFT\nNO REFUND / NO EXCHANGE \nUNBOXING VIDEO REQUIRED ALWAYS",
+      "followers_count": 620145,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/2050193565871370/",
+          "thumbnail_url": "https://www.facebook.com/reel/2050193565871370/",
+          "caption": "Real diamond look dangler \n\nWhatsApp 7838119986\n\nC-115 Lajpat Nagar 1 New Delhi \n\n#osrjewellers #diamondearring",
+          "likes": 6,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777438317
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1446016890877107/",
+          "thumbnail_url": "https://www.facebook.com/reel/1446016890877107/",
+          "caption": "Happy shoppers at OSR JEWELLERS",
+          "likes": 3,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777432727
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1146049190986004/",
+          "thumbnail_url": "https://www.facebook.com/reel/1146049190986004/",
+          "caption": "Ruby pearl JADAU rani Haar \n\nWhatsApp 7838119986\n\nC-115 Lajpat Nagar 1 New Delhi \n\n#osrjewellers #jewellery #jadaujewellery",
+          "likes": 124,
+          "comments": 3,
+          "views": null,
+          "posted_at": 1777383117
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "7838119986",
+          "date": 1777438317,
+          "post_url": "https://www.facebook.com/reel/2050193565871370/"
+        }
+      ],
+      "extra_profile": {
+        "phone": "+91 78381 19986",
+        "email": "info@osrjewellers.com",
+        "website": "http://WWW.OSRJEWELLERS.COM/",
+        "address": "C-115 LAJPAT NAGAR -1 ,OPP. DEFENCE COLONY FLYOVER,, Delhi, India, 110024",
+        "city": null
+      }
+    },
+    {
+      "platform": "instagram",
+      "url": "http://instagram.com/osrjewellers",
+      "profile_pic_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/452730216_813633357501224_710414522155835508_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=pIzXU5XFZRwQ7kNvwHTYO2Z&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af3uk8IARrCbAcV2GCoESzN-ct4Nmu7MMUchPXXnLyXhOA&oe=69F76113&_nc_sid=8b3546",
+      "banner_url": null,
+      "bio": "📍C-115 LAJPAT NAGAR 1 NEW DELHI \n☎️7838119986\nFREE COD IN INDIA\n🌍 WORLDWIDE SHIPPING \nNO REFUND NO RETURN\nKeep your jewellery away from water/perfume",
+      "followers_count": 319131,
+      "following_count": 1374,
+      "posts_count": 11393,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DWNwJ1Wj7_-/",
+          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/657172087_1603341250970011_1685807398398822325_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=lx6MjhJQz5kQ7kNvwGO3En0&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af13Axm-edtDVWz4xx-MnM4EZHKaSK9AbrYQL4bm0LsjmA&oe=69F75815&_nc_sid=8b3546",
+          "caption": "PURE SILVER. FOREVER YOURS. ♥️💎\n\nJewellery that never fades, never tarnishes – and comes with a LIFETIME GUARANTEE.\n\n🎁 Free Gift with Every Order\n🚚 Free COD Across India\n📲 WhatsApp: 7838119986\n\nShop luxury that lasts: www.osrjewellers.com\nVisit us: C-115, Lajpat Nagar 1, New Delhi\n\n#PureSilverLuxury #LifetimeGuarantee #OSRJewellers #SilverJewellery #ForeverShine LuxuryThatLasts ShopWithLove SolitaireStyle EverydayLuxury IndiaJewellery",
+          "likes": 5892,
+          "comments": 3478,
+          "views": 196178,
+          "posted_at": "2026-03-23T05:17:57.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXJxFHSj_Gf/",
+          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/670346247_1275128584148661_1063658000767454816_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=ytwRIyRmRWwQ7kNvwFFPUm_&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1L1teuLl3lX8qxNOmMiMnBA4VkN1eoy6tLJMlOudms3w&oe=69F76706&_nc_sid=8b3546",
+          "caption": "Single line diamond necklace \n\n#osrjewellers #jewellery",
+          "likes": 1059,
+          "comments": 413,
+          "views": 35141,
+          "posted_at": "2026-04-15T12:43:01.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DWdLHPJkd4v/",
+          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/658285612_2184580482294660_3809357319500142960_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=2JM_8YQMElYQ7kNvwFd2gKd&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1aQ4mYepHVcZywH9Gt0sZ-H6-2_Rr9Aq2XJzGd3j8AaA&oe=69F77389&_nc_sid=8b3546",
+          "caption": "Screw back solitaire \n\nFree cash on delivery in india \n\n#osrjewellers #solitaire #kartiknayyar",
+          "likes": 952,
+          "comments": 348,
+          "views": 27017,
+          "posted_at": "2026-03-29T05:01:00.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXrDyi2j9j4/",
+          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/684146771_906126099150981_6211816863046931911_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=UdKwJWBktIoQ7kNvwEnSXxP&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af36_kO01n6DWGglceklrpeukmUKSpdIHX6vbjtehUZGEg&oe=69F76FC5&_nc_sid=8b3546",
+          "caption": "JADAU Multi Jhumka \n\n#osrjewellers #jadaujewellery",
+          "likes": 64,
+          "comments": 14,
+          "views": 1313,
+          "posted_at": "2026-04-28T10:57:43.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXqy4sejhkS/",
+          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/682002559_961753112892076_7138861935613592310_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=MioZSg3kADoQ7kNvwHzPV-A&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Up-cRouQz0oxz7wbC5oDc2n-jb_bSWSWpKaiv3zNvRQ&oe=69F766E2&_nc_sid=8b3546",
+          "caption": "JADAU Navratan chandbali",
+          "likes": 46,
+          "comments": 4,
+          "views": 934,
+          "posted_at": "2026-04-28T08:31:32.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXqw5tgjjaG/",
+          "thumbnail_url": "https://scontent-phl2-1.cdninstagram.com/v/t51.71878-15/682703972_26808347368782378_666269827216867105_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGxSqWP-4HlXaQN_ggdUZssRPPLjK6de43GC_TLzmZADDVPpkAV1zHYZiJmw1gB-Md-oqjdvAjk5WI91_qoXLkR&_nc_ohc=EAaXe0veqiYQ7kNvwH19vAh&_nc_gid=GaIwQakWpYfnTCD7xJVgbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1XuxdII7CJ0WDpzCx7WD-olNZvw_UAa5zrpknHZvNovg&oe=69F76CA2&_nc_sid=8b3546",
+          "caption": "Welcome to OSR JEWELLERS \n\nC-115 Lajpat Nagar 1 New Delhi",
+          "likes": 6,
+          "comments": 0,
+          "views": 333,
+          "posted_at": "2026-04-28T08:12:31.000Z"
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "7838119986",
+          "date": "2026-03-23T05:17:57.000Z",
+          "post_url": "https://www.instagram.com/p/DWNwJ1Wj7_-/"
+        }
+      ],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": "https://maps.app.goo.gl/GvVCk4Tz1Z2pDvZM8?g_st=ic",
+        "address": null,
+        "city": null
+      }
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-04-29T05:09:33.568Z",
+    "duration_seconds": 141,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 19,
+      "Agent04/Media": 17,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [],
+        "quality_target": 0.85,
+        "reasoning": "Company profile is incomplete and needs enrichment. Products need classification and enrichment. Reviews agent is skipped as no reviews API URL is provided. Media classification for product images will be handled by the product agent. Deduplication is required before writing to the catalog."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": 0.95,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 18,
+      "enriched": 19,
+      "catalog_items": 21,
+      "rejected": 2,
+      "with_vision": 13,
+      "vision_skipped": 4
+    },
+    "social": {
+      "urls_detected": 2,
+      "platforms_scraped": [
+        "facebook",
+        "instagram"
+      ],
+      "posts_collected": 9,
+      "social_products_extracted": 4
+    },
+    "overall_confidence": 0.9
+  },
+  "_saved_at": "2026-04-29T05:11:54.746Z"
+}
