@@ -60,7 +60,7 @@ export default function SplashScreen({
           transition={{ delay: 0.15, duration: 0.55 }}
           className="mt-8 text-xs uppercase tracking-[0.4em] text-muted-foreground"
         >
-          Loading showcase
+          Loading the catalog preview...
         </motion.p>
         <motion.h2
           initial={{ y: 18, opacity: 0 }}
@@ -76,7 +76,7 @@ export default function SplashScreen({
           transition={{ delay: 0.38, duration: 0.55 }}
           className="mt-3 max-w-md text-sm leading-7 text-muted-foreground"
         >
-          Preparing a polished catalog experience.
+          Rendering the catalog...
         </motion.p>
         <div className="mt-8 flex w-64 gap-2">
           {[0, 1, 2].map((item) => (
