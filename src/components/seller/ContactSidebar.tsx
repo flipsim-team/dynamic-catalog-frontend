@@ -1,4 +1,4 @@
-import { useRef } from "react";
+import { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import {
@@ -16,6 +16,7 @@ import {
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import type { SellerData, SocialPlatform } from "@/lib/sellerDataExtractor";
+import TrustGraphModal from "@/components/seller/TrustGraphModal";
 
 const PLATFORM_META: Record<
   SocialPlatform,
@@ -35,6 +36,8 @@ const PLATFORM_META: Record<
 export default function ContactSidebar({ data }: { data: SellerData }) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.1 });
   const sectionRef = useRef<HTMLElement>(null);
+  const [trustGraphOpen, setTrustGraphOpen] = useState(false);
+  const [showAllContacts, setShowAllContacts] = useState(false);
 
   const whatsappUrl =
     data.whatsappUrl ||
@@ -121,6 +124,37 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
     whatsapp: [],
     contactCta: [],
   };
+  const phoneEntries = data.phoneEntries?.length
+    ? data.phoneEntries
+    : data.primaryPhone
+      ? [
+          {
+            value: data.primaryPhone,
+            role: undefined,
+            sources: contactSources.primaryPhone,
+          },
+        ]
+      : [];
+  const emailEntries = data.emailEntries?.length
+    ? data.emailEntries
+    : data.email
+      ? [
+          {
+            value: data.email,
+            role: undefined,
+            sources: contactSources.email,
+          },
+        ]
+      : [];
+  const visiblePhoneEntries = showAllContacts
+    ? phoneEntries
+    : phoneEntries.slice(0, 2);
+  const visibleEmailEntries = showAllContacts
+    ? emailEntries
+    : emailEntries.slice(0, 2);
+  const hasHiddenContactEntries =
+    phoneEntries.length > visiblePhoneEntries.length ||
+    emailEntries.length > visibleEmailEntries.length;
 
   return (
     <section
@@ -188,28 +222,17 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                 whileHover={{ y: -2 }}
                 className="rounded-2xl p-6 bg-card border border-border shadow-sm flex flex-col gap-4"
               >
-                {(data.phoneEntries?.length
-                  ? data.phoneEntries
-                  : data.primaryPhone
-                    ? [
-                        {
-                          value: data.primaryPhone,
-                          role: undefined,
-                          sources: contactSources.primaryPhone,
-                        },
-                      ]
-                    : []
-                ).map((entry, index) => (
+                {visiblePhoneEntries.map((entry, index) => (
                   <div key={`phone-${entry.value}-${index}`}>
-                    <div className="flex flex-wrap items-center gap-2">
+                    <div className="flex flex-wrap items-start gap-2 min-w-0">
                       <a
                         href={`tel:${entry.value}`}
-                        className="flex items-center gap-3 text-foreground hover:text-primary transition-colors group"
+                        className="flex min-w-0 items-start gap-3 text-foreground hover:text-primary transition-colors group"
                       >
                         <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors">
                           <Phone className="w-4 h-4 text-primary" />
                         </div>
-                        <span className="text-sm font-medium">
+                        <span className="text-sm font-medium break-words leading-relaxed">
                           +91 {entry.value}
                         </span>
                       </a>
@@ -225,28 +248,17 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                   </div>
                 ))}
 
-                {(data.emailEntries?.length
-                  ? data.emailEntries
-                  : data.email
-                    ? [
-                        {
-                          value: data.email,
-                          role: undefined,
-                          sources: contactSources.email,
-                        },
-                      ]
-                    : []
-                ).map((entry, index) => (
+                {visibleEmailEntries.map((entry, index) => (
                   <div key={`email-${entry.value}-${index}`}>
-                    <div className="flex flex-wrap items-center gap-2 min-w-0">
+                    <div className="flex flex-wrap items-start gap-2 min-w-0">
                       <a
                         href={`mailto:${entry.value}`}
-                        className="flex items-center gap-3 text-foreground hover:text-primary transition-colors group min-w-0"
+                        className="flex min-w-0 items-start gap-3 text-foreground hover:text-primary transition-colors group"
                       >
                         <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors shrink-0">
                           <Mail className="w-4 h-4 text-primary" />
                         </div>
-                        <span className="text-sm font-medium truncate max-w-[260px]">
+                        <span className="text-sm font-medium break-words leading-relaxed">
                           {entry.value}
                         </span>
                       </a>
@@ -260,12 +272,14 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                   </div>
                 ))}
                 {data.fullAddress && (
-                  <div>
-                    <div className="flex flex-wrap items-center gap-2 text-foreground">
-                      <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center shrink-0 mt-0.5">
-                        <MapPin className="w-4 h-4 text-primary" />
-                      </div>
-                      <span className="text-sm">{data.fullAddress}</span>
+                  <div className="flex items-start gap-2 min-w-0 text-foreground">
+                    <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center shrink-0 mt-0.5">
+                      <MapPin className="w-4 h-4 text-primary" />
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <span className="block text-sm leading-relaxed break-words">
+                        {data.fullAddress}
+                      </span>
                       {inlineSourceChips(contactSources.address)}
                     </div>
                   </div>
@@ -292,35 +306,44 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                     </div>
                   </div>
                 )}
+
+                {hasHiddenContactEntries && (
+                  <div className="pt-1">
+                    <Button
+                      type="button"
+                      variant="outline"
+                      onClick={() => setShowAllContacts((value) => !value)}
+                      className="w-full rounded-xl border-dashed"
+                    >
+                      {showAllContacts
+                        ? "Show less"
+                        : "View more contact details"}
+                    </Button>
+                  </div>
+                )}
               </motion.div>
 
-              <div className="rounded-2xl p-4 bg-card border border-border shadow-sm">
-                <p className="text-xs uppercase tracking-wider text-muted-foreground font-semibold mb-2">
-                  Contact Presence
-                </p>
-                <div className="flex flex-wrap gap-2">
-                  {data.primaryPhone && (
-                    <span className="rounded-full border border-border bg-muted px-3 py-1 text-xs font-semibold text-foreground">
-                      Phone
-                    </span>
-                  )}
-                  {data.email && (
-                    <span className="rounded-full border border-border bg-muted px-3 py-1 text-xs font-semibold text-foreground">
-                      Email
-                    </span>
-                  )}
-                  {data.website && (
-                    <span className="rounded-full border border-border bg-muted px-3 py-1 text-xs font-semibold text-foreground">
-                      Website
-                    </span>
-                  )}
-                  {whatsappUrl && (
-                    <span className="rounded-full border border-border bg-muted px-3 py-1 text-xs font-semibold text-foreground">
-                      WhatsApp
-                    </span>
-                  )}
+              <div className="rounded-2xl p-4 bg-card border border-border shadow-sm flex flex-col gap-3">
+                <div className="flex items-center justify-between gap-3 flex-wrap">
+                  <div>
+                    <p className="text-xs uppercase tracking-wider text-muted-foreground font-semibold mb-1">
+                      Trust graph
+                    </p>
+                    <p className="text-sm text-foreground">
+                      See how contact details and sources connect across the
+                      data.
+                    </p>
+                  </div>
+                  <Button
+                    type="button"
+                    variant="outline"
+                    onClick={() => setTrustGraphOpen(true)}
+                    className="rounded-xl"
+                  >
+                    View trust graph
+                  </Button>
                 </div>
-                {sourceChips(contactSources.contactCta)}
+                {/* {sourceChips(contactSources.contactCta)} */}
               </div>
 
               <div>
@@ -376,6 +399,12 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
           </div>
         </motion.div>
       </div>
+
+      <TrustGraphModal
+        data={data}
+        open={trustGraphOpen}
+        onOpenChange={setTrustGraphOpen}
+      />
     </section>
   );
 }

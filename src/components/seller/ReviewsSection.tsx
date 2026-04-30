@@ -45,7 +45,6 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
 
   const rating = data.reviewsSummary.totalRating;
   const count = data.reviewsSummary.noOfRatings;
-  const comments = data.reviewsSummary.ratingComments || [];
   const reviews = data.individualReviews || [];
   const sourceBreakdown = data.reviewsSummary.sourceBreakdown || {};
   const sourceOptions = useMemo(() => {
@@ -73,7 +72,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
       : sourceOptions.length > 1
         ? "Multiple"
         : "Public";
-  const hasIndividual = reviews.length > 0 || comments.length > 0;
+  const hasIndividual = reviews.length > 0;
   const filteredReviews = useMemo(() => {
     return reviews.filter((review) => {
       const starMatch =
@@ -83,9 +82,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
       return starMatch && sourceMatch;
     });
   }, [reviews, selectedSource, selectedStars]);
-  const visibleComments = selectedStars === "all" ? comments : [];
-  const hasFilteredResults =
-    filteredReviews.length > 0 || visibleComments.length > 0;
+  const hasFilteredResults = filteredReviews.length > 0;
   const starCounts = useMemo(() => {
     const counts: Record<number, number> = { 5: 0, 4: 0, 3: 0, 2: 0, 1: 0 };
     for (const review of reviews) {
@@ -275,7 +272,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                               : "bg-background text-foreground border-border hover:border-primary/40"
                           }`}
                         >
-                          All ({reviews.length + comments.length})
+                          All ({reviews.length})
                         </button>
                         {[5, 4, 3, 2, 1].map((star) => (
                           <button
@@ -375,26 +372,6 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                           {r.date}
                         </p>
                       )}
-                    </div>
-                  ))}
-                  {visibleComments.map((c: unknown, i: number) => (
-                    <div
-                      key={`c${i}`}
-                      className="rounded-xl border border-border p-4 bg-muted/30"
-                    >
-                      <p className="text-sm text-muted-foreground leading-relaxed">
-                        {typeof c === "string"
-                          ? c
-                          : typeof c === "object" && c !== null
-                            ? String(
-                                (c as { text?: string; comment?: string })
-                                  .text ||
-                                  (c as { text?: string; comment?: string })
-                                    .comment ||
-                                  "",
-                              )
-                            : ""}
-                      </p>
                     </div>
                   ))}
                   {!hasFilteredResults && (

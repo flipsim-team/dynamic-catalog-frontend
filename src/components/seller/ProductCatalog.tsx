@@ -7,16 +7,76 @@ import ProductCard from "./ProductCard";
 import ProductDetailModal from "./ProductDetailModal";
 import type { SellerData, CatalogProduct } from "@/lib/sellerDataExtractor";
 
+function normalizeSourceLabel(source: string) {
+  const key = String(source || "")
+    .trim()
+    .toLowerCase();
+  if (key === "youtube") return "YouTube";
+  if (key === "instagram") return "Instagram";
+  if (key === "facebook") return "Facebook";
+  if (key === "linkedin") return "LinkedIn";
+  if (key === "twitter") return "Twitter/X";
+  if (key === "whatsapp") return "WhatsApp";
+  if (key === "website") return "Website";
+  return key ? key.charAt(0).toUpperCase() + key.slice(1) : "Source";
+}
+
 export default function ProductCatalog({ data }: { data: SellerData }) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.04 });
   const [activeCat, setActiveCat] = useState<string>("All");
+  const [activeSource, setActiveSource] = useState<string>("All");
   const [selected, setSelected] = useState<CatalogProduct | null>(null);
   const [showNoImageProducts, setShowNoImageProducts] = useState(false);
 
+  const sourceFilters = useMemo(() => {
+    const counts = new Map<string, number>();
+
+    for (const product of data.products) {
+      const sourceKeys = new Set<string>();
+      const primarySource = String(product.source || "")
+        .trim()
+        .toLowerCase();
+      if (primarySource) sourceKeys.add(primarySource);
+
+      for (const link of product.sourceLinks || []) {
+        if (link.platform)
+          sourceKeys.add(String(link.platform).trim().toLowerCase());
+      }
+
+      for (const key of sourceKeys) {
+        counts.set(key, (counts.get(key) || 0) + 1);
+      }
+    }
+
+    return Array.from(counts.entries())
+      .map(([name, count]) => ({ name, count }))
+      .sort((a, b) =>
+        normalizeSourceLabel(a.name).localeCompare(
+          normalizeSourceLabel(b.name),
+        ),
+      );
+  }, [data.products]);
+
   const filtered = useMemo(() => {
-    if (activeCat === "All") return data.products;
-    return data.products.filter((p) => p.category === activeCat);
-  }, [activeCat, data.products]);
+    return data.products.filter((product) => {
+      const matchesCategory =
+        activeCat === "All" || product.category === activeCat;
+      const sourceKeys = new Set<string>();
+      const primarySource = String(product.source || "")
+        .trim()
+        .toLowerCase();
+      if (primarySource) sourceKeys.add(primarySource);
+
+      for (const link of product.sourceLinks || []) {
+        if (link.platform)
+          sourceKeys.add(String(link.platform).trim().toLowerCase());
+      }
+
+      const matchesSource =
+        activeSource === "All" || sourceKeys.has(activeSource.toLowerCase());
+      return matchesCategory && matchesSource;
+    });
+  }, [activeCat, activeSource, data.products]);
 
   const withImageProducts = useMemo(
     () => filtered.filter((product) => Boolean(product.primaryPhoto)),
@@ -30,6 +90,10 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
   useEffect(() => {
     setShowNoImageProducts(false);
   }, [activeCat]);
+
+  useEffect(() => {
+    setShowNoImageProducts(false);
+  }, [activeSource]);
 
   if (!data.products.length) return null;
 
@@ -117,8 +181,11 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
         >
           <CategoryFilterBar
             categories={data.categories}
+            sources={sourceFilters}
             active={activeCat}
             onChange={setActiveCat}
+            activeSource={activeSource}
+            onSourceChange={setActiveSource}
             totalCount={data.products.length}
           />
         </motion.div>

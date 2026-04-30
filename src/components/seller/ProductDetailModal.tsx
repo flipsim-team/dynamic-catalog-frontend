@@ -1,9 +1,11 @@
 import { useState, useEffect } from "react";
+import { lockBodyScroll, unlockBodyScroll } from "@/lib/utils";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   X,
   ChevronLeft,
   ChevronRight,
+  ImageIcon,
   MessageCircle,
   ExternalLink,
   Tag,
@@ -31,22 +33,34 @@ export default function ProductDetailModal({
 }: Props) {
   const [photoIdx, setPhotoIdx] = useState(0);
   const [imageError, setImageError] = useState(false);
+  const isOpen = !!product;
 
+  // Scroll lock effect
   useEffect(() => {
-    setPhotoIdx(0);
-    setImageError(false);
+    if (isOpen) {
+      lockBodyScroll();
+      return () => unlockBodyScroll();
+    }
+  }, [isOpen]);
+
+  // Photo reset effect
+  useEffect(() => {
     if (product) {
-      document.body.style.overflow = "hidden";
+      setPhotoIdx(0);
+      setImageError(false);
+    }
+  }, [product]);
+
+  // Escape key effect
+  useEffect(() => {
+    if (isOpen) {
       const onKey = (e: KeyboardEvent) => {
         if (e.key === "Escape") onClose();
       };
       window.addEventListener("keydown", onKey);
-      return () => {
-        document.body.style.overflow = "";
-        window.removeEventListener("keydown", onKey);
-      };
+      return () => window.removeEventListener("keydown", onKey);
     }
-  }, [product, onClose]);
+  }, [isOpen, onClose]);
 
   if (!product) return null;
 
@@ -96,7 +110,7 @@ export default function ProductDetailModal({
           animate={{ scale: 1, opacity: 1, y: 0 }}
           exit={{ scale: 0.95, opacity: 0 }}
           transition={{ type: "spring", damping: 28, stiffness: 240 }}
-          className="relative w-full max-w-5xl max-h-[92vh] bg-background rounded-3xl shadow-2xl overflow-hidden flex flex-col"
+          className="relative w-full max-w-5xl max-h-[92vh] h-auto bg-background rounded-xl sm:rounded-3xl shadow-2xl overflow-hidden flex flex-col"
           onClick={(e) => e.stopPropagation()}
         >
           <button
@@ -108,51 +122,58 @@ export default function ProductDetailModal({
           </button>
 
           <div
-            className={`${hasAnyPhoto ? "grid lg:grid-cols-2 overflow-y-auto lg:overflow-hidden lg:h-[90vh]" : "overflow-y-auto lg:h-[90vh]"}`}
+            className={`${hasAnyPhoto ? "grid lg:grid-cols-[45%_55%] overflow-y-auto lg:overflow-hidden lg:h-[min(90vh,900px)]" : "overflow-y-auto lg:h-[min(90vh,900px)]"}`}
           >
-            {hasAnyPhoto && (
-              <div className="relative aspect-square lg:aspect-auto lg:h-full bg-muted/50 flex items-center justify-center">
-                {hasImage && (
-                  <img
-                    src={currentPhoto}
-                    alt={product.name}
-                    className="w-full h-full object-contain p-6"
-                    onError={() => setImageError(true)}
-                  />
-                )}
-                {photos.length > 1 && (
-                  <>
-                    <button
-                      onClick={prev}
-                      className="absolute left-3 top-1/2 -translate-y-1/2 w-9 h-9 rounded-full bg-card/90 border border-border flex items-center justify-center hover:bg-card"
-                    >
-                      <ChevronLeft className="w-5 h-5" />
-                    </button>
-                    <button
-                      onClick={next}
-                      className="absolute right-3 top-1/2 -translate-y-1/2 w-9 h-9 rounded-full bg-card/90 border border-border flex items-center justify-center hover:bg-card"
-                    >
-                      <ChevronRight className="w-5 h-5" />
-                    </button>
-                    <div className="absolute bottom-3 left-1/2 -translate-x-1/2 flex gap-1.5 bg-card/80 border border-border rounded-full px-3 py-1.5 backdrop-blur">
-                      {photos.map((_, i) => (
-                        <button
-                          key={i}
-                          onClick={() => {
-                            setImageError(false);
-                            setPhotoIdx(i);
-                          }}
-                          className={`w-1.5 h-1.5 rounded-full transition-all ${i === photoIdx ? "bg-primary w-6" : "bg-muted-foreground/40"}`}
-                        />
-                      ))}
-                    </div>
-                  </>
-                )}
-              </div>
-            )}
+            <div className="relative min-h-[220px] md:min-h-[320px] lg:h-full bg-muted/50 flex items-center justify-center overflow-hidden">
+              {hasImage ? (
+                <img
+                  src={currentPhoto}
+                  alt={product.name || "Product image couldn't be loaded"}
+                  className="w-full h-full object-contain p-4 sm:p-6"
+                  onError={() => setImageError(true)}
+                />
+              ) : (
+                <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-muted-foreground px-4 text-center">
+                  <div className="w-12 h-12 rounded-xl bg-muted border border-border flex items-center justify-center">
+                    <ImageIcon className="w-6 h-6" />
+                  </div>
+                  <p className="text-xs font-medium text-foreground">
+                    Image could not be loaded.
+                  </p>
+                </div>
+              )}
+              {photos.length > 1 && (
+                <>
+                  <button
+                    onClick={prev}
+                    className="absolute left-3 top-1/2 -translate-y-1/2 w-9 h-9 rounded-full bg-card/90 border border-border flex items-center justify-center hover:bg-card"
+                  >
+                    <ChevronLeft className="w-5 h-5" />
+                  </button>
+                  <button
+                    onClick={next}
+                    className="absolute right-3 top-1/2 -translate-y-1/2 w-9 h-9 rounded-full bg-card/90 border border-border flex items-center justify-center hover:bg-card"
+                  >
+                    <ChevronRight className="w-5 h-5" />
+                  </button>
+                  <div className="absolute bottom-3 left-1/2 -translate-x-1/2 flex gap-1.5 bg-card/80 border border-border rounded-full px-3 py-1.5 backdrop-blur">
+                    {photos.map((_, i) => (
+                      <button
+                        key={i}
+                        onClick={() => {
+                          setImageError(false);
+                          setPhotoIdx(i);
+                        }}
+                        className={`w-1.5 h-1.5 rounded-full transition-all ${i === photoIdx ? "bg-primary w-6" : "bg-muted-foreground/40"}`}
+                      />
+                    ))}
+                  </div>
+                </>
+              )}
+            </div>
 
             {/* Details */}
-            <div className="p-6 sm:p-8 flex flex-col gap-5 lg:overflow-y-auto">
+            <div className="p-5 sm:p-8 flex flex-col gap-5 min-h-0 overflow-y-auto max-h-[65vh] sm:max-h-[72vh] lg:overflow-y-auto lg:max-h-none">
               <div>
                 <div className="flex flex-wrap gap-2 mb-3">
                   <span className="rounded-full bg-primary/10 text-primary px-3 py-1 text-[11px] font-semibold uppercase tracking-wider">

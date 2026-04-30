@@ -38,9 +38,10 @@ function formatDate(ts: string) {
 function InstagramEmbed({ post }: { post: SocialPost }) {
   const embedRef = useRef<HTMLDivElement>(null);
   const [loaded, setLoaded] = useState(false);
+  const hasValidUrl = Boolean(post.url && /^https?:\/\//i.test(post.url));
 
   useEffect(() => {
-    if (!embedRef.current) return;
+    if (!embedRef.current || !hasValidUrl) return;
     const instWindow = window as Window & {
       instgrm?: {
         Embeds?: {
@@ -76,7 +77,27 @@ function InstagramEmbed({ post }: { post: SocialPost }) {
     }
 
     return () => clearTimeout(timeout);
-  }, [post.url]);
+  }, [hasValidUrl, post.url]);
+
+  if (!hasValidUrl) {
+    return (
+      <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm min-h-[520px] flex flex-col">
+        <div className="flex flex-1 flex-col p-4">
+          <div className="flex items-center gap-3 mb-3">
+            <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-purple-500 via-pink-500 to-orange-400">
+              <Instagram className="h-4 w-4 text-white" />
+            </div>
+            <span className="text-xs text-muted-foreground truncate">
+              {formatDate(post.postedAt)}
+            </span>
+          </div>
+          <div className="flex-1 rounded-lg border border-dashed border-border bg-muted/40 flex items-center justify-center text-center px-4 text-sm text-muted-foreground">
+            Instagram link unavailable
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div
@@ -87,6 +108,7 @@ function InstagramEmbed({ post }: { post: SocialPost }) {
         className="instagram-media"
         data-instgrm-permalink={post.url}
         data-instgrm-version="14"
+        data-instgrm-captioned="true"
         style={{
           background: "hsl(var(--card))",
           border: 0,
@@ -148,12 +170,85 @@ function InstagramEmbed({ post }: { post: SocialPost }) {
   );
 }
 
+function FacebookEmbed({ post }: { post: SocialPost }) {
+  const [loaded, setLoaded] = useState(false);
+  const hasValidUrl = Boolean(post.url && /^https?:\/\//i.test(post.url));
+
+  if (!hasValidUrl) {
+    return (
+      <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm min-h-[520px] flex flex-col p-4">
+        <div className="flex items-center gap-3 mb-3">
+          <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-blue-600">
+            <Facebook className="h-4 w-4 text-white" />
+          </div>
+          <span className="text-xs text-muted-foreground truncate">
+            {formatDate(post.postedAt)}
+          </span>
+        </div>
+        <div className="flex-1 rounded-lg border border-dashed border-border bg-muted/40 flex items-center justify-center text-center px-4 text-sm text-muted-foreground">
+          Facebook link unavailable
+        </div>
+      </div>
+    );
+  }
+
+  const isReel = /facebook\.com\/reel\//i.test(post.url);
+  const plugin = isReel ? "video.php" : "post.php";
+  const embedUrl = `https://www.facebook.com/plugins/${plugin}?href=${encodeURIComponent(post.url)}&show_text=true&width=500`;
+
+  return (
+    <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm hover:shadow-md transition-shadow flex flex-col h-full">
+      {!loaded && (
+        <div className="p-4 border-b border-border">
+          <div className="flex items-center gap-3">
+            <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-blue-600">
+              <Facebook className="h-4 w-4 text-white" />
+            </div>
+            <span className="text-xs text-muted-foreground truncate">
+              {formatDate(post.postedAt)}
+            </span>
+          </div>
+        </div>
+      )}
+
+      <iframe
+        src={embedUrl}
+        title="Facebook post"
+        loading="lazy"
+        className="w-full min-h-[520px] border-0"
+        onLoad={() => setLoaded(true)}
+      />
+
+      <div className="p-3 border-t border-border flex items-center justify-between gap-3">
+        <div className="flex items-center gap-4 text-xs text-muted-foreground">
+          <span className="flex items-center gap-1">
+            <Heart className="w-3.5 h-3.5" /> {formatCount(post.likes)}
+          </span>
+          <span className="flex items-center gap-1">
+            <MessageCircle className="w-3.5 h-3.5" />{" "}
+            {formatCount(post.comments)}
+          </span>
+        </div>
+        <a
+          href={post.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1.5 text-xs font-semibold text-primary hover:bg-muted transition-colors"
+        >
+          Open <ExternalLink className="w-3 h-3" />
+        </a>
+      </div>
+    </div>
+  );
+}
+
 export default function SocialPosts({ data }: { data: SellerData }) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.05 });
   const [videoModal, setVideoModal] = useState<string | null>(null);
 
   const ig = data.socialProfiles.find((p) => p.platform === "instagram");
   const yt = data.socialProfiles.find((p) => p.platform === "youtube");
+  const fb = data.socialProfiles.find((p) => p.platform === "facebook");
   const socialAvailability = data.socialAvailability || {
     instagram: { url: ig?.url || "", hasPosts: !!ig?.posts?.length },
     facebook: {
@@ -187,6 +282,7 @@ export default function SocialPosts({ data }: { data: SellerData }) {
   const platformsWithPosts: Platform[] = [];
   if (ig && ig.posts.length > 0) platformsWithPosts.push("instagram");
   if (yt && yt.posts.length > 0) platformsWithPosts.push("youtube");
+  if (fb && fb.posts.length > 0) platformsWithPosts.push("facebook");
 
   const [activePlatform, setActivePlatform] = useState<Platform>(
     platformsWithPosts[0] || "instagram",
@@ -322,17 +418,19 @@ export default function SocialPosts({ data }: { data: SellerData }) {
 
           {activePlatform === "instagram" && ig && activeHasPosts && (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 auto-rows-fr">
-              {ig.posts.map((post, i) => (
-                <motion.div
-                  key={post.url}
-                  initial={{ opacity: 0, y: 30 }}
-                  animate={inView ? { opacity: 1, y: 0 } : {}}
-                  transition={{ delay: i * 0.08, duration: 0.5 }}
-                  className="h-full"
-                >
-                  <InstagramEmbed post={post} />
-                </motion.div>
-              ))}
+              {ig.posts
+                .filter((post) => Boolean(post.url))
+                .map((post, i) => (
+                  <motion.div
+                    key={post.url}
+                    initial={{ opacity: 0, y: 30 }}
+                    animate={inView ? { opacity: 1, y: 0 } : {}}
+                    transition={{ delay: i * 0.08, duration: 0.5 }}
+                    className="h-full"
+                  >
+                    <InstagramEmbed post={post} />
+                  </motion.div>
+                ))}
             </div>
           )}
 
@@ -399,6 +497,24 @@ export default function SocialPosts({ data }: { data: SellerData }) {
                   </motion.div>
                 );
               })}
+            </div>
+          )}
+
+          {activePlatform === "facebook" && fb && activeHasPosts && (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 auto-rows-fr">
+              {fb.posts
+                .filter((post) => Boolean(post.url))
+                .map((post, i) => (
+                  <motion.div
+                    key={post.url}
+                    initial={{ opacity: 0, y: 30 }}
+                    animate={inView ? { opacity: 1, y: 0 } : {}}
+                    transition={{ delay: i * 0.08, duration: 0.5 }}
+                    className="h-full"
+                  >
+                    <FacebookEmbed post={post} />
+                  </motion.div>
+                ))}
             </div>
           )}
 

@@ -18,7 +18,7 @@ export default function ProductCard({
 }: Props) {
   const [imgLoaded, setImgLoaded] = useState(false);
   const [imgError, setImgError] = useState(false);
-  const sourceTiles = product.sourceTiles.slice(0, 4);
+  const sourceTiles = product.sourceTiles.slice(0, 6);
 
   return (
     <motion.article
@@ -66,10 +66,27 @@ export default function ProductCard({
               {product.category}
             </span>
           </div>
-          {product.source && (
-            <span className="absolute bottom-3 left-3 inline-flex items-center gap-1 rounded-full bg-background/90 backdrop-blur border border-border px-2 py-0.5 text-[10px] font-semibold text-muted-foreground uppercase tracking-wider">
-              via {product.source}
-            </span>
+          {(product.source || sourceTiles.length > 0) && (
+            <div className="absolute bottom-3 left-3 right-3 flex justify-start pointer-events-none">
+              <div className="max-w-full overflow-x-auto no-scrollbar">
+                <div className="flex items-center gap-1.5 min-w-max pr-2">
+                  {/* {product.source && (
+                    <span className="inline-flex items-center gap-1 rounded-full bg-background/90 backdrop-blur border border-border px-2 py-0.5 text-[10px] font-semibold text-muted-foreground uppercase tracking-wider">
+                      via {product.source}
+                    </span>
+                  )} */}
+                  {sourceTiles.map((tile) => (
+                    <span
+                      key={`${product.id}-${tile.key}`}
+                      className="inline-flex items-center rounded-full bg-card/90 backdrop-blur border border-border px-2 py-0.5 text-[10px] font-semibold text-foreground uppercase tracking-wider"
+                      title={tile.label}
+                    >
+                      {tile.label}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
           )}
         </div>
       )}
@@ -112,7 +129,7 @@ export default function ProductCard({
           </div>
         )}
 
-        {sourceTiles.length > 0 && (
+        {/* {sourceTiles.length > 0 && (
           <div className="flex flex-wrap gap-1.5">
             {sourceTiles.map((tile) => (
               <span
@@ -124,7 +141,7 @@ export default function ProductCard({
               </span>
             ))}
           </div>
-        )}
+        )} */}
 
         {/* Price + CTA */}
         <div className="mt-auto pt-3 border-t border-border flex items-center justify-between gap-3">

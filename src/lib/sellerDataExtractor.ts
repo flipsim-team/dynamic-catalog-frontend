@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import defaultSellerRawData from "@/data/sellerData.json";
 
 export type SocialPlatform =
@@ -241,6 +242,67 @@ function normalizeSocialUrlEntries(
   return out;
 }
 
+function normalizeUrlKey(url: string): string {
+  const trimmed = String(url || "").trim();
+  if (!trimmed) return "";
+  try {
+    const parsed = new URL(trimmed);
+    parsed.hash = "";
+    parsed.search = "";
+    parsed.hostname = parsed.hostname.toLowerCase();
+    parsed.protocol = parsed.protocol.toLowerCase();
+    return parsed.toString().replace(/\/$/, "");
+  } catch {
+    return trimmed.toLowerCase().replace(/\/$/, "");
+  }
+}
+
+function mergeSourceEntries(
+  entries: Array<{ value: string; sources: SourceMeta[] }>,
+): Array<{ value: string; sources: SourceMeta[] }> {
+  const merged = new Map<string, { value: string; sources: SourceMeta[] }>();
+  for (const entry of entries) {
+    const key = normalizeUrlKey(entry.value);
+    if (!key) continue;
+    const existing = merged.get(key);
+    if (!existing) {
+      merged.set(key, {
+        value: entry.value,
+        sources: [...entry.sources],
+      });
+      continue;
+    }
+    const sourceMap = new Map(
+      existing.sources.map((source) => [source.key, source]),
+    );
+    for (const source of entry.sources) {
+      sourceMap.set(source.key, source);
+    }
+    const candidateValue =
+      entry.value.length > existing.value.length ? entry.value : existing.value;
+    merged.set(key, {
+      value: candidateValue,
+      sources: Array.from(sourceMap.values()),
+    });
+  }
+  return Array.from(merged.values());
+}
+
+function choosePreferredSocialEntries(
+  socialUrls: unknown[],
+  social: unknown,
+): Array<{ value: string; sources: SourceMeta[] }> {
+  const socialUrlEntries = normalizeSocialUrlEntries(socialUrls);
+  const socialEntries = normalizeSocialUrlEntries(
+    Array.isArray(social) ? social : [],
+  );
+  const preferred =
+    socialEntries.length > socialUrlEntries.length
+      ? socialEntries
+      : socialUrlEntries;
+  return mergeSourceEntries(preferred);
+}
+
 function classifyUrl(url: string): SocialPlatform | null {
   if (!url) return null;
   const u = url.toLowerCase();
@@ -349,10 +411,10 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   }
 
   // Augment with social_urls (fallback for platforms missing in social_profiles)
-  const socialUrlEntries = normalizeSocialUrlEntries([
-    ...(cp.social_urls || []),
-    ...(data.social_urls || []),
-  ]);
+  const socialUrlEntries = choosePreferredSocialEntries(
+    [...(cp.social_urls || [])],
+    cp.social,
+  );
 
   // Include explicit platform URLs under company_profile (facebook, instagram, etc.)
   for (const platform of PLATFORMS) {
@@ -367,8 +429,9 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const dedupSocialUrls: Array<{ value: string; sources: SourceMeta[] }> = [];
   const seenSocialUrl = new Set<string>();
   for (const entry of socialUrlEntries) {
-    if (seenSocialUrl.has(entry.value)) continue;
-    seenSocialUrl.add(entry.value);
+    const key = normalizeUrlKey(entry.value);
+    if (seenSocialUrl.has(key)) continue;
+    seenSocialUrl.add(key);
     dedupSocialUrls.push(entry);
   }
 
@@ -466,7 +529,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
 
       const seenLink = new Set<string>();
       const dedupLinks = sourceLinks.filter((link) => {
-        const key = `${link.label}:${link.url}`;
+        const key = `${link.label}:${normalizeUrlKey(link.url)}`;
         if (seenLink.has(key)) return false;
         seenLink.add(key);
         return true;
@@ -499,7 +562,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         primaryPhoto: c.primary_photo_url || c.photo_urls?.[0] || "",
         photos: (c.photo_urls || []).filter(Boolean),
         inStock: c.in_stock !== false,
-        sourceUrl,
+        // sourceUrl,
         source: c.source || "",
         sourceTiles: dedupTiles,
         sourceLinks: dedupLinks,
@@ -520,19 +583,20 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const galleryImages: { url: string; source: string; caption?: string }[] = [];
   const seen = new Set<string>();
   const addImg = (url: string, source: string, caption?: string) => {
-    if (!url || seen.has(url)) return;
-    seen.add(url);
+    const key = normalizeUrlKey(url);
+    if (!key || seen.has(key)) return;
+    seen.add(key);
     galleryImages.push({ url, source, caption });
   };
   products.forEach((p) => {
-    addImg(p.primaryPhoto, "Catalog", p.name);
-    p.photos.forEach((ph) => addImg(ph, "Catalog", p.name));
+    addImg(p.primaryPhoto, (p.source || "Catalog").toUpperCase(), p.name);
+    p.photos.forEach((ph) => addImg(ph, (p.source || "Catalog").toUpperCase(), p.name));
   });
   (data.media_assets || []).forEach((m: any) =>
     addImg(m.url, "Catalog", m.product_name),
   );
-  ig?.posts.forEach((p) => addImg(p.thumbnailUrl, "Instagram", p.caption));
-  yt?.posts.forEach((p) => addImg(p.thumbnailUrl, "YouTube", p.caption));
+  ig?.posts.forEach((p) => addImg(p.thumbnailUrl, "INSTAGRAM", p.caption));
+  yt?.posts.forEach((p) => addImg(p.thumbnailUrl, "YOUTUBE", p.caption));
 
   // Reviews summary
   const rs = data.reviews_summary || {};
@@ -682,6 +746,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     bannerUrl,
     whatsappUrl,
     socialProfiles,
+    socialUrls: dedupSocialUrls,
     products,
     totalProducts,
     showcasedItems,

@@ -34,6 +34,24 @@ const PLATFORM_ICONS: Record<SocialPlatform, LucideIcon> = {
   whatsapp: ExternalLink,
 };
 
+function classifySocialUrl(url: string): SocialPlatform | null {
+  try {
+    const host = new URL(url).hostname.replace(/^www\./, "").toLowerCase();
+    if (host.includes("instagram.com")) return "instagram";
+    if (host.includes("facebook.com")) return "facebook";
+    if (host.includes("youtube.com") || host.includes("youtu.be"))
+      return "youtube";
+    if (host.includes("linkedin.com")) return "linkedin";
+    if (host.includes("twitter.com") || host.includes("x.com"))
+      return "twitter";
+    if (host.includes("wa.me") || host.includes("whatsapp.com"))
+      return "whatsapp";
+    return null;
+  } catch {
+    return null;
+  }
+}
+
 const Footer = forwardRef<HTMLElement, { data: SellerData }>(
   ({ data }, ref) => {
     const initials = data.sellerName
@@ -56,40 +74,10 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
       whatsapp: [],
       contactCta: [],
     };
-    const socialAvailability = data.socialAvailability || {
-      instagram: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "instagram")?.url ||
-          "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "instagram")
-          ?.posts?.length,
-      },
-      facebook: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "facebook")?.url || "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "facebook")
-          ?.posts?.length,
-      },
-      youtube: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "youtube")?.url || "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "youtube")
-          ?.posts?.length,
-      },
-      twitter: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "twitter")?.url || "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "twitter")
-          ?.posts?.length,
-      },
-      linkedin: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "linkedin")?.url || "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "linkedin")
-          ?.posts?.length,
-      },
-      whatsapp: { url: data.whatsappUrl || "", hasPosts: !!data.whatsappUrl },
-    };
+    const socialUrlByPlatform = (platform: SocialPlatform) =>
+      data.socialUrls?.find(
+        (entry) => classifySocialUrl(entry.value) === platform,
+      )?.value || "";
 
     return (
       <footer
@@ -186,14 +174,13 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
                 ).map((platform) => {
                   const Icon = PLATFORM_ICONS[platform];
                   if (!Icon) return null;
-                  const availability = socialAvailability[platform];
-                  const enabled = !!availability?.hasPosts;
+                  const url = socialUrlByPlatform(platform);
 
-                  if (enabled && availability.url) {
+                  if (url) {
                     return (
                       <motion.a
                         key={platform}
-                        href={availability.url}
+                        href={url}
                         target="_blank"
                         rel="noopener noreferrer"
                         whileHover={{ y: -2, scale: 1.05 }}
