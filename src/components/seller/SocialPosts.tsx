@@ -80,23 +80,7 @@ function InstagramEmbed({ post }: { post: SocialPost }) {
   }, [hasValidUrl, post.url]);
 
   if (!hasValidUrl) {
-    return (
-      <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm min-h-[520px] flex flex-col">
-        <div className="flex flex-1 flex-col p-4">
-          <div className="flex items-center gap-3 mb-3">
-            <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-purple-500 via-pink-500 to-orange-400">
-              <Instagram className="h-4 w-4 text-white" />
-            </div>
-            <span className="text-xs text-muted-foreground truncate">
-              {formatDate(post.postedAt)}
-            </span>
-          </div>
-          <div className="flex-1 rounded-lg border border-dashed border-border bg-muted/40 flex items-center justify-center text-center px-4 text-sm text-muted-foreground">
-            Instagram link unavailable
-          </div>
-        </div>
-      </div>
-    );
+    return null;
   }
 
   return (
@@ -175,21 +159,7 @@ function FacebookEmbed({ post }: { post: SocialPost }) {
   const hasValidUrl = Boolean(post.url && /^https?:\/\//i.test(post.url));
 
   if (!hasValidUrl) {
-    return (
-      <div className="overflow-hidden rounded-xl border border-border bg-card shadow-sm min-h-[520px] flex flex-col p-4">
-        <div className="flex items-center gap-3 mb-3">
-          <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-blue-600">
-            <Facebook className="h-4 w-4 text-white" />
-          </div>
-          <span className="text-xs text-muted-foreground truncate">
-            {formatDate(post.postedAt)}
-          </span>
-        </div>
-        <div className="flex-1 rounded-lg border border-dashed border-border bg-muted/40 flex items-center justify-center text-center px-4 text-sm text-muted-foreground">
-          Facebook link unavailable
-        </div>
-      </div>
-    );
+    return null;
   }
 
   const isReel = /facebook\.com\/reel\//i.test(post.url);
@@ -271,30 +241,39 @@ export default function SocialPosts({ data }: { data: SellerData }) {
     },
     whatsapp: { url: data.whatsappUrl || "", hasPosts: !!data.whatsappUrl },
   };
-  const allPlatforms: Platform[] = [
-    "instagram",
-    "youtube",
-    "facebook",
-    "linkedin",
-    "twitter",
-  ];
-
-  const platformsWithPosts: Platform[] = [];
-  if (ig && ig.posts.length > 0) platformsWithPosts.push("instagram");
-  if (yt && yt.posts.length > 0) platformsWithPosts.push("youtube");
-  if (fb && fb.posts.length > 0) platformsWithPosts.push("facebook");
+  const availablePlatforms: Platform[] = [];
+  if (ig?.url && ig.posts.some((post) => Boolean(post.url))) {
+    availablePlatforms.push("instagram");
+  }
+  if (
+    yt?.url &&
+    yt.posts.some(
+      (post) => Boolean(post.url) && Boolean(extractYouTubeId(post.url)),
+    )
+  ) {
+    availablePlatforms.push("youtube");
+  }
+  if (fb?.url && fb.posts.some((post) => Boolean(post.url))) {
+    availablePlatforms.push("facebook");
+  }
 
   const [activePlatform, setActivePlatform] = useState<Platform>(
-    platformsWithPosts[0] || "instagram",
+    availablePlatforms[0] || "instagram",
   );
 
-  if (allPlatforms.every((platform) => !socialAvailability[platform]?.url))
-    return null;
+  useEffect(() => {
+    if (availablePlatforms.length === 0) return;
+    if (!availablePlatforms.includes(activePlatform)) {
+      setActivePlatform(availablePlatforms[0]);
+    }
+  }, [activePlatform, availablePlatforms]);
+
+  if (availablePlatforms.length === 0) return null;
 
   const activeProfile = data.socialProfiles.find(
     (profile) => profile.platform === activePlatform,
   );
-  const activeHasPosts = platformsWithPosts.includes(activePlatform);
+  const activeHasPosts = availablePlatforms.includes(activePlatform);
 
   return (
     <section
@@ -320,9 +299,8 @@ export default function SocialPosts({ data }: { data: SellerData }) {
           </div>
 
           <div className="flex gap-2 mb-6 flex-wrap">
-            {allPlatforms.map((p) => {
-              const available = !!socialAvailability[p]?.hasPosts;
-              const hasProfile = !!socialAvailability[p]?.url;
+            {availablePlatforms.map((p) => {
+              const available = true;
               const label =
                 p === "twitter"
                   ? "Twitter/X"
@@ -345,19 +323,13 @@ export default function SocialPosts({ data }: { data: SellerData }) {
                   }}
                   whileHover={available ? { scale: 1.03 } : undefined}
                   whileTap={available ? { scale: 0.97 } : undefined}
-                  disabled={!available}
+                  disabled={false}
                   className={`flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-all duration-300 ${
                     activePlatform === p && available
                       ? "bg-primary text-primary-foreground shadow-md"
-                      : available
-                        ? "bg-card border border-border text-foreground hover:border-primary/30"
-                        : "bg-muted border border-border text-muted-foreground cursor-not-allowed opacity-75"
+                      : "bg-card border border-border text-foreground hover:border-primary/30"
                   }`}
-                  title={
-                    hasProfile
-                      ? `${label} profile available`
-                      : `${label} profile unavailable`
-                  }
+                  title={`${label} profile available`}
                 >
                   <Icon className="w-4 h-4" />
                   {label}
@@ -518,16 +490,7 @@ export default function SocialPosts({ data }: { data: SellerData }) {
             </div>
           )}
 
-          {!activeHasPosts && (
-            <div className="rounded-2xl border border-dashed border-border bg-muted/30 p-8 text-center">
-              <p className="font-semibold text-foreground">
-                Posts not available yet for this platform
-              </p>
-              <p className="mt-2 text-sm text-muted-foreground">
-                The profile may exist, but post data has not been extracted yet.
-              </p>
-            </div>
-          )}
+          {!activeHasPosts && null}
         </motion.div>
       </div>
 

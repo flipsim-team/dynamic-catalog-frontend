@@ -78,6 +78,18 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
       data.socialUrls?.find(
         (entry) => classifySocialUrl(entry.value) === platform,
       )?.value || "";
+    const connectLinks = (
+      [
+        "instagram",
+        "youtube",
+        "facebook",
+        "linkedin",
+        "twitter",
+      ] as SocialPlatform[]
+    )
+      .map((platform) => ({ platform, url: socialUrlByPlatform(platform) }))
+      .filter((item) => Boolean(item.url));
+    const hasConnect = connectLinks.length > 0 || Boolean(data.website);
 
     return (
       <footer
@@ -87,7 +99,9 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-primary/40 to-transparent" />
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-10">
+          <div
+            className={`grid grid-cols-1 ${hasConnect ? "sm:grid-cols-3" : "sm:grid-cols-2"} gap-10`}
+          >
             <div>
               <div className="flex items-center gap-3 mb-4">
                 <div className="w-11 h-11 rounded-xl bg-primary flex items-center justify-center">
@@ -158,73 +172,56 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
               </div>
             </div>
 
-            <div>
-              <h4 className="font-semibold mb-4 opacity-70 text-sm uppercase tracking-wider">
-                Connect
-              </h4>
-              <div className="flex flex-wrap gap-2">
-                {(
-                  [
-                    "instagram",
-                    "youtube",
-                    "facebook",
-                    "linkedin",
-                    "twitter",
-                  ] as SocialPlatform[]
-                ).map((platform) => {
-                  const Icon = PLATFORM_ICONS[platform];
-                  if (!Icon) return null;
-                  const url = socialUrlByPlatform(platform);
+            {hasConnect && (
+              <div>
+                <h4 className="font-semibold mb-4 opacity-70 text-sm uppercase tracking-wider">
+                  Connect
+                </h4>
+                {connectLinks.length > 0 && (
+                  <div className="flex flex-wrap gap-2">
+                    {connectLinks.map(({ platform, url }) => {
+                      const Icon = PLATFORM_ICONS[platform];
+                      if (!Icon || !url) return null;
 
-                  if (url) {
-                    return (
-                      <motion.a
-                        key={platform}
-                        href={url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        whileHover={{ y: -2, scale: 1.05 }}
-                        className="w-10 h-10 rounded-xl bg-background/10 hover:bg-background/20 flex items-center justify-center transition-colors"
-                        title={`${platform} available`}
-                      >
-                        <Icon className="w-4 h-4" />
-                      </motion.a>
-                    );
-                  }
-
-                  return (
-                    <motion.button
-                      key={platform}
-                      type="button"
-                      disabled
-                      className="w-10 h-10 rounded-xl border border-background/20 bg-background/5 flex items-center justify-center opacity-50 cursor-not-allowed"
-                      title={`${platform} unavailable`}
+                      return (
+                        <motion.a
+                          key={platform}
+                          href={url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          whileHover={{ y: -2, scale: 1.05 }}
+                          className="w-10 h-10 rounded-xl bg-background/10 hover:bg-background/20 flex items-center justify-center transition-colors"
+                          title={`${platform} available`}
+                        >
+                          <Icon className="w-4 h-4" />
+                        </motion.a>
+                      );
+                    })}
+                  </div>
+                )}
+                {data.website && (
+                  <div>
+                    <a
+                      href={data.website}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="mt-4 inline-flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
                     >
-                      <Icon className="w-4 h-4" />
-                    </motion.button>
-                  );
-                })}
+                      <ExternalLink className="w-3.5 h-3.5" />{" "}
+                      {data.website
+                        .replace(/https?:\/\//, "")
+                        .replace(/\/$/, "")}
+                    </a>
+                    {contactSources.website.length > 0 && (
+                      <p className="mt-1 text-[10px] opacity-50">
+                        Source:{" "}
+                        {contactSources.website.map((s) => s.label).join(", ")}
+                      </p>
+                    )}
+                  </div>
+                )}
               </div>
-              {data.website && (
-                <div>
-                  <a
-                    href={data.website}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mt-4 inline-flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
-                  >
-                    <ExternalLink className="w-3.5 h-3.5" />{" "}
-                    {data.website.replace(/https?:\/\//, "").replace(/\/$/, "")}
-                  </a>
-                  {contactSources.website.length > 0 && (
-                    <p className="mt-1 text-[10px] opacity-50">
-                      Source:{" "}
-                      {contactSources.website.map((s) => s.label).join(", ")}
-                    </p>
-                  )}
-                </div>
-              )}
-            </div>
+            )}
           </div>
 
           <div className="border-t border-background/10 mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">

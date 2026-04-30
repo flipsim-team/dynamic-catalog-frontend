@@ -111,6 +111,24 @@ export default function TrustGraphModal({
         sources: (data.contactSources?.website || []).map((s: any) => s.key),
       });
 
+    // Address row
+    if (data.fullAddress)
+      out.push({
+        id: `address-${data.fullAddress}`,
+        type: "Address",
+        value: data.fullAddress,
+        sources: (data.contactSources?.address || []).map((s: any) => s.key),
+      });
+
+    // City row
+    if (data.city)
+      out.push({
+        id: `city-${data.city}`,
+        type: "City",
+        value: data.city,
+        sources: (data.contactSources?.city || []).map((s: any) => s.key),
+      });
+
     // CTA (WhatsApp) row
     if (data.whatsappUrl)
       out.push({

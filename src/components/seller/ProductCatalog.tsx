@@ -87,6 +87,12 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
     [filtered],
   );
 
+  const displayedProducts = useMemo(() => {
+    const arr = [...withImageProducts];
+    if (showNoImageProducts) arr.push(...withoutImageProducts);
+    return arr;
+  }, [withImageProducts, withoutImageProducts, showNoImageProducts]);
+
   useEffect(() => {
     setShowNoImageProducts(false);
   }, [activeCat]);
@@ -260,6 +266,37 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
         product={selected}
         onClose={() => setSelected(null)}
         enquireHref={selected ? enquireFor(selected) : ""}
+        onPrev={
+          selected
+            ? () => {
+                const idx = displayedProducts.findIndex(
+                  (p) => p.id === selected.id,
+                );
+                if (idx !== -1 && displayedProducts.length > 0) {
+                  const prev =
+                    displayedProducts[
+                      (idx - 1 + displayedProducts.length) %
+                        displayedProducts.length
+                    ];
+                  setSelected(prev);
+                }
+              }
+            : undefined
+        }
+        onNext={
+          selected
+            ? () => {
+                const idx = displayedProducts.findIndex(
+                  (p) => p.id === selected.id,
+                );
+                if (idx !== -1 && displayedProducts.length > 0) {
+                  const next =
+                    displayedProducts[(idx + 1) % displayedProducts.length];
+                  setSelected(next);
+                }
+              }
+            : undefined
+        }
       />
     </section>
   );

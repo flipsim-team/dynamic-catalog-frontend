@@ -155,6 +155,29 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
   const hasHiddenContactEntries =
     phoneEntries.length > visiblePhoneEntries.length ||
     emailEntries.length > visibleEmailEntries.length;
+  const hasSocialLinks = socialPlatforms.some((platform) =>
+    Boolean(socialAvailability[platform]?.url),
+  );
+  const hasMap = Boolean(data.googleLocation || data.fullAddress || data.city);
+  const mapQuery = data.fullAddress || data.city || "";
+  const mapEmbedSrc = mapQuery
+    ? `https://www.google.com/maps?q=${encodeURIComponent(mapQuery)}&output=embed`
+    : "";
+  const hasContactDetails =
+    visiblePhoneEntries.length > 0 ||
+    visibleEmailEntries.length > 0 ||
+    Boolean(data.fullAddress) ||
+    Boolean(data.website);
+  const hasPrimaryCtas = Boolean(whatsappUrl || data.primaryPhone);
+  const hasContent =
+    phoneEntries.length > 0 ||
+    emailEntries.length > 0 ||
+    Boolean(data.website) ||
+    hasMap ||
+    hasSocialLinks ||
+    Boolean(whatsappUrl);
+
+  if (!hasContent) return null;
 
   return (
     <section
@@ -215,113 +238,118 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                   </Button>
                 )}
               </div>
+              {!hasPrimaryCtas && null}
               {whatsappUrl && sourceChips(contactSources.whatsapp)}
               {!whatsappUrl && sourceChips(contactSources.contactCta)}
 
-              <motion.div
-                whileHover={{ y: -2 }}
-                className="rounded-2xl p-6 bg-card border border-border shadow-sm flex flex-col gap-4"
-              >
-                {visiblePhoneEntries.map((entry, index) => (
-                  <div key={`phone-${entry.value}-${index}`}>
-                    <div className="flex flex-wrap items-start gap-2 min-w-0">
-                      <a
-                        href={`tel:${entry.value}`}
-                        className="flex min-w-0 items-start gap-3 text-foreground hover:text-primary transition-colors group"
-                      >
-                        <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors">
-                          <Phone className="w-4 h-4 text-primary" />
-                        </div>
-                        <span className="text-sm font-medium break-words leading-relaxed">
-                          +91 {entry.value}
-                        </span>
-                      </a>
-                      {entry.role && (
-                        <span className="text-[11px] text-muted-foreground uppercase tracking-wider font-semibold">
-                          {entry.role}
-                        </span>
-                      )}
-                      {inlineSourceChips(
-                        entry.sources || contactSources.primaryPhone,
-                      )}
+              {hasContactDetails ? (
+                <motion.div
+                  whileHover={{ y: -2 }}
+                  className="rounded-2xl p-6 bg-card border border-border shadow-sm flex flex-col gap-4"
+                >
+                  {visiblePhoneEntries.map((entry, index) => (
+                    <div key={`phone-${entry.value}-${index}`}>
+                      <div className="flex flex-wrap items-start gap-2 min-w-0">
+                        <a
+                          href={`tel:${entry.value}`}
+                          className="flex min-w-0 items-start gap-3 text-foreground hover:text-primary transition-colors group"
+                        >
+                          <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors">
+                            <Phone className="w-4 h-4 text-primary" />
+                          </div>
+                          <span className="text-sm font-medium break-words leading-relaxed">
+                            +91 {entry.value}
+                          </span>
+                        </a>
+                        {entry.role && (
+                          <span className="text-[11px] text-muted-foreground uppercase tracking-wider font-semibold">
+                            {entry.role}
+                          </span>
+                        )}
+                        {inlineSourceChips(
+                          entry.sources || contactSources.primaryPhone,
+                        )}
+                      </div>
                     </div>
-                  </div>
-                ))}
+                  ))}
 
-                {visibleEmailEntries.map((entry, index) => (
-                  <div key={`email-${entry.value}-${index}`}>
-                    <div className="flex flex-wrap items-start gap-2 min-w-0">
-                      <a
-                        href={`mailto:${entry.value}`}
-                        className="flex min-w-0 items-start gap-3 text-foreground hover:text-primary transition-colors group"
-                      >
-                        <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors shrink-0">
-                          <Mail className="w-4 h-4 text-primary" />
-                        </div>
-                        <span className="text-sm font-medium break-words leading-relaxed">
-                          {entry.value}
+                  {visibleEmailEntries.map((entry, index) => (
+                    <div key={`email-${entry.value}-${index}`}>
+                      <div className="flex flex-wrap items-start gap-2 min-w-0">
+                        <a
+                          href={`mailto:${entry.value}`}
+                          className="flex min-w-0 items-start gap-3 text-foreground hover:text-primary transition-colors group"
+                        >
+                          <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors shrink-0">
+                            <Mail className="w-4 h-4 text-primary" />
+                          </div>
+                          <span className="text-sm font-medium break-words leading-relaxed">
+                            {entry.value}
+                          </span>
+                        </a>
+                        {entry.role && (
+                          <span className="text-[11px] text-muted-foreground uppercase tracking-wider font-semibold">
+                            {entry.role}
+                          </span>
+                        )}
+                        {inlineSourceChips(
+                          entry.sources || contactSources.email,
+                        )}
+                      </div>
+                    </div>
+                  ))}
+                  {data.fullAddress && (
+                    <div className="flex items-start gap-2 min-w-0 text-foreground">
+                      <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center shrink-0 mt-0.5">
+                        <MapPin className="w-4 h-4 text-primary" />
+                      </div>
+                      <div className="min-w-0 flex-1">
+                        <span className="block text-sm leading-relaxed break-words">
+                          {data.fullAddress}
                         </span>
-                      </a>
-                      {entry.role && (
-                        <span className="text-[11px] text-muted-foreground uppercase tracking-wider font-semibold">
-                          {entry.role}
-                        </span>
-                      )}
-                      {inlineSourceChips(entry.sources || contactSources.email)}
+                        {inlineSourceChips(contactSources.address)}
+                      </div>
                     </div>
-                  </div>
-                ))}
-                {data.fullAddress && (
-                  <div className="flex items-start gap-2 min-w-0 text-foreground">
-                    <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center shrink-0 mt-0.5">
-                      <MapPin className="w-4 h-4 text-primary" />
+                  )}
+                  {data.website && (
+                    <div>
+                      <div className="flex flex-wrap items-center gap-2 min-w-0">
+                        <a
+                          href={data.website}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="flex items-center gap-3 text-foreground hover:text-primary transition-colors group min-w-0"
+                        >
+                          <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors shrink-0">
+                            <Globe className="w-4 h-4 text-primary" />
+                          </div>
+                          <span className="text-sm font-medium truncate max-w-[260px]">
+                            {data.website
+                              .replace(/https?:\/\//, "")
+                              .replace(/\/$/, "")}
+                          </span>
+                        </a>
+                        {inlineSourceChips(contactSources.website)}
+                      </div>
                     </div>
-                    <div className="min-w-0 flex-1">
-                      <span className="block text-sm leading-relaxed break-words">
-                        {data.fullAddress}
-                      </span>
-                      {inlineSourceChips(contactSources.address)}
-                    </div>
-                  </div>
-                )}
-                {data.website && (
-                  <div>
-                    <div className="flex flex-wrap items-center gap-2 min-w-0">
-                      <a
-                        href={data.website}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="flex items-center gap-3 text-foreground hover:text-primary transition-colors group min-w-0"
-                      >
-                        <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors shrink-0">
-                          <Globe className="w-4 h-4 text-primary" />
-                        </div>
-                        <span className="text-sm font-medium truncate max-w-[260px]">
-                          {data.website
-                            .replace(/https?:\/\//, "")
-                            .replace(/\/$/, "")}
-                        </span>
-                      </a>
-                      {inlineSourceChips(contactSources.website)}
-                    </div>
-                  </div>
-                )}
+                  )}
 
-                {hasHiddenContactEntries && (
-                  <div className="pt-1">
-                    <Button
-                      type="button"
-                      variant="outline"
-                      onClick={() => setShowAllContacts((value) => !value)}
-                      className="w-full rounded-xl border-dashed"
-                    >
-                      {showAllContacts
-                        ? "Show less"
-                        : "View more contact details"}
-                    </Button>
-                  </div>
-                )}
-              </motion.div>
+                  {hasHiddenContactEntries && (
+                    <div className="pt-1">
+                      <Button
+                        type="button"
+                        variant="outline"
+                        onClick={() => setShowAllContacts((value) => !value)}
+                        className="w-full rounded-xl border-dashed"
+                      >
+                        {showAllContacts
+                          ? "Show less"
+                          : "View more contact details"}
+                      </Button>
+                    </div>
+                  )}
+                </motion.div>
+              ) : null}
 
               <div className="rounded-2xl p-4 bg-card border border-border shadow-sm flex flex-col gap-3">
                 <div className="flex items-center justify-between gap-3 flex-wrap">
@@ -346,56 +374,60 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                 {/* {sourceChips(contactSources.contactCta)} */}
               </div>
 
-              <div>
-                <p className="text-xs uppercase tracking-wider text-muted-foreground font-semibold mb-3">
-                  Social Presence
-                </p>
-                <div className="flex flex-wrap gap-2">
-                  {socialPlatforms.map((platform) => {
-                    const meta = PLATFORM_META[platform];
-                    const Icon = meta.icon;
-                    const availability = socialAvailability[platform];
-                    if (!availability?.url) return null;
-                    return (
-                      <motion.a
-                        key={platform}
-                        href={availability.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        whileHover={{ scale: 1.1, y: -2 }}
-                        whileTap={{ scale: 0.95 }}
-                        className={`w-10 h-10 rounded-xl bg-gradient-to-br ${meta.gradient} flex items-center justify-center text-white shadow-md hover:shadow-lg transition-shadow`}
-                        title={`${platform} profile`}
-                      >
-                        <Icon className="w-4 h-4" />
-                      </motion.a>
-                    );
-                  })}
+              {hasSocialLinks ? (
+                <div>
+                  <p className="text-xs uppercase tracking-wider text-muted-foreground font-semibold mb-3">
+                    Social Presence
+                  </p>
+                  <div className="flex flex-wrap gap-2">
+                    {socialPlatforms.map((platform) => {
+                      const meta = PLATFORM_META[platform];
+                      const Icon = meta.icon;
+                      const availability = socialAvailability[platform];
+                      if (!availability?.url) return null;
+                      return (
+                        <motion.a
+                          key={platform}
+                          href={availability.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          whileHover={{ scale: 1.1, y: -2 }}
+                          whileTap={{ scale: 0.95 }}
+                          className={`w-10 h-10 rounded-xl bg-gradient-to-br ${meta.gradient} flex items-center justify-center text-white shadow-md hover:shadow-lg transition-shadow`}
+                          title={`${platform} profile`}
+                        >
+                          <Icon className="w-4 h-4" />
+                        </motion.a>
+                      );
+                    })}
+                  </div>
+                  <p className="mt-2 text-[11px] text-muted-foreground">
+                    Only platforms with an available URL are shown here.
+                  </p>
                 </div>
-                <p className="mt-2 text-[11px] text-muted-foreground">
-                  Only platforms with an available URL are shown here.
-                </p>
-              </div>
+              ) : null}
             </motion.div>
 
             {/* Map */}
-            <motion.div
-              initial={{ opacity: 0, x: 30 }}
-              animate={inView ? { opacity: 1, x: 0 } : {}}
-              transition={{ delay: 0.3, duration: 0.6 }}
-              className="rounded-2xl overflow-hidden border border-border h-80 md:h-auto min-h-[350px] shadow-sm"
-            >
-              <iframe
-                src={`https://www.google.com/maps?q=${encodeURIComponent(data.fullAddress || data.city || "India")}&output=embed`}
-                width="100%"
-                height="100%"
-                style={{ border: 0 }}
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                title="Location"
-              />
-            </motion.div>
+            {hasMap ? (
+              <motion.div
+                initial={{ opacity: 0, x: 30 }}
+                animate={inView ? { opacity: 1, x: 0 } : {}}
+                transition={{ delay: 0.3, duration: 0.6 }}
+                className="rounded-2xl overflow-hidden border border-border h-80 md:h-auto min-h-[350px] shadow-sm"
+              >
+                <iframe
+                  src={mapEmbedSrc}
+                  width="100%"
+                  height="100%"
+                  style={{ border: 0 }}
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  title="Location"
+                />
+              </motion.div>
+            ) : null}
           </div>
         </motion.div>
       </div>

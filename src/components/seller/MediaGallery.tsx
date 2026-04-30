@@ -1,20 +1,43 @@
-import { useState, useCallback, useMemo, useRef } from 'react';
-import { motion } from 'framer-motion';
-import { useInView } from 'react-intersection-observer';
-import { Image as ImageIcon, Video, X, Play, ZoomIn } from 'lucide-react';
-import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
-import type { SellerData } from '@/lib/sellerDataExtractor';
-import { extractYouTubeId } from '@/lib/sellerDataExtractor';
+import { useState, useCallback, useMemo, useRef } from "react";
+import { motion } from "framer-motion";
+import { useInView } from "react-intersection-observer";
+import {
+  Image as ImageIcon,
+  Video,
+  X,
+  Play,
+  ZoomIn,
+  ChevronLeft,
+  ChevronRight,
+} from "lucide-react";
+import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
+import type { SellerData } from "@/lib/sellerDataExtractor";
+import { extractYouTubeId } from "@/lib/sellerDataExtractor";
 
-function LazyImage({ src, alt, className, onError, onClick }: {
-  src: string; alt: string; className?: string; onError?: () => void; onClick?: () => void;
+function LazyImage({
+  src,
+  alt,
+  className,
+  onError,
+  onClick,
+}: {
+  src: string;
+  alt: string;
+  className?: string;
+  onError?: () => void;
+  onClick?: () => void;
 }) {
-  const { ref, inView } = useInView({ triggerOnce: true, rootMargin: '200px' });
+  const { ref, inView } = useInView({ triggerOnce: true, rootMargin: "200px" });
   return (
     <div ref={ref} className={className} onClick={onClick}>
       {inView ? (
-        <img src={src} alt={alt} loading="lazy" className="w-full h-full object-cover"
-          onError={onError ? () => onError() : undefined} />
+        <img
+          src={src}
+          alt={alt}
+          loading="lazy"
+          className="w-full h-full object-cover"
+          onError={onError ? () => onError() : undefined}
+        />
       ) : (
         <div className="w-full h-full shimmer" />
       )}
@@ -25,22 +48,35 @@ function LazyImage({ src, alt, className, onError, onClick }: {
 export default function MediaGallery({ data }: { data: SellerData }) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.05 });
   const sectionRef = useRef<HTMLElement>(null);
-  const [lightboxUrl, setLightboxUrl] = useState<string | null>(null);
+  const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
   const [videoModal, setVideoModal] = useState<string | null>(null);
   const [hiddenImages, setHiddenImages] = useState<Set<string>>(new Set());
 
   const hideImage = useCallback((url: string) => {
-    setHiddenImages(prev => new Set(prev).add(url));
+    setHiddenImages((prev) => new Set(prev).add(url));
   }, []);
 
-  const visibleImages = data.galleryImages.filter(img => !hiddenImages.has(img.url));
-  const ytPosts = useMemo(() => data.socialProfiles.find(p => p.platform === 'youtube')?.posts || [], [data.socialProfiles]);
+  const visibleImages = data.galleryImages.filter(
+    (img) => !hiddenImages.has(img.url),
+  );
+  const ytPosts = useMemo(
+    () =>
+      data.socialProfiles.find((p) => p.platform === "youtube")?.posts || [],
+    [data.socialProfiles],
+  );
 
   if (!visibleImages.length && !ytPosts.length) return null;
 
   return (
-    <section id="gallery" ref={sectionRef} className="py-20 sm:py-28 bg-background relative overflow-hidden">
-      <div ref={ref} className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
+    <section
+      id="gallery"
+      ref={sectionRef}
+      className="py-20 sm:py-28 bg-background relative overflow-hidden"
+    >
+      <div
+        ref={ref}
+        className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative"
+      >
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           animate={inView ? { opacity: 1, y: 0 } : {}}
@@ -50,18 +86,27 @@ export default function MediaGallery({ data }: { data: SellerData }) {
             <div className="w-10 h-10 rounded-xl bg-accent/15 flex items-center justify-center">
               <ImageIcon className="w-5 h-5 text-accent" />
             </div>
-            <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-foreground">Media Gallery</h2>
+            <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-foreground">
+              Media Gallery
+            </h2>
           </div>
 
-          <Tabs defaultValue={visibleImages.length ? 'images' : 'videos'}>
+          <Tabs defaultValue={visibleImages.length ? "images" : "videos"}>
             <TabsList className="rounded-full mb-8 bg-muted">
               {visibleImages.length > 0 && (
-                <TabsTrigger value="images" className="rounded-full px-6 data-[state=active]:bg-primary data-[state=active]:text-primary-foreground">
-                  <ImageIcon className="w-4 h-4 mr-2" /> Images ({visibleImages.length})
+                <TabsTrigger
+                  value="images"
+                  className="rounded-full px-6 data-[state=active]:bg-primary data-[state=active]:text-primary-foreground"
+                >
+                  <ImageIcon className="w-4 h-4 mr-2" /> Images (
+                  {visibleImages.length})
                 </TabsTrigger>
               )}
               {ytPosts.length > 0 && (
-                <TabsTrigger value="videos" className="rounded-full px-6 data-[state=active]:bg-primary data-[state=active]:text-primary-foreground">
+                <TabsTrigger
+                  value="videos"
+                  className="rounded-full px-6 data-[state=active]:bg-primary data-[state=active]:text-primary-foreground"
+                >
                   <Video className="w-4 h-4 mr-2" /> Videos ({ytPosts.length})
                 </TabsTrigger>
               )}
@@ -74,12 +119,20 @@ export default function MediaGallery({ data }: { data: SellerData }) {
                     key={img.url}
                     initial={{ opacity: 0, scale: 0.9 }}
                     animate={inView ? { opacity: 1, scale: 1 } : {}}
-                    transition={{ delay: Math.min(i * 0.03, 0.5), duration: 0.4 }}
+                    transition={{
+                      delay: Math.min(i * 0.03, 0.5),
+                      duration: 0.4,
+                    }}
                     whileHover={{ scale: 1.03 }}
                     className="relative group aspect-square rounded-2xl overflow-hidden cursor-pointer border border-border bg-muted/30 shadow-sm"
-                    onClick={() => setLightboxUrl(img.url)}
+                    onClick={() => setLightboxIndex(i)}
                   >
-                    <LazyImage src={img.url} alt={img.caption || ''} className="w-full h-full" onError={() => hideImage(img.url)} />
+                    <LazyImage
+                      src={img.url}
+                      alt={img.caption || ""}
+                      className="w-full h-full"
+                      onError={() => hideImage(img.url)}
+                    />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                     <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
                       <div className="w-10 h-10 rounded-full bg-white/90 flex items-center justify-center shadow-md">
@@ -110,11 +163,17 @@ export default function MediaGallery({ data }: { data: SellerData }) {
                     >
                       <div className="aspect-video relative overflow-hidden">
                         <img
-                          src={vid.thumbnailUrl || `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`}
+                          src={
+                            vid.thumbnailUrl ||
+                            `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`
+                          }
                           alt={vid.caption.slice(0, 50)}
                           loading="lazy"
                           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                          onError={(e) => { (e.target as HTMLImageElement).src = `https://i.ytimg.com/vi/${id}/hqdefault.jpg`; }}
+                          onError={(e) => {
+                            (e.target as HTMLImageElement).src =
+                              `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
+                          }}
                         />
                         <div className="absolute inset-0 bg-black/10 group-hover:bg-black/30 transition-colors flex items-center justify-center">
                           <motion.div
@@ -126,7 +185,9 @@ export default function MediaGallery({ data }: { data: SellerData }) {
                         </div>
                       </div>
                       <div className="p-4">
-                        <p className="text-sm font-medium text-foreground line-clamp-2">{vid.caption.slice(0, 90) || 'Video'}</p>
+                        <p className="text-sm font-medium text-foreground line-clamp-2">
+                          {vid.caption.slice(0, 90) || "Video"}
+                        </p>
                       </div>
                     </motion.div>
                   );
@@ -137,34 +198,76 @@ export default function MediaGallery({ data }: { data: SellerData }) {
         </motion.div>
       </div>
 
-      {lightboxUrl && (
+      {lightboxIndex !== null && (
         <motion.div
-          initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
           className="fixed inset-0 z-[100] bg-black/90 flex items-center justify-center p-4 backdrop-blur-sm"
-          onClick={() => setLightboxUrl(null)}
+          onClick={() => setLightboxIndex(null)}
         >
-          <button className="absolute top-4 right-4 text-white p-2.5 hover:bg-white/10 rounded-full" onClick={() => setLightboxUrl(null)}>
+          <button
+            className="absolute top-4 right-4 text-white p-2.5 hover:bg-white/10 rounded-full"
+            onClick={() => setLightboxIndex(null)}
+          >
             <X className="w-6 h-6" />
+          </button>
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              setLightboxIndex((i) => {
+                if (i === null) return null;
+                return (i - 1 + visibleImages.length) % visibleImages.length;
+              });
+            }}
+            className="absolute left-2 sm:left-4 top-auto sm:top-1/2 bottom-4 sm:bottom-auto sm:-translate-y-1/2 z-30 w-10 h-10 rounded-full bg-black/70 flex items-center justify-center hover:bg-black/80 transition-colors"
+            aria-label="Previous image"
+          >
+            <ChevronLeft className="w-5 h-5 text-white" />
+          </button>
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              setLightboxIndex((i) => {
+                if (i === null) return null;
+                return (i + 1) % visibleImages.length;
+              });
+            }}
+            className="absolute right-2 sm:right-4 top-auto sm:top-1/2 bottom-4 sm:bottom-auto sm:-translate-y-1/2 z-30 w-10 h-10 rounded-full bg-black/70 flex items-center justify-center hover:bg-black/80 transition-colors"
+            aria-label="Next image"
+          >
+            <ChevronRight className="w-5 h-5 text-white" />
           </button>
           <motion.img
             initial={{ scale: 0.8, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
-            transition={{ type: 'spring', stiffness: 200, damping: 25 }}
-            src={lightboxUrl} alt="" className="max-w-full max-h-[90vh] object-contain rounded-2xl shadow-2xl"
+            transition={{ type: "spring", stiffness: 200, damping: 25 }}
+            src={visibleImages[lightboxIndex!].url}
+            alt=""
+            className="max-w-full max-h-[90vh] object-contain rounded-2xl shadow-2xl"
+            onClick={(e) => e.stopPropagation()}
           />
         </motion.div>
       )}
 
       {videoModal && (
         <motion.div
-          initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
           className="fixed inset-0 z-[100] bg-black/90 flex items-center justify-center p-4 backdrop-blur-sm"
           onClick={() => setVideoModal(null)}
         >
-          <button className="absolute top-4 right-4 text-white p-2.5 hover:bg-white/10 rounded-full" onClick={() => setVideoModal(null)}>
+          <button
+            className="absolute top-4 right-4 text-white p-2.5 hover:bg-white/10 rounded-full"
+            onClick={() => setVideoModal(null)}
+          >
             <X className="w-6 h-6" />
           </button>
-          <motion.div initial={{ scale: 0.8 }} animate={{ scale: 1 }} className="w-full max-w-3xl aspect-video" onClick={e => e.stopPropagation()}>
+          <motion.div
+            initial={{ scale: 0.8 }}
+            animate={{ scale: 1 }}
+            className="w-full max-w-3xl aspect-video"
+            onClick={(e) => e.stopPropagation()}
+          >
             <iframe
               src={`https://www.youtube.com/embed/${videoModal}?autoplay=1`}
               title="Video"

@@ -162,6 +162,41 @@ const Index = () => {
     );
   }
 
+  const aboutHasData = Boolean(
+    data.description ||
+    data.tagline ||
+    data.businessType ||
+    data.products.length > 0 ||
+    data.categories.length > 0 ||
+    data.fullAddress ||
+    data.city ||
+    data.website ||
+    data.socialProfiles.length > 0,
+  );
+  const productsHasData = data.products.length > 0;
+  const galleryHasData =
+    data.galleryImages.length > 0 ||
+    data.socialProfiles.some(
+      (profile) => profile.platform === "youtube" && profile.posts.length > 0,
+    );
+  const socialHasData = data.socialProfiles.some(
+    (profile) => profile.posts.length > 0,
+  );
+  const reviewsHasData = Boolean(
+    data.reviewsSummary.totalRating ||
+    data.reviewsSummary.noOfRatings ||
+    data.individualReviews.length > 0,
+  );
+  const contactHasData = Boolean(
+    data.primaryPhone ||
+    data.email ||
+    data.fullAddress ||
+    data.city ||
+    data.website ||
+    data.whatsappUrl ||
+    data.socialProfiles.some((profile) => Boolean(profile.url)),
+  );
+
   return (
     <div className="page-shell relative min-h-screen bg-background">
       <SplashCursor
@@ -205,12 +240,12 @@ const Index = () => {
           >
             <NavBar data={data} />
             <HeroSection data={data} />
-            <AboutSection data={data} />
-            <ProductCatalog data={data} />
-            <MediaGallery data={data} />
-            <SocialPosts data={data} />
-            <ReviewsSection data={data} />
-            <ContactSidebar data={data} />
+            {aboutHasData && <AboutSection data={data} />}
+            {productsHasData && <ProductCatalog data={data} />}
+            {galleryHasData && <MediaGallery data={data} />}
+            {socialHasData && <SocialPosts data={data} />}
+            {reviewsHasData && <ReviewsSection data={data} />}
+            {contactHasData && <ContactSidebar data={data} />}
             <Footer data={data} />
             <MobileCTA data={data} />
             <div className="h-16 md:hidden" />

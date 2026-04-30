@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import { Star, StarHalf, ExternalLink, Info } from "lucide-react";
+import { Star, StarHalf, ExternalLink } from "lucide-react";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
 function StarRating({
@@ -180,7 +180,9 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
             </p>
           </div>
 
-          <div className="grid lg:grid-cols-[1.1fr_0.9fr] gap-6 lg:items-stretch">
+          <div
+            className={`grid ${hasIndividual ? "lg:grid-cols-[1.1fr_0.9fr]" : "grid-cols-1"} gap-6 lg:items-stretch`}
+          >
             {/* Aggregate */}
             {rating != null && (
               <motion.div
@@ -326,17 +328,17 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
             )}
 
             {/* Individual reviews */}
-            <motion.div
-              initial={{ opacity: 0, scale: 0.95 }}
-              animate={inView ? { opacity: 1, scale: 1 } : {}}
-              transition={{ delay: 0.2, duration: 0.65 }}
-              className="rounded-[2rem] p-7 sm:p-8 bg-card border border-border shadow-sm flex flex-col h-[470px]"
-            >
-              <p className="text-xs uppercase tracking-[0.22em] text-muted-foreground font-bold mb-4">
-                Customer voices
-              </p>
+            {hasIndividual && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={inView ? { opacity: 1, scale: 1 } : {}}
+                transition={{ delay: 0.2, duration: 0.65 }}
+                className="rounded-[2rem] p-7 sm:p-8 bg-card border border-border shadow-sm flex flex-col h-[470px]"
+              >
+                <p className="text-xs uppercase tracking-[0.22em] text-muted-foreground font-bold mb-4">
+                  Customer voices
+                </p>
 
-              {hasIndividual ? (
                 <div
                   ref={voicesScrollRef}
                   className="space-y-4 overflow-y-auto flex-1 min-h-0 pr-1"
@@ -386,31 +388,8 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                     </div>
                   )}
                 </div>
-              ) : (
-                <div className="flex-1 flex flex-col items-center justify-center text-center py-10">
-                  <div className="w-14 h-14 rounded-full bg-muted flex items-center justify-center mb-4">
-                    <Info className="w-6 h-6 text-muted-foreground" />
-                  </div>
-                  <p className="font-semibold text-foreground">
-                    Individual reviews not available
-                  </p>
-                  <p className="text-sm text-muted-foreground mt-2 max-w-xs">
-                    Only the aggregate rating has been shared publicly. Visit
-                    source pages to read reviews.
-                  </p>
-                  {data.googleLocation && (
-                    <a
-                      href={data.googleLocation}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="mt-4 inline-flex items-center gap-1.5 rounded-full bg-primary text-primary-foreground px-4 py-2 text-xs font-semibold hover:-translate-y-0.5 transition-all duration-200"
-                    >
-                      Read on Google <ExternalLink className="w-3 h-3" />
-                    </a>
-                  )}
-                </div>
-              )}
-            </motion.div>
+              </motion.div>
+            )}
           </div>
         </motion.div>
       </div>
