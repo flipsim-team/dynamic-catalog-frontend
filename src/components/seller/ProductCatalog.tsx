@@ -21,10 +21,65 @@ function normalizeSourceLabel(source: string) {
   return key ? key.charAt(0).toUpperCase() + key.slice(1) : "Source";
 }
 
+type SourceFilterOption = {
+  key: string;
+  label: string;
+  count: number;
+};
+
+function normalizeSourceKey(source: string) {
+  return String(source || "")
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, "_");
+}
+
+function collectProductSourceEntries(product: CatalogProduct) {
+  const entries: SourceFilterOption[] = [];
+  const addEntry = (key: string, label: string) => {
+    const normalizedKey = normalizeSourceKey(key);
+    const normalizedLabel = String(label || "").trim();
+    if (!normalizedKey || !normalizedLabel) return;
+    entries.push({ key: normalizedKey, label: normalizedLabel, count: 1 });
+  };
+
+  const primarySource = String(product.source || "").trim();
+  if (primarySource) {
+    addEntry(primarySource, normalizeSourceLabel(primarySource));
+  }
+
+  for (const tile of product.sourceTiles || []) {
+    addEntry(tile.key, tile.label);
+  }
+
+  for (const link of product.sourceLinks || []) {
+    const linkKey = link.platform
+      ? normalizeSourceKey(link.platform)
+      : normalizeSourceKey(link.label || link.url);
+    const linkLabel = link.platform
+      ? normalizeSourceLabel(link.platform)
+      : link.label || normalizeSourceLabel(linkKey);
+    addEntry(linkKey, linkLabel);
+  }
+
+  return entries;
+}
+
+function productMatchesSelectedSources(
+  product: CatalogProduct,
+  selectedSources: string[],
+) {
+  if (selectedSources.length === 0) return true;
+  const productSources = new Set(
+    collectProductSourceEntries(product).map((entry) => entry.key),
+  );
+  return selectedSources.some((source) => productSources.has(source));
+}
+
 export default function ProductCatalog({ data }: { data: SellerData }) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.04 });
   const [activeCat, setActiveCat] = useState<string>("All");
-  const [activeSource, setActiveSource] = useState<string>("All");
+  const [selectedSources, setSelectedSources] = useState<string[]>([]);
   const [selected, setSelected] = useState<CatalogProduct | null>(null);
   const [showNoImageProducts, setShowNoImageProducts] = useState(false);
   const [brokenImageProductIds, setBrokenImageProductIds] = useState<
@@ -40,55 +95,77 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
     });
   }, []);
 
-  const sourceFilters = useMemo(() => {
-    const counts = new Map<string, number>();
+  const toggleSource = useCallback((sourceKey: string) => {
+    const normalizedSource = normalizeSourceKey(sourceKey);
+    if (!normalizedSource) return;
+    setSelectedSources((current) =>
+      current.includes(normalizedSource)
+        ? current.filter((source) => source !== normalizedSource)
+        : [...current, normalizedSource],
+    );
+  }, []);
+
+  const clearSelectedSources = useCallback(() => {
+    setSelectedSources([]);
+  }, []);
+
+  const sourceFilters = useMemo<SourceFilterOption[]>(() => {
+    const counts = new Map<string, { label: string; count: number }>();
 
     for (const product of data.products) {
-      const sourceKeys = new Set<string>();
-      const primarySource = String(product.source || "")
-        .trim()
-        .toLowerCase();
-      if (primarySource) sourceKeys.add(primarySource);
+      const seenKeys = new Set<string>();
+      for (const entry of collectProductSourceEntries(product)) {
+        if (seenKeys.has(entry.key)) continue;
+        seenKeys.add(entry.key);
 
-      for (const link of product.sourceLinks || []) {
-        if (link.platform)
-          sourceKeys.add(String(link.platform).trim().toLowerCase());
-      }
-
-      for (const key of sourceKeys) {
-        counts.set(key, (counts.get(key) || 0) + 1);
+        const existing = counts.get(entry.key);
+        if (existing) {
+          existing.count += 1;
+        } else {
+          counts.set(entry.key, { label: entry.label, count: 1 });
+        }
       }
     }
 
     return Array.from(counts.entries())
-      .map(([name, count]) => ({ name, count }))
-      .sort((a, b) =>
-        normalizeSourceLabel(a.name).localeCompare(
-          normalizeSourceLabel(b.name),
-        ),
-      );
+      .map(([key, value]) => ({
+        name: key,
+        key,
+        label: value.label,
+        count: value.count,
+      }))
+      .sort((a, b) => a.label.localeCompare(b.label));
   }, [data.products]);
 
+  const sourceFilteredProducts = useMemo(() => {
+    if (selectedSources.length === 0) return data.products;
+    return data.products.filter((product) =>
+      productMatchesSelectedSources(product, selectedSources),
+    );
+  }, [data.products, selectedSources]);
+
+  const categoryCountMap = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const product of sourceFilteredProducts) {
+      counts.set(product.category, (counts.get(product.category) || 0) + 1);
+    }
+    return counts;
+  }, [sourceFilteredProducts]);
+
+  const categoryFilters = useMemo(
+    () =>
+      data.categories.map((category) => ({
+        ...category,
+        count: categoryCountMap.get(category.name) || 0,
+      })),
+    [categoryCountMap, data.categories],
+  );
+
   const filtered = useMemo(() => {
-    return data.products.filter((product) => {
-      const matchesCategory =
-        activeCat === "All" || product.category === activeCat;
-      const sourceKeys = new Set<string>();
-      const primarySource = String(product.source || "")
-        .trim()
-        .toLowerCase();
-      if (primarySource) sourceKeys.add(primarySource);
-
-      for (const link of product.sourceLinks || []) {
-        if (link.platform)
-          sourceKeys.add(String(link.platform).trim().toLowerCase());
-      }
-
-      const matchesSource =
-        activeSource === "All" || sourceKeys.has(activeSource.toLowerCase());
-      return matchesCategory && matchesSource;
+    return sourceFilteredProducts.filter((product) => {
+      return activeCat === "All" || product.category === activeCat;
     });
-  }, [activeCat, activeSource, data.products]);
+  }, [activeCat, sourceFilteredProducts]);
 
   const withImageProducts = useMemo(
     () =>
@@ -120,7 +197,7 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
 
   useEffect(() => {
     setShowNoImageProducts(false);
-  }, [activeSource]);
+  }, [selectedSources]);
 
   if (!data.products.length) return null;
 
@@ -207,13 +284,14 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
           className="mb-8"
         >
           <CategoryFilterBar
-            categories={data.categories}
+            categories={categoryFilters}
             sources={sourceFilters}
             active={activeCat}
             onChange={setActiveCat}
-            activeSource={activeSource}
-            onSourceChange={setActiveSource}
-            totalCount={data.products.length}
+            selectedSources={selectedSources}
+            onSourceToggle={toggleSource}
+            onClearSources={clearSelectedSources}
+            totalCount={sourceFilteredProducts.length}
           />
         </motion.div>
 
