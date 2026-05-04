@@ -1,0 +1,604 @@
+{
+  "seller_id": 15837292,
+  "company_profile": {
+    "name": {
+      "value": "Hiral Labs Limited",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "Hiral Labs Limited is a pharmaceutical company based in Sisona, Roorkee, dedicated to the manufacturing, marketing, and export of a comprehensive range of pharmaceutical formulations. They offer quality products across diverse therapeutic segments, including oncology, anti-bacterial, anti-diabetic, and nutraceuticals, serving healthcare needs globally.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Roorkee",
+      "sources": [
+        "facebook",
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "265, SISONA, Nr. Bhagwanpur",
+      "sources": [
+        "facebook",
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "247661",
+      "sources": [
+        "facebook",
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://hirallabs.com",
+      "sources": [
+        "facebook",
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Pharmaceutical company",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 4.4,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 60,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "8389768071206129335",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "bio": {
+      "value": "www.hirallabs.com",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "http://www.hirallabs.com/uploads/logo.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/476257359_1067963698708813_8229909917912165683_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=qw4ECiGChxAQ7kNvwFCscVE&_nc_oc=AdqbbBQp6PMG2FVdTjBq8CwxUhfItCuruRdf_d9pV7OzFNM_WHEysTJhwdgifv-Lpf8&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=h6ZsJ_WNqAMRMF5qn8Dx6Q&_nc_ss=7c289&oh=00_Af6QubQh8_jvBAZYE1JWNS1SFaK8wJlSVr9Z5NqqtlIz9A&oe=69FE5D8A",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://facebook.com/hirallabsltd",
+      "sources": [
+        "facebook",
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "youtube": {
+      "value": "https://youtube.com/channel/uczaziptztgzleajwzpvntgw",
+      "sources": [
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "linkedin": {
+      "value": "https://linkedin.com/company/hirallabsltd",
+      "sources": [
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "8272035030",
+        "sources": [
+          "google"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "7535015030",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "marketing2@hirallabs.com",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://facebook.com/hirallabsltd",
+        "sources": [
+          "facebook",
+          "google",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://youtube.com/channel/uczaziptztgzleajwzpvntgw",
+        "sources": [
+          "google",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://linkedin.com/company/hirallabsltd",
+        "sources": [
+          "google",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "followers_facebook": 618,
+    "confidence": 0.88,
+    "sources": [
+      "google",
+      "facebook",
+      "linkedin"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 618
+      }
+    ],
+    "data_sources": [
+      "website"
+    ]
+  },
+  "products": [],
+  "media_assets": [],
+  "catalog_items": [],
+  "rejected_items": [],
+  "reviews": [
+    {
+      "author": "bros ent",
+      "rating": 5,
+      "text": "Hiral Labs. is one of the best plant in Uttarakhand to get manufactured international standard quality products. The admirable characteristic of Hiral Labs is their timely delivery . The Marketing executives are also appreciable , as they response in proper manner while there is any kind of query . The owner of this Organization is really highly regard-able person. He is well responsive and clear minded .",
+      "original_lang": "en",
+      "date": "2023-07-13T09:14:33.262Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Sudheer Kumar",
+      "rating": 5,
+      "text": "Company is very good in product quality.",
+      "original_lang": "en",
+      "date": "2025-12-29T16:28:54.949Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "KIRAN JOSHI",
+      "rating": 5,
+      "text": "We have been working with Hiral labs since 10 years, Hiral lab offers best quality products, timely delivery schedules. Overall very much satisfied with our association with Hiral labs.",
+      "original_lang": "en",
+      "date": "2023-07-17T09:06:25.536Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Chetan Pujara",
+      "rating": 5,
+      "text": "Associated with Hiral Lab & His Team more than 6 years, yet no complain of quality  as well as packing or anything related to stability of products,\nmoreover smooth coordination with marketing team & timely supply of products which is the key success of HIRAL LABS & TEAM.",
+      "original_lang": "en",
+      "date": "2023-07-13T09:18:33.664Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Rohit",
+      "rating": 5,
+      "text": "we glad to work with your company, your quality of products is good and your staff very professional and cooperative. we dealing with Shubham Bhatt he take his client seriously and resolve all issue as soon as possible which we like most. your sales,dispatch, designing and commitment and all very impressive.",
+      "original_lang": "en",
+      "date": "2019-03-09T09:13:59.924Z",
+      "likes": 4,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Nopex Healthcare",
+      "rating": 5,
+      "text": "Hiral Labs is one of the trusted, manufacturing company, produces all products with best quality, We have an experience of working with Hiral labs more than 5 years",
+      "original_lang": "en",
+      "date": "2023-07-11T11:57:14.869Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Parag Lalpura",
+      "rating": 5,
+      "text": "Hiral labs is manufacturing Kristal Pharmaceutical products for last 7 years & they did phenomenal job. There was no compromise in quality & they ensured best quality. Kristal Pharmaceutical is manufacturing 30 products at Hiral Labs.",
+      "original_lang": "en",
+      "date": "2023-07-13T10:47:21.622Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "cezane remedies",
+      "rating": 5,
+      "text": "hiral labs is one of the trusted & committed manufracting company. we have working with hiral labs more than 12 years..we appreciate on time delivery and also quality products ...",
+      "original_lang": "en",
+      "date": "2023-07-13T09:35:23.060Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "KAREKIND PHARMACEUTICAL",
+      "rating": 5,
+      "text": "We appreciate hiral lab limited\nfor honest efforts to provide us a quality products and have professional approach to co-operate  us in growth as a hole.\nWe pray and hope. hiral lab limited will mentain same approach and professionalism.\nWe wish all good luck.",
+      "original_lang": "en",
+      "date": "2023-07-11T05:39:08.001Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Order Treatwell Pharma",
+      "rating": 5,
+      "text": "Hiral labs is one of the best company with their best Quality Products,Management & Services and Staff is very Co-Operative A great Experience Working with him.",
+      "original_lang": "en",
+      "date": "2023-07-11T11:47:20.661Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "VILTIS PHARMA",
+      "rating": 5,
+      "text": "HIRAL LABS LIMITED IS TIMELY GIVEN ALL PRODUCTS & SERVICE. ITS GOOD MANUFACTURER WITH QUALITY PRODUCTS. WE ARE HAPPY WITH THEIR SERVICE ALSO.",
+      "original_lang": "en",
+      "date": "2023-07-10T11:16:13.489Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Rohit Kumar",
+      "rating": 1,
+      "text": "Dealing with Hiral Labs is like dealing with \" Sarkaari company\". No one responds .Review have given by their employees only .",
+      "original_lang": "en",
+      "date": "2023-08-28T07:22:58.725Z",
+      "likes": 1,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "J. K. Singh",
+      "rating": 5,
+      "text": "Associated since 13 years. having very nice experience with them. Good quality, dispatch and well organised working system.proud to be associated with them.",
+      "original_lang": "en",
+      "date": "2019-03-09T05:06:33.695Z",
+      "likes": 2,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Mohd Dilshad",
+      "rating": 5,
+      "text": "Very nice place and best Wark",
+      "original_lang": "en",
+      "date": "2018-02-01T05:51:53.110Z",
+      "likes": 1,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Vikas Saini",
+      "rating": 5,
+      "text": "I Love Hiral labs Ltd.\nCompany is very good in product quality.",
+      "original_lang": "en",
+      "date": "2019-03-30T00:03:27.790Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "STERIS HEALTHCARE",
+      "rating": 5,
+      "text": "EXCELLENT MANUFACTURER TIMELY DELIVERY WITH ASSURED QUALITY. FRIENDLY MARKETING TEAM.",
+      "original_lang": "en",
+      "date": "2023-07-10T09:25:14.891Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "approval anax",
+      "rating": 5,
+      "text": "Favorable service with good quality.....Pleasure to be in your clientele",
+      "original_lang": "en",
+      "date": "2023-07-10T08:48:44.836Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Pankaj Tyagi",
+      "rating": 5,
+      "text": "Quality Products, Timely supplies. Excellent Experience.",
+      "original_lang": "en",
+      "date": "2019-03-09T08:59:45.191Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Prem Kumar",
+      "rating": 1,
+      "text": "Pathetic company.Poor customer service.Callous attitude of marketing staff towards customers.",
+      "original_lang": "en",
+      "date": "2021-10-07T11:03:40.842Z",
+      "likes": 2,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Narendra Kumar Burnwal",
+      "rating": 5,
+      "text": "very good in product quality",
+      "original_lang": "en",
+      "date": "2024-08-15T05:31:10.587Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "devesh pathak",
+      "rating": 1,
+      "text": "Very bad",
+      "original_lang": "en",
+      "date": "2025-02-26T10:54:52.797Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Roshan Zamir",
+      "rating": 5,
+      "text": "Batter and best medicine with  number one quality.....",
+      "original_lang": "en",
+      "date": "2022-09-19T11:06:36.017Z",
+      "likes": 1,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Shah Khan",
+      "rating": 5,
+      "text": "I like very much Hiral Labs Ltd.",
+      "original_lang": "en",
+      "date": "2019-03-09T09:29:35.908Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Sarvesh Maurya",
+      "rating": 1,
+      "text": "Poor service.Queries of customers are hardly attended to .",
+      "original_lang": "en",
+      "date": "2023-08-03T12:09:58.333Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Manas Kundu",
+      "rating": 5,
+      "text": "Good Business opportunities",
+      "original_lang": "en",
+      "date": "2024-06-21T01:32:18.177Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 4.4,
+    "no_of_ratings": 60,
+    "rating_comments": [
+      "Hiral Labs. is one of the best plant in Uttarakhand to get manufactured international standard quality products. The admirable characteristic of Hiral Labs is their timely delivery . The Marketing executives are also appreciable , as they response in proper manner while there is any kind of query . The owner of this Organization is really highly regard-able person. He is well responsive and clear minded .",
+      "Company is very good in product quality.",
+      "We have been working with Hiral labs since 10 years, Hiral lab offers best quality products, timely delivery schedules. Overall very much satisfied with our association with Hiral labs.",
+      "Associated with Hiral Lab & His Team more than 6 years, yet no complain of quality  as well as packing or anything related to stability of products,\nmoreover smooth coordination with marketing team & timely supply of products which is the key success of HIRAL LABS & TEAM.",
+      "we glad to work with your company, your quality of products is good and your staff very professional and cooperative. we dealing with Shubham Bhatt he take his client seriously and resolve all issue as soon as possible which we like most. your sales,dispatch, designing and commitment and all very impressive.",
+      "Hiral Labs is one of the trusted, manufacturing company, produces all products with best quality, We have an experience of working with Hiral labs more than 5 years",
+      "Hiral labs is manufacturing Kristal Pharmaceutical products for last 7 years & they did phenomenal job. There was no compromise in quality & they ensured best quality. Kristal Pharmaceutical is manufacturing 30 products at Hiral Labs.",
+      "hiral labs is one of the trusted & committed manufracting company. we have working with hiral labs more than 12 years..we appreciate on time delivery and also quality products ...",
+      "We appreciate hiral lab limited\nfor honest efforts to provide us a quality products and have professional approach to co-operate  us in growth as a hole.\nWe pray and hope. hiral lab limited will mentain same approach and professionalism.\nWe wish all good luck.",
+      "Hiral labs is one of the best company with their best Quality Products,Management & Services and Staff is very Co-Operative A great Experience Working with him."
+    ],
+    "reviews_url": null
+  },
+  "overall_confidence": 0.376,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://facebook.com/hirallabsltd",
+      "profile_pic_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/326751189_3357803934508505_4842651166982944029_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=bHaSO36XOgAQ7kNvwFBQUu9&_nc_oc=AdqyLoc5iKUq_FqrBlgQMYkbK7yR2LJxULrtTneAVien-FTCdBhwdJtvKYC-sKwMPNE&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=zdTrMoNFLANdNoiEDDVnhg&_nc_ss=7c289&oh=00_Af73s5P-OvV4oyUpOJ7mSl2YamhkHOhkkfGLhrtkp3yoQg&oe=69FE4A5B",
+      "banner_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/476257359_1067963698708813_8229909917912165683_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=qw4ECiGChxAQ7kNvwFCscVE&_nc_oc=AdqbbBQp6PMG2FVdTjBq8CwxUhfItCuruRdf_d9pV7OzFNM_WHEysTJhwdgifv-Lpf8&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=h6ZsJ_WNqAMRMF5qn8Dx6Q&_nc_ss=7c289&oh=00_Af6QubQh8_jvBAZYE1JWNS1SFaK8wJlSVr9Z5NqqtlIz9A&oe=69FE5D8A",
+      "bio": "www.hirallabs.com",
+      "followers_count": 618,
+      "posts": [],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": "+91 75350 15030",
+        "email": "marketing2@hirallabs.com",
+        "website": "http://www.hirallabs.com/",
+        "address": "265, SISONA, Nr. Bhagwanpur, Roorkee, India, 247661",
+        "city": null
+      }
+    },
+    {
+      "platform": "youtube",
+      "url": "https://youtube.com/channel/uczaziptztgzleajwzpvntgw",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://youtube.com/channel/uczaziptztgzleajwzpvntgw/about",
+          "thumbnail_url": null,
+          "caption": null,
+          "likes": null,
+          "comments": null,
+          "views": null,
+          "posted_at": null
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "location": null,
+        "links": []
+      }
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://linkedin.com/company/hirallabsltd",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-04T10:34:24.065Z",
+    "duration_seconds": 33,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 0,
+      "Agent04/Media": 0,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [
+          "reviews"
+        ],
+        "quality_target": 0.75,
+        "reasoning": "The seller record contains company information and a website. There are no raw products provided, but the run_product_agent will be called to attempt to discover products from the website. The run_reviews_agent will be skipped as no reviews API URL is present. The run_company_agent will be run first to establish seller context, followed by run_product_agent and run_dedup_agent, and finally write_to_catalog."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": null,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 0,
+      "enriched": 0,
+      "catalog_items": 0,
+      "rejected": 0,
+      "with_vision": 0,
+      "vision_skipped": 0
+    },
+    "social": {
+      "urls_detected": 3,
+      "platforms_scraped": [
+        "facebook",
+        "youtube",
+        "linkedin"
+      ],
+      "posts_collected": 1,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.376
+  },
+  "_saved_at": "2026-05-04T10:34:56.821Z"
+}
