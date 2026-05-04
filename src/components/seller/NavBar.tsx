@@ -141,7 +141,7 @@ export default function NavBar({ data }: { data: SellerData }) {
                 <img
                   src={data.avatarUrl?.value}
                   alt={data.sellerName}
-                  className="h-full w-full object-contain"
+                  className="h-full w-full object-contain bg-white/50 p-px"
                   onError={() => setAvatarFailed(true)}
                 />
               ) : (
