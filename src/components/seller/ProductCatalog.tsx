@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { ShoppingBag, MessageCircle, Eye } from "lucide-react";
@@ -27,6 +27,18 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
   const [activeSource, setActiveSource] = useState<string>("All");
   const [selected, setSelected] = useState<CatalogProduct | null>(null);
   const [showNoImageProducts, setShowNoImageProducts] = useState(false);
+  const [brokenImageProductIds, setBrokenImageProductIds] = useState<
+    Set<string>
+  >(() => new Set());
+
+  const markImageUnavailable = useCallback((productId: string) => {
+    setBrokenImageProductIds((prev) => {
+      if (prev.has(productId)) return prev;
+      const next = new Set(prev);
+      next.add(productId);
+      return next;
+    });
+  }, []);
 
   const sourceFilters = useMemo(() => {
     const counts = new Map<string, number>();
@@ -79,12 +91,21 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
   }, [activeCat, activeSource, data.products]);
 
   const withImageProducts = useMemo(
-    () => filtered.filter((product) => Boolean(product.primaryPhoto)),
-    [filtered],
+    () =>
+      filtered.filter(
+        (product) =>
+          Boolean(product.primaryPhoto) &&
+          !brokenImageProductIds.has(product.id),
+      ),
+    [brokenImageProductIds, filtered],
   );
   const withoutImageProducts = useMemo(
-    () => filtered.filter((product) => !product.primaryPhoto),
-    [filtered],
+    () =>
+      filtered.filter(
+        (product) =>
+          !product.primaryPhoto || brokenImageProductIds.has(product.id),
+      ),
+    [brokenImageProductIds, filtered],
   );
 
   const displayedProducts = useMemo(() => {
@@ -204,6 +225,7 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
               product={p}
               onOpen={() => setSelected(p)}
               enquireHref={enquireFor(p)}
+              onImageUnavailable={markImageUnavailable}
             />
           ))}
         </div>
@@ -247,6 +269,7 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
                     onOpen={() => setSelected(p)}
                     enquireHref={enquireFor(p)}
                     hideImageSection
+                    onImageUnavailable={markImageUnavailable}
                   />
                 ))}
               </div>
@@ -266,6 +289,7 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
         product={selected}
         onClose={() => setSelected(null)}
         enquireHref={selected ? enquireFor(selected) : ""}
+        onImageUnavailable={markImageUnavailable}
         onPrev={
           selected
             ? () => {
