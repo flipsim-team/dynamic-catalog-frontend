@@ -1,0 +1,2848 @@
+{
+  "seller_id": 11366574,
+  "company_profile": {
+    "name": {
+      "value": "Codechefs Software Solutions",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "Codechefs Software Solutions is a Jaipur-based software company specializing in comprehensive digital solutions. They offer expertise across Software Development, DevOps, Mobile App Development, Web Development, Custom Software Development, and Cloud Migration, helping businesses build robust and scalable applications.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Sri Ganganagar",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "52 B Block, First Floor",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "335001",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://pizoneinfotech.com",
+      "sources": [
+        "facebook",
+        "instagram",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Software company",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 3.8,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 5,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "15687208053070155350",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://pizoneinfotech.com/wp-content/uploads/2024/07/latest-1-08.svg",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://pizoneinfotech.com/wp-content/uploads/2024/07/API.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://facebook.com/pizoneinfotech",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "https://instagram.com/pizoneinfotech",
+      "sources": [
+        "instagram",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "youtube": {
+      "value": "https://youtube.com/@pizoneinfotechsolutionpvt.2854",
+      "sources": [
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "linkedin": {
+      "value": "https://in.linkedin.com/company/pizone-infotech-solution-pvt-ltd",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "9414537275",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "9460687994",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "hr@pizoneinfotech.com",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "business@pizoneinfotech.com",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://facebook.com/pizoneinfotech",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://instagram.com/pizoneinfotech",
+        "sources": [
+          "instagram",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://youtube.com/@pizoneinfotechsolutionpvt.2854",
+        "sources": [
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://in.linkedin.com/company/pizone-infotech-solution-pvt-ltd",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "confidence": 0.85,
+    "sources": [
+      "google"
+    ],
+    "data_sources": [
+      "website"
+    ]
+  },
+  "products": [
+    {
+      "raw_name": "Software Development",
+      "clean_name": "Software Development",
+      "fingerprint": "dc2c416cd421",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Service",
+      "product_category": "Software Development",
+      "product_sub_type": "Custom Software Development Service",
+      "buyer_persona": "Businesses or individuals seeking custom software solutions to meet specific operational or strategic needs.",
+      "description": "Software Development is a custom software development service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or individuals seeking custom software solutions to meet specific operational or strategic needs.",
+      "seo_title": "Software Development Custom Software Development Service | Catalog Lis",
+      "tags": [
+        "Software Development",
+        "Digital & Technology",
+        "Software Services",
+        "Custom Software Development Service"
+      ],
+      "alt_text": "Software Development from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/latest-1-08.svg",
+        "source_url": "https://pizoneinfotech.com"
+      },
+      "specifications": {
+        "category": "Software Development",
+        "sub_type": "Custom Software Development Service",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/latest-1-08.svg",
+        "source_url": "https://pizoneinfotech.com",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/latest-1-08.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/latest-1-08.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "DevOps",
+      "clean_name": "DevOps",
+      "fingerprint": "7ec9550886c4",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "It Services & Consulting",
+      "product_category": "Devops Service",
+      "product_sub_type": "Devops Implementation & Consulting",
+      "buyer_persona": "Companies and IT departments seeking to improve their software development and operations efficiency, automation, and collaboration through expert services.",
+      "description": "DevOps is a devops implementation & consulting offered by Codechefs Software Solutions based in Jaipur. Suitable for: Companies and IT departments seeking to improve their software development and operations efficiency, automation, and collaboration through expert services.",
+      "seo_title": "DevOps DevOps Implementation & Consulting | Catalog Listing",
+      "tags": [
+        "DevOps",
+        "Digital & Technology",
+        "IT Services & Consulting",
+        "DevOps Service",
+        "DevOps Implementation & Consulting"
+      ],
+      "alt_text": "DevOps from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Devops.svg",
+        "source_url": "https://pizoneinfotech.com/service/devops/"
+      },
+      "specifications": {
+        "category": "Devops Service",
+        "sub_type": "Devops Implementation & Consulting",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Devops.svg",
+        "source_url": "https://pizoneinfotech.com/service/devops/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Devops.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/Devops.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/devops/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Mobile App Development",
+      "clean_name": "Mobile App Development",
+      "fingerprint": "590ba85ae64d",
+      "top_level_domain": "Service",
+      "industry_segment": "Information Technology Service",
+      "product_category": "Software Development Service",
+      "product_sub_type": "Mobile Application Development Service",
+      "buyer_persona": "Businesses or individuals seeking custom software solutions for mobile platforms to achieve specific operational or strategic goals.",
+      "description": "Mobile App Development is a mobile application development service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or individuals seeking custom software solutions for mobile platforms to achieve specific operational or strategic goals.",
+      "seo_title": "Mobile App Development Mobile Application Development Service | Catalo",
+      "tags": [
+        "Mobile App Development",
+        "Services",
+        "Information Technology Services",
+        "Software Development Service",
+        "Mobile Application Development Service"
+      ],
+      "alt_text": "Mobile App Development from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/app-development.svg",
+        "source_url": "https://pizoneinfotech.com/service/mobile-app-development/"
+      },
+      "specifications": {
+        "category": "Software Development Service",
+        "sub_type": "Mobile Application Development Service",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/app-development.svg",
+        "source_url": "https://pizoneinfotech.com/service/mobile-app-development/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/app-development.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/app-development.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/mobile-app-development/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Web Development",
+      "clean_name": "Web Development",
+      "fingerprint": "947529e84c95",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software & It Service",
+      "product_category": "Web Development",
+      "product_sub_type": "Website Development Service",
+      "buyer_persona": "A business owner or project manager looking to create, update, or maintain a website or web application for their organization.",
+      "description": "Web Development is a website development service offered by Codechefs Software Solutions based in Jaipur. Suitable for: A business owner or project manager looking to create, update, or maintain a website or web application for their organization.",
+      "seo_title": "Web Development Website Development Service | Catalog Listing",
+      "tags": [
+        "Web Development",
+        "Digital & Technology",
+        "Software & IT Services",
+        "Website Development Service"
+      ],
+      "alt_text": "Web Development from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Webdevelopment.svg",
+        "source_url": "https://pizoneinfotech.com/service/web-development/"
+      },
+      "specifications": {
+        "category": "Web Development",
+        "sub_type": "Website Development Service",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Webdevelopment.svg",
+        "source_url": "https://pizoneinfotech.com/service/web-development/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Webdevelopment.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/Webdevelopment.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/web-development/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Custom Software Development",
+      "clean_name": "Custom Software Development",
+      "fingerprint": "a0289406aa0c",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Service",
+      "product_category": "Software Development",
+      "product_sub_type": "Custom Software Development",
+      "buyer_persona": "Businesses or individuals seeking unique software solutions to address specific operational challenges or create new digital products.",
+      "description": "Custom Software Development is a custom software development offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or individuals seeking unique software solutions to address specific operational challenges or create new digital products.",
+      "seo_title": "Custom Software Development Custom Software Development | Catalog List",
+      "tags": [
+        "Custom Software Development",
+        "Digital & Technology",
+        "Software Services",
+        "Software Development"
+      ],
+      "alt_text": "Custom Software Development from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Customsoftwaredevelopment.svg",
+        "source_url": "https://pizoneinfotech.com/service/custom-software-development/"
+      },
+      "specifications": {
+        "category": "Software Development",
+        "sub_type": "Custom Software Development",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Customsoftwaredevelopment.svg",
+        "source_url": "https://pizoneinfotech.com/service/custom-software-development/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Customsoftwaredevelopment.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/Customsoftwaredevelopment.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/custom-software-development/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Cloud Migration",
+      "clean_name": "Cloud Migration",
+      "fingerprint": "231057395873",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "It Service",
+      "product_category": "Cloud Service",
+      "product_sub_type": "Cloud Migration Service",
+      "buyer_persona": "Businesses seeking to move their IT infrastructure, applications, or data to a cloud environment to improve scalability, reduce costs, or enhance flexibility, and require expert assistance for a smooth transition.",
+      "description": "Cloud Migration is a cloud migration service offered by Codechefs Software Solutions based in Jaipur.",
+      "seo_title": "Cloud Migration Cloud Migration Service | Catalog Listing",
+      "tags": [
+        "Cloud Migration",
+        "Digital & Technology",
+        "IT Services",
+        "Cloud Service",
+        "Cloud Migration Service"
+      ],
+      "alt_text": "Cloud Migration from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-migration.svg",
+        "source_url": "https://pizoneinfotech.com/service/cloud-migration/"
+      },
+      "specifications": {
+        "category": "Cloud Service",
+        "sub_type": "Cloud Migration Service",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-migration.svg",
+        "source_url": "https://pizoneinfotech.com/service/cloud-migration/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-migration.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-migration.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/cloud-migration/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Cloud Integration",
+      "clean_name": "Cloud Integration",
+      "fingerprint": "d7bd952f71b4",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Enterprise Software & Solution",
+      "product_category": "Cloud Integration Platform",
+      "product_sub_type": "Cloud Application Integration Service",
+      "buyer_persona": "An IT manager or business owner looking to connect disparate software applications and data sources in a cloud environment to streamline operations and improve data flow.",
+      "description": "Cloud Integration is a cloud application integration service offered by Codechefs Software Solutions based in Jaipur. Suitable for: An IT manager or business owner looking to connect disparate software applications and data sources in a cloud environment to streamline operations and improve data flow.",
+      "seo_title": "Cloud Integration Cloud Application Integration Service | Catalog List",
+      "tags": [
+        "Cloud Integration",
+        "Digital & Technology",
+        "Enterprise Software & Solutions",
+        "Cloud Integration Platform",
+        "Cloud Application Integration Service"
+      ],
+      "alt_text": "Cloud Integration from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-integration-2.svg",
+        "source_url": "https://pizoneinfotech.com/service/cloud-integration/"
+      },
+      "specifications": {
+        "category": "Cloud Integration Platform",
+        "sub_type": "Cloud Application Integration Service",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-integration-2.svg",
+        "source_url": "https://pizoneinfotech.com/service/cloud-integration/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-integration-2.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-integration-2.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/cloud-integration/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "AI & Machine Learning",
+      "clean_name": "AI & Machine Learning",
+      "fingerprint": "0d933f7b99bd",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software & It Service",
+      "product_category": "Artificial Intelligence",
+      "product_sub_type": "Machine Learning Solution",
+      "buyer_persona": "A business or organization seeking to implement advanced analytical capabilities, automation, or predictive modeling through AI and Machine Learning technologies.",
+      "description": "AI & Machine Learning is a machine learning solutions offered by Codechefs Software Solutions based in Jaipur. Suitable for: A business or organization seeking to implement advanced analytical capabilities, automation, or predictive modeling through AI and Machine Learning technologies.",
+      "seo_title": "AI & Machine Learning Machine Learning Solutions | Catalog Listing",
+      "tags": [
+        "AI & Machine Learning",
+        "Digital & Technology",
+        "Software & IT Services",
+        "Artificial Intelligence",
+        "Machine Learning Solutions"
+      ],
+      "alt_text": "AI & Machine Learning from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/AIML.svg",
+        "source_url": "https://pizoneinfotech.com/service/ai-machine-learning/"
+      },
+      "specifications": {
+        "category": "Artificial Intelligence",
+        "sub_type": "Machine Learning Solution",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/AIML.svg",
+        "source_url": "https://pizoneinfotech.com/service/ai-machine-learning/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/AIML.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/AIML.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/ai-machine-learning/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Chatbots & Virtual Assistants",
+      "clean_name": "Chatbots & Virtual Assistants",
+      "fingerprint": "a242f0686226",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software & Artificial Intelligence",
+      "product_category": "Chatbot",
+      "product_sub_type": "Virtual Assistant Software",
+      "buyer_persona": "Businesses and organizations seeking to automate customer interactions, streamline support, or enhance operational efficiency through AI-driven conversational interfaces.",
+      "description": "Chatbots & Virtual Assistants is a virtual assistant software offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses and organizations seeking to automate customer interactions, streamline support, or enhance operational efficiency through AI-driven conversational interfaces.",
+      "seo_title": "Chatbots & Virtual Assistants Virtual Assistant Software | Catalog Lis",
+      "tags": [
+        "Chatbots & Virtual Assistants",
+        "Digital & Technology",
+        "Software & Artificial Intelligence",
+        "Chatbot",
+        "Virtual Assistant Software"
+      ],
+      "alt_text": "Chatbots & Virtual Assistants from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/chatbot.svg",
+        "source_url": "https://pizoneinfotech.com/service/chatbots-virtual-assistants/"
+      },
+      "specifications": {
+        "category": "Chatbot",
+        "sub_type": "Virtual Assistant Software",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/chatbot.svg",
+        "source_url": "https://pizoneinfotech.com/service/chatbots-virtual-assistants/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/chatbot.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/chatbot.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/chatbots-virtual-assistants/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Visual Design",
+      "clean_name": "Visual Design",
+      "fingerprint": "095a9a59d67a",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Design Services & Software",
+      "product_category": "Visual Design",
+      "product_sub_type": "Digital Visual Design Service",
+      "buyer_persona": "Businesses and individuals seeking professional aesthetic and functional design for their digital products, websites, applications, or brand identity.",
+      "description": "Visual Design is a digital visual design service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses and individuals seeking professional aesthetic and functional design for their digital products, websites, applications, or brand identity.",
+      "seo_title": "Visual Design Digital Visual Design Service | Catalog Listing",
+      "tags": [
+        "Visual Design",
+        "Digital & Technology",
+        "Design Services & Software",
+        "Digital Visual Design Service"
+      ],
+      "alt_text": "Visual Design from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/visual-design.svg",
+        "source_url": "https://pizoneinfotech.com/service/visual-design/"
+      },
+      "specifications": {
+        "category": "Visual Design",
+        "sub_type": "Digital Visual Design Service",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/visual-design.svg",
+        "source_url": "https://pizoneinfotech.com/service/visual-design/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/visual-design.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/visual-design.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/visual-design/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Prototyping",
+      "clean_name": "Prototyping",
+      "fingerprint": "3ff780e90e54",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Development & Design",
+      "product_category": "Prototyping Software",
+      "product_sub_type": "Digital Prototyping Tool",
+      "buyer_persona": "Product managers, designers, and developers seeking tools or services to create and test preliminary versions of products or software.",
+      "description": "Prototyping is a digital prototyping tool offered by Codechefs Software Solutions based in Jaipur. Suitable for: Product managers, designers, and developers seeking tools or services to create and test preliminary versions of products or software.",
+      "seo_title": "Prototyping Digital Prototyping Tool | Catalog Listing",
+      "tags": [
+        "Prototyping",
+        "Digital & Technology",
+        "Software Development & Design",
+        "Prototyping Software",
+        "Digital Prototyping Tool"
+      ],
+      "alt_text": "Prototyping from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Prototype.svg",
+        "source_url": "https://pizoneinfotech.com/service/prototyping/"
+      },
+      "specifications": {
+        "category": "Prototyping Software",
+        "sub_type": "Digital Prototyping Tool",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Prototype.svg",
+        "source_url": "https://pizoneinfotech.com/service/prototyping/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Prototype.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/Prototype.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/prototyping/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.6,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name is very generic and could refer to a service or a software tool."
+      ],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "UI/UX Design",
+      "clean_name": "UI/UX Design",
+      "fingerprint": "4db687f51c81",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software & It Service",
+      "product_category": "Design Service",
+      "product_sub_type": "Ui/ux Design Service",
+      "buyer_persona": "Businesses and startups seeking to create user-friendly and aesthetically pleasing digital products (websites, mobile apps, software) by outsourcing the design phase.",
+      "description": "UI/UX Design is a ui/ux design service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses and startups seeking to create user-friendly and aesthetically pleasing digital products (websites, mobile apps, software) by outsourcing the design phase.",
+      "seo_title": "UI/UX Design UI/UX Design Service | Catalog Listing",
+      "tags": [
+        "UI/UX Design",
+        "Digital & Technology",
+        "Software & IT Services",
+        "Design Service",
+        "UI/UX Design Service"
+      ],
+      "alt_text": "UI/UX Design from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/UX.svg",
+        "source_url": "https://pizoneinfotech.com/service/ui-ux-design/"
+      },
+      "specifications": {
+        "category": "Design Service",
+        "sub_type": "Ui/ux Design Service",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/UX.svg",
+        "source_url": "https://pizoneinfotech.com/service/ui-ux-design/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/UX.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/UX.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/ui-ux-design/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "IT Consulting",
+      "clean_name": "IT Consulting",
+      "fingerprint": "061ad0a7b9aa",
+      "top_level_domain": "Service",
+      "industry_segment": "Information Technology Service",
+      "product_category": "It Consulting",
+      "product_sub_type": "Business & Technology Consulting",
+      "buyer_persona": "Businesses and organizations seeking expert advice, strategic guidance, and specialized knowledge to address their information technology challenges and achieve business objectives.",
+      "description": "IT Consulting is a business & technology consulting offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses and organizations seeking expert advice, strategic guidance, and specialized knowledge to address their information technology challenges and achieve business objectives.",
+      "seo_title": "IT Consulting Business & Technology Consulting | Catalog Listing",
+      "tags": [
+        "IT Consulting",
+        "Services",
+        "Information Technology Services",
+        "Business & Technology Consulting"
+      ],
+      "alt_text": "IT Consulting from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/it-consulting.svg",
+        "source_url": "https://pizoneinfotech.com/service/it-consulting/"
+      },
+      "specifications": {
+        "category": "It Consulting",
+        "sub_type": "Business & Technology Consulting",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/it-consulting.svg",
+        "source_url": "https://pizoneinfotech.com/service/it-consulting/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/it-consulting.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/it-consulting.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/it-consulting/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Business Analysis",
+      "clean_name": "Business Analysis",
+      "fingerprint": "bffc09d06e33",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Business Software & Service",
+      "product_category": "Business Analysis",
+      "product_sub_type": "Business Analysis Service",
+      "buyer_persona": "Businesses or executives seeking insights into their operations, market, or performance to make informed strategic and operational decisions.",
+      "description": "Business Analysis is a business analysis service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or executives seeking insights into their operations, market, or performance to make informed strategic and operational decisions.",
+      "seo_title": "Business Analysis Business Analysis Service | Catalog Listing",
+      "tags": [
+        "Business Analysis",
+        "Digital & Technology",
+        "Business Software & Services",
+        "Business Analysis Service"
+      ],
+      "alt_text": "Business Analysis from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/business-analysis.svg",
+        "source_url": "https://pizoneinfotech.com/service/business-analysis/"
+      },
+      "specifications": {
+        "category": "Business Analysis",
+        "sub_type": "Business Analysis Service",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/business-analysis.svg",
+        "source_url": "https://pizoneinfotech.com/service/business-analysis/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/business-analysis.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/business-analysis.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/business-analysis/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "MVP",
+      "clean_name": "MVP",
+      "fingerprint": "0a6e36cfcfee",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Development Service",
+      "product_category": "Software Development Service",
+      "product_sub_type": "Minimum Viable Product Development",
+      "buyer_persona": "Startups, entrepreneurs, or businesses looking to quickly launch and test a new software product with essential features.",
+      "description": "MVP is a minimum viable product development offered by Codechefs Software Solutions based in Jaipur. Suitable for: Startups, entrepreneurs, or businesses looking to quickly launch and test a new software product with essential features.",
+      "seo_title": "MVP Minimum Viable Product Development | Catalog Listing",
+      "tags": [
+        "MVP",
+        "Digital & Technology",
+        "Software Development Services",
+        "Software Development Service",
+        "Minimum Viable Product Development"
+      ],
+      "alt_text": "MVP from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/MVP.svg",
+        "source_url": "https://pizoneinfotech.com/solution/minimum-viable-product/"
+      },
+      "specifications": {
+        "category": "Software Development Service",
+        "sub_type": "Minimum Viable Product Development",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/MVP.svg",
+        "source_url": "https://pizoneinfotech.com/solution/minimum-viable-product/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/MVP.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/MVP.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/solution/minimum-viable-product/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "ERP Systems",
+      "clean_name": "ERP Systems",
+      "fingerprint": "e8eb38ba4bec",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Business Software & Solution",
+      "product_category": "Erp System",
+      "product_sub_type": "Enterprise Resource Planning System",
+      "buyer_persona": "Businesses of all sizes, from SMEs to large enterprises, looking to integrate and manage their core business processes like finance, HR, and supply chain.",
+      "description": "ERP Systems is a enterprise resource planning system offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses of all sizes, from SMEs to large enterprises, looking to integrate and manage their core business processes like finance, HR, and supply chain.",
+      "seo_title": "ERP Systems Enterprise Resource Planning System | Catalog Listing",
+      "tags": [
+        "ERP Systems",
+        "Digital & Technology",
+        "Business Software & Solutions",
+        "ERP System",
+        "Enterprise Resource Planning System"
+      ],
+      "alt_text": "ERP Systems from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/ERP.svg",
+        "source_url": "https://pizoneinfotech.com/solution/erp-systems/"
+      },
+      "specifications": {
+        "category": "Erp System",
+        "sub_type": "Enterprise Resource Planning System",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/ERP.svg",
+        "source_url": "https://pizoneinfotech.com/solution/erp-systems/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/ERP.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/ERP.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/solution/erp-systems/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "CRM Solutions",
+      "clean_name": "CRM Solutions",
+      "fingerprint": "c9bf22153d0b",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Business Software",
+      "product_category": "Crm Software",
+      "product_sub_type": "Crm Solution",
+      "buyer_persona": "Businesses looking to streamline customer interactions, sales processes, and marketing efforts to improve customer satisfaction and drive growth.",
+      "description": "CRM Solutions is a crm solution offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses looking to streamline customer interactions, sales processes, and marketing efforts to improve customer satisfaction and drive growth.",
+      "seo_title": "CRM Solutions CRM Solution | Catalog Listing",
+      "tags": [
+        "CRM Solutions",
+        "Digital & Technology",
+        "Business Software",
+        "CRM Software",
+        "CRM Solution"
+      ],
+      "alt_text": "CRM Solutions from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/09/post-fallback-icon.png",
+        "source_url": "https://pizoneinfotech.com/solution/crm-solutions/"
+      },
+      "specifications": {
+        "category": "Crm Software",
+        "sub_type": "Crm Solution",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/09/post-fallback-icon.png",
+        "source_url": "https://pizoneinfotech.com/solution/crm-solutions/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/09/post-fallback-icon.png",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/09/post-fallback-icon.png"
+      ],
+      "source_url": "https://pizoneinfotech.com/solution/crm-solutions/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Custom APIs",
+      "clean_name": "Custom APIs",
+      "fingerprint": "ce8be6032035",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Development Service",
+      "product_category": "Api Development",
+      "product_sub_type": "Custom Api Development Service",
+      "buyer_persona": "Businesses or developers seeking bespoke software interfaces to connect systems, automate processes, or expose data.",
+      "description": "Custom APIs is a custom api development service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or developers seeking bespoke software interfaces to connect systems, automate processes, or expose data.",
+      "seo_title": "Custom APIs Custom API Development Service | Catalog Listing",
+      "tags": [
+        "Custom APIs",
+        "Digital & Technology",
+        "Software Development Services",
+        "API Development",
+        "Custom API Development Service"
+      ],
+      "alt_text": "Custom APIs from Codechefs Software Solutions",
+      "domain_attributes": {
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/API.svg",
+        "source_url": "https://pizoneinfotech.com/solution/custom-apis/"
+      },
+      "specifications": {
+        "category": "Api Development",
+        "sub_type": "Custom Api Development Service",
+        "image_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/API.svg",
+        "source_url": "https://pizoneinfotech.com/solution/custom-apis/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/API.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/API.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/solution/custom-apis/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "dc2c416cd421",
+      "product_name": "Software Development",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/latest-1-08.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:20.178Z"
+    },
+    {
+      "fingerprint": "7ec9550886c4",
+      "product_name": "DevOps",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Devops.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:23.445Z"
+    },
+    {
+      "fingerprint": "590ba85ae64d",
+      "product_name": "Mobile App Development",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/app-development.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:19.953Z"
+    },
+    {
+      "fingerprint": "947529e84c95",
+      "product_name": "Web Development",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Webdevelopment.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:19.832Z"
+    },
+    {
+      "fingerprint": "a0289406aa0c",
+      "product_name": "Custom Software Development",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Customsoftwaredevelopment.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:20.174Z"
+    },
+    {
+      "fingerprint": "231057395873",
+      "product_name": "Cloud Migration",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-migration.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:25.234Z"
+    },
+    {
+      "fingerprint": "d7bd952f71b4",
+      "product_name": "Cloud Integration",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-integration-2.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:27.587Z"
+    },
+    {
+      "fingerprint": "0d933f7b99bd",
+      "product_name": "AI & Machine Learning",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/AIML.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:25.238Z"
+    },
+    {
+      "fingerprint": "a242f0686226",
+      "product_name": "Chatbots & Virtual Assistants",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/chatbot.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:25.241Z"
+    },
+    {
+      "fingerprint": "095a9a59d67a",
+      "product_name": "Visual Design",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/visual-design.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:25.235Z"
+    },
+    {
+      "fingerprint": "3ff780e90e54",
+      "product_name": "Prototyping",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Prototype.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:29.130Z"
+    },
+    {
+      "fingerprint": "4db687f51c81",
+      "product_name": "UI/UX Design",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/UX.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:29.351Z"
+    },
+    {
+      "fingerprint": "061ad0a7b9aa",
+      "product_name": "IT Consulting",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/it-consulting.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:29.134Z"
+    },
+    {
+      "fingerprint": "bffc09d06e33",
+      "product_name": "Business Analysis",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/business-analysis.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:30.129Z"
+    },
+    {
+      "fingerprint": "0a6e36cfcfee",
+      "product_name": "MVP",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/MVP.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:29.020Z"
+    },
+    {
+      "fingerprint": "e8eb38ba4bec",
+      "product_name": "ERP Systems",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/ERP.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:32.405Z"
+    },
+    {
+      "fingerprint": "c9bf22153d0b",
+      "product_name": "CRM Solutions",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/09/post-fallback-icon.png",
+      "scene_type": "company_logo",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "simple graphic on white background",
+        "additional_visual_notes": "stylized icon representing growth or trend"
+      },
+      "visual_description": "A simple graphic icon featuring a wavy orange line that trends upwards, ending in an arrow pointing to the upper right. The icon is centered on a plain white background, suggesting a clean and minimalist presentation.",
+      "media_alt_text": "Orange upward trending line graph icon on a white background, symbolizing growth or positive trend.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T10:40:38.449Z"
+    },
+    {
+      "fingerprint": "ce8be6032035",
+      "product_name": "Custom APIs",
+      "url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/API.svg",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "classified_at": "2026-05-04T10:40:31.924Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "Software Development",
+      "fingerprint": "dc2c416cd421",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Service",
+      "product_category": "Software Development",
+      "product_sub_type": "Custom Software Development Service",
+      "buyer_persona": "Businesses or individuals seeking custom software solutions to meet specific operational or strategic needs.",
+      "seo_title": "Software Development Custom Software Development Service | Catalog Lis",
+      "tags": [
+        "Software Development",
+        "Digital & Technology",
+        "Software Services",
+        "Custom Software Development Service"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/latest-1-08.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/latest-1-08.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Software Development is a custom software development service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or individuals seeking custom software solutions to meet specific operational or strategic needs.",
+      "specifications": {
+        "category": "Software Development",
+        "sub_type": "Custom Software Development Service"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/latest-1-08.svg"
+    },
+    {
+      "clean_name": "DevOps",
+      "fingerprint": "7ec9550886c4",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "It Services & Consulting",
+      "product_category": "Devops Service",
+      "product_sub_type": "Devops Implementation & Consulting",
+      "buyer_persona": "Companies and IT departments seeking to improve their software development and operations efficiency, automation, and collaboration through expert services.",
+      "seo_title": "DevOps DevOps Implementation & Consulting | Catalog Listing",
+      "tags": [
+        "DevOps",
+        "Digital & Technology",
+        "IT Services & Consulting",
+        "DevOps Service",
+        "DevOps Implementation & Consulting"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Devops.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/Devops.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/devops/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "DevOps is a devops implementation & consulting offered by Codechefs Software Solutions based in Jaipur. Suitable for: Companies and IT departments seeking to improve their software development and operations efficiency, automation, and collaboration through expert services.",
+      "specifications": {
+        "category": "Devops Service",
+        "sub_type": "Devops Implementation & Consulting"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Devops.svg"
+    },
+    {
+      "clean_name": "Mobile App Development",
+      "fingerprint": "590ba85ae64d",
+      "top_level_domain": "Service",
+      "industry_segment": "Information Technology Service",
+      "product_category": "Software Development Service",
+      "product_sub_type": "Mobile Application Development Service",
+      "buyer_persona": "Businesses or individuals seeking custom software solutions for mobile platforms to achieve specific operational or strategic goals.",
+      "seo_title": "Mobile App Development Mobile Application Development Service | Catalo",
+      "tags": [
+        "Mobile App Development",
+        "Services",
+        "Information Technology Services",
+        "Software Development Service",
+        "Mobile Application Development Service"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/app-development.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/app-development.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/mobile-app-development/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Mobile App Development is a mobile application development service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or individuals seeking custom software solutions for mobile platforms to achieve specific operational or strategic goals.",
+      "specifications": {
+        "category": "Software Development Service",
+        "sub_type": "Mobile Application Development Service"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/app-development.svg"
+    },
+    {
+      "clean_name": "Web Development",
+      "fingerprint": "947529e84c95",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software & It Service",
+      "product_category": "Web Development",
+      "product_sub_type": "Website Development Service",
+      "buyer_persona": "A business owner or project manager looking to create, update, or maintain a website or web application for their organization.",
+      "seo_title": "Web Development Website Development Service | Catalog Listing",
+      "tags": [
+        "Web Development",
+        "Digital & Technology",
+        "Software & IT Services",
+        "Website Development Service"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Webdevelopment.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/Webdevelopment.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/web-development/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Web Development is a website development service offered by Codechefs Software Solutions based in Jaipur. Suitable for: A business owner or project manager looking to create, update, or maintain a website or web application for their organization.",
+      "specifications": {
+        "category": "Web Development",
+        "sub_type": "Website Development Service"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Webdevelopment.svg"
+    },
+    {
+      "clean_name": "Custom Software Development",
+      "fingerprint": "a0289406aa0c",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Service",
+      "product_category": "Software Development",
+      "product_sub_type": "Custom Software Development",
+      "buyer_persona": "Businesses or individuals seeking unique software solutions to address specific operational challenges or create new digital products.",
+      "seo_title": "Custom Software Development Custom Software Development | Catalog List",
+      "tags": [
+        "Custom Software Development",
+        "Digital & Technology",
+        "Software Services",
+        "Software Development"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Customsoftwaredevelopment.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/Customsoftwaredevelopment.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/custom-software-development/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Custom Software Development is a custom software development offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or individuals seeking unique software solutions to address specific operational challenges or create new digital products.",
+      "specifications": {
+        "category": "Software Development",
+        "sub_type": "Custom Software Development"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Customsoftwaredevelopment.svg"
+    },
+    {
+      "clean_name": "Cloud Migration",
+      "fingerprint": "231057395873",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "It Service",
+      "product_category": "Cloud Service",
+      "product_sub_type": "Cloud Migration Service",
+      "buyer_persona": "Businesses seeking to move their IT infrastructure, applications, or data to a cloud environment to improve scalability, reduce costs, or enhance flexibility, and require expert assistance for a smooth transition.",
+      "seo_title": "Cloud Migration Cloud Migration Service | Catalog Listing",
+      "tags": [
+        "Cloud Migration",
+        "Digital & Technology",
+        "IT Services",
+        "Cloud Service",
+        "Cloud Migration Service"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-migration.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-migration.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/cloud-migration/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Cloud Migration is a cloud migration service offered by Codechefs Software Solutions based in Jaipur.",
+      "specifications": {
+        "category": "Cloud Service",
+        "sub_type": "Cloud Migration Service"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-migration.svg"
+    },
+    {
+      "clean_name": "Cloud Integration",
+      "fingerprint": "d7bd952f71b4",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Enterprise Software & Solution",
+      "product_category": "Cloud Integration Platform",
+      "product_sub_type": "Cloud Application Integration Service",
+      "buyer_persona": "An IT manager or business owner looking to connect disparate software applications and data sources in a cloud environment to streamline operations and improve data flow.",
+      "seo_title": "Cloud Integration Cloud Application Integration Service | Catalog List",
+      "tags": [
+        "Cloud Integration",
+        "Digital & Technology",
+        "Enterprise Software & Solutions",
+        "Cloud Integration Platform",
+        "Cloud Application Integration Service"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-integration-2.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-integration-2.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/cloud-integration/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Cloud Integration is a cloud application integration service offered by Codechefs Software Solutions based in Jaipur. Suitable for: An IT manager or business owner looking to connect disparate software applications and data sources in a cloud environment to streamline operations and improve data flow.",
+      "specifications": {
+        "category": "Cloud Integration Platform",
+        "sub_type": "Cloud Application Integration Service"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/cloud-integration-2.svg"
+    },
+    {
+      "clean_name": "AI & Machine Learning",
+      "fingerprint": "0d933f7b99bd",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software & It Service",
+      "product_category": "Artificial Intelligence",
+      "product_sub_type": "Machine Learning Solution",
+      "buyer_persona": "A business or organization seeking to implement advanced analytical capabilities, automation, or predictive modeling through AI and Machine Learning technologies.",
+      "seo_title": "AI & Machine Learning Machine Learning Solutions | Catalog Listing",
+      "tags": [
+        "AI & Machine Learning",
+        "Digital & Technology",
+        "Software & IT Services",
+        "Artificial Intelligence",
+        "Machine Learning Solutions"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/AIML.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/AIML.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/ai-machine-learning/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "AI & Machine Learning is a machine learning solutions offered by Codechefs Software Solutions based in Jaipur. Suitable for: A business or organization seeking to implement advanced analytical capabilities, automation, or predictive modeling through AI and Machine Learning technologies.",
+      "specifications": {
+        "category": "Artificial Intelligence",
+        "sub_type": "Machine Learning Solution"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/AIML.svg"
+    },
+    {
+      "clean_name": "Chatbots & Virtual Assistants",
+      "fingerprint": "a242f0686226",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software & Artificial Intelligence",
+      "product_category": "Chatbot",
+      "product_sub_type": "Virtual Assistant Software",
+      "buyer_persona": "Businesses and organizations seeking to automate customer interactions, streamline support, or enhance operational efficiency through AI-driven conversational interfaces.",
+      "seo_title": "Chatbots & Virtual Assistants Virtual Assistant Software | Catalog Lis",
+      "tags": [
+        "Chatbots & Virtual Assistants",
+        "Digital & Technology",
+        "Software & Artificial Intelligence",
+        "Chatbot",
+        "Virtual Assistant Software"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/chatbot.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/chatbot.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/chatbots-virtual-assistants/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Chatbots & Virtual Assistants is a virtual assistant software offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses and organizations seeking to automate customer interactions, streamline support, or enhance operational efficiency through AI-driven conversational interfaces.",
+      "specifications": {
+        "category": "Chatbot",
+        "sub_type": "Virtual Assistant Software"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/chatbot.svg"
+    },
+    {
+      "clean_name": "Visual Design",
+      "fingerprint": "095a9a59d67a",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Design Services & Software",
+      "product_category": "Visual Design",
+      "product_sub_type": "Digital Visual Design Service",
+      "buyer_persona": "Businesses and individuals seeking professional aesthetic and functional design for their digital products, websites, applications, or brand identity.",
+      "seo_title": "Visual Design Digital Visual Design Service | Catalog Listing",
+      "tags": [
+        "Visual Design",
+        "Digital & Technology",
+        "Design Services & Software",
+        "Digital Visual Design Service"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/visual-design.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/visual-design.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/visual-design/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Visual Design is a digital visual design service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses and individuals seeking professional aesthetic and functional design for their digital products, websites, applications, or brand identity.",
+      "specifications": {
+        "category": "Visual Design",
+        "sub_type": "Digital Visual Design Service"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/visual-design.svg"
+    },
+    {
+      "clean_name": "Prototyping",
+      "fingerprint": "3ff780e90e54",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Development & Design",
+      "product_category": "Prototyping Software",
+      "product_sub_type": "Digital Prototyping Tool",
+      "buyer_persona": "Product managers, designers, and developers seeking tools or services to create and test preliminary versions of products or software.",
+      "seo_title": "Prototyping Digital Prototyping Tool | Catalog Listing",
+      "tags": [
+        "Prototyping",
+        "Digital & Technology",
+        "Software Development & Design",
+        "Prototyping Software",
+        "Digital Prototyping Tool"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Prototype.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/Prototype.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/prototyping/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.6,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name is very generic and could refer to a service or a software tool."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "Prototyping is a digital prototyping tool offered by Codechefs Software Solutions based in Jaipur. Suitable for: Product managers, designers, and developers seeking tools or services to create and test preliminary versions of products or software.",
+      "specifications": {
+        "category": "Prototyping Software",
+        "sub_type": "Digital Prototyping Tool"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/Prototype.svg"
+    },
+    {
+      "clean_name": "UI/UX Design",
+      "fingerprint": "4db687f51c81",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software & It Service",
+      "product_category": "Design Service",
+      "product_sub_type": "Ui/ux Design Service",
+      "buyer_persona": "Businesses and startups seeking to create user-friendly and aesthetically pleasing digital products (websites, mobile apps, software) by outsourcing the design phase.",
+      "seo_title": "UI/UX Design UI/UX Design Service | Catalog Listing",
+      "tags": [
+        "UI/UX Design",
+        "Digital & Technology",
+        "Software & IT Services",
+        "Design Service",
+        "UI/UX Design Service"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/UX.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/UX.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/ui-ux-design/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "UI/UX Design is a ui/ux design service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses and startups seeking to create user-friendly and aesthetically pleasing digital products (websites, mobile apps, software) by outsourcing the design phase.",
+      "specifications": {
+        "category": "Design Service",
+        "sub_type": "Ui/ux Design Service"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/UX.svg"
+    },
+    {
+      "clean_name": "IT Consulting",
+      "fingerprint": "061ad0a7b9aa",
+      "top_level_domain": "Service",
+      "industry_segment": "Information Technology Service",
+      "product_category": "It Consulting",
+      "product_sub_type": "Business & Technology Consulting",
+      "buyer_persona": "Businesses and organizations seeking expert advice, strategic guidance, and specialized knowledge to address their information technology challenges and achieve business objectives.",
+      "seo_title": "IT Consulting Business & Technology Consulting | Catalog Listing",
+      "tags": [
+        "IT Consulting",
+        "Services",
+        "Information Technology Services",
+        "Business & Technology Consulting"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/it-consulting.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/it-consulting.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/it-consulting/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "IT Consulting is a business & technology consulting offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses and organizations seeking expert advice, strategic guidance, and specialized knowledge to address their information technology challenges and achieve business objectives.",
+      "specifications": {
+        "category": "It Consulting",
+        "sub_type": "Business & Technology Consulting"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/it-consulting.svg"
+    },
+    {
+      "clean_name": "Business Analysis",
+      "fingerprint": "bffc09d06e33",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Business Software & Service",
+      "product_category": "Business Analysis",
+      "product_sub_type": "Business Analysis Service",
+      "buyer_persona": "Businesses or executives seeking insights into their operations, market, or performance to make informed strategic and operational decisions.",
+      "seo_title": "Business Analysis Business Analysis Service | Catalog Listing",
+      "tags": [
+        "Business Analysis",
+        "Digital & Technology",
+        "Business Software & Services",
+        "Business Analysis Service"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/business-analysis.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/business-analysis.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/service/business-analysis/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Business Analysis is a business analysis service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or executives seeking insights into their operations, market, or performance to make informed strategic and operational decisions.",
+      "specifications": {
+        "category": "Business Analysis",
+        "sub_type": "Business Analysis Service"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/business-analysis.svg"
+    },
+    {
+      "clean_name": "MVP",
+      "fingerprint": "0a6e36cfcfee",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Development Service",
+      "product_category": "Software Development Service",
+      "product_sub_type": "Minimum Viable Product Development",
+      "buyer_persona": "Startups, entrepreneurs, or businesses looking to quickly launch and test a new software product with essential features.",
+      "seo_title": "MVP Minimum Viable Product Development | Catalog Listing",
+      "tags": [
+        "MVP",
+        "Digital & Technology",
+        "Software Development Services",
+        "Software Development Service",
+        "Minimum Viable Product Development"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/MVP.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/MVP.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/solution/minimum-viable-product/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "MVP is a minimum viable product development offered by Codechefs Software Solutions based in Jaipur. Suitable for: Startups, entrepreneurs, or businesses looking to quickly launch and test a new software product with essential features.",
+      "specifications": {
+        "category": "Software Development Service",
+        "sub_type": "Minimum Viable Product Development"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/MVP.svg"
+    },
+    {
+      "clean_name": "ERP Systems",
+      "fingerprint": "e8eb38ba4bec",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Business Software & Solution",
+      "product_category": "Erp System",
+      "product_sub_type": "Enterprise Resource Planning System",
+      "buyer_persona": "Businesses of all sizes, from SMEs to large enterprises, looking to integrate and manage their core business processes like finance, HR, and supply chain.",
+      "seo_title": "ERP Systems Enterprise Resource Planning System | Catalog Listing",
+      "tags": [
+        "ERP Systems",
+        "Digital & Technology",
+        "Business Software & Solutions",
+        "ERP System",
+        "Enterprise Resource Planning System"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/ERP.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/ERP.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/solution/erp-systems/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "ERP Systems is a enterprise resource planning system offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses of all sizes, from SMEs to large enterprises, looking to integrate and manage their core business processes like finance, HR, and supply chain.",
+      "specifications": {
+        "category": "Erp System",
+        "sub_type": "Enterprise Resource Planning System"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/ERP.svg"
+    },
+    {
+      "clean_name": "CRM Solutions",
+      "fingerprint": "c9bf22153d0b",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Business Software",
+      "product_category": "Crm Software",
+      "product_sub_type": "Crm Solution",
+      "buyer_persona": "Businesses looking to streamline customer interactions, sales processes, and marketing efforts to improve customer satisfaction and drive growth.",
+      "seo_title": "CRM Solutions CRM Solution | Catalog Listing",
+      "tags": [
+        "CRM Solutions",
+        "Digital & Technology",
+        "Business Software",
+        "CRM Software",
+        "CRM Solution"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/09/post-fallback-icon.png",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/09/post-fallback-icon.png"
+      ],
+      "source_url": "https://pizoneinfotech.com/solution/crm-solutions/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "CRM Solutions is a crm solution offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses looking to streamline customer interactions, sales processes, and marketing efforts to improve customer satisfaction and drive growth. A simple graphic icon featuring a wavy orange line that trends upwards, ending in an arrow pointing to the upper right. The icon is centered on a plain white background, suggesting a clean and minimalist presentation.",
+      "specifications": {
+        "category": "Crm Software",
+        "sub_type": "Crm Solution",
+        "presentation": "simple graphic on white background",
+        "visual_notes": "stylized icon representing growth or trend"
+      },
+      "alt_text": "Orange upward trending line graph icon on a white background, symbolizing growth or positive trend.",
+      "used_vision": true,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/09/post-fallback-icon.png"
+    },
+    {
+      "clean_name": "Custom APIs",
+      "fingerprint": "ce8be6032035",
+      "top_level_domain": "Digital & Technology",
+      "industry_segment": "Software Development Service",
+      "product_category": "Api Development",
+      "product_sub_type": "Custom Api Development Service",
+      "buyer_persona": "Businesses or developers seeking bespoke software interfaces to connect systems, automate processes, or expose data.",
+      "seo_title": "Custom APIs Custom API Development Service | Catalog Listing",
+      "tags": [
+        "Custom APIs",
+        "Digital & Technology",
+        "Software Development Services",
+        "API Development",
+        "Custom API Development Service"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/API.svg",
+      "photo_urls": [
+        "https://pizoneinfotech.com/wp-content/uploads/2024/07/API.svg"
+      ],
+      "source_url": "https://pizoneinfotech.com/solution/custom-apis/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Custom APIs is a custom api development service offered by Codechefs Software Solutions based in Jaipur. Suitable for: Businesses or developers seeking bespoke software interfaces to connect systems, automate processes, or expose data.",
+      "specifications": {
+        "category": "Api Development",
+        "sub_type": "Custom Api Development Service"
+      },
+      "alt_text": "Codechefs Software Solutions",
+      "used_vision": false,
+      "media_url": "https://pizoneinfotech.com/wp-content/uploads/2024/07/API.svg"
+    }
+  ],
+  "rejected_items": [],
+  "reviews": [
+    {
+      "author": "sarah jazz",
+      "rating": 3,
+      "text": "Hey!  I saw your website and one of the best software solutions services provide",
+      "original_lang": "en",
+      "date": "2014-07-19T08:07:50.293Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Manik",
+      "rating": 5,
+      "text": "Great work done by Amitesh sir",
+      "original_lang": "en",
+      "date": "2016-10-07T05:42:18.725Z",
+      "likes": 1,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Vikram kumar Gurjar",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2020-01-02T09:04:36.536Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Joy Dadhich",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2018-05-30T16:36:19.726Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Rahul Singh",
+      "rating": 1,
+      "text": null,
+      "original_lang": null,
+      "date": "2016-04-27T02:27:29.852Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": "Hello Rahul, apologies that you dint received the services from us as expected. Can you please give a little brief like what services or it solutions you were looking for? We will give our best effort to help you with that. Thanks Team Codechefs"
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 3.8,
+    "no_of_ratings": 5,
+    "rating_comments": [
+      "Hey!  I saw your website and one of the best software solutions services provide",
+      "Great work done by Amitesh sir"
+    ],
+    "reviews_url": null
+  },
+  "overall_confidence": 0.7,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://facebook.com/pizoneinfotech",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/pizoneinfotech/posts/pfbid02CNBsp75tsjCZbPKzabngpqvQsEm9FnjL8wmU9ATs24NLnayKpPP17cHH86FVXhjnl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=916836743793421&set=a.479216997555400",
+          "caption": "Amazing opportunity to start your career @pizoneinfotech is hiring interns \n#hiring #internship #bca #mca #btech #opportunity #sriganganagar #jaipur",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1718270620
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/pizoneinfotech/posts/pfbid0czL6DcerbRSem74tGe4ZoJFURuY3f3LuT6oGdwVC5LKdPRFUUeD7Le6aH4Nmxkpdl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=535692981907801&set=a.479216997555400",
+          "caption": "Computer Science / IT graduates. \nHere's a chance to brighten your NEW YEAR! Join us for an internship for a brighter and successful 2023.",
+          "likes": 2,
+          "comments": null,
+          "views": null,
+          "posted_at": 1668582514
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/pizoneinfotech/posts/pfbid03813CSLMFKh7BDQHTMWEqUPxDHCjkpCb5dduD9TxP9hs52cD5VqFwT8bZ9FG12GoJl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=506659694811130&set=a.479216997555400",
+          "caption": "Wishing you a very Happy Birthday Siddharth!!!!🎉🎉🎉🎉",
+          "likes": 2,
+          "comments": null,
+          "views": null,
+          "posted_at": 1665583869
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "address": null,
+        "city": null
+      }
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://in.linkedin.com/company/pizone-infotech-solution-pvt-ltd",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-04T10:38:51.262Z",
+    "duration_seconds": 111,
+    "agents_in_order": [],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 0,
+      "Agent03a/Category": 18,
+      "Agent04/Media": 18,
+      "Agent05/EnrichDedup": 0,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 0,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [],
+        "quality_target": 0.85,
+        "reasoning": "Seller has a good number of products (105) and a well-defined company profile. Reviews API is not present, so skipping reviews agent. Media classification will be handled by run_product_agent and write_to_catalog for social media."
+      },
+      "evaluate_product_output": {
+        "decision": null,
+        "avg_confidence": null,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 18,
+      "enriched": 18,
+      "catalog_items": 18,
+      "rejected": 0,
+      "with_vision": 1,
+      "vision_skipped": 17
+    },
+    "social": {
+      "urls_detected": 4,
+      "platforms_scraped": [
+        "facebook",
+        "linkedin"
+      ],
+      "posts_collected": 3,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.7
+  },
+  "_saved_at": "2026-05-04T10:40:42.122Z"
+}

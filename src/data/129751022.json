@@ -10,7 +10,7 @@
       "post_url": null
     },
     "description": {
-      "value": "Astila Ceramic Pvt Ltd is a prominent tile manufacturer based in Morbi, Gujarat, specializing in a diverse range of high-quality porcelain, outdoor, wall, and decorative tiles. Established in 2017, the company is dedicated to transforming spaces with elegant and durable ceramic solutions. With a strong customer rating of 4.1 stars, Astila Ceramic is a trusted name in the industry.",
+      "value": "Astila Ceramic Pvt Ltd is a tile manufacturer based in Rangpar, offering a diverse range of high-quality tiles. They specialize in outdoor tiles, natural look porcelain tiles, wall tiles, and decorative tiles, designed to transform and elevate any space with timeless elegance.",
       "sources": [
         "llm_generated"
       ],
@@ -18,33 +18,26 @@
       "post_url": null
     },
     "city": {
-      "value": "Morbi",
+      "value": "morbi",
       "sources": [
-        "gst"
-      ],
-      "date": null,
-      "post_url": null
-    },
-    "state": {
-      "value": "Gujarat",
-      "sources": [
-        "gst"
+        "website",
+        "youtube"
       ],
       "date": null,
       "post_url": null
     },
     "address": {
-      "value": "OP SOMNATHA PETROL PUMP, SR NO 357/P1 P2, JETPAR ROAD, RANGPAR, Morbi, Gujarat, 363642",
+      "value": "Jetpar Road, At, opp. Bela",
       "sources": [
-        "gst"
+        "google"
       ],
       "date": null,
       "post_url": null
     },
     "pincode": {
-      "value": "363642",
+      "value": "363641",
       "sources": [
-        "gst"
+        "google"
       ],
       "date": null,
       "post_url": null
@@ -52,6 +45,8 @@
     "website": {
       "value": "https://astilaceramic.com",
       "sources": [
+        "google",
+        "instagram",
         "website"
       ],
       "date": null,
@@ -61,30 +56,6 @@
       "value": "Tile manufacturer",
       "sources": [
         "google"
-      ],
-      "date": null,
-      "post_url": null
-    },
-    "owner_name": {
-      "value": "BHAVESH KUMAR SANANDIYA   ,MANILAL DURLBHAJIBHAI BAVARVA   ,BHARAT BALUBHAI PATEL   ",
-      "sources": [
-        "gst"
-      ],
-      "date": null,
-      "post_url": null
-    },
-    "gst_number": {
-      "value": "24AAOCA0270D1Z4",
-      "sources": [
-        "gst"
-      ],
-      "date": null,
-      "post_url": null
-    },
-    "pan_number": {
-      "value": "AAOCA0270D",
-      "sources": [
-        "gst"
       ],
       "date": null,
       "post_url": null
@@ -101,14 +72,6 @@
       "value": 23,
       "sources": [
         "google"
-      ],
-      "date": null,
-      "post_url": null
-    },
-    "gst_registration_year": {
-      "value": "2017-07-01",
-      "sources": [
-        "gst"
       ],
       "date": null,
       "post_url": null
@@ -137,16 +100,34 @@
       "date": null,
       "post_url": null
     },
-    "business_activity": {
-      "value": "Factory / Manufacturing",
+    "banner_url": {
+      "value": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/494021426_1245922937543157_5166362578367794073_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=J33ldrnRbFIQ7kNvwE6qiyU&_nc_oc=AdpbXmzENfpi_j_jlR5IJTxXeWW9md5tF1wWx1UMwVm8gOcfwltb-h8BKtVt77xirbrG3tmtHpyqGMhK6_GybtbM&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=rnJ_PlzkfpPqQWimBANMPQ&_nc_ss=72289&oh=00_Af7UUXX2TaGlSeCIIzvwxQZD4BJ5anldefSG9Pb_ISUncg&oe=69FE60B4",
       "sources": [
-        "gst"
+        "facebook"
       ],
       "date": null,
       "post_url": null
     },
     "facebook": {
-      "value": "https://www.facebook.com/AstilaCeramicPvtLtd/",
+      "value": "https://facebook.com/astilaceramics",
+      "sources": [
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "https://instagram.com/astilaceramic",
+      "sources": [
+        "instagram",
+        "website",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "youtube": {
+      "value": "https://youtube.com/@astilaceramic",
       "sources": [
         "website",
         "youtube"
@@ -154,29 +135,11 @@
       "date": null,
       "post_url": null
     },
-    "instagram": {
-      "value": "https://www.instagram.com/astilaceramic/",
+    "linkedin": {
+      "value": "https://linkedin.com/company/astila-ceramic",
       "sources": [
         "website",
-        "instagram",
-        "youtube",
-        "google"
-      ],
-      "date": null,
-      "post_url": null
-    },
-    "youtube": {
-      "value": "https://www.youtube.com/@astilaceramic",
-      "sources": [
-        "website"
-      ],
-      "date": null,
-      "post_url": null
-    },
-    "linkedin": {
-      "value": "https://www.linkedin.com/company/astila-ceramic/",
-      "sources": [
-        "website"
+        "youtube"
       ],
       "date": null,
       "post_url": null
@@ -191,9 +154,9 @@
         "post_url": null
       },
       {
-        "value": "2642024001",
+        "value": "9586535990",
         "sources": [
-          "website"
+          "google"
         ],
         "date": null,
         "post_url": null
@@ -211,96 +174,66 @@
     ],
     "social_urls": [
       {
-        "value": "https://www.facebook.com/AstilaCeramicPvtLtd/",
+        "value": "https://facebook.com/astilaceramics",
         "sources": [
-          "website",
-          "instagram",
-          "youtube",
-          "google"
+          "youtube"
         ],
         "date": null,
         "post_url": null
       },
       {
-        "value": "https://www.instagram.com/astilaceramic/",
+        "value": "https://instagram.com/astilaceramic",
         "sources": [
-          "website",
           "instagram",
-          "youtube",
-          "google"
+          "website",
+          "youtube"
         ],
         "date": null,
         "post_url": null
       },
       {
-        "value": "https://www.youtube.com/@astilaceramic",
+        "value": "https://youtube.com/@astilaceramic",
         "sources": [
           "website",
-          "instagram",
-          "youtube",
-          "google"
+          "youtube"
         ],
         "date": null,
         "post_url": null
       },
       {
-        "value": "https://www.linkedin.com/company/astila-ceramic/",
+        "value": "https://linkedin.com/company/astila-ceramic",
         "sources": [
           "website",
-          "instagram",
-          "youtube",
-          "google"
-        ],
-        "date": null,
-        "post_url": null
-      },
-      {
-        "value": "https://www.instagram.com/astilaceramic",
-        "sources": [
-          "website",
-          "instagram",
-          "youtube",
-          "google"
-        ],
-        "date": null,
-        "post_url": null
-      },
-      {
-        "value": "https://www.facebook.com/astilaceramics",
-        "sources": [
-          "website",
-          "instagram",
-          "youtube",
-          "google"
+          "youtube"
         ],
         "date": null,
         "post_url": null
       }
     ],
-    "followers_instagram": 934,
+    "followers_facebook": 921,
+    "followers_instagram": 933,
+    "posts_count_instagram": 432,
+    "following_count_instagram": 460,
     "followers_youtube": 38,
-    "confidence": 0.82,
+    "confidence": 0.85,
     "sources": [
-      "website",
-      "gst",
       "google",
-      "instagram",
-      "youtube",
       "facebook",
-      "linkedin"
+      "instagram",
+      "youtube"
     ],
     "social_metrics": [
       {
+        "platform": "facebook",
+        "followers": 921
+      },
+      {
         "platform": "instagram",
-        "followers": 934
+        "followers": 933
       },
       {
         "platform": "youtube",
         "followers": 38
-      },
-      {
-        "platform": "instagram",
-        "followers": 934
       }
     ],
     "data_sources": [
@@ -318,8 +251,8 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Wall Tile",
-      "buyer_persona": "Homeowners, interior designers, and contractors looking for aesthetic and durable surfacing solutions for interior walls in residential or commercial spaces.",
-      "description": "Wall Tiles is a wall tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Homeowners, interior designers, and contractors looking for aesthetic and durable surfacing solutions for interior walls in residential or commercial spaces.",
+      "buyer_persona": "Homeowners, interior designers, and contractors looking for durable and aesthetically pleasing coverings for interior walls.",
+      "description": "Wall Tiles is a wall tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Homeowners, interior designers, and contractors looking for durable and aesthetically pleasing coverings for interior walls.",
       "seo_title": "Wall Tiles Wall Tile | Catalog Listing",
       "tags": [
         "Wall Tiles",
@@ -336,7 +269,7 @@
         "category": "Tile",
         "sub_type": "Wall Tile",
         "image_url": null,
-        "source_url": "https://www.instagram.com/p/DWx7J0wkUro/",
+        "source_url": "https://www.instagram.com/p/DW8EcPACiqa/",
         "price_single": null,
         "price_min": null,
         "price_max": null,
@@ -360,19 +293,15 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=yJHY_vRYJ64Q7kNvwGmtG6L&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Ns24EVwGtrPrcXF09DCx_JqgcJXejMCnXGodXa3MOhg&oe=69F6BA53&_nc_sid=8b3546",
+      "primary_photo_url": "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/669596713_1559560556179392_7685937761059007550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=9JsBev2Gip4Q7kNvwFu0R2x&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MTk4OTI3MjkwMzU3MTQ5Ng%3D%3D.3-ccb7-5&oh=00_Af4x6sKWJJxyptk4hijHoI5cvpFTmGgYx8PemOErin16sw&oe=69FE70D2&_nc_sid=8b3546",
       "photo_urls": [
-        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=yJHY_vRYJ64Q7kNvwGmtG6L&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Ns24EVwGtrPrcXF09DCx_JqgcJXejMCnXGodXa3MOhg&oe=69F6BA53&_nc_sid=8b3546",
-        "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/678273359_1572107968257984_2572329364688483532_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=HBF7n8rTGYUQ7kNvwEnntNn&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MjEyOTM5MDM3NzMwMjc0NA%3D%3D.3-ccb7-5&oh=00_Af3YN324DYIMyxbVFHiN32rB47o6wfHfFmqkn7qslNuSwQ&oe=69F6C56A&_nc_sid=8b3546",
-        "https://i.ytimg.com/vi/vTcFoziI3dA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBdKFowDw==&rs=AOn4CLA0PLl39gi04d54zS_myZJycSKO0w",
-        "https://i.ytimg.com/vi/VOAfgwMm3y4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDbhJVMrBklZ_b6RHCRILjVqJwrA",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/659135145_1553533460115435_3219063779919510984_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=-8EJou4AVdsQ7kNvwH0m4hI&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg2Njk3NTU4MzAxMjA0ODM5MA%3D%3D.3-ccb7-5&oh=00_Af1GQHV2y3mIGLgGihxwyr5izTBdcdOcoBb97lgiZ3pBZg&oe=69F6D7D2&_nc_sid=8b3546",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=yJHY_vRYJ64Q7kNvwEEIO-D&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af282KTJdB912khH0tNHr1Ld4Huzhy0qhO3nMjJY1FNlMg&oe=69F6BA53&_nc_sid=8b3546"
+        "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/669596713_1559560556179392_7685937761059007550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=9JsBev2Gip4Q7kNvwFu0R2x&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MTk4OTI3MjkwMzU3MTQ5Ng%3D%3D.3-ccb7-5&oh=00_Af4x6sKWJJxyptk4hijHoI5cvpFTmGgYx8PemOErin16sw&oe=69FE70D2&_nc_sid=8b3546",
+        "https://i.ytimg.com/vi/VOAfgwMm3y4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDbhJVMrBklZ_b6RHCRILjVqJwrA"
       ],
-      "source_url": "https://www.instagram.com/p/DWx7J0wkUro/",
+      "source_url": "https://www.instagram.com/p/DW8EcPACiqa/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 1,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -385,31 +314,21 @@
       "social_sources": [
         {
           "platform": "instagram",
-          "post_url": "https://www.instagram.com/p/DWx7J0wkUro/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=yJHY_vRYJ64Q7kNvwGmtG6L&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Ns24EVwGtrPrcXF09DCx_JqgcJXejMCnXGodXa3MOhg&oe=69F6BA53&_nc_sid=8b3546",
-          "caption": "From raw beginnings to flawless finishes ASTILA CERAMIC defines superior quality delivering premium tiles trusted across borders worldwide.\n\nPremium quality that travels beyond borders with trust ✨\n\n#AstilaCeramic #TileManufacturer #TileExporter #PremiumTiles #LuxuryTiles #MadeInIndiaTiles",
-          "posted_at": "2026-04-06T06:25:26.000Z",
-          "likes": 4,
-          "views": 19
+          "post_url": "https://www.instagram.com/p/DW8EcPACiqa/",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/669596713_1559560556179392_7685937761059007550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=9JsBev2Gip4Q7kNvwFu0R2x&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MTk4OTI3MjkwMzU3MTQ5Ng%3D%3D.3-ccb7-5&oh=00_Af4x6sKWJJxyptk4hijHoI5cvpFTmGgYx8PemOErin16sw&oe=69FE70D2&_nc_sid=8b3546",
+          "caption": "Experience texture beyond visuals. ✨\nAstila Elevation Tiles bring depth, warmth and refined stone character to modern spaces.\nDesigned to elevate every wall with natural elegance and timeless appeal.\n\nE50 1992 | 300x600mm | Matt Finish\nHigh Depth Elevation Tiles crafted for contemporary living.\n\n#Astila #ElevationTiles #WallDesign #ModernInteriors #StoneTexture #PremiumTiles #InteriorDesign",
+          "posted_at": "2026-04-10T04:58:36.000Z",
+          "likes": 3,
+          "views": null
         },
         {
           "platform": "youtube",
-          "post_url": "https://www.youtube.com/shorts/vTcFoziI3dA",
-          "thumbnail_url": "https://i.ytimg.com/vi/vTcFoziI3dA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBdKFowDw==&rs=AOn4CLA0PLl39gi04d54zS_myZJycSKO0w",
-          "caption": "Welcome to Astila Ceramics, where we believe in turning houses into homes with our exquisite range of tiles. \n\nIn this video, we're thrilled to showcase our elegant collection of tiles that will undoubtedly make your home sweet home even sweeter! From stunning floor tiles to captivating wall designs, our selection is crafted to elevate your living space to new heights of sophistication and comfort.\n\nAt Astila Ceramics, we take pride in being a leading tiles exporter in India, offering top-quality products that meet the highest standards of craftsmanship and durability. Our dedication to excellence ensures that each tile in our collection is not just a piece of decor, but a statement of style and luxury.\n\nWhether you're renovating your kitchen, bathroom, or entire home, our diverse range of tiles has something to suit every taste and preference. With our commitment to customer satisfaction, you can trust that you're getting the best value for your investment.\n\nJoin us on a journey of home transformation and discover how our elegant collection of tiles can turn your space into a haven of beauty and tranquility. Don't just make a house; make it a home with Astila Ceramics.\n\nAstila Ceramics - Your Trusted Tiles Exporter in India.\n\nDon't forget to like, share, and subscribe for more home improvement tips and inspiration!",
-          "posted_at": "2024-04-25T03:30:17.000Z",
-          "likes": 1,
-          "views": 35
-        }
-      ],
-      "source_urls": [
-        {
-          "source": "instagram",
-          "url": "https://www.instagram.com/p/DWx7J0wkUro/"
-        },
-        {
-          "source": "youtube",
-          "url": "https://www.youtube.com/shorts/vTcFoziI3dA"
+          "post_url": "https://www.youtube.com/shorts/VOAfgwMm3y4",
+          "thumbnail_url": "https://i.ytimg.com/vi/VOAfgwMm3y4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDbhJVMrBklZ_b6RHCRILjVqJwrA",
+          "caption": "Welcome to Astila Ceramics! \n\nDiscover the perfect blend of style and elegance with our Wall Tiles of the month! Elevate your space with our latest collection, meticulously crafted to bring sophistication to every corner of your home or office.\n\nAt Astila Ceramics, we take pride in being your go-to Tiles Manufacturer in Morbi, offering top-quality products designed to meet your aesthetic and functional needs. Whether you're renovating your kitchen, bathroom, or any other area, our wall tiles are the perfect choice to enhance your interiors.\n\nDon't miss out on the opportunity to redefine elegance in your living spaces. Subscribe now and stay tuned for more inspiring designs from Astila Ceramics!",
+          "posted_at": "2024-04-23T03:30:10.000Z",
+          "likes": 3,
+          "views": 43
         }
       ]
     },
@@ -421,8 +340,8 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Decorative Tile",
-      "buyer_persona": "Interior designers, architects, and homeowners seeking to add unique aesthetic accents, patterns, or artistic elements to walls, floors, or backsplashes.",
-      "description": "Decorative Tiles is a decorative tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Interior designers, architects, and homeowners seeking to add unique aesthetic accents, patterns, or artistic elements to walls, floors, or backsplashes.",
+      "buyer_persona": "Homeowners and designers seeking to add aesthetic flair, unique patterns, or artistic elements to walls or floors as accents.",
+      "description": "Decorative Tiles is a decorative tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Homeowners and designers seeking to add aesthetic flair, unique patterns, or artistic elements to walls or floors as accents.",
       "seo_title": "Decorative Tiles Decorative Tile | Catalog Listing",
       "tags": [
         "Decorative Tiles",
@@ -468,7 +387,7 @@
       "source_url": "https://astilaceramic.com",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 1,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -485,8 +404,8 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Floor Tile",
-      "buyer_persona": "Homeowners, builders, and commercial property developers requiring durable, slip-resistant, and aesthetically pleasing flooring solutions for various indoor and outdoor environments.",
-      "description": "Floor Tiles is a floor tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Homeowners, builders, and commercial property developers requiring durable, slip-resistant, and aesthetically pleasing flooring solutions for various indoor and outdoor environments.",
+      "buyer_persona": "Homeowners, contractors, and commercial developers looking for durable, slip-resistant, and aesthetically suitable flooring solutions for various indoor and outdoor spaces.",
+      "description": "Floor Tiles is a floor tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Homeowners, contractors, and commercial developers looking for durable, slip-resistant, and aesthetically suitable flooring solutions for various indoor and outdoor spaces.",
       "seo_title": "Floor Tiles Floor Tile | Catalog Listing",
       "tags": [
         "Floor Tiles",
@@ -534,7 +453,7 @@
       "source_url": "https://www.youtube.com/shorts/36d_PAL-lJI",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 1,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -551,13 +470,7 @@
           "caption": "Step into the world of Astila Ceramics, where quality meets craftsmanship to transform your space into a haven of elegance and style. As a distinguished Tiles Manufacturer in Morbi, we're dedicated to delivering excellence in every tile we produce.\n\nExplore with us as we unveil a stunning array of ceramic and porcelain tiles, meticulously designed to redefine your concept of flooring. From timeless classics to contemporary marvels, Astila Ceramics offers a diverse range to suit every aesthetic preference.\n\nJoin us on this journey as we showcase our passion for innovation and design excellence. Elevate your space and inspire creativity with Astila Ceramics, your ultimate destination for exceptional tiles and unparalleled service.\n\nLike, share, and subscribe to our channel for the latest updates on our premium tile collections and design inspirations. Thank you for choosing Astila Ceramics as your partner in creating extraordinary spaces.",
           "posted_at": "2024-04-24T03:30:02.000Z",
           "likes": 3,
-          "views": 51
-        }
-      ],
-      "source_urls": [
-        {
-          "source": "youtube",
-          "url": "https://www.youtube.com/shorts/36d_PAL-lJI"
+          "views": 52
         }
       ]
     },
@@ -569,8 +482,8 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Outdoor Tile",
-      "buyer_persona": "Landscape architects, homeowners, and contractors looking for weather-resistant, durable, and slip-resistant tiling options for patios, walkways, pool decks, and other exterior spaces.",
-      "description": "Outdoor Tiles is a outdoor tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Landscape architects, homeowners, and contractors looking for weather-resistant, durable, and slip-resistant tiling options for patios, walkways, pool decks, and other exterior spaces.",
+      "buyer_persona": "Homeowners, landscapers, and architects seeking robust, weather-resistant, and slip-resistant tiling solutions for patios, pathways, balconies, and other exterior areas.",
+      "description": "Outdoor Tiles is a outdoor tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Homeowners, landscapers, and architects seeking robust, weather-resistant, and slip-resistant tiling solutions for patios, pathways, balconies, and other exterior areas.",
       "seo_title": "Outdoor Tiles Outdoor Tile | Catalog Listing",
       "tags": [
         "Outdoor Tiles",
@@ -587,7 +500,7 @@
         "category": "Tile",
         "sub_type": "Outdoor Tile",
         "image_url": null,
-        "source_url": "https://www.instagram.com/p/DXa6b-yinT9/",
+        "source_url": "https://www.instagram.com/p/DXn3VxyEWZS/",
         "price_single": null,
         "price_min": null,
         "price_max": null,
@@ -611,19 +524,15 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=RCm94q7YW5cQ7kNvwFORAMA&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af3MtWf994eH8klg9IsoHDTtOL3zG0UQEwSby8M0JAatcA&oe=69F6CC9D&_nc_sid=8b3546",
+      "primary_photo_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=ZOdpiC91MegQ7kNvwGCNXNv&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4_AzGDQoNcn3QSOb3Gb4OHoP2t9GKz6JCnE6a-Z1Ri4Q&oe=69FE6DD9&_nc_sid=8b3546",
       "photo_urls": [
-        "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=RCm94q7YW5cQ7kNvwFORAMA&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af3MtWf994eH8klg9IsoHDTtOL3zG0UQEwSby8M0JAatcA&oe=69F6CC9D&_nc_sid=8b3546",
-        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=JM_0UxZFlzkQ7kNvwHRSkV6&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af27fO2P3Z3hbneRRoOAv0jpZypOCeYpU7fbfdR4TWRlaQ&oe=69F6BD19&_nc_sid=8b3546",
-        "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/659135145_1553533460115435_3219063779919510984_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=-8EJou4AVdsQ7kNvwEKUft2&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg2Njk3NTU4MzAxMjA0ODM5MA%3D%3D.3-ccb7-5&oh=00_Af0dju5AGuVL_bSUZ46-iix3ez3r08freef8jf4j3ndajQ&oe=69F6D7D2&_nc_sid=8b3546",
-        "https://i.ytimg.com/vi/RngoH41gAB4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLDtzva5kTKr01UMzUsqlpsFz7KnPQ",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=JM_0UxZFlzkQ7kNvwEvupjk&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1yHn8PrWedRnzuJeGK1aADuRQcNzCWgsiluHoZXYpCNA&oe=69F6BD19&_nc_sid=8b3546",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=RCm94q7YW5cQ7kNvwHU_8cr&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af0dG2rsY2K32s_v2QW3Slz7De3uQFAMac9In54Bp3N1_Q&oe=69F6CC9D&_nc_sid=8b3546"
+        "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=ZOdpiC91MegQ7kNvwGCNXNv&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4_AzGDQoNcn3QSOb3Gb4OHoP2t9GKz6JCnE6a-Z1Ri4Q&oe=69FE6DD9&_nc_sid=8b3546",
+        "https://i.ytimg.com/vi/RngoH41gAB4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLDtzva5kTKr01UMzUsqlpsFz7KnPQ"
       ],
-      "source_url": "https://www.instagram.com/p/DXa6b-yinT9/",
+      "source_url": "https://www.instagram.com/p/DXn3VxyEWZS/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 1,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -636,12 +545,12 @@
       "social_sources": [
         {
           "platform": "instagram",
-          "post_url": "https://www.instagram.com/p/DXa6b-yinT9/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=RCm94q7YW5cQ7kNvwFORAMA&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af3MtWf994eH8klg9IsoHDTtOL3zG0UQEwSby8M0JAatcA&oe=69F6CC9D&_nc_sid=8b3546",
-          "caption": "Discover the beauty of our latest tile collection. 🏡✨ \n\nAstila presents E49 1970 high-depth elevation tiles crafted to bring soft layered elegance to outdoor spaces.\n\nSize: 300×600mm | Finish: Matt\n\n#AstilaCeramic #ElevationTiles #HighDepthTiles #ExteriorTiles #PoolsideDesign #ModernFacade #TextureDesign #MattFinishTiles #300x600Tiles #LuxuryExteriors",
-          "posted_at": "2026-04-22T04:27:39.000Z",
-          "likes": 2,
-          "views": null
+          "post_url": "https://www.instagram.com/p/DXn3VxyEWZS/",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=ZOdpiC91MegQ7kNvwGCNXNv&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4_AzGDQoNcn3QSOb3Gb4OHoP2t9GKz6JCnE6a-Z1Ri4Q&oe=69FE6DD9&_nc_sid=8b3546",
+          "caption": "Elevate your architectural vision with Astila premium collection of elevation tiles. Designed to bridge the gap between natural aesthetics and modern durability, our outdoor range offers a timeless stone elegance that stands the test of time.\n\n#AstilaCeramic #OutdoorTiles #ElevationTiles #ArchitectureDesign #ExteriorInspo #StoneFinish #ModernArchitecture #LuxuryLiving #HomeRenovation #WallCladding",
+          "posted_at": "2026-04-27T05:11:06.000Z",
+          "likes": 4,
+          "views": 8
         },
         {
           "platform": "youtube",
@@ -650,17 +559,7 @@
           "caption": "Discover the perfect tiles that stand the test of time with Astila Ceramics! Whether you're renovating your home or working on a new project, our high-quality, long-lasting tiles are designed to meet all your needs. Don't settle for less—explore our stunning range today and find the ideal tiles for your space.",
           "posted_at": "2024-05-17T10:30:15.000Z",
           "likes": 3,
-          "views": 474
-        }
-      ],
-      "source_urls": [
-        {
-          "source": "instagram",
-          "url": "https://www.instagram.com/p/DXa6b-yinT9/"
-        },
-        {
-          "source": "youtube",
-          "url": "https://www.youtube.com/shorts/RngoH41gAB4"
+          "views": 477
         }
       ]
     },
@@ -672,8 +571,8 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Ceramic Tile",
-      "buyer_persona": "Homeowners, contractors, and designers seeking a specific brand or line of ceramic tiles known for its particular aesthetic, quality, or features for various applications.",
-      "description": "Astila Ceramic is a ceramic tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Homeowners, contractors, and designers seeking a specific brand or line of ceramic tiles known for its particular aesthetic, quality, or features for various applications.",
+      "buyer_persona": "Consumers and professionals looking for ceramic tiles, potentially from a specific brand or collection known as 'Astila,' for various interior applications.",
+      "description": "Astila Ceramic is a ceramic tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Consumers and professionals looking for ceramic tiles, potentially from a specific brand or collection known as 'Astila,' for various interior applications.",
       "seo_title": "Astila Ceramic Ceramic Tile | Catalog Listing",
       "tags": [
         "Astila Ceramic",
@@ -714,22 +613,18 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=n3CqbN-6XlcQ7kNvwEJR3lT&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af00lqwDPCcv5ZRB4ckE5F9554nW3oFAjEEIk3xZbp7JlQ&oe=69F6C51F&_nc_sid=8b3546",
+      "primary_photo_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=G4PHCqGjnzgQ7kNvwG5JJ-r&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6OvI7WXHKowBDeg4Tkz7EQdINHUtgJgOOciP2VLImpng&oe=69FE3D9F&_nc_sid=8b3546",
       "photo_urls": [
-        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=n3CqbN-6XlcQ7kNvwEJR3lT&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af00lqwDPCcv5ZRB4ckE5F9554nW3oFAjEEIk3xZbp7JlQ&oe=69F6C51F&_nc_sid=8b3546",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/678273359_1572107968257984_2572329364688483532_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=HBF7n8rTGYUQ7kNvwGwTO89&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MjEyOTM5MDM3NzMwMjc0NA%3D%3D.3-ccb7-5&oh=00_Af1VJp8T9U1JpbSWuXVf2WyM1fQzAR_GWA3qAXLT2xg87Q&oe=69F6C56A&_nc_sid=8b3546",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=n3CqbN-6XlcQ7kNvwGrBe5t&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2v0uPozDVkOitZpxZcFrtdZqQR3ieRj-CHZ7sAKc0VVA&oe=69F6C51F&_nc_sid=8b3546"
+        "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=G4PHCqGjnzgQ7kNvwG5JJ-r&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6OvI7WXHKowBDeg4Tkz7EQdINHUtgJgOOciP2VLImpng&oe=69FE3D9F&_nc_sid=8b3546"
       ],
       "source_url": "https://www.instagram.com/p/DW0lMbbFPL9/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.7,
+      "classification_confidence": 0.85,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
-      "warnings": [
-        "Product name appears to be a brand or specific product line, not a generic product type. Classification assumes 'Ceramic Tile' as the underlying product."
-      ],
+      "warnings": [],
       "sources": [
         "website",
         "instagram"
@@ -738,17 +633,11 @@
         {
           "platform": "instagram",
           "post_url": "https://www.instagram.com/p/DW0lMbbFPL9/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=n3CqbN-6XlcQ7kNvwEJR3lT&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af00lqwDPCcv5ZRB4ckE5F9554nW3oFAjEEIk3xZbp7JlQ&oe=69F6C51F&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=G4PHCqGjnzgQ7kNvwG5JJ-r&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6OvI7WXHKowBDeg4Tkz7EQdINHUtgJgOOciP2VLImpng&oe=69FE3D9F&_nc_sid=8b3546",
           "caption": "Transform your home with Astila tiles that reflect creativity, elegance, and a perfect balance of luxury and durability beautifully crafted. \n\nCrafted for Timeless Living✨ \n\n#Astila #TileDesign #CeramicTiles #LuxuryTiles #ModernInteriors #InteriorDesign #TileInspiration #PremiumTiles #HomeDecor",
           "posted_at": "2026-04-07T07:11:16.000Z",
           "likes": 4,
           "views": 30
-        }
-      ],
-      "source_urls": [
-        {
-          "source": "instagram",
-          "url": "https://www.instagram.com/p/DW0lMbbFPL9/"
         }
       ]
     }
@@ -764,7 +653,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-04-28T17:11:53.347Z"
+      "classified_at": "2026-05-04T11:39:43.838Z"
     },
     {
       "fingerprint": "a1019ac737c8",
@@ -776,7 +665,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-04-28T17:11:53.353Z"
+      "classified_at": "2026-05-04T11:39:43.839Z"
     },
     {
       "fingerprint": "8f21a6da9671",
@@ -788,7 +677,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-04-28T17:11:53.358Z"
+      "classified_at": "2026-05-04T11:39:43.840Z"
     },
     {
       "fingerprint": "52d9f9068204",
@@ -800,7 +689,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-04-28T17:11:53.361Z"
+      "classified_at": "2026-05-04T11:39:43.840Z"
     },
     {
       "fingerprint": "33554dcacc6e",
@@ -812,10 +701,224 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-04-28T17:11:53.364Z"
+      "classified_at": "2026-05-04T11:39:43.841Z"
     }
   ],
   "catalog_items": [
+    {
+      "fingerprint": "87fb2838d6a9",
+      "raw_name": "Astila E47-1919 Tile",
+      "clean_name": "Astila E47-1919 Tile",
+      "product_category": "Tile",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Astila's E47-1919 tile offers premium surface design with a matt finish, delivering elegance, durability, and contemporary appeal for refined and sophisticated interiors. It features a textured, multi-toned appearance suitable for wall applications.",
+      "seo_title": "Astila E47-1919 Tile",
+      "alt_text": "Astila E47-1919 Tile",
+      "tags": [
+        "Astila Tiles",
+        "Premium Surfaces",
+        "Luxury Interiors",
+        "Modern Design",
+        "Matt Finish",
+        "Wall Tile"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "finish": "Matt"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DX6DowDESM1/",
+      "photo_urls": [
+        "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/684238489_18423457162193401_1590064440390109659_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=pZwE7xPpSuQQ7kNvwFtef4M&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6ZX06gbhCVoykxXuMZ7B1cdxMmhzY6XUGHBzW1SN35dw&oe=69FE6435&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/684238489_18423457162193401_1590064440390109659_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=pZwE7xPpSuQQ7kNvwFtef4M&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6ZX06gbhCVoykxXuMZ7B1cdxMmhzY6XUGHBzW1SN35dw&oe=69FE6435&_nc_sid=8b3546",
+      "media_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/684238489_18423457162193401_1590064440390109659_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=pZwE7xPpSuQQ7kNvwFtef4M&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6ZX06gbhCVoykxXuMZ7B1cdxMmhzY6XUGHBzW1SN35dw&oe=69FE6435&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DX6DowDESM1/",
+        "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/684238489_18423457162193401_1590064440390109659_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=pZwE7xPpSuQQ7kNvwFtef4M&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6ZX06gbhCVoykxXuMZ7B1cdxMmhzY6XUGHBzW1SN35dw&oe=69FE6435&_nc_sid=8b3546",
+        "caption": "Experience premium surface design with E47-1919 by Astila delivering elegance durability and contemporary appeal for refined and sophisticated interiors today.\n\n#AstilaTiles #PremiumSurfaces #LuxuryInteriors #ModernDesign #InteriorStyle #TileInspiration",
+        "posted_at": "2026-05-04T06:44:52.000Z",
+        "likes": 3,
+        "views": 8
+      }
+    },
+    {
+      "fingerprint": "323c7e5803db",
+      "raw_name": "ASTILA E50 1986 elevation tiles",
+      "clean_name": "ASTILA E50 1986 elevation tiles",
+      "product_category": "Elevation Tile",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "These ASTILA E50 1986 elevation tiles feature crafted layered stone textures with refined depth, delivering modern elegance for premium architectural wall designs. They are designed for sophisticated contemporary wall applications, providing high-depth elevation aesthetics.",
+      "seo_title": "ASTILA E50 1986 elevation tiles",
+      "alt_text": "ASTILA E50 1986 elevation tiles",
+      "tags": [
+        "AstilaCeramic",
+        "ElevationTiles",
+        "WallTiles",
+        "TileDesign",
+        "ModernWalls",
+        "TextureTiles",
+        "StoneLookTiles",
+        "ArchitecturalDesign",
+        "InteriorDesign",
+        "ExteriorDesign",
+        "layered stone textures",
+        "refined depth"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Size": "300x600mm",
+        "Finish": "matt finish",
+        "Pattern": "random pattern",
+        "Texture": "layered stone textures",
+        "Aesthetics": "high-depth elevation aesthetics"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DW3ItW9Cvkf/",
+      "photo_urls": [
+        "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/667480233_1557856409683140_5588438823282376434_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=lEWrKhSMr5cQ7kNvwFgQzNS&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MDYwMDY2OTk2MzEyODM3NQ%3D%3D.3-ccb7-5&oh=00_Af5v8V3y3_-7uBU8CXI4o9djmsrXu8V70gyTr-8nphL79A&oe=69FE587B&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/667480233_1557856409683140_5588438823282376434_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=lEWrKhSMr5cQ7kNvwFgQzNS&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MDYwMDY2OTk2MzEyODM3NQ%3D%3D.3-ccb7-5&oh=00_Af5v8V3y3_-7uBU8CXI4o9djmsrXu8V70gyTr-8nphL79A&oe=69FE587B&_nc_sid=8b3546",
+      "media_url": "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/667480233_1557856409683140_5588438823282376434_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=lEWrKhSMr5cQ7kNvwFgQzNS&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MDYwMDY2OTk2MzEyODM3NQ%3D%3D.3-ccb7-5&oh=00_Af5v8V3y3_-7uBU8CXI4o9djmsrXu8V70gyTr-8nphL79A&oe=69FE587B&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DW3ItW9Cvkf/",
+        "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/667480233_1557856409683140_5588438823282376434_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=lEWrKhSMr5cQ7kNvwFgQzNS&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MDYwMDY2OTk2MzEyODM3NQ%3D%3D.3-ccb7-5&oh=00_Af5v8V3y3_-7uBU8CXI4o9djmsrXu8V70gyTr-8nphL79A&oe=69FE587B&_nc_sid=8b3546",
+        "caption": "Crafted layered stone textures with refined depth ASTILA E50 1986 elevation tiles deliver modern elegance for premium architectural wall designs.\n\nSize 300x600mm with matt finish and random pattern, delivering high-depth elevation aesthetics for sophisticated contemporary wall applications.\n\n#AstilaCeramic #ElevationTiles #WallTiles #TileDesign #ModernWalls #TextureTiles #StoneLookTiles #ArchitecturalDesign #InteriorDesign #ExteriorDesign",
+        "posted_at": "2026-04-08T06:59:42.000Z",
+        "likes": 6,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "931f0417d9b6",
+      "raw_name": "Astila E49 1968 High Depth Elevation Tile",
+      "clean_name": "Astila E49 1968 High Depth Elevation Tile",
+      "product_category": "Elevation Tile",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "These Astila E49 1968 High Depth Elevation Tiles feature a sophisticated matt finish and fine linear textures. They are presented in a rich, earthy terracotta palette, designed to bring warmth and depth to any surface.",
+      "seo_title": "Astila E49 1968 High Depth Elevation Tile",
+      "alt_text": "Astila E49 1968 High Depth Elevation Tile",
+      "tags": [
+        "AstilaCeramic",
+        "InteriorDesign",
+        "OutdoorLiving",
+        "WallTiles",
+        "HomeDecor",
+        "ElevationTiles",
+        "TextureDesign"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "size": "300x600mm",
+        "finish": "matt",
+        "texture": "fine linear textures",
+        "color_palette": "rich, earthy terracotta",
+        "type": "High Depth Elevation Tile"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DXtGhCmCj1q/",
+      "photo_urls": [
+        "https://scontent-lga3-1.cdninstagram.com/v/t39.30808-6/683512154_1577043964431051_7245054781058979325_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=AAnKhsmp2WYQ7kNvwF6IvpC&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NTc5MDY2NzA3NTEyNDQwNw%3D%3D.3-ccb7-5&oh=00_Af441DxeIGOSZldAieZjBtpmHyB46F_vw1njH3ibRUomUQ&oe=69FE5945&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-lga3-1.cdninstagram.com/v/t39.30808-6/683512154_1577043964431051_7245054781058979325_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=AAnKhsmp2WYQ7kNvwF6IvpC&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NTc5MDY2NzA3NTEyNDQwNw%3D%3D.3-ccb7-5&oh=00_Af441DxeIGOSZldAieZjBtpmHyB46F_vw1njH3ibRUomUQ&oe=69FE5945&_nc_sid=8b3546",
+      "media_url": "https://scontent-lga3-1.cdninstagram.com/v/t39.30808-6/683512154_1577043964431051_7245054781058979325_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=AAnKhsmp2WYQ7kNvwF6IvpC&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NTc5MDY2NzA3NTEyNDQwNw%3D%3D.3-ccb7-5&oh=00_Af441DxeIGOSZldAieZjBtpmHyB46F_vw1njH3ibRUomUQ&oe=69FE5945&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DXtGhCmCj1q/",
+        "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t39.30808-6/683512154_1577043964431051_7245054781058979325_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=AAnKhsmp2WYQ7kNvwF6IvpC&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NTc5MDY2NzA3NTEyNDQwNw%3D%3D.3-ccb7-5&oh=00_Af441DxeIGOSZldAieZjBtpmHyB46F_vw1njH3ibRUomUQ&oe=69FE5945&_nc_sid=8b3546",
+        "caption": "Featured here is the Astila E49 1968 High Depth Elevation Tile. With a 300x600mm size and a sophisticated matt finish, these tiles showcase fine linear textures in a rich, earthy terracotta palette. \n\n#AstilaCeramic #InteriorDesign #OutdoorLiving #WallTiles #HomeDecor #ModernArchitecture #TextureDesign #ElevationTiles #HomeRenovation #LuxuryLiving",
+        "posted_at": "2026-04-29T05:59:31.000Z",
+        "likes": 5,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "c547c5449ace",
+      "raw_name": "Astila Ceramic Glazed Porcelain Tiles with Stone Finish",
+      "clean_name": "Astila Ceramic Glazed Porcelain Tiles with Stone Finish",
+      "product_category": "Tile",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Astila Ceramic's latest collection of stunning glazed porcelain tiles, meticulously designed with a luxurious stone finish. These tiles are crafted to infuse any space with unparalleled luxury, sophistication, beauty, and durability.",
+      "seo_title": "Astila Ceramic Glazed Porcelain Tiles with Stone Finish",
+      "alt_text": "Astila Ceramic Glazed Porcelain Tiles with Stone Finish",
+      "tags": [
+        "glazed porcelain tiles",
+        "stone finish tiles",
+        "luxury tiles",
+        "Astila Ceramic",
+        "tile collection",
+        "Indian exporter"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Type": "Glazed Porcelain Tiles",
+        "Finish": "Stone",
+        "Features": "Luxurious, Sophisticated, Durable",
+        "Collection Codes": "E1-1001, E1-1002, E1-1005, E1-1006, E1-1007, E1-1008, E1-1009, E1-1010, E1-1011"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/EhKBRn_Pyys",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/EhKBRn_Pyys/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDJ6KP_dXZolgCVqqWz9MN1PNTrg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/EhKBRn_Pyys/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDJ6KP_dXZolgCVqqWz9MN1PNTrg",
+      "media_url": "https://i.ytimg.com/vi/EhKBRn_Pyys/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDJ6KP_dXZolgCVqqWz9MN1PNTrg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/EhKBRn_Pyys",
+        "thumbnail_url": "https://i.ytimg.com/vi/EhKBRn_Pyys/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDJ6KP_dXZolgCVqqWz9MN1PNTrg",
+        "caption": "Welcome to Astila Ceramic's world of exquisite craftsmanship and timeless elegance! Discover our latest collection of stunning glazed porcelain tiles, meticulously designed to infuse your space with unparalleled luxury and sophistication. With a luxurious stone finish that exudes opulence, our tiles redefine the standard of beauty and durability.\n\nAs the leading Tiles Exporter in India, Astila Ceramic takes pride in offering top-quality products that elevate every corner they adorn. Whether you're revamping your home or designing a commercial space, our tiles are the perfect choice to add a touch of grandeur.\n\nExperience the unparalleled beauty and durability of Astila Ceramic's glazed porcelain tiles and transform your space into a masterpiece of design. Explore our collection today and elevate your surroundings with timeless elegance.",
+        "posted_at": "2024-04-26T03:30:10.000Z",
+        "likes": 2,
+        "views": 85
+      }
+    },
     {
       "clean_name": "Wall Tiles",
       "fingerprint": "5e7293588e34",
@@ -823,7 +926,7 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Wall Tile",
-      "buyer_persona": "Homeowners, interior designers, and contractors looking for aesthetic and durable surfacing solutions for interior walls in residential or commercial spaces.",
+      "buyer_persona": "Homeowners, interior designers, and contractors looking for durable and aesthetically pleasing coverings for interior walls.",
       "seo_title": "Wall Tiles Wall Tile | Catalog Listing",
       "tags": [
         "Wall Tiles",
@@ -849,19 +952,15 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=yJHY_vRYJ64Q7kNvwGmtG6L&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Ns24EVwGtrPrcXF09DCx_JqgcJXejMCnXGodXa3MOhg&oe=69F6BA53&_nc_sid=8b3546",
+      "primary_photo_url": "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/669596713_1559560556179392_7685937761059007550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=9JsBev2Gip4Q7kNvwFu0R2x&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MTk4OTI3MjkwMzU3MTQ5Ng%3D%3D.3-ccb7-5&oh=00_Af4x6sKWJJxyptk4hijHoI5cvpFTmGgYx8PemOErin16sw&oe=69FE70D2&_nc_sid=8b3546",
       "photo_urls": [
-        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=yJHY_vRYJ64Q7kNvwGmtG6L&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Ns24EVwGtrPrcXF09DCx_JqgcJXejMCnXGodXa3MOhg&oe=69F6BA53&_nc_sid=8b3546",
-        "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/678273359_1572107968257984_2572329364688483532_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=HBF7n8rTGYUQ7kNvwEnntNn&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MjEyOTM5MDM3NzMwMjc0NA%3D%3D.3-ccb7-5&oh=00_Af3YN324DYIMyxbVFHiN32rB47o6wfHfFmqkn7qslNuSwQ&oe=69F6C56A&_nc_sid=8b3546",
-        "https://i.ytimg.com/vi/vTcFoziI3dA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBdKFowDw==&rs=AOn4CLA0PLl39gi04d54zS_myZJycSKO0w",
-        "https://i.ytimg.com/vi/VOAfgwMm3y4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDbhJVMrBklZ_b6RHCRILjVqJwrA",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/659135145_1553533460115435_3219063779919510984_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=-8EJou4AVdsQ7kNvwH0m4hI&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg2Njk3NTU4MzAxMjA0ODM5MA%3D%3D.3-ccb7-5&oh=00_Af1GQHV2y3mIGLgGihxwyr5izTBdcdOcoBb97lgiZ3pBZg&oe=69F6D7D2&_nc_sid=8b3546",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=yJHY_vRYJ64Q7kNvwEEIO-D&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af282KTJdB912khH0tNHr1Ld4Huzhy0qhO3nMjJY1FNlMg&oe=69F6BA53&_nc_sid=8b3546"
+        "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/669596713_1559560556179392_7685937761059007550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=9JsBev2Gip4Q7kNvwFu0R2x&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MTk4OTI3MjkwMzU3MTQ5Ng%3D%3D.3-ccb7-5&oh=00_Af4x6sKWJJxyptk4hijHoI5cvpFTmGgYx8PemOErin16sw&oe=69FE70D2&_nc_sid=8b3546",
+        "https://i.ytimg.com/vi/VOAfgwMm3y4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDbhJVMrBklZ_b6RHCRILjVqJwrA"
       ],
-      "source_url": "https://www.instagram.com/p/DWx7J0wkUro/",
+      "source_url": "https://www.instagram.com/p/DW8EcPACiqa/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 1,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -874,34 +973,24 @@
       "social_sources": [
         {
           "platform": "instagram",
-          "post_url": "https://www.instagram.com/p/DWx7J0wkUro/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=yJHY_vRYJ64Q7kNvwGmtG6L&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Ns24EVwGtrPrcXF09DCx_JqgcJXejMCnXGodXa3MOhg&oe=69F6BA53&_nc_sid=8b3546",
-          "caption": "From raw beginnings to flawless finishes ASTILA CERAMIC defines superior quality delivering premium tiles trusted across borders worldwide.\n\nPremium quality that travels beyond borders with trust ✨\n\n#AstilaCeramic #TileManufacturer #TileExporter #PremiumTiles #LuxuryTiles #MadeInIndiaTiles",
-          "posted_at": "2026-04-06T06:25:26.000Z",
-          "likes": 4,
-          "views": 19
+          "post_url": "https://www.instagram.com/p/DW8EcPACiqa/",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/669596713_1559560556179392_7685937761059007550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=9JsBev2Gip4Q7kNvwFu0R2x&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MTk4OTI3MjkwMzU3MTQ5Ng%3D%3D.3-ccb7-5&oh=00_Af4x6sKWJJxyptk4hijHoI5cvpFTmGgYx8PemOErin16sw&oe=69FE70D2&_nc_sid=8b3546",
+          "caption": "Experience texture beyond visuals. ✨\nAstila Elevation Tiles bring depth, warmth and refined stone character to modern spaces.\nDesigned to elevate every wall with natural elegance and timeless appeal.\n\nE50 1992 | 300x600mm | Matt Finish\nHigh Depth Elevation Tiles crafted for contemporary living.\n\n#Astila #ElevationTiles #WallDesign #ModernInteriors #StoneTexture #PremiumTiles #InteriorDesign",
+          "posted_at": "2026-04-10T04:58:36.000Z",
+          "likes": 3,
+          "views": null
         },
         {
           "platform": "youtube",
-          "post_url": "https://www.youtube.com/shorts/vTcFoziI3dA",
-          "thumbnail_url": "https://i.ytimg.com/vi/vTcFoziI3dA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBdKFowDw==&rs=AOn4CLA0PLl39gi04d54zS_myZJycSKO0w",
-          "caption": "Welcome to Astila Ceramics, where we believe in turning houses into homes with our exquisite range of tiles. \n\nIn this video, we're thrilled to showcase our elegant collection of tiles that will undoubtedly make your home sweet home even sweeter! From stunning floor tiles to captivating wall designs, our selection is crafted to elevate your living space to new heights of sophistication and comfort.\n\nAt Astila Ceramics, we take pride in being a leading tiles exporter in India, offering top-quality products that meet the highest standards of craftsmanship and durability. Our dedication to excellence ensures that each tile in our collection is not just a piece of decor, but a statement of style and luxury.\n\nWhether you're renovating your kitchen, bathroom, or entire home, our diverse range of tiles has something to suit every taste and preference. With our commitment to customer satisfaction, you can trust that you're getting the best value for your investment.\n\nJoin us on a journey of home transformation and discover how our elegant collection of tiles can turn your space into a haven of beauty and tranquility. Don't just make a house; make it a home with Astila Ceramics.\n\nAstila Ceramics - Your Trusted Tiles Exporter in India.\n\nDon't forget to like, share, and subscribe for more home improvement tips and inspiration!",
-          "posted_at": "2024-04-25T03:30:17.000Z",
-          "likes": 1,
-          "views": 35
+          "post_url": "https://www.youtube.com/shorts/VOAfgwMm3y4",
+          "thumbnail_url": "https://i.ytimg.com/vi/VOAfgwMm3y4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDbhJVMrBklZ_b6RHCRILjVqJwrA",
+          "caption": "Welcome to Astila Ceramics! \n\nDiscover the perfect blend of style and elegance with our Wall Tiles of the month! Elevate your space with our latest collection, meticulously crafted to bring sophistication to every corner of your home or office.\n\nAt Astila Ceramics, we take pride in being your go-to Tiles Manufacturer in Morbi, offering top-quality products designed to meet your aesthetic and functional needs. Whether you're renovating your kitchen, bathroom, or any other area, our wall tiles are the perfect choice to enhance your interiors.\n\nDon't miss out on the opportunity to redefine elegance in your living spaces. Subscribe now and stay tuned for more inspiring designs from Astila Ceramics!",
+          "posted_at": "2024-04-23T03:30:10.000Z",
+          "likes": 3,
+          "views": 43
         }
       ],
-      "source_urls": [
-        {
-          "source": "instagram",
-          "url": "https://www.instagram.com/p/DWx7J0wkUro/"
-        },
-        {
-          "source": "youtube",
-          "url": "https://www.youtube.com/shorts/vTcFoziI3dA"
-        }
-      ],
-      "description": "Wall Tiles is a wall tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Homeowners, interior designers, and contractors looking for aesthetic and durable surfacing solutions for interior walls in residential or commercial spaces.",
+      "description": "Wall Tiles is a wall tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Homeowners, interior designers, and contractors looking for durable and aesthetically pleasing coverings for interior walls.",
       "specifications": {
         "category": "Tile",
         "sub_type": "Wall Tile"
@@ -917,7 +1006,7 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Decorative Tile",
-      "buyer_persona": "Interior designers, architects, and homeowners seeking to add unique aesthetic accents, patterns, or artistic elements to walls, floors, or backsplashes.",
+      "buyer_persona": "Homeowners and designers seeking to add aesthetic flair, unique patterns, or artistic elements to walls or floors as accents.",
       "seo_title": "Decorative Tiles Decorative Tile | Catalog Listing",
       "tags": [
         "Decorative Tiles",
@@ -948,7 +1037,7 @@
       "source_url": "https://astilaceramic.com",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 1,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -956,7 +1045,7 @@
       "sources": [
         "website"
       ],
-      "description": "Decorative Tiles is a decorative tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Interior designers, architects, and homeowners seeking to add unique aesthetic accents, patterns, or artistic elements to walls, floors, or backsplashes.",
+      "description": "Decorative Tiles is a decorative tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Homeowners and designers seeking to add aesthetic flair, unique patterns, or artistic elements to walls or floors as accents.",
       "specifications": {
         "category": "Tile",
         "sub_type": "Decorative Tile"
@@ -972,7 +1061,7 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Floor Tile",
-      "buyer_persona": "Homeowners, builders, and commercial property developers requiring durable, slip-resistant, and aesthetically pleasing flooring solutions for various indoor and outdoor environments.",
+      "buyer_persona": "Homeowners, contractors, and commercial developers looking for durable, slip-resistant, and aesthetically suitable flooring solutions for various indoor and outdoor spaces.",
       "seo_title": "Floor Tiles Floor Tile | Catalog Listing",
       "tags": [
         "Floor Tiles",
@@ -1005,7 +1094,7 @@
       "source_url": "https://www.youtube.com/shorts/36d_PAL-lJI",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 1,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -1022,16 +1111,10 @@
           "caption": "Step into the world of Astila Ceramics, where quality meets craftsmanship to transform your space into a haven of elegance and style. As a distinguished Tiles Manufacturer in Morbi, we're dedicated to delivering excellence in every tile we produce.\n\nExplore with us as we unveil a stunning array of ceramic and porcelain tiles, meticulously designed to redefine your concept of flooring. From timeless classics to contemporary marvels, Astila Ceramics offers a diverse range to suit every aesthetic preference.\n\nJoin us on this journey as we showcase our passion for innovation and design excellence. Elevate your space and inspire creativity with Astila Ceramics, your ultimate destination for exceptional tiles and unparalleled service.\n\nLike, share, and subscribe to our channel for the latest updates on our premium tile collections and design inspirations. Thank you for choosing Astila Ceramics as your partner in creating extraordinary spaces.",
           "posted_at": "2024-04-24T03:30:02.000Z",
           "likes": 3,
-          "views": 51
+          "views": 52
         }
       ],
-      "source_urls": [
-        {
-          "source": "youtube",
-          "url": "https://www.youtube.com/shorts/36d_PAL-lJI"
-        }
-      ],
-      "description": "Floor Tiles is a floor tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Homeowners, builders, and commercial property developers requiring durable, slip-resistant, and aesthetically pleasing flooring solutions for various indoor and outdoor environments.",
+      "description": "Floor Tiles is a floor tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Homeowners, contractors, and commercial developers looking for durable, slip-resistant, and aesthetically suitable flooring solutions for various indoor and outdoor spaces.",
       "specifications": {
         "category": "Tile",
         "sub_type": "Floor Tile"
@@ -1047,7 +1130,7 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Outdoor Tile",
-      "buyer_persona": "Landscape architects, homeowners, and contractors looking for weather-resistant, durable, and slip-resistant tiling options for patios, walkways, pool decks, and other exterior spaces.",
+      "buyer_persona": "Homeowners, landscapers, and architects seeking robust, weather-resistant, and slip-resistant tiling solutions for patios, pathways, balconies, and other exterior areas.",
       "seo_title": "Outdoor Tiles Outdoor Tile | Catalog Listing",
       "tags": [
         "Outdoor Tiles",
@@ -1073,19 +1156,15 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=RCm94q7YW5cQ7kNvwFORAMA&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af3MtWf994eH8klg9IsoHDTtOL3zG0UQEwSby8M0JAatcA&oe=69F6CC9D&_nc_sid=8b3546",
+      "primary_photo_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=ZOdpiC91MegQ7kNvwGCNXNv&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4_AzGDQoNcn3QSOb3Gb4OHoP2t9GKz6JCnE6a-Z1Ri4Q&oe=69FE6DD9&_nc_sid=8b3546",
       "photo_urls": [
-        "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=RCm94q7YW5cQ7kNvwFORAMA&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af3MtWf994eH8klg9IsoHDTtOL3zG0UQEwSby8M0JAatcA&oe=69F6CC9D&_nc_sid=8b3546",
-        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=JM_0UxZFlzkQ7kNvwHRSkV6&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af27fO2P3Z3hbneRRoOAv0jpZypOCeYpU7fbfdR4TWRlaQ&oe=69F6BD19&_nc_sid=8b3546",
-        "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/659135145_1553533460115435_3219063779919510984_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=-8EJou4AVdsQ7kNvwEKUft2&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg2Njk3NTU4MzAxMjA0ODM5MA%3D%3D.3-ccb7-5&oh=00_Af0dju5AGuVL_bSUZ46-iix3ez3r08freef8jf4j3ndajQ&oe=69F6D7D2&_nc_sid=8b3546",
-        "https://i.ytimg.com/vi/RngoH41gAB4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLDtzva5kTKr01UMzUsqlpsFz7KnPQ",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=JM_0UxZFlzkQ7kNvwEvupjk&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1yHn8PrWedRnzuJeGK1aADuRQcNzCWgsiluHoZXYpCNA&oe=69F6BD19&_nc_sid=8b3546",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=RCm94q7YW5cQ7kNvwHU_8cr&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af0dG2rsY2K32s_v2QW3Slz7De3uQFAMac9In54Bp3N1_Q&oe=69F6CC9D&_nc_sid=8b3546"
+        "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=ZOdpiC91MegQ7kNvwGCNXNv&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4_AzGDQoNcn3QSOb3Gb4OHoP2t9GKz6JCnE6a-Z1Ri4Q&oe=69FE6DD9&_nc_sid=8b3546",
+        "https://i.ytimg.com/vi/RngoH41gAB4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLDtzva5kTKr01UMzUsqlpsFz7KnPQ"
       ],
-      "source_url": "https://www.instagram.com/p/DXa6b-yinT9/",
+      "source_url": "https://www.instagram.com/p/DXn3VxyEWZS/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 1,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -1098,12 +1177,12 @@
       "social_sources": [
         {
           "platform": "instagram",
-          "post_url": "https://www.instagram.com/p/DXa6b-yinT9/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=RCm94q7YW5cQ7kNvwFORAMA&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af3MtWf994eH8klg9IsoHDTtOL3zG0UQEwSby8M0JAatcA&oe=69F6CC9D&_nc_sid=8b3546",
-          "caption": "Discover the beauty of our latest tile collection. 🏡✨ \n\nAstila presents E49 1970 high-depth elevation tiles crafted to bring soft layered elegance to outdoor spaces.\n\nSize: 300×600mm | Finish: Matt\n\n#AstilaCeramic #ElevationTiles #HighDepthTiles #ExteriorTiles #PoolsideDesign #ModernFacade #TextureDesign #MattFinishTiles #300x600Tiles #LuxuryExteriors",
-          "posted_at": "2026-04-22T04:27:39.000Z",
-          "likes": 2,
-          "views": null
+          "post_url": "https://www.instagram.com/p/DXn3VxyEWZS/",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=ZOdpiC91MegQ7kNvwGCNXNv&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4_AzGDQoNcn3QSOb3Gb4OHoP2t9GKz6JCnE6a-Z1Ri4Q&oe=69FE6DD9&_nc_sid=8b3546",
+          "caption": "Elevate your architectural vision with Astila premium collection of elevation tiles. Designed to bridge the gap between natural aesthetics and modern durability, our outdoor range offers a timeless stone elegance that stands the test of time.\n\n#AstilaCeramic #OutdoorTiles #ElevationTiles #ArchitectureDesign #ExteriorInspo #StoneFinish #ModernArchitecture #LuxuryLiving #HomeRenovation #WallCladding",
+          "posted_at": "2026-04-27T05:11:06.000Z",
+          "likes": 4,
+          "views": 8
         },
         {
           "platform": "youtube",
@@ -1112,20 +1191,10 @@
           "caption": "Discover the perfect tiles that stand the test of time with Astila Ceramics! Whether you're renovating your home or working on a new project, our high-quality, long-lasting tiles are designed to meet all your needs. Don't settle for less—explore our stunning range today and find the ideal tiles for your space.",
           "posted_at": "2024-05-17T10:30:15.000Z",
           "likes": 3,
-          "views": 474
+          "views": 477
         }
       ],
-      "source_urls": [
-        {
-          "source": "instagram",
-          "url": "https://www.instagram.com/p/DXa6b-yinT9/"
-        },
-        {
-          "source": "youtube",
-          "url": "https://www.youtube.com/shorts/RngoH41gAB4"
-        }
-      ],
-      "description": "Outdoor Tiles is a outdoor tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Landscape architects, homeowners, and contractors looking for weather-resistant, durable, and slip-resistant tiling options for patios, walkways, pool decks, and other exterior spaces.",
+      "description": "Outdoor Tiles is a outdoor tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Homeowners, landscapers, and architects seeking robust, weather-resistant, and slip-resistant tiling solutions for patios, pathways, balconies, and other exterior areas.",
       "specifications": {
         "category": "Tile",
         "sub_type": "Outdoor Tile"
@@ -1141,7 +1210,7 @@
       "industry_segment": "Tiles & Flooring",
       "product_category": "Tile",
       "product_sub_type": "Ceramic Tile",
-      "buyer_persona": "Homeowners, contractors, and designers seeking a specific brand or line of ceramic tiles known for its particular aesthetic, quality, or features for various applications.",
+      "buyer_persona": "Consumers and professionals looking for ceramic tiles, potentially from a specific brand or collection known as 'Astila,' for various interior applications.",
       "seo_title": "Astila Ceramic Ceramic Tile | Catalog Listing",
       "tags": [
         "Astila Ceramic",
@@ -1167,22 +1236,18 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=n3CqbN-6XlcQ7kNvwEJR3lT&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af00lqwDPCcv5ZRB4ckE5F9554nW3oFAjEEIk3xZbp7JlQ&oe=69F6C51F&_nc_sid=8b3546",
+      "primary_photo_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=G4PHCqGjnzgQ7kNvwG5JJ-r&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6OvI7WXHKowBDeg4Tkz7EQdINHUtgJgOOciP2VLImpng&oe=69FE3D9F&_nc_sid=8b3546",
       "photo_urls": [
-        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=n3CqbN-6XlcQ7kNvwEJR3lT&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af00lqwDPCcv5ZRB4ckE5F9554nW3oFAjEEIk3xZbp7JlQ&oe=69F6C51F&_nc_sid=8b3546",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/678273359_1572107968257984_2572329364688483532_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=HBF7n8rTGYUQ7kNvwGwTO89&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MjEyOTM5MDM3NzMwMjc0NA%3D%3D.3-ccb7-5&oh=00_Af1VJp8T9U1JpbSWuXVf2WyM1fQzAR_GWA3qAXLT2xg87Q&oe=69F6C56A&_nc_sid=8b3546",
-        "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=n3CqbN-6XlcQ7kNvwGrBe5t&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2v0uPozDVkOitZpxZcFrtdZqQR3ieRj-CHZ7sAKc0VVA&oe=69F6C51F&_nc_sid=8b3546"
+        "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=G4PHCqGjnzgQ7kNvwG5JJ-r&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6OvI7WXHKowBDeg4Tkz7EQdINHUtgJgOOciP2VLImpng&oe=69FE3D9F&_nc_sid=8b3546"
       ],
       "source_url": "https://www.instagram.com/p/DW0lMbbFPL9/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.7,
+      "classification_confidence": 0.85,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
-      "warnings": [
-        "Product name appears to be a brand or specific product line, not a generic product type. Classification assumes 'Ceramic Tile' as the underlying product."
-      ],
+      "warnings": [],
       "sources": [
         "website",
         "instagram"
@@ -1191,20 +1256,14 @@
         {
           "platform": "instagram",
           "post_url": "https://www.instagram.com/p/DW0lMbbFPL9/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=n3CqbN-6XlcQ7kNvwEJR3lT&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af00lqwDPCcv5ZRB4ckE5F9554nW3oFAjEEIk3xZbp7JlQ&oe=69F6C51F&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=G4PHCqGjnzgQ7kNvwG5JJ-r&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6OvI7WXHKowBDeg4Tkz7EQdINHUtgJgOOciP2VLImpng&oe=69FE3D9F&_nc_sid=8b3546",
           "caption": "Transform your home with Astila tiles that reflect creativity, elegance, and a perfect balance of luxury and durability beautifully crafted. \n\nCrafted for Timeless Living✨ \n\n#Astila #TileDesign #CeramicTiles #LuxuryTiles #ModernInteriors #InteriorDesign #TileInspiration #PremiumTiles #HomeDecor",
           "posted_at": "2026-04-07T07:11:16.000Z",
           "likes": 4,
           "views": 30
         }
       ],
-      "source_urls": [
-        {
-          "source": "instagram",
-          "url": "https://www.instagram.com/p/DW0lMbbFPL9/"
-        }
-      ],
-      "description": "Astila Ceramic is a ceramic tile offered by Astila Ceramic Pvt Ltd based in Morbi. Suitable for: Homeowners, contractors, and designers seeking a specific brand or line of ceramic tiles known for its particular aesthetic, quality, or features for various applications.",
+      "description": "Astila Ceramic is a ceramic tile offered by Astila Ceramic Pvt Ltd based in Rangpar. Suitable for: Consumers and professionals looking for ceramic tiles, potentially from a specific brand or collection known as 'Astila,' for various interior applications.",
       "specifications": {
         "category": "Tile",
         "sub_type": "Ceramic Tile"
@@ -1214,14 +1273,7 @@
       "media_url": null
     }
   ],
-  "rejected_items": [
-    {
-      "product_name": "Our Experties",
-      "rejection_rule": "vague_ui_item",
-      "rejection_reason": "Name or category indicates website UI chrome, not a real product (cat=Service Offering, conf=0.5)",
-      "rejected_at": "2026-04-28T17:12:24.292Z"
-    }
-  ],
+  "rejected_items": [],
   "reviews": [
     {
       "author": "Light Link solutions",
@@ -1316,115 +1368,128 @@
       "Super",
       "Good",
       "good"
-    ]
+    ],
+    "reviews_url": null
   },
-  "social_urls": [
-    "https://www.facebook.com/AstilaCeramicPvtLtd/",
-    "https://www.instagram.com/astilaceramic/",
-    "https://www.youtube.com/@astilaceramic",
-    "https://www.linkedin.com/company/astila-ceramic/",
-    "https://www.instagram.com/astilaceramic",
-    "https://www.facebook.com/astilaceramics"
-  ],
-  "overall_confidence": 0.7,
+  "overall_confidence": 0.928,
   "social_profiles": [
     {
       "platform": "facebook",
-      "url": "https://www.facebook.com/AstilaCeramicPvtLtd/",
-      "profile_pic_url": null,
-      "banner_url": null,
-      "bio": null,
-      "followers_count": null,
+      "url": "https://facebook.com/astilaceramics",
+      "profile_pic_url": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/436351813_941460137989440_6226077221245256983_n.jpg?stp=c50.50.400.400a_dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=f907e8&_nc_ohc=KTWFCyj9QN8Q7kNvwFVfll2&_nc_oc=AdpTyNj8lrnKdv8vRJ3-7PVB9SJKh-kUKm7eRkuS_p-Vv4CbU5LSMepH-TWM2kaCpoOlWfAy6TYvZ2j5lX6uhAyG&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&_nc_gid=2YZB3zD5twyHBWl2y9JoAg&_nc_ss=72289&oh=00_Af5jWBOfoyPq54cLp8Hmgr1euEctgP_Ej7K8wlwbEIHvcw&oe=69FE704A",
+      "banner_url": "https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/494021426_1245922937543157_5166362578367794073_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=J33ldrnRbFIQ7kNvwE6qiyU&_nc_oc=AdpbXmzENfpi_j_jlR5IJTxXeWW9md5tF1wWx1UMwVm8gOcfwltb-h8BKtVt77xirbrG3tmtHpyqGMhK6_GybtbM&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=rnJ_PlzkfpPqQWimBANMPQ&_nc_ss=72289&oh=00_Af7UUXX2TaGlSeCIIzvwxQZD4BJ5anldefSG9Pb_ISUncg&oe=69FE60B4",
+      "bio": "Limitless Solutions for Tiles.\nWelcome to the world of Tiles.",
+      "followers_count": 921,
       "posts": [
         {
           "type": "post",
-          "post_url": "https://www.facebook.com/AstilaCeramicPvtLtd/",
-          "thumbnail_url": null,
-          "caption": null,
-          "likes": null,
+          "post_url": "https://www.facebook.com/reel/1269358062079022/",
+          "thumbnail_url": "https://www.facebook.com/reel/1269358062079022/",
+          "caption": "Experience premium surface design with E47-1919 by Astila delivering elegance durability and contemporary appeal for refined and sophisticated interiors today.\n\n#AstilaTiles #PremiumSurfaces #LuxuryInteriors #ModernDesign #InteriorStyle #TileInspiration",
+          "likes": 0,
           "comments": null,
           "views": null,
-          "posted_at": null
+          "posted_at": 1777877116
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/astilaceramics/posts/pfbid0CnS8GKY2QNVoW2XneVEK3ajNNvNxkss7Xq4PJBr6CwstUyg9yW9EPQrrjq5GF3TQl",
+          "thumbnail_url": "https://www.facebook.com/astilaceramics/posts/pfbid0CnS8GKY2QNVoW2XneVEK3ajNNvNxkss7Xq4PJBr6CwstUyg9yW9EPQrrjq5GF3TQl",
+          "caption": "Featured here is the Astila E49 1968 High Depth Elevation Tile. With a 300x600mm size and a sophisticated matt finish, these tiles showcase fine linear textures in a rich, earthy terracotta palette. \n\n#AstilaCeramic #InteriorDesign #OutdoorLiving #WallTiles #HomeDecor #ModernArchitecture #TextureDesign #ElevationTiles #HomeRenovation #LuxuryLiving",
+          "likes": 1,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777442179
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1257706266476376/",
+          "thumbnail_url": "https://www.facebook.com/reel/1257706266476376/",
+          "caption": "Elevate your architectural vision with Astila premium collection of elevation tiles. Designed to bridge the gap between natural aesthetics and modern durability, our outdoor range offers a timeless stone elegance that stands the test of time.\n\n#AstilaCeramic #OutdoorTiles #ElevationTiles #ArchitectureDesign #ExteriorInspo #StoneFinish #ModernArchitecture #LuxuryLiving #HomeRenovation #WallCladding",
+          "likes": 1,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777266665
         }
       ],
       "contacts_from_posts": [],
       "extra_profile": {
-        "phone": null,
-        "email": null,
-        "website": null,
-        "address": null,
+        "phone": "+91 97264 24001",
+        "email": "export@astilaceramic.com",
+        "website": "http://www.astilaceramic.com/",
+        "address": "Jetpar Road,opp bela village,opp Somnath petrol pump, Morbi, India, 363642",
         "city": null
       }
     },
     {
       "platform": "instagram",
-      "url": "https://www.instagram.com/astilaceramic/",
-      "profile_pic_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/434570648_1829241114164474_54336943963633141_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=6aQ3zh2sMUEQ7kNvwE3Ojc2&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af15sa5IrLi3GFy7s45c2oDon9Uj8DSsIqVGm9dAzt3iAg&oe=69F6B6B0&_nc_sid=8b3546",
+      "url": "https://instagram.com/astilaceramic",
+      "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/434570648_1829241114164474_54336943963633141_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=GywhDr8za8cQ7kNvwFa8vt7&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4QVY4fp7tgMcizMBBqAB93ZedsY-1CqhMdgyZkvZC7dA&oe=69FE6770&_nc_sid=8b3546",
       "banner_url": null,
       "bio": "🔝 Manufacturer and\n🌍 Exporter of Porcelain Tiles\n🤩 Explore our exquisite collection\n#AstilaCeramic\n#porcelaintile #tilesmanufacturers #tilesexporter",
-      "followers_count": 934,
+      "followers_count": 933,
       "following_count": 460,
-      "posts_count": 430,
+      "posts_count": 432,
       "posts": [
         {
           "type": "video",
-          "post_url": "https://www.instagram.com/p/DXn3VxyEWZS/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=JM_0UxZFlzkQ7kNvwHRSkV6&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af27fO2P3Z3hbneRRoOAv0jpZypOCeYpU7fbfdR4TWRlaQ&oe=69F6BD19&_nc_sid=8b3546",
-          "caption": "Elevate your architectural vision with Astila premium collection of elevation tiles. Designed to bridge the gap between natural aesthetics and modern durability, our outdoor range offers a timeless stone elegance that stands the test of time.\n\n#AstilaCeramic #OutdoorTiles #ElevationTiles #ArchitectureDesign #ExteriorInspo #StoneFinish #ModernArchitecture #LuxuryLiving #HomeRenovation #WallCladding",
+          "post_url": "https://www.instagram.com/p/DX6DowDESM1/",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/684238489_18423457162193401_1590064440390109659_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=pZwE7xPpSuQQ7kNvwFtef4M&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6ZX06gbhCVoykxXuMZ7B1cdxMmhzY6XUGHBzW1SN35dw&oe=69FE6435&_nc_sid=8b3546",
+          "caption": "Experience premium surface design with E47-1919 by Astila delivering elegance durability and contemporary appeal for refined and sophisticated interiors today.\n\n#AstilaTiles #PremiumSurfaces #LuxuryInteriors #ModernDesign #InteriorStyle #TileInspiration",
           "likes": 3,
           "comments": 0,
-          "views": 7,
+          "views": 8,
+          "posted_at": "2026-05-04T06:44:52.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DXtGhCmCj1q/",
+          "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t39.30808-6/683512154_1577043964431051_7245054781058979325_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=AAnKhsmp2WYQ7kNvwF6IvpC&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NTc5MDY2NzA3NTEyNDQwNw%3D%3D.3-ccb7-5&oh=00_Af441DxeIGOSZldAieZjBtpmHyB46F_vw1njH3ibRUomUQ&oe=69FE5945&_nc_sid=8b3546",
+          "caption": "Featured here is the Astila E49 1968 High Depth Elevation Tile. With a 300x600mm size and a sophisticated matt finish, these tiles showcase fine linear textures in a rich, earthy terracotta palette. \n\n#AstilaCeramic #InteriorDesign #OutdoorLiving #WallTiles #HomeDecor #ModernArchitecture #TextureDesign #ElevationTiles #HomeRenovation #LuxuryLiving",
+          "likes": 5,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2026-04-29T05:59:31.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXn3VxyEWZS/",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=ZOdpiC91MegQ7kNvwGCNXNv&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4_AzGDQoNcn3QSOb3Gb4OHoP2t9GKz6JCnE6a-Z1Ri4Q&oe=69FE6DD9&_nc_sid=8b3546",
+          "caption": "Elevate your architectural vision with Astila premium collection of elevation tiles. Designed to bridge the gap between natural aesthetics and modern durability, our outdoor range offers a timeless stone elegance that stands the test of time.\n\n#AstilaCeramic #OutdoorTiles #ElevationTiles #ArchitectureDesign #ExteriorInspo #StoneFinish #ModernArchitecture #LuxuryLiving #HomeRenovation #WallCladding",
+          "likes": 4,
+          "comments": 0,
+          "views": 8,
           "posted_at": "2026-04-27T05:11:06.000Z"
         },
         {
           "type": "post",
-          "post_url": "https://www.instagram.com/p/DXgGChwCjmq/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/678273359_1572107968257984_2572329364688483532_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=HBF7n8rTGYUQ7kNvwEnntNn&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MjEyOTM5MDM3NzMwMjc0NA%3D%3D.3-ccb7-5&oh=00_Af3YN324DYIMyxbVFHiN32rB47o6wfHfFmqkn7qslNuSwQ&oe=69F6C56A&_nc_sid=8b3546",
-          "caption": "Depth that defines timeless spaces.\n\nAstila high depth elevation tiles crafted for durability refined texture matt finish 300x600mm size delivering premium long-lasting wall elegance. \n\n#Astila #ElevationTiles #WallDesign #PremiumTiles #InteriorDesign #ModernSpaces #LuxuryLiving",
-          "likes": 2,
+          "post_url": "https://www.instagram.com/p/DW8EcPACiqa/",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/669596713_1559560556179392_7685937761059007550_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=9JsBev2Gip4Q7kNvwFu0R2x&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MTk4OTI3MjkwMzU3MTQ5Ng%3D%3D.3-ccb7-5&oh=00_Af4x6sKWJJxyptk4hijHoI5cvpFTmGgYx8PemOErin16sw&oe=69FE70D2&_nc_sid=8b3546",
+          "caption": "Experience texture beyond visuals. ✨\nAstila Elevation Tiles bring depth, warmth and refined stone character to modern spaces.\nDesigned to elevate every wall with natural elegance and timeless appeal.\n\nE50 1992 | 300x600mm | Matt Finish\nHigh Depth Elevation Tiles crafted for contemporary living.\n\n#Astila #ElevationTiles #WallDesign #ModernInteriors #StoneTexture #PremiumTiles #InteriorDesign",
+          "likes": 3,
           "comments": 0,
           "views": null,
-          "posted_at": "2026-04-24T04:45:14.000Z"
+          "posted_at": "2026-04-10T04:58:36.000Z"
         },
         {
           "type": "post",
-          "post_url": "https://www.instagram.com/p/DXa6b-yinT9/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=RCm94q7YW5cQ7kNvwFORAMA&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af3MtWf994eH8klg9IsoHDTtOL3zG0UQEwSby8M0JAatcA&oe=69F6CC9D&_nc_sid=8b3546",
-          "caption": "Discover the beauty of our latest tile collection. 🏡✨ \n\nAstila presents E49 1970 high-depth elevation tiles crafted to bring soft layered elegance to outdoor spaces.\n\nSize: 300×600mm | Finish: Matt\n\n#AstilaCeramic #ElevationTiles #HighDepthTiles #ExteriorTiles #PoolsideDesign #ModernFacade #TextureDesign #MattFinishTiles #300x600Tiles #LuxuryExteriors",
-          "likes": 2,
+          "post_url": "https://www.instagram.com/p/DW3ItW9Cvkf/",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t39.30808-6/667480233_1557856409683140_5588438823282376434_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=lEWrKhSMr5cQ7kNvwFgQzNS&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg3MDYwMDY2OTk2MzEyODM3NQ%3D%3D.3-ccb7-5&oh=00_Af5v8V3y3_-7uBU8CXI4o9djmsrXu8V70gyTr-8nphL79A&oe=69FE587B&_nc_sid=8b3546",
+          "caption": "Crafted layered stone textures with refined depth ASTILA E50 1986 elevation tiles deliver modern elegance for premium architectural wall designs.\n\nSize 300x600mm with matt finish and random pattern, delivering high-depth elevation aesthetics for sophisticated contemporary wall applications.\n\n#AstilaCeramic #ElevationTiles #WallTiles #TileDesign #ModernWalls #TextureTiles #StoneLookTiles #ArchitecturalDesign #InteriorDesign #ExteriorDesign",
+          "likes": 6,
           "comments": 0,
           "views": null,
-          "posted_at": "2026-04-22T04:27:39.000Z"
+          "posted_at": "2026-04-08T06:59:42.000Z"
         },
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DW0lMbbFPL9/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=n3CqbN-6XlcQ7kNvwEJR3lT&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af00lqwDPCcv5ZRB4ckE5F9554nW3oFAjEEIk3xZbp7JlQ&oe=69F6C51F&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUxEalltZV7BOwCNZtd1zzooJYgilOv-N1e2BAiYeNlbPG8Zb4ztYRtA0FTnoqv1Q&_nc_ohc=G4PHCqGjnzgQ7kNvwG5JJ-r&_nc_gid=stYLniQFas4s7TNW9gfIvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6OvI7WXHKowBDeg4Tkz7EQdINHUtgJgOOciP2VLImpng&oe=69FE3D9F&_nc_sid=8b3546",
           "caption": "Transform your home with Astila tiles that reflect creativity, elegance, and a perfect balance of luxury and durability beautifully crafted. \n\nCrafted for Timeless Living✨ \n\n#Astila #TileDesign #CeramicTiles #LuxuryTiles #ModernInteriors #InteriorDesign #TileInspiration #PremiumTiles #HomeDecor",
           "likes": 4,
           "comments": 0,
           "views": 30,
           "posted_at": "2026-04-07T07:11:16.000Z"
-        },
-        {
-          "type": "video",
-          "post_url": "https://www.instagram.com/p/DWx7J0wkUro/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=yJHY_vRYJ64Q7kNvwGmtG6L&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af0Ns24EVwGtrPrcXF09DCx_JqgcJXejMCnXGodXa3MOhg&oe=69F6BA53&_nc_sid=8b3546",
-          "caption": "From raw beginnings to flawless finishes ASTILA CERAMIC defines superior quality delivering premium tiles trusted across borders worldwide.\n\nPremium quality that travels beyond borders with trust ✨\n\n#AstilaCeramic #TileManufacturer #TileExporter #PremiumTiles #LuxuryTiles #MadeInIndiaTiles",
-          "likes": 4,
-          "comments": 0,
-          "views": 19,
-          "posted_at": "2026-04-06T06:25:26.000Z"
-        },
-        {
-          "type": "post",
-          "post_url": "https://www.instagram.com/p/DWqQdZpCtIl/",
-          "thumbnail_url": "https://scontent-bos5-1.cdninstagram.com/v/t39.30808-6/659135145_1553533460115435_3219063779919510984_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHvKGkwDpy5vzo9eXYyjD6vi9QmM29bKkOebX965GjAHZkrgsXIvXkY2X4xEqcus6k&_nc_ohc=-8EJou4AVdsQ7kNvwEKUft2&_nc_gid=e9EPuPFfqCUO7mWGKvQq5A&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg2Njk3NTU4MzAxMjA0ODM5MA%3D%3D.3-ccb7-5&oh=00_Af0dju5AGuVL_bSUZ46-iix3ez3r08freef8jf4j3ndajQ&oe=69F6D7D2&_nc_sid=8b3546",
-          "caption": "Calm meets texture.\nElevate your spaces with the natural beauty of high-depth elevation tiles.\n\nE50 1993 by Astila Ceramic blends layered stone textures with modern architecture, creating a soothing yet premium outdoor and indoor statement.\n\nPerfect for elevations, outdoor walls, and feature spaces that demand elegance with durability.\n\nE50 1993\nSize: 300x600mm\nFinish: Matt\nRandom: 04\n\nAstila Ceramic — Where texture meets tranquility.\n\n#AstilaCeramic #ElevationTiles #HighDepthTiles #ExteriorTiles #WallElevation",
-          "likes": 3,
-          "comments": 0,
-          "views": null,
-          "posted_at": "2026-04-03T06:57:18.000Z"
         }
       ],
       "contacts_from_posts": [],
@@ -1438,7 +1503,7 @@
     },
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/@astilaceramic",
+      "url": "https://youtube.com/@astilaceramic",
       "profile_pic_url": "https://yt3.googleusercontent.com/mP-SgdsPTedF47KBtYEjUGpnBuGtlgaWeolKkgZu2y20tB4gphEWUG3Nvb1xJb-9SmKqb0sbsg=s160-c-k-c0x00ffffff-no-rj",
       "banner_url": null,
       "bio": "Greetings,\n\nLet me introduce our vibrant venture to you. We're the creators behind exquisite Ceramic and Vitrified/Porcelain Wall, Floor, and Parking tiles. Together, we operate six state-of-the-art manufacturing plants, each a hub of innovation and quality craftsmanship. With over a decade of expertise under our belt, we've spread our artistic creations to more than 60 countries, earning accolades for our exceptional before and after-sales support.\n\nMeet our company:\nPicture a consortium of cutting-edge factories churning out porcelain & ceramic tiles at a remarkable pace of 10,000 square meters per day. In Morbi, our export prowess and tile quality rank among the top 10, a testament to our unwavering commitment to excellence.\n\nGuiding principle:\nOur compass always points towards fostering enduring partnerships. We're not just in it for a single transaction; our mantra revolves around delivering the finest quality, the most competitive prices, and unparalleled service.",
@@ -1446,22 +1511,12 @@
       "posts": [
         {
           "type": "video",
-          "post_url": "https://www.youtube.com/shorts/EhKBRn_Pyys",
-          "thumbnail_url": "https://i.ytimg.com/vi/EhKBRn_Pyys/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDJ6KP_dXZolgCVqqWz9MN1PNTrg",
-          "caption": "Welcome to Astila Ceramic's world of exquisite craftsmanship and timeless elegance! Discover our latest collection of stunning glazed porcelain tiles, meticulously designed to infuse your space with unparalleled luxury and sophistication. With a luxurious stone finish that exudes opulence, our tiles redefine the standard of beauty and durability.\n\nAs the leading Tiles Exporter in India, Astila Ceramic takes pride in offering top-quality products that elevate every corner they adorn. Whether you're revamping your home or designing a commercial space, our tiles are the perfect choice to add a touch of grandeur.\n\nExperience the unparalleled beauty and durability of Astila Ceramic's glazed porcelain tiles and transform your space into a masterpiece of design. Explore our collection today and elevate your surroundings with timeless elegance.",
-          "likes": 2,
-          "comments": 0,
-          "views": 84,
-          "posted_at": "2024-04-26T03:30:10.000Z"
-        },
-        {
-          "type": "video",
           "post_url": "https://www.youtube.com/shorts/vTcFoziI3dA",
           "thumbnail_url": "https://i.ytimg.com/vi/vTcFoziI3dA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBdKFowDw==&rs=AOn4CLA0PLl39gi04d54zS_myZJycSKO0w",
           "caption": "Welcome to Astila Ceramics, where we believe in turning houses into homes with our exquisite range of tiles. \n\nIn this video, we're thrilled to showcase our elegant collection of tiles that will undoubtedly make your home sweet home even sweeter! From stunning floor tiles to captivating wall designs, our selection is crafted to elevate your living space to new heights of sophistication and comfort.\n\nAt Astila Ceramics, we take pride in being a leading tiles exporter in India, offering top-quality products that meet the highest standards of craftsmanship and durability. Our dedication to excellence ensures that each tile in our collection is not just a piece of decor, but a statement of style and luxury.\n\nWhether you're renovating your kitchen, bathroom, or entire home, our diverse range of tiles has something to suit every taste and preference. With our commitment to customer satisfaction, you can trust that you're getting the best value for your investment.\n\nJoin us on a journey of home transformation and discover how our elegant collection of tiles can turn your space into a haven of beauty and tranquility. Don't just make a house; make it a home with Astila Ceramics.\n\nAstila Ceramics - Your Trusted Tiles Exporter in India.\n\nDon't forget to like, share, and subscribe for more home improvement tips and inspiration!",
           "likes": 1,
           "comments": 0,
-          "views": 35,
+          "views": 39,
           "posted_at": "2024-04-25T03:30:17.000Z"
         },
         {
@@ -1473,6 +1528,16 @@
           "comments": 0,
           "views": 250,
           "posted_at": "2024-04-19T11:00:29.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/RngoH41gAB4",
+          "thumbnail_url": "https://i.ytimg.com/vi/RngoH41gAB4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLDtzva5kTKr01UMzUsqlpsFz7KnPQ",
+          "caption": "Discover the perfect tiles that stand the test of time with Astila Ceramics! Whether you're renovating your home or working on a new project, our high-quality, long-lasting tiles are designed to meet all your needs. Don't settle for less—explore our stunning range today and find the ideal tiles for your space.",
+          "likes": 3,
+          "comments": 0,
+          "views": 477,
+          "posted_at": "2024-05-17T10:30:15.000Z"
         },
         {
           "type": "video",
@@ -1491,18 +1556,18 @@
           "caption": "Step into the world of Astila Ceramics, where quality meets craftsmanship to transform your space into a haven of elegance and style. As a distinguished Tiles Manufacturer in Morbi, we're dedicated to delivering excellence in every tile we produce.\n\nExplore with us as we unveil a stunning array of ceramic and porcelain tiles, meticulously designed to redefine your concept of flooring. From timeless classics to contemporary marvels, Astila Ceramics offers a diverse range to suit every aesthetic preference.\n\nJoin us on this journey as we showcase our passion for innovation and design excellence. Elevate your space and inspire creativity with Astila Ceramics, your ultimate destination for exceptional tiles and unparalleled service.\n\nLike, share, and subscribe to our channel for the latest updates on our premium tile collections and design inspirations. Thank you for choosing Astila Ceramics as your partner in creating extraordinary spaces.",
           "likes": 3,
           "comments": 0,
-          "views": 51,
+          "views": 52,
           "posted_at": "2024-04-24T03:30:02.000Z"
         },
         {
           "type": "video",
-          "post_url": "https://www.youtube.com/shorts/RngoH41gAB4",
-          "thumbnail_url": "https://i.ytimg.com/vi/RngoH41gAB4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYWSBZKFkwDw==&rs=AOn4CLDtzva5kTKr01UMzUsqlpsFz7KnPQ",
-          "caption": "Discover the perfect tiles that stand the test of time with Astila Ceramics! Whether you're renovating your home or working on a new project, our high-quality, long-lasting tiles are designed to meet all your needs. Don't settle for less—explore our stunning range today and find the ideal tiles for your space.",
-          "likes": 3,
+          "post_url": "https://www.youtube.com/shorts/EhKBRn_Pyys",
+          "thumbnail_url": "https://i.ytimg.com/vi/EhKBRn_Pyys/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYXCBcKFwwDw==&rs=AOn4CLDDJ6KP_dXZolgCVqqWz9MN1PNTrg",
+          "caption": "Welcome to Astila Ceramic's world of exquisite craftsmanship and timeless elegance! Discover our latest collection of stunning glazed porcelain tiles, meticulously designed to infuse your space with unparalleled luxury and sophistication. With a luxurious stone finish that exudes opulence, our tiles redefine the standard of beauty and durability.\n\nAs the leading Tiles Exporter in India, Astila Ceramic takes pride in offering top-quality products that elevate every corner they adorn. Whether you're revamping your home or designing a commercial space, our tiles are the perfect choice to add a touch of grandeur.\n\nExperience the unparalleled beauty and durability of Astila Ceramic's glazed porcelain tiles and transform your space into a masterpiece of design. Explore our collection today and elevate your surroundings with timeless elegance.",
+          "likes": 2,
           "comments": 0,
-          "views": 474,
-          "posted_at": "2024-05-17T10:30:15.000Z"
+          "views": 85,
+          "posted_at": "2024-04-26T03:30:10.000Z"
         }
       ],
       "contacts_from_posts": [],
@@ -1518,107 +1583,31 @@
     },
     {
       "platform": "linkedin",
-      "url": "https://www.linkedin.com/company/astila-ceramic/",
+      "url": "https://linkedin.com/company/astila-ceramic",
       "profile_pic_url": null,
       "banner_url": null,
       "bio": null,
       "followers_count": null,
       "posts": [],
       "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
-    },
-    {
-      "platform": "instagram",
-      "url": "https://www.instagram.com/astilaceramic",
-      "profile_pic_url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-19/434570648_1829241114164474_54336943963633141_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=6aQ3zh2sMUEQ7kNvwFZHI8T&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2WZBnbNsnz723HRBBNOiH4DFvMors3GBfUkfzSf_E4UQ&oe=69F6B6B0&_nc_sid=8b3546",
-      "banner_url": null,
-      "bio": "🔝 Manufacturer and\n🌍 Exporter of Porcelain Tiles\n🤩 Explore our exquisite collection\n#AstilaCeramic\n#porcelaintile #tilesmanufacturers #tilesexporter",
-      "followers_count": 934,
-      "following_count": 460,
-      "posts_count": 430,
-      "posts": [
-        {
-          "type": "video",
-          "post_url": "https://www.instagram.com/p/DXn3VxyEWZS/",
-          "thumbnail_url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/683544106_18422350207193401_5994477627392500195_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=JM_0UxZFlzkQ7kNvwEvupjk&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af1yHn8PrWedRnzuJeGK1aADuRQcNzCWgsiluHoZXYpCNA&oe=69F6BD19&_nc_sid=8b3546",
-          "caption": "Elevate your architectural vision with Astila premium collection of elevation tiles. Designed to bridge the gap between natural aesthetics and modern durability, our outdoor range offers a timeless stone elegance that stands the test of time.\n\n#AstilaCeramic #OutdoorTiles #ElevationTiles #ArchitectureDesign #ExteriorInspo #StoneFinish #ModernArchitecture #LuxuryLiving #HomeRenovation #WallCladding",
-          "likes": 3,
-          "comments": 0,
-          "views": 7,
-          "posted_at": "2026-04-27T05:11:06.000Z"
-        },
-        {
-          "type": "post",
-          "post_url": "https://www.instagram.com/p/DXgGChwCjmq/",
-          "thumbnail_url": "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/678273359_1572107968257984_2572329364688483532_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=HBF7n8rTGYUQ7kNvwGwTO89&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MjEyOTM5MDM3NzMwMjc0NA%3D%3D.3-ccb7-5&oh=00_Af1VJp8T9U1JpbSWuXVf2WyM1fQzAR_GWA3qAXLT2xg87Q&oe=69F6C56A&_nc_sid=8b3546",
-          "caption": "Depth that defines timeless spaces.\n\nAstila high depth elevation tiles crafted for durability refined texture matt finish 300x600mm size delivering premium long-lasting wall elegance. \n\n#Astila #ElevationTiles #WallDesign #PremiumTiles #InteriorDesign #ModernSpaces #LuxuryLiving",
-          "likes": 2,
-          "comments": 0,
-          "views": null,
-          "posted_at": "2026-04-24T04:45:14.000Z"
-        },
-        {
-          "type": "post",
-          "post_url": "https://www.instagram.com/p/DXa6b-yinT9/",
-          "thumbnail_url": "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/674715010_1570290688439712_1276345844169351415_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=RCm94q7YW5cQ7kNvwHU_8cr&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4MDY3MDk5ODI4Njc1MjMwOA%3D%3D.3-ccb7-5&oh=00_Af0dG2rsY2K32s_v2QW3Slz7De3uQFAMac9In54Bp3N1_Q&oe=69F6CC9D&_nc_sid=8b3546",
-          "caption": "Discover the beauty of our latest tile collection. 🏡✨ \n\nAstila presents E49 1970 high-depth elevation tiles crafted to bring soft layered elegance to outdoor spaces.\n\nSize: 300×600mm | Finish: Matt\n\n#AstilaCeramic #ElevationTiles #HighDepthTiles #ExteriorTiles #PoolsideDesign #ModernFacade #TextureDesign #MattFinishTiles #300x600Tiles #LuxuryExteriors",
-          "likes": 2,
-          "comments": 0,
-          "views": null,
-          "posted_at": "2026-04-22T04:27:39.000Z"
-        },
-        {
-          "type": "video",
-          "post_url": "https://www.instagram.com/p/DW0lMbbFPL9/",
-          "thumbnail_url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/659595690_18419247853193401_7306109504856954157_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=n3CqbN-6XlcQ7kNvwGrBe5t&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2v0uPozDVkOitZpxZcFrtdZqQR3ieRj-CHZ7sAKc0VVA&oe=69F6C51F&_nc_sid=8b3546",
-          "caption": "Transform your home with Astila tiles that reflect creativity, elegance, and a perfect balance of luxury and durability beautifully crafted. \n\nCrafted for Timeless Living✨ \n\n#Astila #TileDesign #CeramicTiles #LuxuryTiles #ModernInteriors #InteriorDesign #TileInspiration #PremiumTiles #HomeDecor",
-          "likes": 4,
-          "comments": 0,
-          "views": 30,
-          "posted_at": "2026-04-07T07:11:16.000Z"
-        },
-        {
-          "type": "video",
-          "post_url": "https://www.instagram.com/p/DWx7J0wkUro/",
-          "thumbnail_url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/660426049_18419127232193401_6239686577559544239_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=yJHY_vRYJ64Q7kNvwEEIO-D&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af282KTJdB912khH0tNHr1Ld4Huzhy0qhO3nMjJY1FNlMg&oe=69F6BA53&_nc_sid=8b3546",
-          "caption": "From raw beginnings to flawless finishes ASTILA CERAMIC defines superior quality delivering premium tiles trusted across borders worldwide.\n\nPremium quality that travels beyond borders with trust ✨\n\n#AstilaCeramic #TileManufacturer #TileExporter #PremiumTiles #LuxuryTiles #MadeInIndiaTiles",
-          "likes": 4,
-          "comments": 0,
-          "views": 19,
-          "posted_at": "2026-04-06T06:25:26.000Z"
-        },
-        {
-          "type": "post",
-          "post_url": "https://www.instagram.com/p/DWqQdZpCtIl/",
-          "thumbnail_url": "https://scontent-yyz1-1.cdninstagram.com/v/t39.30808-6/659135145_1553533460115435_3219063779919510984_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEAg338Qv7TyWIDx3wBMNXtVkrT4dRkGP9oGD4FrIzsFomMuBIM4zUbGzln61oQpiY&_nc_ohc=-8EJou4AVdsQ7kNvwH0m4hI&_nc_gid=YfewN2qYVIZ7E0A6KZscbw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg2Njk3NTU4MzAxMjA0ODM5MA%3D%3D.3-ccb7-5&oh=00_Af1GQHV2y3mIGLgGihxwyr5izTBdcdOcoBb97lgiZ3pBZg&oe=69F6D7D2&_nc_sid=8b3546",
-          "caption": "Calm meets texture.\nElevate your spaces with the natural beauty of high-depth elevation tiles.\n\nE50 1993 by Astila Ceramic blends layered stone textures with modern architecture, creating a soothing yet premium outdoor and indoor statement.\n\nPerfect for elevations, outdoor walls, and feature spaces that demand elegance with durability.\n\nE50 1993\nSize: 300x600mm\nFinish: Matt\nRandom: 04\n\nAstila Ceramic — Where texture meets tranquility.\n\n#AstilaCeramic #ElevationTiles #HighDepthTiles #ExteriorTiles #WallElevation",
-          "likes": 3,
-          "comments": 0,
-          "views": null,
-          "posted_at": "2026-04-03T06:57:18.000Z"
-        }
-      ],
-      "contacts_from_posts": [],
-      "extra_profile": {
-        "phone": null,
-        "email": null,
-        "website": "http://www.astilaceramic.com/",
-        "address": null,
-        "city": null
-      }
     }
   ],
   "pipeline_summary": {
-    "run_started_at": "2026-04-28T17:10:51.943Z",
-    "duration_seconds": 92,
-    "agents_in_order": [],
+    "run_started_at": "2026-05-04T11:38:44.080Z",
+    "duration_seconds": 91,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup"
+    ],
     "agent_call_counts": {
       "Agent02/Orchestrator": 1,
-      "Agent03/Product": 0,
-      "Agent03a/Category": 6,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 5,
       "Agent04/Media": 5,
-      "Agent05/EnrichDedup": 0,
+      "Agent05/EnrichDedup": 1,
       "Agent07/Social": 1,
-      "CompanyEnricher": 0,
+      "CompanyEnricher": 1,
       "Agent06/Reflection": 0
     },
     "agentic_decisions": {
@@ -1633,35 +1622,34 @@
           "reviews"
         ],
         "quality_target": 0.85,
-        "reasoning": "Company profile is rich, and there are many products. Reviews API is not present, so skipping reviews agent. Media classification will be handled by the product agent."
+        "reasoning": "Seller has a clear business type and a good number of raw products (79), indicating a rich product catalog. Aiming for a comprehensive and high-quality catalog by running all relevant agents and skipping the reviews agent as no reviews API URL is provided."
       },
       "evaluate_product_output": {
-        "decision": null,
-        "avg_confidence": null,
+        "decision": "proceed",
+        "avg_confidence": 0.93,
         "retry_triggered": false
       }
     },
     "products": {
-      "raw_input": 6,
-      "enriched": 6,
-      "catalog_items": 5,
-      "rejected": 1,
+      "raw_input": 5,
+      "enriched": 5,
+      "catalog_items": 9,
+      "rejected": 0,
       "with_vision": 0,
       "vision_skipped": 5
     },
     "social": {
-      "urls_detected": 6,
+      "urls_detected": 4,
       "platforms_scraped": [
         "facebook",
         "instagram",
         "youtube",
-        "linkedin",
-        "instagram"
+        "linkedin"
       ],
-      "posts_collected": 19,
-      "social_products_extracted": 0
+      "posts_collected": 15,
+      "social_products_extracted": 4
     },
-    "overall_confidence": 0.7
+    "overall_confidence": 0.928
   },
-  "_saved_at": "2026-04-28T17:12:24.305Z"
+  "_saved_at": "2026-05-04T11:40:14.774Z"
 }
