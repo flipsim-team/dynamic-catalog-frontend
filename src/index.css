@@ -140,6 +140,76 @@
     grid-template-columns: 1fr;
     gap: 1.25rem;
   }
+  .social-swiper {
+    padding: 0 3rem 3rem;
+    --swiper-theme-color: hsl(var(--primary));
+  }
+  .social-swiper .swiper-wrapper {
+    align-items: stretch;
+  }
+  .social-swiper .swiper-slide {
+    display: flex;
+    height: 22rem;
+  }
+  .social-swiper .swiper-button-next,
+  .social-swiper .swiper-button-prev {
+    top: 50%;
+    width: 2.25rem;
+    height: 2.25rem;
+    margin-top: 0;
+    padding: 0;
+    border: 1.5px solid hsl(var(--border));
+    border-radius: 50%;
+    background: hsl(var(--card));
+    color: hsl(var(--primary));
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+  }
+  .social-swiper .swiper-button-next:hover:not(.swiper-button-disabled),
+  .social-swiper .swiper-button-prev:hover:not(.swiper-button-disabled) {
+    border-color: hsl(var(--primary));
+    background: hsl(var(--primary) / 0.08);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  }
+  .social-swiper .swiper-button-next {
+    right: 0;
+  }
+  .social-swiper .swiper-button-prev {
+    left: 0;
+    right: auto;
+  }
+  .social-swiper .swiper-button-next::after,
+  .social-swiper .swiper-button-prev::after {
+    font-size: 0.65rem;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .social-swiper .swiper-button-next.swiper-button-disabled,
+  .social-swiper .swiper-button-prev.swiper-button-disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+  .social-swiper .swiper-pagination {
+    bottom: 0.25rem !important;
+    text-align: left;
+  }
+  .social-swiper .swiper-pagination-bullet {
+    width: 0.55rem;
+    height: 0.55rem;
+    background: hsl(var(--foreground));
+    opacity: 0.18;
+    transition: transform 0.2s ease, opacity 0.2s ease, width 0.2s ease;
+  }
+  .social-swiper .swiper-pagination-bullet-active {
+    opacity: 1;
+    width: 1.35rem;
+    border-radius: 9999px;
+    background: hsl(var(--primary));
+  }
   @media (min-width: 640px) {
     .product-grid { grid-template-columns: repeat(2, 1fr); }
   }

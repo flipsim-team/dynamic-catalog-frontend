@@ -93,7 +93,7 @@ export default function HeroSection({ data }: { data: SellerData }) {
                   <img
                     src={data.avatarUrl?.value}
                     alt={data.sellerName}
-                    className="w-full h-full object-contain transition-transform duration-300 group-hover/avatar:scale-104"
+                    className="w-full h-full object-contain transition-transform duration-300 group-hover/avatar:scale-104 bg-white/50 p-px"
                     onError={(e) => {
                       (e.target as HTMLImageElement).style.display = "none";
                       (e.target as HTMLImageElement)

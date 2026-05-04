@@ -1,4 +1,4 @@
-import { forwardRef } from "react";
+import { forwardRef, useState } from "react";
 import { motion } from "framer-motion";
 import {
   ExternalLink,
@@ -60,6 +60,8 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
       .join("")
       .slice(0, 2)
       .toUpperCase();
+    const [avatarFailed, setAvatarFailed] = useState(false);
+    const showAvatar = Boolean(data.avatarUrl?.value) && !avatarFailed;
     const getHref = (link: string) => {
       if (link === "Overview") return "#overview";
       if (link === "Categories") return "#products";
@@ -104,10 +106,19 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
           >
             <div>
               <div className="flex items-center gap-3 mb-4">
-                <div className="w-11 h-11 rounded-xl bg-primary flex items-center justify-center">
-                  <span className="font-bold text-sm text-primary-foreground">
-                    {initials}
-                  </span>
+                <div className="w-11 h-11 rounded-full overflow-hidden border border-white/10 bg-white flex items-center justify-center shadow-sm">
+                  {showAvatar ? (
+                    <img
+                      src={data.avatarUrl?.value}
+                      alt={data.sellerName}
+                      className="h-full w-full object-contain bg-white p-px"
+                      onError={() => setAvatarFailed(true)}
+                    />
+                  ) : (
+                    <span className="font-bold text-sm text-primary">
+                      {initials}
+                    </span>
+                  )}
                 </div>
                 <h3 className="font-bold text-xl">{data.sellerName}</h3>
               </div>
