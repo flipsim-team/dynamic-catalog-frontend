@@ -5,7 +5,6 @@ import {
   X,
   ChevronLeft,
   ChevronRight,
-  ImageIcon,
   MessageCircle,
   ExternalLink,
   Tag,
@@ -26,6 +25,7 @@ interface Props {
   enquireHref: string;
   onPrev?: () => void;
   onNext?: () => void;
+  onImageUnavailable?: (productId: string) => void;
 }
 
 export default function ProductDetailModal({
@@ -34,9 +34,11 @@ export default function ProductDetailModal({
   enquireHref,
   onPrev,
   onNext,
+  onImageUnavailable,
 }: Props) {
   const [photoIdx, setPhotoIdx] = useState(0);
   const [imageError, setImageError] = useState(false);
+  const [failedPhotos, setFailedPhotos] = useState<Set<string>>(new Set());
   const isOpen = !!product;
 
   // Scroll lock effect
@@ -52,6 +54,7 @@ export default function ProductDetailModal({
     if (product) {
       setPhotoIdx(0);
       setImageError(false);
+      setFailedPhotos(new Set());
     }
   }, [product]);
 
@@ -75,15 +78,41 @@ export default function ProductDetailModal({
         ? [product.primaryPhoto]
         : [];
   const currentPhoto = photos[photoIdx];
+  const hasRenderableImage = Boolean(currentPhoto) && !imageError;
+
+  const findNextAvailablePhotoIndex = (startIndex: number) => {
+    if (photos.length <= 1) return -1;
+
+    for (let offset = 1; offset <= photos.length; offset += 1) {
+      const nextIndex = (startIndex + offset) % photos.length;
+      const nextPhoto = photos[nextIndex];
+      if (nextPhoto && !failedPhotos.has(nextPhoto)) return nextIndex;
+    }
+
+    return -1;
+  };
+
   const next = () => {
     setImageError(false);
-    setPhotoIdx((i) => (i + 1) % Math.max(photos.length, 1));
+    setPhotoIdx((i) => {
+      const nextIndex = findNextAvailablePhotoIndex(i);
+      return nextIndex === -1 ? i : nextIndex;
+    });
   };
   const prev = () => {
     setImageError(false);
-    setPhotoIdx((i) => (i - 1 + photos.length) % Math.max(photos.length, 1));
+    setPhotoIdx((i) => {
+      if (photos.length <= 1) return i;
+
+      for (let offset = 1; offset <= photos.length; offset += 1) {
+        const prevIndex = (i - offset + photos.length) % photos.length;
+        const prevPhoto = photos[prevIndex];
+        if (prevPhoto && !failedPhotos.has(prevPhoto)) return prevIndex;
+      }
+
+      return i;
+    });
   };
-  const hasImage = Boolean(currentPhoto) && !imageError;
   const hasAnyPhoto = photos.length > 0;
   const sourceLinks = product.sourceLinks || [];
   const sourceTiles = product.sourceTiles || [];
@@ -156,58 +185,66 @@ export default function ProductDetailModal({
             </button>
 
             <div
-              className={`${hasAnyPhoto ? "grid lg:grid-cols-[45%_55%] overflow-y-auto lg:overflow-hidden lg:h-[min(90vh,900px)]" : "overflow-y-auto lg:h-[min(90vh,900px)]"}`}
+              className={`${hasAnyPhoto && hasRenderableImage ? "grid lg:grid-cols-[45%_55%] overflow-y-auto lg:overflow-hidden lg:h-[min(90vh,900px)]" : "overflow-y-auto lg:h-[min(90vh,900px)]"}`}
             >
-              <div className="relative min-h-[220px] md:min-h-[320px] lg:h-full bg-muted/50 flex items-center justify-center overflow-hidden">
-                {hasImage ? (
+              {hasAnyPhoto && hasRenderableImage && (
+                <div className="relative min-h-[220px] md:min-h-[320px] lg:h-full bg-muted/50 flex items-center justify-center overflow-hidden">
                   <img
                     src={currentPhoto}
-                    alt={product.name || "Product image couldn't be loaded"}
+                    alt={product.name || "Product image"}
                     className="w-full h-full object-contain p-4 sm:p-6"
-                    onError={() => setImageError(true)}
+                    onError={() => {
+                      setFailedPhotos((prev) => {
+                        const next = new Set(prev).add(currentPhoto);
+                        return next;
+                      });
+
+                      const nextIndex = findNextAvailablePhotoIndex(photoIdx);
+                      if (nextIndex === -1) {
+                        setImageError(true);
+                        onImageUnavailable?.(product.id);
+                        return;
+                      }
+
+                      setImageError(false);
+                      setPhotoIdx(nextIndex);
+                    }}
                   />
-                ) : (
-                  <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-muted-foreground px-4 text-center">
-                    <div className="w-12 h-12 rounded-xl bg-muted border border-border flex items-center justify-center">
-                      <ImageIcon className="w-6 h-6" />
-                    </div>
-                    <p className="text-xs font-medium text-foreground">
-                      Image could not be loaded.
-                    </p>
-                  </div>
-                )}
-                {photos.length > 1 && (
-                  <>
-                    <button
-                      onClick={prev}
-                      className="absolute left-1 sm:left-3 top-1/2 -translate-y-1/2 w-9 h-9 rounded-full bg-black/70 flex items-center justify-center hover:bg-black/80 transition-colors"
-                    >
-                      <ChevronLeft className="w-5 h-5 text-white" />
-                    </button>
-                    <button
-                      onClick={next}
-                      className="absolute right-1 sm:right-3 top-1/2 -translate-y-1/2 w-9 h-9 rounded-full bg-black/70 flex items-center justify-center hover:bg-black/80 transition-colors"
-                    >
-                      <ChevronRight className="w-5 h-5 text-white" />
-                    </button>
-                    <div className="absolute bottom-3 left-1/2 -translate-x-1/2 flex gap-1.5 bg-card/80 border border-border rounded-full px-3 py-1.5 backdrop-blur">
-                      {photos.map((_, i) => (
-                        <button
-                          key={i}
-                          onClick={() => {
-                            setImageError(false);
-                            setPhotoIdx(i);
-                          }}
-                          className={`w-1.5 h-1.5 rounded-full transition-all ${i === photoIdx ? "bg-primary w-6" : "bg-muted-foreground/40"}`}
-                        />
-                      ))}
-                    </div>
-                  </>
-                )}
-              </div>
+                  {photos.length > 1 && (
+                    <>
+                      <button
+                        onClick={prev}
+                        className="absolute left-1 sm:left-3 top-1/2 -translate-y-1/2 w-9 h-9 rounded-full bg-black/70 flex items-center justify-center hover:bg-black/80 transition-colors"
+                      >
+                        <ChevronLeft className="w-5 h-5 text-white" />
+                      </button>
+                      <button
+                        onClick={next}
+                        className="absolute right-1 sm:right-3 top-1/2 -translate-y-1/2 w-9 h-9 rounded-full bg-black/70 flex items-center justify-center hover:bg-black/80 transition-colors"
+                      >
+                        <ChevronRight className="w-5 h-5 text-white" />
+                      </button>
+                      <div className="absolute bottom-3 left-1/2 -translate-x-1/2 flex gap-1.5 bg-card/80 border border-border rounded-full px-3 py-1.5 backdrop-blur">
+                        {photos.map((_, i) => (
+                          <button
+                            key={i}
+                            onClick={() => {
+                              setImageError(false);
+                              setPhotoIdx(i);
+                            }}
+                            className={`w-1.5 h-1.5 rounded-full transition-all ${i === photoIdx ? "bg-primary w-6" : "bg-muted-foreground/40"}`}
+                          />
+                        ))}
+                      </div>
+                    </>
+                  )}
+                </div>
+              )}
 
               {/* Details */}
-              <div className="p-5 sm:p-8 flex flex-col gap-5 min-h-0 overflow-y-auto max-h-[65vh] sm:max-h-[72vh] lg:overflow-y-auto lg:max-h-none">
+              <div
+                className={`p-5 sm:p-8 flex flex-col gap-5 min-h-0 overflow-y-auto max-h-[65vh] sm:max-h-[72vh] lg:overflow-y-auto lg:max-h-none ${hasAnyPhoto && hasRenderableImage ? "" : "w-full"}`}
+              >
                 <div>
                   <div className="flex flex-wrap gap-2 mb-3">
                     <span className="rounded-full bg-primary/10 text-primary px-3 py-1 text-[11px] font-semibold uppercase tracking-wider">

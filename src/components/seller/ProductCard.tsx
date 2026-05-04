@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { ImageIcon, MessageCircle, CheckCircle2 } from "lucide-react";
+import { MessageCircle, CheckCircle2 } from "lucide-react";
 import { type CatalogProduct, formatPrice } from "@/lib/sellerDataExtractor";
 
 interface Props {
@@ -8,6 +8,7 @@ interface Props {
   onOpen: () => void;
   enquireHref: string;
   hideImageSection?: boolean;
+  onImageUnavailable?: (productId: string) => void;
 }
 
 export default function ProductCard({
@@ -15,10 +16,12 @@ export default function ProductCard({
   onOpen,
   enquireHref,
   hideImageSection = false,
+  onImageUnavailable,
 }: Props) {
   const [imgLoaded, setImgLoaded] = useState(false);
   const [imgError, setImgError] = useState(false);
   const sourceTiles = product.sourceTiles.slice(0, 6);
+  const showImageSection = Boolean(product.primaryPhoto) && !imgError;
 
   return (
     <motion.article
@@ -30,30 +33,20 @@ export default function ProductCard({
       onClick={onOpen}
       className="group cursor-pointer rounded-2xl bg-card border border-border overflow-hidden shadow-sm hover:shadow-xl hover:border-primary/30 transition-all duration-300 flex flex-col h-full"
     >
-      {!hideImageSection && (
+      {showImageSection && !hideImageSection && (
         <div className="relative aspect-[4/3] overflow-hidden bg-muted/40">
-          {product.primaryPhoto && !imgError ? (
-            <>
-              {!imgLoaded && <div className="absolute inset-0 shimmer" />}
-              <img
-                src={product.primaryPhoto}
-                alt={product.name}
-                loading="lazy"
-                onLoad={() => setImgLoaded(true)}
-                onError={() => setImgError(true)}
-                className={`w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 ${imgLoaded ? "img-fade-in opacity-100" : "opacity-0"}`}
-              />
-            </>
-          ) : (
-            <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-muted-foreground px-4 text-center">
-              <div className="w-12 h-12 rounded-xl bg-muted border border-border flex items-center justify-center">
-                <ImageIcon className="w-6 h-6" />
-              </div>
-              <p className="text-xs font-medium text-foreground">
-                Image could not be loaded.
-              </p>
-            </div>
-          )}
+          {!imgLoaded && <div className="absolute inset-0 shimmer" />}
+          <img
+            src={product.primaryPhoto}
+            alt={product.name}
+            loading="lazy"
+            onLoad={() => setImgLoaded(true)}
+            onError={() => {
+              setImgError(true);
+              onImageUnavailable?.(product.id);
+            }}
+            className={`w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 ${imgLoaded ? "img-fade-in opacity-100" : "opacity-0"}`}
+          />
 
           <div className="absolute top-3 left-3 right-3 z-10 flex flex-wrap items-start justify-between gap-2 pointer-events-none">
             {product.inStock && (
@@ -93,19 +86,23 @@ export default function ProductCard({
 
       {/* Content */}
       <div className="p-5 flex flex-col flex-1 gap-3">
-        {hideImageSection && (
-          <div className="flex items-center justify-between gap-2">
-            <span className="rounded-full border border-border bg-muted px-2.5 py-1 text-[11px] font-semibold text-foreground">
-              {product.category}
-            </span>
-            <span className="rounded-full border border-dashed border-border px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-muted-foreground">
-              No image Available
-            </span>
-          </div>
-        )}
         <h3 className="font-bold text-foreground leading-snug line-clamp-2 min-h-[2.6em]">
           {product.name}
         </h3>
+
+        {hideImageSection && (product.source || sourceTiles.length > 0) && (
+          <div className="flex flex-wrap gap-1.5">
+            {sourceTiles.map((tile) => (
+              <span
+                key={`${product.id}-${tile.key}`}
+                className="inline-flex items-center rounded-full border border-border bg-muted px-2.5 py-1 text-[10px] font-semibold uppercase tracking-wider text-foreground"
+                title={tile.label}
+              >
+                {tile.label}
+              </span>
+            ))}
+          </div>
+        )}
 
         {product.description && (
           <p className="text-xs text-muted-foreground leading-relaxed line-clamp-2">
