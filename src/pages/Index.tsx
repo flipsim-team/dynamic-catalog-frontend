@@ -16,14 +16,11 @@ import SplashScreen from "@/components/seller/SplashScreen";
 import ScrollToTopButton from "@/components/seller/ScrollToTopButton";
 import CursorFollower from "@/components/seller/CursorFollower";
 import SplashCursor from "@/components/seller/SplashCursor";
-import {
-  extractSellerData,
-  extractSellerDataFromRaw,
-} from "@/lib/sellerDataExtractor";
+import { extractSellerDataFromRaw } from "@/lib/sellerDataExtractor";
 import { loadSellerRawDataByGlid } from "@/lib/sellerDataLoader";
 
 const Index = () => {
-  const { glid } = useParams();
+  const { glid: sellerId } = useParams();
   const [rawSellerData, setRawSellerData] = useState<unknown | null>(null);
   const [isLoadingSellerData, setIsLoadingSellerData] = useState(false);
   const [hasDataLoadError, setHasDataLoadError] = useState(false);
@@ -33,13 +30,13 @@ const Index = () => {
       return extractSellerDataFromRaw(rawSellerData);
     }
 
-    return glid ? null : extractSellerData();
-  }, [glid, rawSellerData]);
+    return null;
+  }, [rawSellerData]);
 
   useEffect(() => {
     let active = true;
 
-    if (!glid) {
+    if (!sellerId) {
       setRawSellerData(null);
       setHasDataLoadError(false);
       setIsLoadingSellerData(false);
@@ -52,7 +49,7 @@ const Index = () => {
     setHasDataLoadError(false);
     setRawSellerData(null);
 
-    loadSellerRawDataByGlid(glid)
+    loadSellerRawDataByGlid(sellerId)
       .then((loadedData) => {
         if (!active) return;
         if (!loadedData) {
@@ -75,7 +72,7 @@ const Index = () => {
     return () => {
       active = false;
     };
-  }, [glid]);
+  }, [sellerId]);
 
   useEffect(() => {
     if (!data) return;
@@ -149,7 +146,7 @@ const Index = () => {
         <div>
           <h1 className="text-2xl font-semibold">Seller not found</h1>
           <p className="mt-2 text-muted-foreground">
-            No catalog data found for this GLID.
+            No catalog data found for this seller ID.
           </p>
           <Link
             to="/"
