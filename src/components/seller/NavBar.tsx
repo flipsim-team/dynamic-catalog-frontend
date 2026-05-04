@@ -27,7 +27,7 @@ export default function NavBar({ data }: { data: SellerData }) {
     .join("")
     .slice(0, 2)
     .toUpperCase();
-  const showAvatar = Boolean(data.avatarUrl) && !avatarFailed;
+  const showAvatar = Boolean(data.avatarUrl?.value) && !avatarFailed;
 
   // Build nav links dynamically based on which sections have data
   const navLinks = DEFAULT_NAV_LINKS.filter((link) => {
@@ -139,9 +139,9 @@ export default function NavBar({ data }: { data: SellerData }) {
             >
               {showAvatar ? (
                 <img
-                  src={data.avatarUrl}
+                  src={data.avatarUrl?.value}
                   alt={data.sellerName}
-                  className="h-full w-full object-cover"
+                  className="h-full w-full object-contain"
                   onError={() => setAvatarFailed(true)}
                 />
               ) : (

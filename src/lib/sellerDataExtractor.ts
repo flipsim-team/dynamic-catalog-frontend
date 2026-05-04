@@ -463,7 +463,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const fb = profilesByPlatform.facebook;
   const ig = profilesByPlatform.instagram;
   const bannerUrl = yt?.bannerUrl || fb?.bannerUrl || "";
-  const avatarUrl = ig?.profilePic || yt?.profilePic || fb?.profilePic || "";
+  const avatarUrl = data.company_profile?.logo_url || ig?.profilePic || yt?.profilePic || fb?.profilePic || "";
 
   // Tagline (used by hero/footer)
   const tagline = description || yt?.bio || ig?.bio || fb?.bio || "";

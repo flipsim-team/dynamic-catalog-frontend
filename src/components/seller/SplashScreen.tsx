@@ -45,7 +45,7 @@ export default function SplashScreen({
             <img
               src={avatarUrl}
               alt={sellerName}
-              className="relative z-10 h-full w-full object-cover"
+              className="relative z-10 h-full w-full object-contain"
               onError={() => setAvatarFailed(true)}
             />
           ) : (

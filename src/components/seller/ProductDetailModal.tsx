@@ -342,7 +342,7 @@ export default function ProductDetailModal({
                       {product.tags.map((t) => (
                         <span
                           key={t}
-                          className="text-[11px] rounded-full border border-border bg-card px-2.5 py-1 text-muted-foreground"
+                          className="text-[11px] rounded-full border border-border bg-card px-2.5 py-1 text-muted-foreground uppercase font-bold"
                         >
                           {t}
                         </span>
@@ -363,7 +363,7 @@ export default function ProductDetailModal({
                           href={source.url}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="inline-flex items-center gap-1.5 rounded-full border border-border bg-card px-3 py-1.5 text-[11px] font-semibold text-foreground hover:border-primary/40 hover:text-primary transition-colors"
+                          className="inline-flex items-center gap-1.5 rounded-full border border-border bg-card px-3 py-1.5 text-[11px] font-semibold text-foreground hover:border-primary/40 hover:text-primary transition-colors capitalize"
                           title={`Open ${source.label}`}
                         >
                           {sourceIcon(source.platform)} {source.label}{" "}

@@ -223,7 +223,7 @@ const Index = () => {
         {showSplash && (
           <SplashScreen
             sellerName={data.sellerName}
-            avatarUrl={data.avatarUrl}
+            avatarUrl={data.avatarUrl?.value}
             key="splash"
           />
         )}
