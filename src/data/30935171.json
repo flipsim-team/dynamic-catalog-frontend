@@ -1,0 +1,3405 @@
+{
+  "seller_id": 30935171,
+  "company_profile": {
+    "name": {
+      "value": "SteelPipesFactory - Metallica",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "SteelPipesFactory - Metallica is a leading pipes wholesaler based in Mumbai, specializing in a comprehensive range of stainless steel pipes. They are a trusted supplier of various types, including stainless steel seamless pipes, welded pipes, and large diameter pipes, catering to diverse industrial needs.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Mumbai",
+      "sources": [
+        "facebook",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "BIT Chawl No. 4, Near Sandhurst Road Railway Station, Dongri",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "400009",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://www.metallicametals.com",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Pipes wholesaler",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 4,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 5,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "6883551831831981345",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "bio": {
+      "value": "🔧 Leading Manufacturer of Steel Products | Providing high-quality solutions for diverse industrial applications. 🌍 Committed to precision, durability, and innovation. Explore our extensive range of products and discover how we can support your project!\n\nWith over 50 years of experience in the industry, SteelPipesFactory specialize in delivering durable and reliable solutions for a wide range of applications, including oil and gas, construction, and manufacturing.\n\nWe utilize advanced technology and rigorous quality control processes to ensure that every product meets the highest industry standards. From custom designs to standard sizes, we offer a comprehensive selection of pipes, tubes and pipe fittings to meet your specific needs.\n\nExplore our product range and discover how SteelPipesFactory can help you achieve your project goals. Connect with us for inquiries, collaborations, or to learn more about our services. Your success is our priority!",
+      "sources": [
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://www.metallicametals.com/assets/img/metallica-metals-india.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://yt3.googleusercontent.com/ifoG9crggXSpqn6-2X3v2W60KpIwfeZbWdyDjW8HEglIrCUcM5F5bldt9E6tD-KIiSUpYhNsE6Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "sources": [
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/steelpipesfactory/",
+      "sources": [
+        "facebook",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "https://www.instagram.com/steelpipesfactory",
+      "sources": [
+        "facebook",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "youtube": {
+      "value": "https://youtube.com/@SteelPipesFactory",
+      "sources": [
+        "facebook",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "linkedin": {
+      "value": "https://linkedin.com/in/steelpipesfactory",
+      "sources": [
+        "facebook",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "twitter": {
+      "value": "https://x.com/factoryofpipes",
+      "sources": [
+        "facebook",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "9167989294",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "9326896179",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "info@metallicametals.com",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/steelpipesfactory/",
+        "sources": [
+          "facebook",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.instagram.com/steelpipesfactory",
+        "sources": [
+          "facebook",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://youtube.com/@SteelPipesFactory",
+        "sources": [
+          "facebook",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://linkedin.com/in/steelpipesfactory",
+        "sources": [
+          "facebook",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://x.com/factoryofpipes",
+        "sources": [
+          "facebook",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "followers_facebook": 1001,
+    "followers_instagram": 67,
+    "posts_count_instagram": 182,
+    "following_count_instagram": 86,
+    "followers_youtube": 10,
+    "confidence": 0.95,
+    "sources": [
+      "google",
+      "facebook",
+      "instagram",
+      "youtube"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 1001
+      },
+      {
+        "platform": "instagram",
+        "followers": 67
+      },
+      {
+        "platform": "youtube",
+        "followers": 10
+      }
+    ],
+    "data_sources": [
+      "website"
+    ]
+  },
+  "products": [
+    {
+      "raw_name": "Pipes",
+      "clean_name": "Pipes",
+      "fingerprint": "7e84ce6f585c",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Piping & Plumbing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Industrial Pipe",
+      "buyer_persona": "A procurement manager or contractor sourcing pipes for construction, plumbing, or industrial fluid transfer systems.",
+      "description": "Pipes is a industrial pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or contractor sourcing pipes for construction, plumbing, or industrial fluid transfer systems.",
+      "seo_title": "Pipes Industrial Pipe | Catalog Listing",
+      "tags": [
+        "Pipes",
+        "Construction & Infrastructure",
+        "Piping & Plumbing Systems",
+        "Pipe",
+        "Industrial Pipe"
+      ],
+      "alt_text": "Pipes from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/pipe.webp",
+        "source_url": "https://www.metallicametals.com/stainless-steel-pipe-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Industrial Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/pipe.webp",
+        "source_url": "https://www.metallicametals.com/stainless-steel-pipe-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/pipe.webp",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/pipe.webp"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name is very generic, classification relies heavily on business type."
+      ],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Pipe",
+      "clean_name": "Stainless Steel Pipe",
+      "fingerprint": "c12f59da863e",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel Pipe",
+      "buyer_persona": "A procurement manager or contractor sourcing corrosion-resistant piping for industrial, construction, or plumbing applications, prioritizing material grade, dimensions, and applicable standards.",
+      "description": "Stainless Steel Pipe is a stainless steel pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or contractor sourcing corrosion-resistant piping for industrial, construction, or plumbing applications, prioritizing material grade, dimensions, and applicable standards.",
+      "seo_title": "Stainless Steel Pipe Stainless Steel Pipe | Catalog Listing",
+      "tags": [
+        "Stainless Steel Pipe",
+        "Industrial Equipment",
+        "Piping & Tubing Systems",
+        "Pipe"
+      ],
+      "alt_text": "Stainless Steel Pipe from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-pipe-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-pipe-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Welded Pipe",
+      "clean_name": "Stainless Steel Welded Pipe",
+      "fingerprint": "872734055516",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metal & Pipe Manufacturing",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel Welded Pipe",
+      "buyer_persona": "A procurement manager or engineer sourcing piping for industrial fluid conveyance, construction projects, or chemical processing, prioritizing corrosion resistance and specific dimensions.",
+      "description": "Stainless Steel Welded Pipe is a stainless steel welded pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer sourcing piping for industrial fluid conveyance, construction projects, or chemical processing, prioritizing corrosion resistance and specific dimensions.",
+      "seo_title": "Stainless Steel Welded Pipe Stainless Steel Welded Pipe | Catalog List",
+      "tags": [
+        "Stainless Steel Welded Pipe",
+        "Industrial Equipment",
+        "Metal & Pipe Manufacturing",
+        "Pipe"
+      ],
+      "alt_text": "Stainless Steel Welded Pipe from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-welded-pipe-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel Welded Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-welded-pipe-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-welded-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Large Diameter Pipe",
+      "clean_name": "Stainless Steel Large Diameter Pipe",
+      "fingerprint": "37f63b91587a",
+      "top_level_domain": "Metals & Material",
+      "industry_segment": "Industrial Piping & Tubing",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel Large Diameter Pipe",
+      "buyer_persona": "A procurement manager or engineer sourcing pipes for industrial projects, construction, infrastructure development, or fluid conveyance systems.",
+      "description": "Stainless Steel Large Diameter Pipe is a stainless steel large diameter pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer sourcing pipes for industrial projects, construction, infrastructure development, or fluid conveyance systems.",
+      "seo_title": "Stainless Steel Large Diameter Pipe Stainless Steel Large Diameter Pip",
+      "tags": [
+        "Stainless Steel Large Diameter Pipe",
+        "Metals & Materials",
+        "Industrial Piping & Tubing",
+        "Pipe"
+      ],
+      "alt_text": "Stainless Steel Large Diameter Pipe from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-large-diameter-pipe-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel Large Diameter Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-large-diameter-pipe-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-large-diameter-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Carbon Steel Seamless Tube",
+      "clean_name": "Carbon Steel Seamless Tube",
+      "fingerprint": "073cc310c062",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Pipes & Tube",
+      "product_category": "Steel Tube",
+      "product_sub_type": "Carbon Steel Seamless Tube",
+      "buyer_persona": "A procurement manager or engineer sourcing raw materials for industrial piping systems, construction, or manufacturing.",
+      "description": "Carbon Steel Seamless Tube is a carbon steel seamless tube offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer sourcing raw materials for industrial piping systems, construction, or manufacturing.",
+      "seo_title": "Carbon Steel Seamless Tube Carbon Steel Seamless Tube | Catalog Listin",
+      "tags": [
+        "Carbon Steel Seamless Tube",
+        "Industrial Equipment",
+        "Pipes & Tubes",
+        "Steel Tube"
+      ],
+      "alt_text": "Carbon Steel Seamless Tube from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/carbon-steel-seamless-tube-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Steel Tube",
+        "sub_type": "Carbon Steel Seamless Tube",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/carbon-steel-seamless-tube-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/carbon-steel-seamless-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Tube",
+      "clean_name": "Stainless Steel Tube",
+      "fingerprint": "4a12e5b2c764",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Pipes, Tubes & Fitting",
+      "product_category": "Tube",
+      "product_sub_type": "Stainless Steel Tube",
+      "buyer_persona": "A procurement manager or engineer in the construction, manufacturing, or process industry, seeking tubing for structural, fluid conveyance, or heat exchange applications.",
+      "description": "Stainless Steel Tube is a stainless steel tube offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in the construction, manufacturing, or process industry, seeking tubing for structural, fluid conveyance, or heat exchange applications.",
+      "seo_title": "Stainless Steel Tube Stainless Steel Tube | Catalog Listing",
+      "tags": [
+        "Stainless Steel Tube",
+        "Construction & Infrastructure",
+        "Pipes, Tubes & Fittings",
+        "Tube"
+      ],
+      "alt_text": "Stainless Steel Tube from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-tube-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Tube",
+        "sub_type": "Stainless Steel Tube",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-tube-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Heat Exchanger Tube",
+      "clean_name": "Stainless Steel Heat Exchanger Tube",
+      "fingerprint": "3b474c45b472",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Heat Transfer & Hvac",
+      "product_category": "Heat Exchanger Tube",
+      "product_sub_type": "Stainless Steel Heat Exchanger Tube",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, chemical, oil & gas, or HVAC industries looking to purchase components for heat exchange systems.",
+      "description": "Stainless Steel Heat Exchanger Tube is a stainless steel heat exchanger tube offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in manufacturing, chemical, oil & gas, or HVAC industries looking to purchase components for heat exchange systems.",
+      "seo_title": "Stainless Steel Heat Exchanger Tube Stainless Steel Heat Exchanger Tub",
+      "tags": [
+        "Stainless Steel Heat Exchanger Tube",
+        "Industrial Equipment",
+        "Heat Transfer & HVAC",
+        "Heat Exchanger Tube"
+      ],
+      "alt_text": "Stainless Steel Heat Exchanger Tube from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-heat-exchanger-tube-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Heat Exchanger Tube",
+        "sub_type": "Stainless Steel Heat Exchanger Tube",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-heat-exchanger-tube-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-heat-exchanger-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel U Bend Pipe & Tubes",
+      "clean_name": "Stainless Steel U Bend Pipe & Tubes",
+      "fingerprint": "f492ca94c611",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel U Bend Pipe",
+      "buyer_persona": "A procurement manager or engineer sourcing components for industrial piping systems, heat exchangers, or structural applications requiring corrosion-resistant U-bend pipes and tubes.",
+      "description": "Stainless Steel U Bend Pipe & Tubes is a stainless steel u bend pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer sourcing components for industrial piping systems, heat exchangers, or structural applications requiring corrosion-resistant U-bend pipes and tubes.",
+      "seo_title": "Stainless Steel U Bend Pipe & Tubes Stainless Steel U Bend Pipe | Cata",
+      "tags": [
+        "Stainless Steel U Bend Pipe & Tubes",
+        "Industrial Equipment",
+        "Piping & Tubing Systems",
+        "Pipe",
+        "Stainless Steel U Bend Pipe"
+      ],
+      "alt_text": "Stainless Steel U Bend Pipe & Tubes from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-u-bend-tube-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel U Bend Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-u-bend-tube-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-u-bend-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Boiler Tube",
+      "clean_name": "Stainless Steel Boiler Tube",
+      "fingerprint": "5b8648a0067b",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Boilers & Heat Exchanger",
+      "product_category": "Boiler Tube",
+      "product_sub_type": "Stainless Steel Boiler Tube",
+      "buyer_persona": "A procurement manager or engineer in power generation, chemical processing, or manufacturing industries, sourcing components for boiler repair, maintenance, or new construction, requiring specific material and dimensional properties.",
+      "description": "Stainless Steel Boiler Tube is a stainless steel boiler tube offered by SteelPipesFactory - Metallica based in Mumbai.",
+      "seo_title": "Stainless Steel Boiler Tube Stainless Steel Boiler Tube | Catalog List",
+      "tags": [
+        "Stainless Steel Boiler Tube",
+        "Industrial Equipment",
+        "Boilers & Heat Exchangers",
+        "Boiler Tube"
+      ],
+      "alt_text": "Stainless Steel Boiler Tube from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-boiler-tube-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Boiler Tube",
+        "sub_type": "Stainless Steel Boiler Tube",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-boiler-tube-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-boiler-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel High Temperature Pipe / Tube",
+      "clean_name": "Stainless Steel High Temperature Pipe/Tube",
+      "fingerprint": "fc79c3d21a54",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel High Temperature Pipe",
+      "buyer_persona": "A procurement manager or engineer in industrial sectors (e.g., chemical, oil & gas, power generation) seeking durable, corrosion-resistant piping for high-temperature fluid or gas conveyance systems.",
+      "description": "Our Stainless Steel High Temperature Pipes/Tubes are engineered for demanding industrial applications requiring exceptional heat resistance and structural integrity. Available in various material grades and dimensions, these pipes are offered at competitive prices with options for bulk orders. Ideal for chemical processing, oil & gas, and power generation sectors, they ensure reliable fluid and gas conveyance in extreme thermal environments. Manufactured by Metallica, these pipes meet stringent quality standards for durability and performance.",
+      "seo_title": "SS High Temperature Pipes/Tubes — Corrosion Resistant | Buy Online",
+      "tags": [
+        "stainless steel pipe",
+        "high temperature tube",
+        "industrial piping",
+        "heat resistant pipe",
+        "SS304 pipe",
+        "SS316 pipe",
+        "furnace tube",
+        "chemical industry pipe",
+        "oil & gas piping",
+        "power plant pipe",
+        "seamless pipe",
+        "welded tube"
+      ],
+      "alt_text": "Stainless Steel High Temperature Pipe/Tube for industrial applications from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-high-temperature-pipe-supplier-stockist.html",
+        "Material": "Stainless Steel",
+        "Type": "Pipe/Tube",
+        "Feature": "High Temperature"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel High Temperature Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-high-temperature-pipe-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Material": "Stainless Steel",
+        "Type": "Pipe/Tube",
+        "Feature": "High Temperature"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-high-temperature-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel High Pressure Pipe Tubes",
+      "clean_name": "Stainless Steel High Pressure Pipe Tubes",
+      "fingerprint": "4734e56f531c",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Conveyance & Piping System",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel High Pressure Pipe",
+      "buyer_persona": "A procurement manager or engineer in industries like chemical processing, oil & gas, power generation, or water treatment, seeking durable pipes for high-pressure fluid transfer.",
+      "description": "These Stainless Steel High Pressure Pipe Tubes are designed to withstand extreme internal pressures, making them essential for critical industrial fluid transfer systems. We offer a range of sizes and material grades, with pricing available upon request for custom specifications and bulk purchases. Perfect for chemical, petrochemical, and hydraulic applications, these pipes ensure safe and efficient operation under high-stress conditions. SteelPipesFactory - Metallica guarantees superior strength and leak-proof performance for your demanding projects.",
+      "seo_title": "SS High Pressure Pipe Tubes — Durable & Leak-Proof | Buy Online",
+      "tags": [
+        "stainless steel pipe",
+        "high pressure tube",
+        "industrial pipe",
+        "pressure piping",
+        "SS304L pipe",
+        "SS316L pipe",
+        "hydraulic tubing",
+        "chemical processing pipe",
+        "oil & gas pipe",
+        "seamless high pressure",
+        "welded high pressure",
+        "fluid transfer"
+      ],
+      "alt_text": "Stainless Steel High Pressure Pipe Tubes for industrial fluid transfer from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-high-pressure-pipe-supplier-stockist.html",
+        "Material": "Stainless Steel",
+        "Type": "Pipe/Tube",
+        "Feature": "High Pressure"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel High Pressure Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-high-pressure-pipe-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Material": "Stainless Steel",
+        "Type": "Pipe/Tube",
+        "Feature": "High Pressure"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-high-pressure-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Seamless Tube",
+      "clean_name": "Stainless Steel Seamless Tube",
+      "fingerprint": "75f71a57b83c",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing System",
+      "product_category": "Tube",
+      "product_sub_type": "Stainless Steel Seamless Tube",
+      "buyer_persona": "A procurement manager or engineer sourcing piping components for industrial fluid transfer systems, construction, or structural applications.",
+      "description": "Our Stainless Steel Seamless Tubes are manufactured without a weld seam, offering superior strength, uniform wall thickness, and enhanced corrosion resistance for critical applications. These tubes are available in various grades and dimensions, with competitive pricing for both standard and custom orders. They are widely used in industries such as oil & gas, chemical processing, and automotive for fluid conveyance and structural support. Metallica's seamless tubes provide unmatched reliability and longevity, ensuring optimal performance in demanding environments.",
+      "seo_title": "SS Seamless Tubes — High Strength & Corrosion Resistant | Buy Online",
+      "tags": [
+        "stainless steel tube",
+        "seamless pipe",
+        "SS304 seamless",
+        "SS316 seamless",
+        "industrial tubing",
+        "fluid conveyance",
+        "structural tube",
+        "corrosion resistant",
+        "high strength tube",
+        "precision tubing",
+        "metallica tubes",
+        "seamless stainless"
+      ],
+      "alt_text": "Stainless Steel Seamless Tube for critical industrial applications from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-seamless-tube-supplier-stockist.html",
+        "Material": "Stainless Steel",
+        "Type": "Tube",
+        "Feature": "Seamless"
+      },
+      "specifications": {
+        "category": "Tube",
+        "sub_type": "Stainless Steel Seamless Tube",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-seamless-tube-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Material": "Stainless Steel",
+        "Type": "Tube",
+        "Feature": "Seamless"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-seamless-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Electropolished or High Purity Tubes",
+      "clean_name": "Stainless Steel Electropolished or High Purity Tubes",
+      "fingerprint": "dae091772b90",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Piping",
+      "product_category": "Tube",
+      "product_sub_type": "Stainless Steel High Purity Tube",
+      "buyer_persona": "A procurement manager or engineer in industries like pharmaceuticals, biotechnology, food & beverage, or semiconductor manufacturing, seeking specialized tubing for critical process applications requiring high cleanliness and corrosion resistance.",
+      "description": "These Stainless Steel Electropolished or High Purity Tubes are specifically processed to achieve an ultra-smooth, passive surface, crucial for applications demanding extreme cleanliness and corrosion resistance. Available in various grades and precise dimensions, pricing is tailored to specific purity requirements and order volumes. They are indispensable for pharmaceutical, biotechnology, semiconductor, and food & beverage industries where contamination control is paramount. SteelPipesFactory - Metallica delivers tubes that meet the highest standards for surface finish and material integrity.",
+      "seo_title": "SS High Purity Tubes — Electropolished & Ultra-Clean | Buy Online",
+      "tags": [
+        "stainless steel tube",
+        "electropolished tube",
+        "high purity tubing",
+        "pharmaceutical tubing",
+        "biotech tubing",
+        "semiconductor pipe",
+        "food grade tube",
+        "ultra-clean pipe",
+        "corrosion resistant",
+        "SS316L EP tube",
+        "precision tube",
+        "surface finish"
+      ],
+      "alt_text": "Stainless Steel Electropolished or High Purity Tubes for critical industries from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-electropolish-tube-supplier-stockist.html",
+        "Material": "Stainless Steel",
+        "Type": "Tube",
+        "Feature": "Electropolished, High Purity"
+      },
+      "specifications": {
+        "category": "Tube",
+        "sub_type": "Stainless Steel High Purity Tube",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-electropolish-tube-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Material": "Stainless Steel",
+        "Type": "Tube",
+        "Feature": "Electropolished, High Purity"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-electropolish-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Furnace Tube",
+      "clean_name": "Stainless Steel Furnace Tube",
+      "fingerprint": "b145797c9a03",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Heat Exchanger & Furnace Component",
+      "product_category": "Furnace Tube",
+      "product_sub_type": "Stainless Steel Furnace Tube",
+      "buyer_persona": "A procurement manager or engineer in a heavy industry (e.g., petrochemical, power generation, metallurgy) looking for high-temperature resistant tubing for furnace construction or repair.",
+      "description": "Our Stainless Steel Furnace Tubes are engineered for extreme high-temperature environments, offering exceptional resistance to heat, oxidation, and creep deformation. Available in specialized heat-resistant grades and custom dimensions, these tubes are priced competitively for industrial bulk procurement. They are vital components in petrochemical refineries, power plants, and metallurgical furnaces, ensuring efficient heat transfer and prolonged operational life. Metallica's furnace tubes are built for reliability and endurance in the most severe thermal conditions.",
+      "seo_title": "SS Furnace Tubes — High Temperature & Oxidation Resistant | Buy Online",
+      "tags": [
+        "stainless steel tube",
+        "furnace tube",
+        "high temperature tube",
+        "heat exchanger tube",
+        "petrochemical pipe",
+        "power plant tube",
+        "SS310S tube",
+        "heat resistant alloy",
+        "industrial furnace",
+        "oxidation resistant",
+        "creep resistant",
+        "metallica furnace"
+      ],
+      "alt_text": "Stainless Steel Furnace Tube for high-temperature industrial applications from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-furnace-tube-supplier-stockist.html",
+        "Material": "Stainless Steel",
+        "Type": "Tube",
+        "Application": "Furnace"
+      },
+      "specifications": {
+        "category": "Furnace Tube",
+        "sub_type": "Stainless Steel Furnace Tube",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-furnace-tube-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Material": "Stainless Steel",
+        "Type": "Tube",
+        "Application": "Furnace"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-furnace-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Stainless Steel Welded Tube",
+      "clean_name": "Stainless Steel Welded Tube",
+      "fingerprint": "9150175a467f",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing",
+      "product_category": "Tube",
+      "product_sub_type": "Stainless Steel Welded Tube",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, construction, or process industries seeking stainless steel tubes for fluid transfer, structural applications, or fabrication.",
+      "description": "Stainless Steel Welded Tube is a stainless steel welded tube offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in manufacturing, construction, or process industries seeking stainless steel tubes for fluid transfer, structural applications, or fabrication.",
+      "seo_title": "Stainless Steel Welded Tube Stainless Steel Welded Tube | Catalog List",
+      "tags": [
+        "Stainless Steel Welded Tube",
+        "Industrial Equipment",
+        "Piping & Tubing",
+        "Tube"
+      ],
+      "alt_text": "Stainless Steel Welded Tube from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-welded-tube-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Tube",
+        "sub_type": "Stainless Steel Welded Tube",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/stainless-steel-welded-tube-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-welded-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Duplex Steel Pipe",
+      "clean_name": "Duplex Steel Pipe",
+      "fingerprint": "b66f9aa2a4ab",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Components & Supply",
+      "product_category": "Pipe",
+      "product_sub_type": "Duplex Steel Pipe",
+      "buyer_persona": "A procurement manager or engineer in industries like chemical processing, oil & gas, or marine engineering, seeking corrosion-resistant and high-strength piping for fluid transfer systems.",
+      "description": "Duplex Steel Pipe is a duplex steel pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in industries like chemical processing, oil & gas, or marine engineering, seeking corrosion-resistant and high-strength piping for fluid transfer systems.",
+      "seo_title": "Duplex Steel Pipe Duplex Steel Pipe | Catalog Listing",
+      "tags": [
+        "Duplex Steel Pipe",
+        "Industrial Equipment",
+        "Industrial Components & Supplies",
+        "Pipe"
+      ],
+      "alt_text": "Duplex Steel Pipe from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/duplex-steel-pipe-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Duplex Steel Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/duplex-steel-pipe-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/duplex-steel-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Duplex Steel Seamless Pipe",
+      "clean_name": "Duplex Steel Seamless Pipe",
+      "fingerprint": "6e041b1f5403",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Piping & Fitting",
+      "product_category": "Pipe",
+      "product_sub_type": "Duplex Steel Seamless Pipe",
+      "buyer_persona": "A procurement manager or engineer in industries like oil & gas, chemical processing, or water treatment, seeking high-strength, corrosion-resistant piping for critical applications.",
+      "description": "Duplex Steel Seamless Pipe is a duplex steel seamless pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in industries like oil & gas, chemical processing, or water treatment, seeking high-strength, corrosion-resistant piping for critical applications.",
+      "seo_title": "Duplex Steel Seamless Pipe Duplex Steel Seamless Pipe | Catalog Listin",
+      "tags": [
+        "Duplex Steel Seamless Pipe",
+        "Industrial Equipment",
+        "Industrial Piping & Fittings",
+        "Pipe"
+      ],
+      "alt_text": "Duplex Steel Seamless Pipe from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/duplex-steel-seamless-pipe-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Duplex Steel Seamless Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/duplex-steel-seamless-pipe-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/duplex-steel-seamless-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Duplex Steel Welded Pipe",
+      "clean_name": "Duplex Steel Welded Pipe",
+      "fingerprint": "9f3af87c5b27",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Piping System",
+      "product_category": "Pipe",
+      "product_sub_type": "Duplex Steel Welded Pipe",
+      "buyer_persona": "Procurement managers or engineers in industries such as chemical processing, oil & gas, or marine, who require corrosion-resistant piping for fluid conveyance.",
+      "description": "Duplex Steel Welded Pipe is a duplex steel welded pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: Procurement managers or engineers in industries such as chemical processing, oil & gas, or marine, who require corrosion-resistant piping for fluid conveyance.",
+      "seo_title": "Duplex Steel Welded Pipe Duplex Steel Welded Pipe | Catalog Listing",
+      "tags": [
+        "Duplex Steel Welded Pipe",
+        "Industrial Equipment",
+        "Fluid Handling & Piping Systems",
+        "Pipe"
+      ],
+      "alt_text": "Duplex Steel Welded Pipe from SteelPipesFactory - Metallica",
+      "domain_attributes": {
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/duplex-steel-welded-pipe-supplier-stockist.html"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Duplex Steel Welded Pipe",
+        "image_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+        "source_url": "https://www.metallicametals.com/duplex-steel-welded-pipe-supplier-stockist.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/duplex-steel-welded-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "7e84ce6f585c",
+      "product_name": "Pipes",
+      "url": "https://www.metallicametals.com/assets/img/pipe.webp",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Pipe",
+        "shape_visible": "Cylindrical",
+        "color_appearance": "Silver-toned metallic",
+        "clarity_appearance": null,
+        "size_impression": "Medium to large length, moderate diameter",
+        "setting_or_mounting": null,
+        "metal_visible": "Silver-colored metal",
+        "certification_label_visible": false,
+        "presentation": "White background studio",
+        "additional_visual_notes": "Smooth, reflective surface; hollow ends visible"
+      },
+      "visual_description": "The image displays a single, long, cylindrical pipe made of a silver-toned metallic material. The pipe has a smooth, reflective surface, showing subtle highlights and shadows that indicate its polished finish. Both ends of the pipe are visible and appear hollow, presented against a plain white background.",
+      "media_alt_text": "A single, long, silver-toned metallic pipe with a smooth, reflective surface, shown diagonally against a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:21.560Z"
+    },
+    {
+      "fingerprint": "c12f59da863e",
+      "product_name": "Stainless Steel Pipe",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "company_logo",
+      "media_confidence": 0.2,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": "irregular badge shape, checkmark",
+        "color_appearance": "dark blue, white",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": true,
+        "presentation": "digital graphic / icon on white background",
+        "additional_visual_notes": "This is a digital icon, not a physical product. It appears to be a verification or certification badge."
+      },
+      "visual_description": "The image displays a dark blue, almost navy, badge or icon with a prominent white checkmark in the center. The badge has a slightly irregular, blurred outline, suggesting a digital graphic. The background is plain white.",
+      "media_alt_text": "Dark blue verification badge icon with a white checkmark in the center.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:23.874Z"
+    },
+    {
+      "fingerprint": "872734055516",
+      "product_name": "Stainless Steel Welded Pipe",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": "irregular badge shape, checkmark",
+        "color_appearance": "dark blue, white, faint purple/pink",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "digital icon",
+        "additional_visual_notes": "low resolution, pixelated image"
+      },
+      "visual_description": "The image displays a small, pixelated icon featuring a dark blue, somewhat irregular badge with a prominent white checkmark in its center. The badge appears to have a slightly star-like or octagonal outline, with faint purple and pinkish hues visible around its edges, suggesting a glow or artifact from low resolution. The background is not visible, implying a transparent or plain digital canvas.",
+      "media_alt_text": "A small, pixelated dark blue badge icon with a white checkmark in the center, showing faint purple and pink edges.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:21.314Z"
+    },
+    {
+      "fingerprint": "37f63b91587a",
+      "product_name": "Stainless Steel Large Diameter Pipe",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.3,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "SteelPipesFactory - Metallica",
+      "used_vision": false,
+      "classified_at": "2026-05-04T08:37:26.412Z"
+    },
+    {
+      "fingerprint": "073cc310c062",
+      "product_name": "Carbon Steel Seamless Tube",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "digital icon",
+        "additional_visual_notes": "This is a generic checkmark icon, not a product image of jewelry or gemstones."
+      },
+      "visual_description": "The image displays a small, blurry icon featuring a white checkmark symbol centered within a dark blue, rounded square shape. The edges of the blue shape appear slightly blurred and have a subtle glow or halo effect, indicating a digital graphic or badge rather than a physical product.",
+      "media_alt_text": "A blurry blue icon with a white checkmark in the center.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:20.332Z"
+    },
+    {
+      "fingerprint": "4a12e5b2c764",
+      "product_name": "Stainless Steel Tube",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": null,
+        "additional_visual_notes": "This is a digital icon, not a physical product. It resembles a verified badge or checkmark symbol."
+      },
+      "visual_description": "The image displays a small, blurry digital icon featuring a white checkmark centered within a dark blue, slightly rounded square or badge shape. The background appears to be white with some faint, blurry purple and white light effects around the edges of the badge, suggesting a digital context rather than a physical product photo.",
+      "media_alt_text": "A dark blue badge icon with a white checkmark in the center, on a blurry white and purple background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:34.091Z"
+    },
+    {
+      "fingerprint": "3b474c45b472",
+      "product_name": "Stainless Steel Heat Exchanger Tube",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "digital graphic",
+        "additional_visual_notes": "This is a generic checkmark icon, not a product image of jewelry or gemstones."
+      },
+      "visual_description": "The image displays a small, blurry icon featuring a white checkmark centered within a dark blue, slightly rounded square or badge shape. The background appears to be white.",
+      "media_alt_text": "A dark blue icon with a white checkmark in the center.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:31.471Z"
+    },
+    {
+      "fingerprint": "f492ca94c611",
+      "product_name": "Stainless Steel U Bend Pipe & Tubes",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "icon",
+        "additional_visual_notes": "This is a generic checkmark icon, not a product image of jewelry or gemstones."
+      },
+      "visual_description": "A small, blurry icon depicting a white checkmark inside a dark blue, slightly rounded square or octagonal shape. The edges of the shape appear somewhat pixelated with faint purple and white highlights, suggesting a digital graphic rather than a physical object.",
+      "media_alt_text": "Blue icon with a white checkmark",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:32.421Z"
+    },
+    {
+      "fingerprint": "5b8648a0067b",
+      "product_name": "Stainless Steel Boiler Tube",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": true,
+        "presentation": "digital graphic / icon",
+        "additional_visual_notes": "Generic verification badge or checkmark icon, not a physical product."
+      },
+      "visual_description": "The image displays a small, low-resolution graphic of a white checkmark symbol centered within a dark blue, slightly rounded square or badge shape. The edges of the blue shape show some pixelation and a faint purple halo, suggesting a digital icon on a white background.",
+      "media_alt_text": "Blue badge with a white checkmark icon, indicating verification or completion.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:33.891Z"
+    },
+    {
+      "fingerprint": "fc79c3d21a54",
+      "product_name": "Stainless Steel High Temperature Pipe/Tube",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "icon on white background",
+        "additional_visual_notes": "This image is a generic checkmark icon and does not depict any jewelry, gemstone, or pipe product. Its low resolution makes details unclear."
+      },
+      "visual_description": "The image displays a small, low-resolution icon. It features a white checkmark centered within a dark blue, slightly rounded square or badge shape. The background is plain white, and the image quality is pixelated.",
+      "media_alt_text": "Dark blue badge icon with a white checkmark, indicating verification or completion.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:34.095Z"
+    },
+    {
+      "fingerprint": "4734e56f531c",
+      "product_name": "Stainless Steel High Pressure Pipe Tubes",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": "Rounded square badge, checkmark",
+        "color_appearance": "Dark blue, white",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "Digital graphic icon on a plain background",
+        "additional_visual_notes": "The image is low resolution and pixelated."
+      },
+      "visual_description": "A small, low-resolution graphic depicting a white checkmark symbol centered within a dark blue, slightly rounded square or badge shape. The icon is presented against a plain white background, showing pixelation due to its low resolution.",
+      "media_alt_text": "Dark blue badge with a white checkmark icon.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:43.185Z"
+    },
+    {
+      "fingerprint": "75f71a57b83c",
+      "product_name": "Stainless Steel Seamless Tube",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": "checkmark, irregular badge shape",
+        "color_appearance": "dark blue (badge), white (checkmark)",
+        "clarity_appearance": "blurry",
+        "size_impression": "very small (icon)",
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": true,
+        "presentation": "digital icon on white background",
+        "additional_visual_notes": "This image is a generic icon, not a product image of jewelry, gemstones, or a stainless steel tube. It resembles a verification or 'checked' status badge."
+      },
+      "visual_description": "The image displays a small, blurry icon featuring a white checkmark centered within a dark blue, slightly irregular badge shape. The badge appears to have a subtle, faint purple glow around its edges. The background is plain white.",
+      "media_alt_text": "Dark blue badge icon with a white checkmark, indicating verification or completion.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:40.641Z"
+    },
+    {
+      "fingerprint": "dae091772b90",
+      "product_name": "Stainless Steel Electropolished or High Purity Tubes",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "icon / graphic",
+        "additional_visual_notes": "Generic checkmark icon, not a product image of jewelry, gemstones, or industrial tubes."
+      },
+      "visual_description": "The image displays a dark blue, somewhat blurry badge or icon with a white checkmark in the center. The badge has a slightly irregular, possibly star-like or floral outline, and appears to have a subtle gradient or glow around its edges. It is a generic graphic, not a product image.",
+      "media_alt_text": "Dark blue badge icon with a white checkmark in the center, appearing slightly blurry.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:39.523Z"
+    },
+    {
+      "fingerprint": "b145797c9a03",
+      "product_name": "Stainless Steel Furnace Tube",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "icon",
+        "additional_visual_notes": "Generic verification badge icon."
+      },
+      "visual_description": "The image displays a dark blue, somewhat blurry, badge-like icon with a prominent white checkmark in its center. Faint, pixelated outlines in various colors, including pink and purple, are visible around the edges of the dark blue shape. The background is white.",
+      "media_alt_text": "Dark blue badge icon with a white checkmark in the center, surrounded by faint colorful pixels.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:41.383Z"
+    },
+    {
+      "fingerprint": "9150175a467f",
+      "product_name": "Stainless Steel Welded Tube",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "digital graphic",
+        "additional_visual_notes": "The image is a low-resolution graphic icon, not a photograph of a physical product or jewelry item."
+      },
+      "visual_description": "The image displays a small, blurry icon featuring a white checkmark symbol centered within a dark blue, rounded, star-like shape. The background is white, and the overall quality is low resolution, suggesting a digital graphic rather than a photograph of a physical product.",
+      "media_alt_text": "A blurry dark blue icon with a white checkmark symbol in the center.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:39.529Z"
+    },
+    {
+      "fingerprint": "b66f9aa2a4ab",
+      "product_name": "Duplex Steel Pipe",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": "badge / shield with checkmark",
+        "color_appearance": "dark blue and white",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "digital icon",
+        "additional_visual_notes": "blurry image quality, pixelated edges"
+      },
+      "visual_description": "The image displays a dark blue, somewhat blurry icon shaped like a badge or shield, containing a white checkmark in its center. The background appears to be white or transparent, with faint, colorful pixelation around the edges of the badge.",
+      "media_alt_text": "Dark blue badge icon with a white checkmark in the center, on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:48.775Z"
+    },
+    {
+      "fingerprint": "6e041b1f5403",
+      "product_name": "Duplex Steel Seamless Pipe",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "digital icon",
+        "additional_visual_notes": "This is a digital icon, likely representing a 'verified' or 'checked' status, not a physical product or jewelry item."
+      },
+      "visual_description": "The image displays a small, blurry digital icon featuring a white checkmark centered within a dark blue, slightly rounded square or badge shape. The edges of the badge appear somewhat pixelated with faint purple and white highlights, suggesting a graphic rather than a physical object. The overall quality is low resolution.",
+      "media_alt_text": "Dark blue badge icon with a white checkmark in the center, appearing blurry and pixelated.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:49.474Z"
+    },
+    {
+      "fingerprint": "9f3af87c5b27",
+      "product_name": "Duplex Steel Welded Pipe",
+      "url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "scene_type": "unknown",
+      "media_confidence": 0.85,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "icon",
+        "additional_visual_notes": "This image is a graphic icon, not a photograph of a physical product."
+      },
+      "visual_description": "A small, low-resolution icon featuring a white checkmark centered within a dark blue, slightly rounded square or badge shape. The edges of the badge appear somewhat blurred with faint purple and white highlights.",
+      "media_alt_text": "Blue badge icon with a white checkmark, indicating verification or approval.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:37:47.731Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "Pipes",
+      "fingerprint": "7e84ce6f585c",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Piping & Plumbing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Industrial Pipe",
+      "buyer_persona": "A procurement manager or contractor sourcing pipes for construction, plumbing, or industrial fluid transfer systems.",
+      "seo_title": "Pipes Industrial Pipe | Catalog Listing",
+      "tags": [
+        "Pipes",
+        "Construction & Infrastructure",
+        "Piping & Plumbing Systems",
+        "Pipe",
+        "Industrial Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/pipe.webp",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/pipe.webp"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name is very generic, classification relies heavily on business type."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "Pipes is a industrial pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or contractor sourcing pipes for construction, plumbing, or industrial fluid transfer systems. The image displays a single, long, cylindrical pipe made of a silver-toned metallic material. The pipe has a smooth, reflective surface, showing subtle highlights and shadows that indicate its polished finish. Both ends of the pipe are visible and appear hollow, presented against a plain white background.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Industrial Pipe",
+        "visual_shape": "Cylindrical",
+        "visual_color": "Silver-toned metallic",
+        "visual_size": "Medium to large length, moderate diameter",
+        "visual_metal": "Silver-colored metal",
+        "presentation": "White background studio",
+        "visual_product_type": "Pipe",
+        "visual_notes": "Smooth, reflective surface; hollow ends visible"
+      },
+      "alt_text": "A single, long, silver-toned metallic pipe with a smooth, reflective surface, shown diagonally against a white background.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/pipe.webp"
+    },
+    {
+      "clean_name": "Stainless Steel Pipe",
+      "fingerprint": "c12f59da863e",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel Pipe",
+      "buyer_persona": "A procurement manager or contractor sourcing corrosion-resistant piping for industrial, construction, or plumbing applications, prioritizing material grade, dimensions, and applicable standards.",
+      "seo_title": "Stainless Steel Pipe Stainless Steel Pipe | Catalog Listing",
+      "tags": [
+        "Stainless Steel Pipe",
+        "Industrial Equipment",
+        "Piping & Tubing Systems",
+        "Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Stainless Steel Pipe is a stainless steel pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or contractor sourcing corrosion-resistant piping for industrial, construction, or plumbing applications, prioritizing material grade, dimensions, and applicable standards. The image displays a dark blue, almost navy, badge or icon with a prominent white checkmark in the center. The badge has a slightly irregular, blurred outline, suggesting a digital graphic. The background is plain white.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel Pipe",
+        "visual_shape": "irregular badge shape, checkmark",
+        "visual_color": "dark blue, white",
+        "presentation": "digital graphic / icon on white background",
+        "visual_notes": "This is a digital icon, not a physical product. It appears to be a verification or certification badge.",
+        "certification_label_visible": true
+      },
+      "alt_text": "Dark blue verification badge icon with a white checkmark in the center.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel Welded Pipe",
+      "fingerprint": "872734055516",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metal & Pipe Manufacturing",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel Welded Pipe",
+      "buyer_persona": "A procurement manager or engineer sourcing piping for industrial fluid conveyance, construction projects, or chemical processing, prioritizing corrosion resistance and specific dimensions.",
+      "seo_title": "Stainless Steel Welded Pipe Stainless Steel Welded Pipe | Catalog List",
+      "tags": [
+        "Stainless Steel Welded Pipe",
+        "Industrial Equipment",
+        "Metal & Pipe Manufacturing",
+        "Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-welded-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Stainless Steel Welded Pipe is a stainless steel welded pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer sourcing piping for industrial fluid conveyance, construction projects, or chemical processing, prioritizing corrosion resistance and specific dimensions. The image displays a small, pixelated icon featuring a dark blue, somewhat irregular badge with a prominent white checkmark in its center. The badge appears to have a slightly star-like or octagonal outline, with faint purple and pinkish hues visible around its edges, suggesting a glow or artifact from low resolution. The background is not visible, implying a transparent or plain digital canvas.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel Welded Pipe",
+        "visual_shape": "irregular badge shape, checkmark",
+        "visual_color": "dark blue, white, faint purple/pink",
+        "presentation": "digital icon",
+        "visual_notes": "low resolution, pixelated image"
+      },
+      "alt_text": "A small, pixelated dark blue badge icon with a white checkmark in the center, showing faint purple and pink edges.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel Large Diameter Pipe",
+      "fingerprint": "37f63b91587a",
+      "top_level_domain": "Metals & Material",
+      "industry_segment": "Industrial Piping & Tubing",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel Large Diameter Pipe",
+      "buyer_persona": "A procurement manager or engineer sourcing pipes for industrial projects, construction, infrastructure development, or fluid conveyance systems.",
+      "seo_title": "Stainless Steel Large Diameter Pipe Stainless Steel Large Diameter Pip",
+      "tags": [
+        "Stainless Steel Large Diameter Pipe",
+        "Metals & Materials",
+        "Industrial Piping & Tubing",
+        "Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-large-diameter-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Stainless Steel Large Diameter Pipe is a stainless steel large diameter pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer sourcing pipes for industrial projects, construction, infrastructure development, or fluid conveyance systems.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel Large Diameter Pipe"
+      },
+      "alt_text": "SteelPipesFactory - Metallica",
+      "used_vision": false,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Carbon Steel Seamless Tube",
+      "fingerprint": "073cc310c062",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Pipes & Tube",
+      "product_category": "Steel Tube",
+      "product_sub_type": "Carbon Steel Seamless Tube",
+      "buyer_persona": "A procurement manager or engineer sourcing raw materials for industrial piping systems, construction, or manufacturing.",
+      "seo_title": "Carbon Steel Seamless Tube Carbon Steel Seamless Tube | Catalog Listin",
+      "tags": [
+        "Carbon Steel Seamless Tube",
+        "Industrial Equipment",
+        "Pipes & Tubes",
+        "Steel Tube"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/carbon-steel-seamless-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Carbon Steel Seamless Tube is a carbon steel seamless tube offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer sourcing raw materials for industrial piping systems, construction, or manufacturing. The image displays a small, blurry icon featuring a white checkmark symbol centered within a dark blue, rounded square shape. The edges of the blue shape appear slightly blurred and have a subtle glow or halo effect, indicating a digital graphic or badge rather than a physical product.",
+      "specifications": {
+        "category": "Steel Tube",
+        "sub_type": "Carbon Steel Seamless Tube",
+        "presentation": "digital icon",
+        "visual_notes": "This is a generic checkmark icon, not a product image of jewelry or gemstones."
+      },
+      "alt_text": "A blurry blue icon with a white checkmark in the center.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel Tube",
+      "fingerprint": "4a12e5b2c764",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Pipes, Tubes & Fitting",
+      "product_category": "Tube",
+      "product_sub_type": "Stainless Steel Tube",
+      "buyer_persona": "A procurement manager or engineer in the construction, manufacturing, or process industry, seeking tubing for structural, fluid conveyance, or heat exchange applications.",
+      "seo_title": "Stainless Steel Tube Stainless Steel Tube | Catalog Listing",
+      "tags": [
+        "Stainless Steel Tube",
+        "Construction & Infrastructure",
+        "Pipes, Tubes & Fittings",
+        "Tube"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Stainless Steel Tube is a stainless steel tube offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in the construction, manufacturing, or process industry, seeking tubing for structural, fluid conveyance, or heat exchange applications. The image displays a small, blurry digital icon featuring a white checkmark centered within a dark blue, slightly rounded square or badge shape. The background appears to be white with some faint, blurry purple and white light effects around the edges of the badge, suggesting a digital context rather than a physical product photo.",
+      "specifications": {
+        "category": "Tube",
+        "sub_type": "Stainless Steel Tube",
+        "visual_notes": "This is a digital icon, not a physical product. It resembles a verified badge or checkmark symbol."
+      },
+      "alt_text": "A dark blue badge icon with a white checkmark in the center, on a blurry white and purple background.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel Heat Exchanger Tube",
+      "fingerprint": "3b474c45b472",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Heat Transfer & Hvac",
+      "product_category": "Heat Exchanger Tube",
+      "product_sub_type": "Stainless Steel Heat Exchanger Tube",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, chemical, oil & gas, or HVAC industries looking to purchase components for heat exchange systems.",
+      "seo_title": "Stainless Steel Heat Exchanger Tube Stainless Steel Heat Exchanger Tub",
+      "tags": [
+        "Stainless Steel Heat Exchanger Tube",
+        "Industrial Equipment",
+        "Heat Transfer & HVAC",
+        "Heat Exchanger Tube"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-heat-exchanger-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Stainless Steel Heat Exchanger Tube is a stainless steel heat exchanger tube offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in manufacturing, chemical, oil & gas, or HVAC industries looking to purchase components for heat exchange systems. The image displays a small, blurry icon featuring a white checkmark centered within a dark blue, slightly rounded square or badge shape. The background appears to be white.",
+      "specifications": {
+        "category": "Heat Exchanger Tube",
+        "sub_type": "Stainless Steel Heat Exchanger Tube",
+        "presentation": "digital graphic",
+        "visual_notes": "This is a generic checkmark icon, not a product image of jewelry or gemstones."
+      },
+      "alt_text": "A dark blue icon with a white checkmark in the center.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel U Bend Pipe & Tubes",
+      "fingerprint": "f492ca94c611",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel U Bend Pipe",
+      "buyer_persona": "A procurement manager or engineer sourcing components for industrial piping systems, heat exchangers, or structural applications requiring corrosion-resistant U-bend pipes and tubes.",
+      "seo_title": "Stainless Steel U Bend Pipe & Tubes Stainless Steel U Bend Pipe | Cata",
+      "tags": [
+        "Stainless Steel U Bend Pipe & Tubes",
+        "Industrial Equipment",
+        "Piping & Tubing Systems",
+        "Pipe",
+        "Stainless Steel U Bend Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-u-bend-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Stainless Steel U Bend Pipe & Tubes is a stainless steel u bend pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer sourcing components for industrial piping systems, heat exchangers, or structural applications requiring corrosion-resistant U-bend pipes and tubes. A small, blurry icon depicting a white checkmark inside a dark blue, slightly rounded square or octagonal shape. The edges of the shape appear somewhat pixelated with faint purple and white highlights, suggesting a digital graphic rather than a physical object.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel U Bend Pipe",
+        "presentation": "icon",
+        "visual_notes": "This is a generic checkmark icon, not a product image of jewelry or gemstones."
+      },
+      "alt_text": "Blue icon with a white checkmark",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel Boiler Tube",
+      "fingerprint": "5b8648a0067b",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Boilers & Heat Exchanger",
+      "product_category": "Boiler Tube",
+      "product_sub_type": "Stainless Steel Boiler Tube",
+      "buyer_persona": "A procurement manager or engineer in power generation, chemical processing, or manufacturing industries, sourcing components for boiler repair, maintenance, or new construction, requiring specific material and dimensional properties.",
+      "seo_title": "Stainless Steel Boiler Tube Stainless Steel Boiler Tube | Catalog List",
+      "tags": [
+        "Stainless Steel Boiler Tube",
+        "Industrial Equipment",
+        "Boilers & Heat Exchangers",
+        "Boiler Tube"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-boiler-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Stainless Steel Boiler Tube is a stainless steel boiler tube offered by SteelPipesFactory - Metallica based in Mumbai. The image displays a small, low-resolution graphic of a white checkmark symbol centered within a dark blue, slightly rounded square or badge shape. The edges of the blue shape show some pixelation and a faint purple halo, suggesting a digital icon on a white background.",
+      "specifications": {
+        "category": "Boiler Tube",
+        "sub_type": "Stainless Steel Boiler Tube",
+        "presentation": "digital graphic / icon",
+        "visual_notes": "Generic verification badge or checkmark icon, not a physical product.",
+        "certification_label_visible": true
+      },
+      "alt_text": "Blue badge with a white checkmark icon, indicating verification or completion.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel High Temperature Pipe/Tube",
+      "fingerprint": "fc79c3d21a54",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing System",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel High Temperature Pipe",
+      "buyer_persona": "A procurement manager or engineer in industrial sectors (e.g., chemical, oil & gas, power generation) seeking durable, corrosion-resistant piping for high-temperature fluid or gas conveyance systems.",
+      "seo_title": "SS High Temperature Pipes/Tubes — Corrosion Resistant | Buy Online",
+      "tags": [
+        "stainless steel pipe",
+        "high temperature tube",
+        "industrial piping",
+        "heat resistant pipe",
+        "SS304 pipe",
+        "SS316 pipe",
+        "furnace tube",
+        "chemical industry pipe",
+        "oil & gas piping",
+        "power plant pipe",
+        "seamless pipe",
+        "welded tube"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-high-temperature-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "raw_name": "Stainless Steel High Temperature Pipe / Tube",
+      "description": "Our Stainless Steel High Temperature Pipes/Tubes are engineered for demanding industrial applications requiring exceptional heat resistance and structural integrity. Available in various material grades and dimensions, these pipes are offered at competitive prices with options for bulk orders. Ideal for chemical processing, oil & gas, and power generation sectors, they ensure reliable fluid and gas conveyance in extreme thermal environments. Manufactured by Metallica, these pipes meet stringent quality standards for durability and performance. The image displays a small, low-resolution icon. It features a white checkmark centered within a dark blue, slightly rounded square or badge shape. The background is plain white, and the image quality is pixelated.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel High Temperature Pipe",
+        "Material": "Stainless Steel",
+        "Type": "Pipe/Tube",
+        "Feature": "High Temperature",
+        "presentation": "icon on white background",
+        "visual_notes": "This image is a generic checkmark icon and does not depict any jewelry, gemstone, or pipe product. Its low resolution makes details unclear."
+      },
+      "alt_text": "Dark blue badge icon with a white checkmark, indicating verification or completion.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel High Pressure Pipe Tubes",
+      "fingerprint": "4734e56f531c",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Conveyance & Piping System",
+      "product_category": "Pipe",
+      "product_sub_type": "Stainless Steel High Pressure Pipe",
+      "buyer_persona": "A procurement manager or engineer in industries like chemical processing, oil & gas, power generation, or water treatment, seeking durable pipes for high-pressure fluid transfer.",
+      "seo_title": "SS High Pressure Pipe Tubes — Durable & Leak-Proof | Buy Online",
+      "tags": [
+        "stainless steel pipe",
+        "high pressure tube",
+        "industrial pipe",
+        "pressure piping",
+        "SS304L pipe",
+        "SS316L pipe",
+        "hydraulic tubing",
+        "chemical processing pipe",
+        "oil & gas pipe",
+        "seamless high pressure",
+        "welded high pressure",
+        "fluid transfer"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-high-pressure-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "These Stainless Steel High Pressure Pipe Tubes are designed to withstand extreme internal pressures, making them essential for critical industrial fluid transfer systems. We offer a range of sizes and material grades, with pricing available upon request for custom specifications and bulk purchases. Perfect for chemical, petrochemical, and hydraulic applications, these pipes ensure safe and efficient operation under high-stress conditions. SteelPipesFactory - Metallica guarantees superior strength and leak-proof performance for your demanding projects. A small, low-resolution graphic depicting a white checkmark symbol centered within a dark blue, slightly rounded square or badge shape. The icon is presented against a plain white background, showing pixelation due to its low resolution.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Stainless Steel High Pressure Pipe",
+        "Material": "Stainless Steel",
+        "Type": "Pipe/Tube",
+        "Feature": "High Pressure",
+        "visual_shape": "Rounded square badge, checkmark",
+        "visual_color": "Dark blue, white",
+        "presentation": "Digital graphic icon on a plain background",
+        "visual_notes": "The image is low resolution and pixelated."
+      },
+      "alt_text": "Dark blue badge with a white checkmark icon.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel Seamless Tube",
+      "fingerprint": "75f71a57b83c",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing System",
+      "product_category": "Tube",
+      "product_sub_type": "Stainless Steel Seamless Tube",
+      "buyer_persona": "A procurement manager or engineer sourcing piping components for industrial fluid transfer systems, construction, or structural applications.",
+      "seo_title": "SS Seamless Tubes — High Strength & Corrosion Resistant | Buy Online",
+      "tags": [
+        "stainless steel tube",
+        "seamless pipe",
+        "SS304 seamless",
+        "SS316 seamless",
+        "industrial tubing",
+        "fluid conveyance",
+        "structural tube",
+        "corrosion resistant",
+        "high strength tube",
+        "precision tubing",
+        "metallica tubes",
+        "seamless stainless"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-seamless-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Our Stainless Steel Seamless Tubes are manufactured without a weld seam, offering superior strength, uniform wall thickness, and enhanced corrosion resistance for critical applications. These tubes are available in various grades and dimensions, with competitive pricing for both standard and custom orders. They are widely used in industries such as oil & gas, chemical processing, and automotive for fluid conveyance and structural support. Metallica's seamless tubes provide unmatched reliability and longevity, ensuring optimal performance in demanding environments. The image displays a small, blurry icon featuring a white checkmark centered within a dark blue, slightly irregular badge shape. The badge appears to have a subtle, faint purple glow around its edges. The background is plain white.",
+      "specifications": {
+        "category": "Tube",
+        "sub_type": "Stainless Steel Seamless Tube",
+        "Material": "Stainless Steel",
+        "Type": "Tube",
+        "Feature": "Seamless",
+        "visual_shape": "checkmark, irregular badge shape",
+        "visual_color": "dark blue (badge), white (checkmark)",
+        "visual_clarity": "blurry",
+        "visual_size": "very small (icon)",
+        "presentation": "digital icon on white background",
+        "visual_notes": "This image is a generic icon, not a product image of jewelry, gemstones, or a stainless steel tube. It resembles a verification or 'checked' status badge.",
+        "certification_label_visible": true
+      },
+      "alt_text": "Dark blue badge icon with a white checkmark, indicating verification or completion.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel Electropolished or High Purity Tubes",
+      "fingerprint": "dae091772b90",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Piping",
+      "product_category": "Tube",
+      "product_sub_type": "Stainless Steel High Purity Tube",
+      "buyer_persona": "A procurement manager or engineer in industries like pharmaceuticals, biotechnology, food & beverage, or semiconductor manufacturing, seeking specialized tubing for critical process applications requiring high cleanliness and corrosion resistance.",
+      "seo_title": "SS High Purity Tubes — Electropolished & Ultra-Clean | Buy Online",
+      "tags": [
+        "stainless steel tube",
+        "electropolished tube",
+        "high purity tubing",
+        "pharmaceutical tubing",
+        "biotech tubing",
+        "semiconductor pipe",
+        "food grade tube",
+        "ultra-clean pipe",
+        "corrosion resistant",
+        "SS316L EP tube",
+        "precision tube",
+        "surface finish"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-electropolish-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "These Stainless Steel Electropolished or High Purity Tubes are specifically processed to achieve an ultra-smooth, passive surface, crucial for applications demanding extreme cleanliness and corrosion resistance. Available in various grades and precise dimensions, pricing is tailored to specific purity requirements and order volumes. They are indispensable for pharmaceutical, biotechnology, semiconductor, and food & beverage industries where contamination control is paramount. SteelPipesFactory - Metallica delivers tubes that meet the highest standards for surface finish and material integrity. The image displays a dark blue, somewhat blurry badge or icon with a white checkmark in the center. The badge has a slightly irregular, possibly star-like or floral outline, and appears to have a subtle gradient or glow around its edges. It is a generic graphic, not a product image.",
+      "specifications": {
+        "category": "Tube",
+        "sub_type": "Stainless Steel High Purity Tube",
+        "Material": "Stainless Steel",
+        "Type": "Tube",
+        "Feature": "Electropolished, High Purity",
+        "presentation": "icon / graphic",
+        "visual_notes": "Generic checkmark icon, not a product image of jewelry, gemstones, or industrial tubes."
+      },
+      "alt_text": "Dark blue badge icon with a white checkmark in the center, appearing slightly blurry.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel Furnace Tube",
+      "fingerprint": "b145797c9a03",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Heat Exchanger & Furnace Component",
+      "product_category": "Furnace Tube",
+      "product_sub_type": "Stainless Steel Furnace Tube",
+      "buyer_persona": "A procurement manager or engineer in a heavy industry (e.g., petrochemical, power generation, metallurgy) looking for high-temperature resistant tubing for furnace construction or repair.",
+      "seo_title": "SS Furnace Tubes — High Temperature & Oxidation Resistant | Buy Online",
+      "tags": [
+        "stainless steel tube",
+        "furnace tube",
+        "high temperature tube",
+        "heat exchanger tube",
+        "petrochemical pipe",
+        "power plant tube",
+        "SS310S tube",
+        "heat resistant alloy",
+        "industrial furnace",
+        "oxidation resistant",
+        "creep resistant",
+        "metallica furnace"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "7306",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Metallica",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-furnace-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Our Stainless Steel Furnace Tubes are engineered for extreme high-temperature environments, offering exceptional resistance to heat, oxidation, and creep deformation. Available in specialized heat-resistant grades and custom dimensions, these tubes are priced competitively for industrial bulk procurement. They are vital components in petrochemical refineries, power plants, and metallurgical furnaces, ensuring efficient heat transfer and prolonged operational life. Metallica's furnace tubes are built for reliability and endurance in the most severe thermal conditions. The image displays a dark blue, somewhat blurry, badge-like icon with a prominent white checkmark in its center. Faint, pixelated outlines in various colors, including pink and purple, are visible around the edges of the dark blue shape. The background is white.",
+      "specifications": {
+        "category": "Furnace Tube",
+        "sub_type": "Stainless Steel Furnace Tube",
+        "Material": "Stainless Steel",
+        "Type": "Tube",
+        "Application": "Furnace",
+        "presentation": "icon",
+        "visual_notes": "Generic verification badge icon."
+      },
+      "alt_text": "Dark blue badge icon with a white checkmark in the center, surrounded by faint colorful pixels.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Stainless Steel Welded Tube",
+      "fingerprint": "9150175a467f",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Piping & Tubing",
+      "product_category": "Tube",
+      "product_sub_type": "Stainless Steel Welded Tube",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, construction, or process industries seeking stainless steel tubes for fluid transfer, structural applications, or fabrication.",
+      "seo_title": "Stainless Steel Welded Tube Stainless Steel Welded Tube | Catalog List",
+      "tags": [
+        "Stainless Steel Welded Tube",
+        "Industrial Equipment",
+        "Piping & Tubing",
+        "Tube"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/stainless-steel-welded-tube-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Stainless Steel Welded Tube is a stainless steel welded tube offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in manufacturing, construction, or process industries seeking stainless steel tubes for fluid transfer, structural applications, or fabrication. The image displays a small, blurry icon featuring a white checkmark symbol centered within a dark blue, rounded, star-like shape. The background is white, and the overall quality is low resolution, suggesting a digital graphic rather than a photograph of a physical product.",
+      "specifications": {
+        "category": "Tube",
+        "sub_type": "Stainless Steel Welded Tube",
+        "presentation": "digital graphic",
+        "visual_notes": "The image is a low-resolution graphic icon, not a photograph of a physical product or jewelry item."
+      },
+      "alt_text": "A blurry dark blue icon with a white checkmark symbol in the center.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Duplex Steel Pipe",
+      "fingerprint": "b66f9aa2a4ab",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Components & Supply",
+      "product_category": "Pipe",
+      "product_sub_type": "Duplex Steel Pipe",
+      "buyer_persona": "A procurement manager or engineer in industries like chemical processing, oil & gas, or marine engineering, seeking corrosion-resistant and high-strength piping for fluid transfer systems.",
+      "seo_title": "Duplex Steel Pipe Duplex Steel Pipe | Catalog Listing",
+      "tags": [
+        "Duplex Steel Pipe",
+        "Industrial Equipment",
+        "Industrial Components & Supplies",
+        "Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/duplex-steel-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Duplex Steel Pipe is a duplex steel pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in industries like chemical processing, oil & gas, or marine engineering, seeking corrosion-resistant and high-strength piping for fluid transfer systems. The image displays a dark blue, somewhat blurry icon shaped like a badge or shield, containing a white checkmark in its center. The background appears to be white or transparent, with faint, colorful pixelation around the edges of the badge.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Duplex Steel Pipe",
+        "visual_shape": "badge / shield with checkmark",
+        "visual_color": "dark blue and white",
+        "presentation": "digital icon",
+        "visual_notes": "blurry image quality, pixelated edges"
+      },
+      "alt_text": "Dark blue badge icon with a white checkmark in the center, on a white background.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Duplex Steel Seamless Pipe",
+      "fingerprint": "6e041b1f5403",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Piping & Fitting",
+      "product_category": "Pipe",
+      "product_sub_type": "Duplex Steel Seamless Pipe",
+      "buyer_persona": "A procurement manager or engineer in industries like oil & gas, chemical processing, or water treatment, seeking high-strength, corrosion-resistant piping for critical applications.",
+      "seo_title": "Duplex Steel Seamless Pipe Duplex Steel Seamless Pipe | Catalog Listin",
+      "tags": [
+        "Duplex Steel Seamless Pipe",
+        "Industrial Equipment",
+        "Industrial Piping & Fittings",
+        "Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/duplex-steel-seamless-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Duplex Steel Seamless Pipe is a duplex steel seamless pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: A procurement manager or engineer in industries like oil & gas, chemical processing, or water treatment, seeking high-strength, corrosion-resistant piping for critical applications. The image displays a small, blurry digital icon featuring a white checkmark centered within a dark blue, slightly rounded square or badge shape. The edges of the badge appear somewhat pixelated with faint purple and white highlights, suggesting a graphic rather than a physical object. The overall quality is low resolution.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Duplex Steel Seamless Pipe",
+        "presentation": "digital icon",
+        "visual_notes": "This is a digital icon, likely representing a 'verified' or 'checked' status, not a physical product or jewelry item."
+      },
+      "alt_text": "Dark blue badge icon with a white checkmark in the center, appearing blurry and pixelated.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    },
+    {
+      "clean_name": "Duplex Steel Welded Pipe",
+      "fingerprint": "9f3af87c5b27",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Piping System",
+      "product_category": "Pipe",
+      "product_sub_type": "Duplex Steel Welded Pipe",
+      "buyer_persona": "Procurement managers or engineers in industries such as chemical processing, oil & gas, or marine, who require corrosion-resistant piping for fluid conveyance.",
+      "seo_title": "Duplex Steel Welded Pipe Duplex Steel Welded Pipe | Catalog Listing",
+      "tags": [
+        "Duplex Steel Welded Pipe",
+        "Industrial Equipment",
+        "Fluid Handling & Piping Systems",
+        "Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://www.metallicametals.com/assets/img/icon/check.png",
+      "photo_urls": [
+        "https://www.metallicametals.com/assets/img/icon/check.png"
+      ],
+      "source_url": "https://www.metallicametals.com/duplex-steel-welded-pipe-supplier-stockist.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Duplex Steel Welded Pipe is a duplex steel welded pipe offered by SteelPipesFactory - Metallica based in Mumbai. Suitable for: Procurement managers or engineers in industries such as chemical processing, oil & gas, or marine, who require corrosion-resistant piping for fluid conveyance. A small, low-resolution icon featuring a white checkmark centered within a dark blue, slightly rounded square or badge shape. The edges of the badge appear somewhat blurred with faint purple and white highlights.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Duplex Steel Welded Pipe",
+        "presentation": "icon",
+        "visual_notes": "This image is a graphic icon, not a photograph of a physical product."
+      },
+      "alt_text": "Blue badge icon with a white checkmark, indicating verification or approval.",
+      "used_vision": true,
+      "media_url": "https://www.metallicametals.com/assets/img/icon/check.png"
+    }
+  ],
+  "rejected_items": [],
+  "reviews": [
+    {
+      "author": "Manikandan Elumalai",
+      "rating": 4,
+      "text": "Very Good and Geniune Supplier",
+      "original_lang": null,
+      "date": "2025-09-12T05:26:43Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Metallica Metals India",
+      "rating": 5,
+      "text": "Good Service Good Price",
+      "original_lang": null,
+      "date": "2025-09-10T12:41:42Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Export Sales",
+      "rating": 5,
+      "text": "Wide Range and Good Response",
+      "original_lang": null,
+      "date": "2025-09-10T13:19:39Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Bhavesh Mehta",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-09-10T12:58:16Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Deepak Palaskar",
+      "rating": 1,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-08-06T08:26:33Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 4,
+    "no_of_ratings": 5,
+    "rating_comments": [
+      "Very Good and Geniune Supplier",
+      "Good Service Good Price",
+      "Wide Range and Good Response"
+    ],
+    "reviews_url": null
+  },
+  "overall_confidence": 0.7,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/steelpipesfactory/",
+      "profile_pic_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/464483892_1059500979515398_1584887661208333134_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f907e8&_nc_ohc=qCO6AxVihBsQ7kNvwEoYJ2S&_nc_oc=AdqFhg8q-e5Vk17-ufhrM6_FXb9SFRBlG7WcANa-5tPt2J_DeMD-O7eUCOW4v7OTr8M&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=l2Pys8ITq5HUMBgi3nrTdA&_nc_ss=7c289&oh=00_Af414JLqJ7mJC5t-9cWKpUafZ5FQ9jHJNiNp_C7v3zpWbQ&oe=69FE1BC4",
+      "banner_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/477441432_1145560414242787_2559090924315401469_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=hpYLGCMp2hEQ7kNvwFKQLMc&_nc_oc=Adr6sTfDMdjCiqhel2DzQAyRoYh62roe8B4pTDvWCtI_JjxdXu8P-sH-YuMNyowyECI&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=lHePD-zLVAiXDmB6RTKE9g&_nc_ss=7c289&oh=00_Af59VpQlhcTNzGs-QSnXvzmsPXNUEcbilpKeZK3MqQorcA&oe=69FE2A40",
+      "bio": "🏭 Manufacturer, Supplier & Stockist of Stainless Steel, Alloy & Carbon Steel Pipes, Tube, Fittings\n📦 ASTM Certified | Ready Stock | Bulk & Project Supply\n🌍 Serving EPC, OEM & Industrial Buyers | Infrastructure Projects\n⚙️ ASTM A312 | A106 | A213 | A53",
+      "followers_count": 1001,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1496446628941547/",
+          "thumbnail_url": "https://www.facebook.com/reel/1496446628941547/",
+          "caption": "🚧 Something BIG is taking shape… 👀\n\nWhat’s coming up next?\nNot just a new space… a new milestone for Metallica Metals 💼✨\n\nFrom stronger pipes to stronger presence —\nwe’re expanding where it matters most.\n📍 South Mumbai outskirts… and this is just the beginning.\n\nStay tuned… the next reveal is going to be even bigger 🔥\n\n👉 Don’t miss out — follow us & turn on notifications to catch the next teaser!\n\n#SteelPipesFactory #NewOffice #ComingSoon #BusinessExpansion #MumbaiBusiness #IndustrialGrowth #SteelIndustry #WorkInProgress #OfficeLaunch #GrowthStory #ManufacturingIndia #B2BBusiness #Infrastructure #BrandExpansion #TeaserReveal #StayTuned",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777341702
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/926234870257647/",
+          "thumbnail_url": "https://www.facebook.com/reel/926234870257647/",
+          "caption": "🚨 BIG NEWS THIS AKSHAYA TRITIYA 🚨\n\nA day of wealth. A day of growth. A day of expansion. ✨\n\nAnd we’re making it even more special…\nSomething massive is about to launch 👇\n\n🏢 Our new office near South Mumbai is coming soon!\n\nMore reach. More strength. More service.\n\n⏳ Teaser today… Grand reveal soon!\n\n👉 Don’t miss out — stay connected\n\n#AkshayaTritiya2026 #BigAnnouncement #ComingSoonMumbai #BusinessExpansion #SteelPipes #GrowthStory #IndustrialIndia #MumbaiUpdates #NewOfficeLaunch #StayTuned #SteelPipesFactory",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1776659440
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/968416898975353/",
+          "thumbnail_url": "https://www.facebook.com/reel/968416898975353/",
+          "caption": "🚨 BIG NEWS THIS AKSHAYA TRITIYA 🚨\n\nA day of wealth. A day of growth. A day of expansion. ✨\n\nAnd we’re making it even more special…\nSomething massive is about to launch 👇\n\n🏢 Our new office near South Mumbai is coming soon!\n\nMore reach. More strength. More service.\n\n⏳ Teaser today… Grand reveal soon!\n\n👉 Don’t miss out — stay connected\n\n#AkshayaTritiya2026 #BigAnnouncement #ComingSoonMumbai #BusinessExpansion #SteelPipes #GrowthStory #IndustrialIndia #MumbaiUpdates #NewOfficeLaunch #StayTuned #SteelPipesFactory",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1776562244
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": "+91 93268 96179",
+        "email": "info@metallicametals.com",
+        "website": "https://www.steelpipesfactory.com/",
+        "address": "BIT Chawl No. 4, Near Sandhurst Road Railway Station, Dongri, Mumbai, India, 400009",
+        "city": null
+      }
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/steelpipesfactory",
+      "profile_pic_url": "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/464277254_950929320390130_4904106043559222594_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMDAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEG-aWaDOcpJIDJSCBCvVvhwX5-z2G3nuERYsLGVqjvld3H5kKRO8IOr47uQATHo2U&_nc_ohc=6afYNakkt0AQ7kNvwEWwlJM&_nc_gid=NPXelSwq8VnskhL5CMIOxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5yU0QaHG_BG9ETIhw0f9AehrVYgix-rQk6XA6YdQwsng&oe=69FE233B&_nc_sid=8b3546",
+      "banner_url": null,
+      "bio": "🏭Stainless Steel Pipe Supplier | CS Pipes & Tubes Manufacturer | ASTM A312 A106 | Industrial Steel Stockist India\n🔍Mill Test Certified | Ready Stock",
+      "followers_count": 67,
+      "following_count": 86,
+      "posts_count": 182,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXqGjkNCWq4/",
+          "thumbnail_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/682148855_17920807140341043_4672811604193155728_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEG-aWaDOcpJIDJSCBCvVvhwX5-z2G3nuERYsLGVqjvld3H5kKRO8IOr47uQATHo2U&_nc_ohc=rxSd35XnjBQQ7kNvwHo3Dnk&_nc_gid=NPXelSwq8VnskhL5CMIOxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5W5JSAMKD8PwjfBJ0jTQr77Ip0CJNqXnqvHUw6l0iGCw&oe=69FE28D5&_nc_sid=8b3546",
+          "caption": "🚧 Something BIG is taking shape… 👀\n\nWhat’s coming up next?\nNot just a new space… a new milestone for Metallica Metals 💼✨\n\nFrom stronger pipes to stronger presence —\nwe’re expanding where it matters most.\n📍 South Mumbai outskirts… and this is just the beginning.\n\nStay tuned… the next reveal is going to be even bigger 🔥\n\n👉 Don’t miss out — follow us & turn on notifications to catch the next teaser!\n\n#SteelPipesFactory #NewOffice #ComingSoon #BusinessExpansion #MumbaiBusiness #IndustrialGrowth #SteelIndustry #WorkInProgress #OfficeLaunch #GrowthStory #ManufacturingIndia #B2BBusiness #Infrastructure #BrandExpansion #TeaserReveal #StayTuned",
+          "likes": 4,
+          "comments": 0,
+          "views": 94,
+          "posted_at": "2026-04-28T02:02:27.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXVxLQ7DTrY/",
+          "thumbnail_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/673146924_17919436611341043_4598455590595597162_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEG-aWaDOcpJIDJSCBCvVvhwX5-z2G3nuERYsLGVqjvld3H5kKRO8IOr47uQATHo2U&_nc_ohc=fRSrr8s-PU8Q7kNvwFr-ww2&_nc_gid=NPXelSwq8VnskhL5CMIOxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4YuhwfQEG1QsFi9VmAzLYPY1GvsP6dRUCWphPMbHut3Q&oe=69FE31AD&_nc_sid=8b3546",
+          "caption": "🚨 BIG NEWS THIS AKSHAYA TRITIYA 🚨\n\nA day of wealth. A day of growth. A day of expansion. ✨\n\nAnd we’re making it even more special…\nSomething massive is about to launch 👇\n\n🏢 Our new office near South Mumbai is coming soon!\n\nMore reach. More strength. More service.\n\n⏳ Teaser today… Grand reveal soon!\n\n👉 Don’t miss out — stay connected\n\n#AkshayaTritiya2026 #BigAnnouncement #ComingSoonMumbai #BusinessExpansion #SteelPipes #GrowthStory #IndustrialIndia #MumbaiUpdates #NewOfficeLaunch #StayTuned #SteelPipesFactory",
+          "likes": 2,
+          "comments": 0,
+          "views": 30,
+          "posted_at": "2026-04-20T04:30:50.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DW09zWVAXKY/",
+          "thumbnail_url": "https://scontent-atl3-2.cdninstagram.com/v/t39.30808-6/663135624_1522390566559768_3123358140679637879_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEG-aWaDOcpJIDJSCBCvVvhwX5-z2G3nuERYsLGVqjvld3H5kKRO8IOr47uQATHo2U&_nc_ohc=Y38Lt_dSJIIQ7kNvwFtzg8-&_nc_gid=NPXelSwq8VnskhL5CMIOxw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg2OTk4OTc4OTMyMzMyNjEwNA%3D%3D.3-ccb7-5&oh=00_Af42ZB_8m3dWZtWdyQWKdiLnZGd6GaJcHS0Ny4qRN6a_3g&oe=69FE2D53&_nc_sid=8b3546",
+          "caption": "🚨 GCC STEEL CRISIS: Your Aramco/NEOM project just lost its China supply ⛽🔥\n\nStrait of Hormuz BLOCKED. Chinese steel pipes to Saudi, UAE, Qatar? DELAYED or CANCELLED.\n\nBut India has READY STOCK of API-grade OCTG, seamless tubes, line pipes for your pipeline/infra projects.\n\nNo war-risk insurance. No Suez delays. No excuses.\n\nMetallica Metals → Fastest Indian steel pipe supplier to GCC. Saudi Aramco approved. NEOM ready.\nHow to secure supply BEFORE prices spike 30%\n\n👉 READ our Blog:\n\nhttps://www.steelpipesfactory.com/hormuz-crisis-indian-steel-pipes-for-saudi-uae-qatar-neom/\n\nDM \"HORMUZ\" for immediate stock availability + GCC pricing\n\n#SteelPipes #GCCSteel #SaudiAramco #NEOM #ADNOC #HormuzCrisis\n#OCTG #LinePipe #SteelTubes #IndiaSteel #MiddleEastSteel\n#AramcoApproved #PipelineProjects #Procurement #SteelSupply #SteelPipesFactory",
+          "likes": 0,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2026-04-07T10:45:55.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DWWLN7kjSmD/",
+          "thumbnail_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/658068213_17915452143341043_8537971624054966497_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEG-aWaDOcpJIDJSCBCvVvhwX5-z2G3nuERYsLGVqjvld3H5kKRO8IOr47uQATHo2U&_nc_ohc=XpIWco8lniAQ7kNvwGgpE2A&_nc_gid=NPXelSwq8VnskhL5CMIOxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5_5qUuewYNdAz_0xRl5BrPmmZnAJBCW4HNGmyEbR_X5Q&oe=69FE3BE4&_nc_sid=8b3546",
+          "caption": "🚩 जय श्री राम | Strength. Integrity. Reliability. 🚩\n\nOn the divine occasion of Ram Navami, we are reminded that true greatness is built on values, discipline, and unwavering commitment — the very foundation of every strong structure 🏗️\n\nJust like Lord Ram stood for truth and strength, we at Metallica Metals stand for:\n✔️ Superior Quality\n✔️ Trusted Supply\n✔️ Commitment to Excellence\n\n✨ This Ram Navami, let’s build not just projects — but a legacy of trust and strength!\n\n👉 Looking for reliable steel solutions?\nConnect with us today & build stronger, smarter, better.\n\n💬 Comment “जय श्री राम” to celebrate strength & success together!\n\n🔥#RamNavami #JaiShriRam #RamNavami2026 #SteelPipesFactory #SteelIndustry #BuildWithStrength #IndustrialIndia #ManufacturingIndia #B2BIndia #ConstructionIndia #BusinessGrowth #QualityMatters #TrustedSupplier #MakeInIndia #InfrastructureIndia",
+          "likes": 0,
+          "comments": 0,
+          "views": 4,
+          "posted_at": "2026-03-26T11:46:50.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DWT8WLEkhpy/",
+          "thumbnail_url": "https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/659106391_17915289351341043_4675763258316276297_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEG-aWaDOcpJIDJSCBCvVvhwX5-z2G3nuERYsLGVqjvld3H5kKRO8IOr47uQATHo2U&_nc_ohc=XVOiU31jy3AQ7kNvwFGXCXn&_nc_gid=NPXelSwq8VnskhL5CMIOxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6PbQsfumE3Twb9BHqJ76Di03M1S6JSvIrMFzU30fedrg&oe=69FE3F00&_nc_sid=8b3546",
+          "caption": "“When someone chooses the cheapest supplier without checking quality…”\nLowest price.\nNo test certificate.\nDelayed delivery.\nMaterial rejection.\nAnd the project team be like… 😂\nIn B2B, cheap mistakes are expensive.\nChoose reliability with Metallica Metals:\n✔ Certified Materials\n✔ Trusted Quality\n✔ On-Time Delivery\nBecause your project can’t afford risks.\n📩 Enquire now: steelpipesfactory.com\n#SteelPipesFactory #QualityMatters #IndustrialSupplier #EngineeringProblems #ProcurementLife #B2BHumor #ConstructionIndia #ManufacturingIndia #SteelIndustry #FactoryLife",
+          "likes": 0,
+          "comments": 0,
+          "views": 26,
+          "posted_at": "2026-03-25T14:58:24.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DWRKRJfjDIH/",
+          "thumbnail_url": "https://scontent-atl3-3.cdninstagram.com/v/t39.30808-6/656174381_1507600668038758_5425091676353695182_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEG-aWaDOcpJIDJSCBCvVvhwX5-z2G3nuERYsLGVqjvld3H5kKRO8IOr47uQATHo2U&_nc_ohc=zoIRwMo8FrwQ7kNvwEGT8_b&_nc_gid=NPXelSwq8VnskhL5CMIOxw&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg1OTkxMTUxNDUyMjM5OTIzOQ%3D%3D.3-ccb7-5&oh=00_Af4nh_LjOcLcBNzRYWZfhq0PsXwbwEUhrRqoRAnFpzAnmg&oe=69FE21DD&_nc_sid=8b3546",
+          "caption": "Is your high-heat project a ticking time bomb? 💣 Most engineers wait until a furnace pipe scales or fails to check the grade. By then, it’s a six-figure disaster.\"\n\nStainless Steel 310 isn't just \"another pipe\"—it’s the furnace-grade powerhouse that handles up to 1150°C without breaking a sweat. But with nickel markets shifting this March, your procurement strategy needs an update.\n\nWe’ve just released our SS 310 Seamless Pipe Price List for March 2026, and the trends might surprise you. From energy surcharges to inventory gaps, we’re breaking down exactly what you need to know to stay on budget and on schedule.\n\nWhy trust Metallica Metals?\n✅ Legacy since 1975.\n✅ Ready stock in Mumbai (No 12-week wait!).\n✅ MTC 3.1 & 3.2 Certification for every meter.\n\nDon't gamble with your thermal processing. 🌡️ Read our full March 2026 Market Report and get your personalized quote today!\n\n🔗 https://www.steelpipesfactory.com/ss-310-seamless-pipe-price-list-march-2026/\n\n#StainlessSteel #SteelIndustry2026 #SS310 #SteelPipesFactory #ManufacturingIndia #PipingEngineering #OilAndGas #IndustrialProcurement #SteelMarketUpdates #FurnaceDesign",
+          "likes": 0,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2026-03-24T13:02:11.000Z"
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": "http://www.steelpipesfactory.com",
+        "address": null,
+        "city": null
+      }
+    },
+    {
+      "platform": "youtube",
+      "url": "https://youtube.com/@SteelPipesFactory",
+      "profile_pic_url": "https://yt3.googleusercontent.com/oZsstWByie3zcn41NsTuopk8h7aSAWfePaB0led7zAzQVdvSr-di7lMz5p0QxFKDx_DsWiZGBGI=s160-c-k-c0x00ffffff-no-rj",
+      "banner_url": "https://yt3.googleusercontent.com/ifoG9crggXSpqn6-2X3v2W60KpIwfeZbWdyDjW8HEglIrCUcM5F5bldt9E6tD-KIiSUpYhNsE6Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "bio": "🔧 Leading Manufacturer of Steel Products | Providing high-quality solutions for diverse industrial applications. 🌍 Committed to precision, durability, and innovation. Explore our extensive range of products and discover how we can support your project!\n\nWith over 50 years of experience in the industry, SteelPipesFactory specialize in delivering durable and reliable solutions for a wide range of applications, including oil and gas, construction, and manufacturing.\n\nWe utilize advanced technology and rigorous quality control processes to ensure that every product meets the highest industry standards. From custom designs to standard sizes, we offer a comprehensive selection of pipes, tubes and pipe fittings to meet your specific needs.\n\nExplore our product range and discover how SteelPipesFactory can help you achieve your project goals. Connect with us for inquiries, collaborations, or to learn more about our services. Your success is our priority!",
+      "followers_count": 10,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=pZaJjXsiYEs",
+          "thumbnail_url": "https://i.ytimg.com/vi/pZaJjXsiYEs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAoPM6Gdg5D0lBhBytoSJrzFdqRaw",
+          "caption": "#SteelPipesFactory #IndustrialSupplies #SteelProducts #SeamlessPipes #WeldedPipes #StainlessSteel #CarbonSteel #SteelPlates #PipeFittings #Flanges #RoundBars #IndustrialValves #Forgings #SteelManufacturing #EngineeringMaterials #MetalIndustry #IndustrialSolutions #PipingSystems #QualitySteel\n\n🌟 Top-Selling Products at Steelpipesfactory! 🌟\n\n🔧 Pipes and Tubes\n\n🛢️ Seamless Pipes: Built for strength and durability in oil, gas, and petrochemical industries.\n🏗️ Welded Pipes: Perfect for construction, plumbing, and structural projects.\n🧪 Stainless Steel Tubes: Resistant to corrosion, ideal for food and chemical processing.\n📜 Plates\n\n⚙️ Carbon Steel Plates: Strong and reliable for shipbuilding, boilers, and heavy equipment.\n🏛️ Stainless Steel Plates: Sleek and durable for manufacturing and architecture.\n🔩 Fittings and Flanges\n\n🔗 Buttweld Fittings: Seamless connections for pipeline systems.\n🔧 Flanges: Essential for secure and efficient piping setups.\n⚙️ Round Bars\n\n🔍 Stainless Steel Round Bars: Precision-crafted for machining, fasteners, and more.\n🚪 Valves\n\n🚿 Gate and Ball Valves: Ensuring smooth flow control in water treatment and industrial systems.\n🔨 Forgings\n\n⚒️ Custom solutions for specialized industrial needs!\n📦 Stock Ready! Over 5000 tons of materials in stock to meet your needs quickly and efficiently.\n\n💡 Discover More: Visit our website or contact us to learn about these and more high-quality products.\n\n✨ Your Trusted Partner Since 1975!",
+          "likes": 0,
+          "comments": 0,
+          "views": 3,
+          "posted_at": "2024-12-23T18:51:04.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=hH6sDhjPryg",
+          "thumbnail_url": "https://i.ytimg.com/vi/hH6sDhjPryg/maxresdefault.jpg",
+          "caption": "Manufacturer of Steel Pipes in India. Leading Dealer of Jindal, ISMT, Tata Make Pipes. 1000 Ton Stock of Carbon/Mild Steel Pipes and Stainless Steel Pipes.\n\nVisit Our Website: https://www.steelpipesfactory.com/\nFollow Us on\nInstagram: @steelpipesfactory\nFacebook: @steelpipesfactory\nLinkedIn: https://www.linkedin.com/in/steelpipesfact...\nTwitter: @factoryofpipes\n\nTimeline:\n00:00  Introduction\n00:17  Company's Legacy\n00:39  Technology Used And Customization\n01:00  Customer Relationship Management\n01:25  Environment Friendly Processes\n01:35  End Note\n01:50  Website Link\n\n#steel #steelindustry #steelpipe #pipesandfittings #seamlesspipe #carbonsteel #stainlesssteel #pipes #alloysteel",
+          "likes": 0,
+          "comments": 0,
+          "views": 4,
+          "posted_at": "2024-10-21T08:30:14.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=14y4eJs4Xxg",
+          "thumbnail_url": "https://i.ytimg.com/vi/14y4eJs4Xxg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBNdKAafttmRrGk2w6QYSGRFC7qow",
+          "caption": "‪@SteelPipesFactory‬ \nManufacturer of Steel Pipes in India. Leading Dealer of Jindal, ISMT, Tata Make Pipes. 1000 Ton Stock of Carbon/Mild Steel Pipes and Stainless Steel Pipes.\n\nVisit Our Website: https://www.steelpipesfactory.com/\nFollow Us on\nInstagram: @steelpipesfactory\nFacebook: @steelpipesfactory\nLinkedIn: https://www.linkedin.com/in/steelpipesfact...\nTwitter: @factoryofpipes\n\nTimeline:\n00:00  Introduction\n00:05  Company's Legacy\n00:11 Seamless and Welded Pipes And Tube Specialization\n00:17 Quality Check\n00:26  Technology Used And Customization\n00:33  Environment Friendly Processes\n00:40  Customer Relationship Management And Client Testimonial\n00:47  Website Link\n00:51  Thank You\n\n#steel #steelindustry #steelpipe #pipesandfittings #seamlesspipe #carbonsteel #stainlesssteel #pipes #alloysteel #welded #weldedpipe #seamless #pipesandtubes #steelpipesfactory",
+          "likes": 7,
+          "comments": 1,
+          "views": 43,
+          "posted_at": "2024-10-20T19:31:39.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/Y6hgGZ7T-zw",
+          "thumbnail_url": "https://i.ytimg.com/vi/Y6hgGZ7T-zw/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgALGCooCDAgAEAEYfyA1KBMwDw==&rs=AOn4CLC0JBc-G4-7NbT6iaDn0Mf0TDeEeg",
+          "caption": "✨ Akshaya Tritiya Special ✨\n\nProsperity is growing… and so are we 👀\n\n🏢 New office near South Mumbai\n⏳ Launching soon\n\n👉 Follow for the big reveal\n\n#AkshayaTritiya #ComingSoon #MumbaiBusiness #Expansion #SteelIndustry #GrowthMode #SteelPipesFactory",
+          "likes": 0,
+          "comments": 0,
+          "views": 116,
+          "posted_at": "2026-04-19T02:00:25.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/HKsWH09ckec",
+          "thumbnail_url": "https://i.ytimg.com/vi/HKsWH09ckec/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgALGCooCDAgAEAEYZSBNKEAwDw==&rs=AOn4CLBAL72ns6w-xJlRmPk1AWir1MvoXQ",
+          "caption": "Low quality materials, hidden costs, project delays, and frequent replacements — all because of the wrong supplier.\n\nAt the end, it’s your hard-earned money and project reputation at risk.\n\nChoose a supplier who delivers:\n✔ Certified Quality\n✔ Accurate Pricing\n✔ On-Time Delivery\n✔ Complete Transparency\n\n🔧 Invest in quality. Protect your project. Save long-term costs.\nhttps://www.steelpipesfactory.com/\n\n📩 DM us now for the latest price list & best deals\n📞 Trusted supply for contractors, industries & bulk buyers across India.\n#SteelSuppliers #IndustrialProcurement #ConstructionIndia #QualityMatters #B2BIndia #SteelIndustry #ProjectManagement #ContractorsIndia #EngineeringProjects #BuySmart #ProcurementTips #IndustrialSupply #MakeInIndia #InfrastructureIndia #SteelPipesFactory #SteelPipes #PipeFittings #IndustrialMaterials #BulkSupply #BusinessGrowth",
+          "likes": 0,
+          "comments": 0,
+          "views": 96,
+          "posted_at": "2026-02-09T16:15:00.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/mkRFxfiPWqA",
+          "thumbnail_url": "https://i.ytimg.com/vi/mkRFxfiPWqA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgALGCooCDAgAEAEYciBGKEEwDw==&rs=AOn4CLAU4I5d4bIupmAvHaXd63mDOblzcg",
+          "caption": "This is the official vibe of Metallica Metals — where precision meets performance and steel meets reliability.\n\nBecause strong industries need a stronger partner. 💪\n\n🚀 Like the energy?\n👍 Hit Like | 🔁 Share | 📩 DM us for bulk requirements today!\n\n#SteelPipesFactory #SoundOfStrength #SteelPower #IndustrialIndia #B2BBrand #ManufacturingLife #SteelPipes #IndustrialSupply #InfrastructureDevelopment #EngineeringWorld #BusinessToBusiness #IndustryExperts",
+          "likes": 0,
+          "comments": 0,
+          "views": 53,
+          "posted_at": "2026-02-24T04:15:05.000Z"
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "location": "India",
+        "links": [
+          "https://www.instagram.com/steelpipesfactory/",
+          "https://www.facebook.com/steelpipesfactory/",
+          "https://x.com/factoryofpipes",
+          "https://in.pinterest.com/steelpipesfactory/",
+          "https://www.linkedin.com/in/steelpipesfactory/"
+        ]
+      }
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://linkedin.com/in/steelpipesfactory",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://x.com/factoryofpipes",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "Twitter/X public scraping not available — requires authenticated Apify actor (paid)"
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-04T08:35:37.021Z",
+    "duration_seconds": 160,
+    "agents_in_order": [
+      "CompanyEnricher"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 0,
+      "Agent03a/Category": 18,
+      "Agent04/Media": 18,
+      "Agent05/EnrichDedup": 0,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [
+          "reviews"
+        ],
+        "quality_target": 0.85,
+        "reasoning": "The seller has a clear product type (pipes) and a good number of products. The company profile is relatively complete. Skipping reviews agent as no reviews API URL is provided. Media classification for product images will be handled by the product agent."
+      },
+      "evaluate_product_output": {
+        "decision": null,
+        "avg_confidence": null,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 18,
+      "enriched": 18,
+      "catalog_items": 18,
+      "rejected": 0,
+      "with_vision": 17,
+      "vision_skipped": 1
+    },
+    "social": {
+      "urls_detected": 5,
+      "platforms_scraped": [
+        "facebook",
+        "instagram",
+        "youtube",
+        "linkedin",
+        "twitter"
+      ],
+      "posts_collected": 15,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.7
+  },
+  "_saved_at": "2026-05-04T08:38:16.675Z"
+}
