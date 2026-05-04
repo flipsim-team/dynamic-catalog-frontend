@@ -1,0 +1,970 @@
+{
+  "seller_id": 2177530,
+  "company_profile": {
+    "name": {
+      "value": "Samarth Electrocare Pvt. Ltd",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "Samarth Electrocare Pvt. Ltd. is a Nagpur-based industrial equipment supplier dedicated to providing cost-effective and optimized solutions. Backed by a highly qualified and fully equipped team, they ensure reliable upkeep and committed delivery for their industrial clients.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Nagpur",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "Building No. 410, NIT COMMERCIAL COMPLEX, WARDHA ROAD, SITABULDI, NAGPUR, Nagpur, Maharashtra, 440012",
+      "sources": [
+        "google",
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "440012",
+      "sources": [
+        "google",
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "http://www.mysepl.in",
+      "sources": [
+        "google",
+        "facebook",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Industrial equipment supplier",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 4.7,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 6,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "11152226502041590515",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "http://www.mysepl.in/wp-content/uploads/2020/10/weblogo.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "http://www.mysepl.in/wp-content/uploads/2020/11/textileindustries-768x456.jpg",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/samarthelectrocare",
+      "sources": [
+        "google",
+        "facebook",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "youtube": {
+      "value": "https://www.youtube.com/channel/UCmAFqJvkvlnC0yR2iBA2vSQ",
+      "sources": [
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "linkedin": {
+      "value": "https://www.linkedin.com/company/samarth-electrocare-private-limited/",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "twitter": {
+      "value": "http://twitter.com/home?status=Reading:Textile+Industries-//?p=3843",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "9370275065",
+        "sources": [
+          "google"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "7447479871",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "electrocarenag@gmail.com",
+        "sources": [
+          "facebook",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "info@mysepl.in",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/samarthelectrocare",
+        "sources": [
+          "google",
+          "facebook",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.youtube.com/channel/UCmAFqJvkvlnC0yR2iBA2vSQ",
+        "sources": [
+          "google",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.linkedin.com/company/samarth-electrocare-private-limited/",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "http://twitter.com/home?status=Reading:Textile+Industries-//?p=3843",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "confidence": 0.9,
+    "sources": [
+      "google",
+      "facebook"
+    ],
+    "data_sources": [
+      "website"
+    ]
+  },
+  "products": [
+    {
+      "raw_name": "Education & Training",
+      "clean_name": "Education & Training",
+      "fingerprint": "3c62fa97bc3c",
+      "top_level_domain": "Service",
+      "industry_segment": "Industrial & Technical Training",
+      "product_category": "Training Service",
+      "product_sub_type": "Industrial Equipment Training",
+      "buyer_persona": "Companies or individuals in industrial sectors seeking to train staff on the operation, maintenance, or design of industrial equipment.",
+      "description": "We offer comprehensive Education & Training services specializing in industrial equipment operation, maintenance, and design. Pricing for our tailored training programs is available upon request, ensuring solutions that fit your specific needs. These services are ideal for companies and individuals in industrial sectors seeking to enhance staff proficiency and technical skills. Our expert-led courses provide practical knowledge and often include certification, ensuring high-quality workforce development.",
+      "seo_title": "Industrial Equipment Training & Education Services — Expert-led | Buy Online",
+      "tags": [
+        "Industrial Training",
+        "Equipment Training",
+        "Technical Education",
+        "Skill Development",
+        "Workforce Training",
+        "Corporate Training",
+        "Certification Courses",
+        "Industrial Skills",
+        "Samarth Electrocare",
+        "Training Services India",
+        "Professional Development",
+        "Machinery Training"
+      ],
+      "alt_text": "Education & Training, Industrial Equipment Training Services by Samarth Electrocare Pvt. Ltd.",
+      "domain_attributes": {
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg",
+        "source_url": "http://www.mysepl.in",
+        "Training Focus": "Industrial Equipment Operation, Maintenance, Design, Software, Technical Skills",
+        "Training Format": "Online, In-person, Workshop, Certification Course",
+        "Duration": null,
+        "Certification Provided": null
+      },
+      "specifications": {
+        "category": "Training Service",
+        "sub_type": "Industrial Equipment Training",
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg",
+        "source_url": "http://www.mysepl.in",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Training Focus": "Industrial Equipment Operation, Maintenance, Design, Software, Technical Skills",
+        "Training Format": "Online, In-person, Workshop, Certification Course",
+        "Duration": null,
+        "Certification Provided": null
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "9992",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Samarth Electrocare Pvt. Ltd",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg"
+      ],
+      "source_url": "http://www.mysepl.in",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Tyre Plants",
+      "clean_name": "Tyre Manufacturing Plants",
+      "fingerprint": "6552c685edb6",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Rubber & Tyre Manufacturing Equipment",
+      "product_category": "Tyre Manufacturing Plant",
+      "product_sub_type": "Complete Tyre Production Line",
+      "buyer_persona": "A procurement manager or business owner in the rubber and tyre industry looking to set up or expand a tyre manufacturing facility.",
+      "description": "Tyre Manufacturing Plants are comprehensive industrial facilities designed for the complete production of various types of tyres, from passenger car to OTR. These plants are typically available on a price-on-request basis, offering customized solutions to meet specific production demands. Ideal for large-scale industrial corporations and rubber product manufacturers, they facilitate high-volume and efficient tyre production. Featuring advanced automation levels and robust plant layouts, these facilities ensure quality-controlled manufacturing processes.",
+      "seo_title": "Complete Tyre Manufacturing Plants — High Capacity | Industrial",
+      "tags": [
+        "tyre plant",
+        "tyre manufacturing",
+        "rubber processing",
+        "industrial equipment",
+        "tyre production line",
+        "tyre factory",
+        "manufacturing machinery",
+        "rubber industry",
+        "tyre making plant",
+        "industrial plant",
+        "heavy machinery",
+        "tyre production equipment"
+      ],
+      "alt_text": "Tyre Manufacturing Plants for high-volume production by Samarth Electrocare Pvt. Ltd",
+      "domain_attributes": {
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
+        "source_url": "http://www.mysepl.in/portfolio/tyre-plants/",
+        "Production Capacity": "Varies by configuration",
+        "Automation Level": "Configurable (e.g., fully automated, semi-automated)",
+        "Type of Tyres Produced": "Passenger car tyres, truck tyres, OTR tyres, specialty tyres",
+        "Plant Layout": "Customizable based on site requirements",
+        "Condition": "New, used, or refurbished options available"
+      },
+      "specifications": {
+        "category": "Tyre Manufacturing Plant",
+        "sub_type": "Complete Tyre Production Line",
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
+        "source_url": "http://www.mysepl.in/portfolio/tyre-plants/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Production Capacity": "Varies by configuration",
+        "Automation Level": "Configurable (e.g., fully automated, semi-automated)",
+        "Type of Tyres Produced": "Passenger car tyres, truck tyres, OTR tyres, specialty tyres",
+        "Plant Layout": "Customizable based on site requirements",
+        "Condition": "New, used, or refurbished options available"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "unit",
+        "hsn_code": "8479",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg"
+      ],
+      "source_url": "http://www.mysepl.in/portfolio/tyre-plants/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Steel Plant",
+      "clean_name": "Steel Manufacturing Plant",
+      "fingerprint": "b7b5325b95a2",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metal Production & Processing",
+      "product_category": "Steel Plant",
+      "product_sub_type": "Integrated Steel Production Facility",
+      "buyer_persona": "Large industrial corporations, steel manufacturers, or government entities seeking to establish or expand steel production capabilities.",
+      "description": "Steel Manufacturing Plants are integrated industrial facilities designed for the comprehensive production of various steel products, including billets, slabs, and rebar. These large-scale plants are typically offered on a price-on-request basis, providing tailored solutions for specific production capacities. They are essential for major industrial corporations and steel producers aiming to establish or expand their steelmaking capabilities. Utilizing advanced technologies like Blast Furnaces or Electric Arc Furnaces, these plants ensure efficient, high-quality, and high-volume steel output.",
+      "seo_title": "Integrated Steel Manufacturing Plant — High Capacity | Industrial",
+      "tags": [
+        "steel plant",
+        "steel manufacturing",
+        "metal production",
+        "industrial plant",
+        "steel factory",
+        "steelmaking equipment",
+        "heavy industry",
+        "metal processing",
+        "billet production",
+        "slab production",
+        "rebar manufacturing",
+        "industrial machinery"
+      ],
+      "alt_text": "Steel Manufacturing Plant for high-volume metal production by Samarth Electrocare Pvt. Ltd",
+      "domain_attributes": {
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
+        "source_url": "http://www.mysepl.in/portfolio/steel-plant/",
+        "Production Capacity": "Varies by configuration (e.g., X tons per annum)",
+        "Technology Type": "Blast Furnace, Electric Arc Furnace, Induction Furnace, etc.",
+        "Product Output": "Billets, slabs, rebar, sheets, coils, structural steel",
+        "Automation Level": "Configurable (e.g., fully automated, semi-automated)"
+      },
+      "specifications": {
+        "category": "Steel Plant",
+        "sub_type": "Integrated Steel Production Facility",
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
+        "source_url": "http://www.mysepl.in/portfolio/steel-plant/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Production Capacity": "Varies by configuration (e.g., X tons per annum)",
+        "Technology Type": "Blast Furnace, Electric Arc Furnace, Induction Furnace, etc.",
+        "Product Output": "Billets, slabs, rebar, sheets, coils, structural steel",
+        "Automation Level": "Configurable (e.g., fully automated, semi-automated)"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "unit",
+        "hsn_code": "8479",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg"
+      ],
+      "source_url": "http://www.mysepl.in/portfolio/steel-plant/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "3c62fa97bc3c",
+      "product_name": "Education & Training",
+      "url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "training session / workshop",
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "classroom / workshop setting",
+        "additional_visual_notes": "A female presenter is addressing a seated audience in a bright room with a large whiteboard and windows, suggesting an in-person training format."
+      },
+      "visual_description": "The image depicts a training session or workshop in progress, with a female presenter standing at the front, gesturing towards a large white board mounted on a white brick wall. A diverse group of adults is seated in wooden chairs, attentively facing the presenter. Natural light streams in from a large window on the left side of the bright room.",
+      "media_alt_text": "A female presenter gestures towards a whiteboard while addressing a diverse group of adults seated in a bright training room.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:48:50.521Z"
+    },
+    {
+      "fingerprint": "6552c685edb6",
+      "product_name": "Tyre Manufacturing Plants",
+      "url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.95,
+      "visual_features": {
+        "product_type_confirmed": "Tyre manufacturing plant machinery",
+        "shape_visible": "Industrial machinery with various geometric and cylindrical components, round tyres, linear conveyor belt",
+        "color_appearance": "Dominant colors are blue, red, and yellow on the machinery, with grey structural elements and black tyres",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "Steel, various industrial metals",
+        "certification_label_visible": false,
+        "presentation": "Industrial factory floor setting",
+        "additional_visual_notes": "Two finished tyres are visible on a conveyor belt, indicating the production process. The machinery appears modern and well-maintained."
+      },
+      "visual_description": "The image displays an interior view of a large-scale industrial factory floor, featuring rows of complex machinery in blue, red, and yellow colors. A conveyor belt runs down the center, on which two black, finished tyres are visible. The background shows more machinery and industrial lighting, indicating an active manufacturing environment.",
+      "media_alt_text": "Interior view of a tyre manufacturing plant with blue, red, and yellow machinery, and two black tyres on a conveyor belt.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:48:50.625Z"
+    },
+    {
+      "fingerprint": "b7b5325b95a2",
+      "product_name": "Steel Manufacturing Plant",
+      "url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "steel coils",
+        "shape_visible": "cylindrical",
+        "color_appearance": "silvery-gray, metallic sheen",
+        "clarity_appearance": null,
+        "size_impression": "very large (>5 tons each, industrial scale)",
+        "setting_or_mounting": null,
+        "metal_visible": "steel",
+        "certification_label_visible": false,
+        "presentation": "industrial warehouse setting",
+        "additional_visual_notes": "A worker in safety gear is inspecting one of the coils. The coils are stacked in an organized manner."
+      },
+      "visual_description": "The image displays a large quantity of shiny, silvery-gray steel coils, stacked high in what appears to be an industrial warehouse or factory setting. The coils are cylindrical with hollow centers, and some are secured with dark bands. A worker in a hard hat and safety vest is visible in the foreground, inspecting one of the lower coils, providing a sense of scale to the massive industrial products.",
+      "media_alt_text": "A worker in a hard hat and safety vest inspects large, silvery-gray steel coils stacked high in an industrial warehouse.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T08:48:52.616Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "Education & Training",
+      "fingerprint": "3c62fa97bc3c",
+      "top_level_domain": "Service",
+      "industry_segment": "Industrial & Technical Training",
+      "product_category": "Training Service",
+      "product_sub_type": "Industrial Equipment Training",
+      "buyer_persona": "Companies or individuals in industrial sectors seeking to train staff on the operation, maintenance, or design of industrial equipment.",
+      "seo_title": "Industrial Equipment Training & Education Services — Expert-led | Buy Online",
+      "tags": [
+        "Industrial Training",
+        "Equipment Training",
+        "Technical Education",
+        "Skill Development",
+        "Workforce Training",
+        "Corporate Training",
+        "Certification Courses",
+        "Industrial Skills",
+        "Samarth Electrocare",
+        "Training Services India",
+        "Professional Development",
+        "Machinery Training"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "9992",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Samarth Electrocare Pvt. Ltd",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg"
+      ],
+      "source_url": "http://www.mysepl.in",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "We offer comprehensive Education & Training services specializing in industrial equipment operation, maintenance, and design. Pricing for our tailored training programs is available upon request, ensuring solutions that fit your specific needs. These services are ideal for companies and individuals in industrial sectors seeking to enhance staff proficiency and technical skills. Our expert-led courses provide practical knowledge and often include certification, ensuring high-quality workforce development. The image depicts a training session or workshop in progress, with a female presenter standing at the front, gesturing towards a large white board mounted on a white brick wall. A diverse group of adults is seated in wooden chairs, attentively facing the presenter. Natural light streams in from a large window on the left side of the bright room.",
+      "specifications": {
+        "category": "Training Service",
+        "sub_type": "Industrial Equipment Training",
+        "Training Focus": "Industrial Equipment Operation, Maintenance, Design, Software, Technical Skills",
+        "Training Format": "Online, In-person, Workshop, Certification Course",
+        "Duration": null,
+        "Certification Provided": null,
+        "presentation": "classroom / workshop setting",
+        "visual_product_type": "training session / workshop",
+        "visual_notes": "A female presenter is addressing a seated audience in a bright room with a large whiteboard and windows, suggesting an in-person training format."
+      },
+      "alt_text": "A female presenter gestures towards a whiteboard while addressing a diverse group of adults seated in a bright training room.",
+      "used_vision": true,
+      "media_url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg"
+    },
+    {
+      "clean_name": "Tyre Manufacturing Plants",
+      "fingerprint": "6552c685edb6",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Rubber & Tyre Manufacturing Equipment",
+      "product_category": "Tyre Manufacturing Plant",
+      "product_sub_type": "Complete Tyre Production Line",
+      "buyer_persona": "A procurement manager or business owner in the rubber and tyre industry looking to set up or expand a tyre manufacturing facility.",
+      "seo_title": "Complete Tyre Manufacturing Plants — High Capacity | Industrial",
+      "tags": [
+        "tyre plant",
+        "tyre manufacturing",
+        "rubber processing",
+        "industrial equipment",
+        "tyre production line",
+        "tyre factory",
+        "manufacturing machinery",
+        "rubber industry",
+        "tyre making plant",
+        "industrial plant",
+        "heavy machinery",
+        "tyre production equipment"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "unit",
+        "hsn_code": "8479",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg"
+      ],
+      "source_url": "http://www.mysepl.in/portfolio/tyre-plants/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "raw_name": "Tyre Plants",
+      "description": "Tyre Manufacturing Plants are comprehensive industrial facilities designed for the complete production of various types of tyres, from passenger car to OTR. These plants are typically available on a price-on-request basis, offering customized solutions to meet specific production demands. Ideal for large-scale industrial corporations and rubber product manufacturers, they facilitate high-volume and efficient tyre production. Featuring advanced automation levels and robust plant layouts, these facilities ensure quality-controlled manufacturing processes. The image displays an interior view of a large-scale industrial factory floor, featuring rows of complex machinery in blue, red, and yellow colors. A conveyor belt runs down the center, on which two black, finished tyres are visible. The background shows more machinery and industrial lighting, indicating an active manufacturing environment.",
+      "specifications": {
+        "category": "Tyre Manufacturing Plant",
+        "sub_type": "Complete Tyre Production Line",
+        "Production Capacity": "Varies by configuration",
+        "Automation Level": "Configurable (e.g., fully automated, semi-automated)",
+        "Type of Tyres Produced": "Passenger car tyres, truck tyres, OTR tyres, specialty tyres",
+        "Plant Layout": "Customizable based on site requirements",
+        "Condition": "New, used, or refurbished options available",
+        "visual_shape": "Industrial machinery with various geometric and cylindrical components, round tyres, linear conveyor belt",
+        "visual_color": "Dominant colors are blue, red, and yellow on the machinery, with grey structural elements and black tyres",
+        "visual_metal": "Steel, various industrial metals",
+        "presentation": "Industrial factory floor setting",
+        "visual_product_type": "Tyre manufacturing plant machinery",
+        "visual_notes": "Two finished tyres are visible on a conveyor belt, indicating the production process. The machinery appears modern and well-maintained."
+      },
+      "alt_text": "Interior view of a tyre manufacturing plant with blue, red, and yellow machinery, and two black tyres on a conveyor belt.",
+      "used_vision": true,
+      "media_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg"
+    },
+    {
+      "clean_name": "Steel Manufacturing Plant",
+      "fingerprint": "b7b5325b95a2",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Metal Production & Processing",
+      "product_category": "Steel Plant",
+      "product_sub_type": "Integrated Steel Production Facility",
+      "buyer_persona": "Large industrial corporations, steel manufacturers, or government entities seeking to establish or expand steel production capabilities.",
+      "seo_title": "Integrated Steel Manufacturing Plant — High Capacity | Industrial",
+      "tags": [
+        "steel plant",
+        "steel manufacturing",
+        "metal production",
+        "industrial plant",
+        "steel factory",
+        "steelmaking equipment",
+        "heavy industry",
+        "metal processing",
+        "billet production",
+        "slab production",
+        "rebar manufacturing",
+        "industrial machinery"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "unit",
+        "hsn_code": "8479",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg"
+      ],
+      "source_url": "http://www.mysepl.in/portfolio/steel-plant/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "raw_name": "Steel Plant",
+      "description": "Steel Manufacturing Plants are integrated industrial facilities designed for the comprehensive production of various steel products, including billets, slabs, and rebar. These large-scale plants are typically offered on a price-on-request basis, providing tailored solutions for specific production capacities. They are essential for major industrial corporations and steel producers aiming to establish or expand their steelmaking capabilities. Utilizing advanced technologies like Blast Furnaces or Electric Arc Furnaces, these plants ensure efficient, high-quality, and high-volume steel output. The image displays a large quantity of shiny, silvery-gray steel coils, stacked high in what appears to be an industrial warehouse or factory setting. The coils are cylindrical with hollow centers, and some are secured with dark bands. A worker in a hard hat and safety vest is visible in the foreground, inspecting one of the lower coils, providing a sense of scale to the massive industrial products.",
+      "specifications": {
+        "category": "Steel Plant",
+        "sub_type": "Integrated Steel Production Facility",
+        "Production Capacity": "Varies by configuration (e.g., X tons per annum)",
+        "Technology Type": "Blast Furnace, Electric Arc Furnace, Induction Furnace, etc.",
+        "Product Output": "Billets, slabs, rebar, sheets, coils, structural steel",
+        "Automation Level": "Configurable (e.g., fully automated, semi-automated)",
+        "visual_shape": "cylindrical",
+        "visual_color": "silvery-gray, metallic sheen",
+        "visual_size": "very large (>5 tons each, industrial scale)",
+        "visual_metal": "steel",
+        "presentation": "industrial warehouse setting",
+        "visual_product_type": "steel coils",
+        "visual_notes": "A worker in safety gear is inspecting one of the coils. The coils are stacked in an organized manner."
+      },
+      "alt_text": "A worker in a hard hat and safety vest inspects large, silvery-gray steel coils stacked high in an industrial warehouse.",
+      "used_vision": true,
+      "media_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg"
+    }
+  ],
+  "rejected_items": [],
+  "reviews": [
+    {
+      "author": "Samarth Electrocare",
+      "rating": 5,
+      "text": "one  stop solution for Industrial Automation",
+      "original_lang": "en",
+      "date": "2026-01-10T12:38:30.990Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Sabahat",
+      "rating": 5,
+      "text": "This is a one stop solution for all Industrial automation  I am highly satisfied with the services rendered by Samarth Electrocare. I highly recommend them for VFD,  PLC and other automation",
+      "original_lang": "en",
+      "date": "2020-09-15T18:42:15.144Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Kalyani Awari",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2026-04-18T15:59:42.865Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Nikhil Nagrale",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2026-04-18T06:44:23.050Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Mohsina Quraishi",
+      "rating": 3,
+      "text": null,
+      "original_lang": null,
+      "date": "2020-09-18T08:57:28.196Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Monika Ambatkar",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2020-09-17T04:43:31.475Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 4.7,
+    "no_of_ratings": 6,
+    "rating_comments": [
+      "one  stop solution for Industrial Automation",
+      "This is a one stop solution for all Industrial automation  I am highly satisfied with the services rendered by Samarth Electrocare. I highly recommend them for VFD,  PLC and other automation"
+    ],
+    "reviews_url": null
+  },
+  "overall_confidence": 0.92,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/samarthelectrocare",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/samarthelectrocare/posts/pfbid0V1wArkkBigun4rP6r6HBmADPYo9ewFvZKqpa88bQDnrNCTanD2yYBE8EgJSu9tQsl",
+          "thumbnail_url": "https://www.facebook.com/samarthelectrocare/posts/pfbid0V1wArkkBigun4rP6r6HBmADPYo9ewFvZKqpa88bQDnrNCTanD2yYBE8EgJSu9tQsl",
+          "caption": "VFD panel with 13\n2KW drive and 45KW drive,",
+          "likes": 9,
+          "comments": 4,
+          "views": null,
+          "posted_at": 1673604399
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/samarthelectrocare/videos/861631067944750/",
+          "thumbnail_url": "https://www.facebook.com/samarthelectrocare/videos/861631067944750/",
+          "caption": "Samarth Electrocare is service provider in the field of industrial automation and renewable energy. Authorized Value Provider of ABB. We are amongst the first few companies to be chosen in West India and it would not have been possible without your support. Geographical penetration was increased from Nagpur to Central and West India spanning to states of Maharashtra\nAdded most of the reputed organization to the portfolio like ABB, Autonics, OBO Bettermann, EAPL, Finder, Multispan, Pepperl+Fuchs, Schmersal, Essen, etc.\nPatents for Solar arrangements were registered, and the Solar portfolio expanded to major accounts in Government and Private Sector. \n\nFollow us on : Facebook : https://www.facebook.com/samarthelectrocare/\n                          LinkedIn : https://www.linkedin.com/company/samarth-electrocare-private-limited/",
+          "likes": 8,
+          "comments": 2,
+          "views": null,
+          "posted_at": 1608627934
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/samarthelectrocare/posts/pfbid0ew9JeyJ3bkdT2rwqMghgNtvNUVBTSauYzd91xxVskEouwhuBRZ7dJKmkA5nTTLXml",
+          "thumbnail_url": null,
+          "caption": "Connect with us",
+          "likes": 1,
+          "comments": null,
+          "views": null,
+          "posted_at": 1602067172
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "address": null,
+        "city": null
+      }
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/samarth-electrocare-private-limited/",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
+    },
+    {
+      "platform": "twitter",
+      "url": "http://twitter.com/home?status=Reading:Textile+Industries-//?p=3843",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "Twitter/X public scraping not available — requires authenticated Apify actor (paid)"
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-04T08:47:25.401Z",
+    "duration_seconds": 97,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 3,
+      "Agent04/Media": 3,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [
+          "reviews"
+        ],
+        "quality_target": 0.7,
+        "reasoning": "Company profile is well-defined. Raw products need enrichment and classification. Reviews agent will be skipped as no reviews API URL is provided. Media classification will be handled by the product agent. Dedup is a mandatory final step before writing to catalog."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": 0.9,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 3,
+      "enriched": 3,
+      "catalog_items": 3,
+      "rejected": 0,
+      "with_vision": 3,
+      "vision_skipped": 0
+    },
+    "social": {
+      "urls_detected": 4,
+      "platforms_scraped": [
+        "facebook",
+        "linkedin",
+        "twitter"
+      ],
+      "posts_collected": 3,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.92
+  },
+  "_saved_at": "2026-05-04T08:49:02.707Z"
+}
