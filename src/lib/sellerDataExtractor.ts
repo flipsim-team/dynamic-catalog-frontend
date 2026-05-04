@@ -1,5 +1,4 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import defaultSellerRawData from "@/data/sellerData.json";
 
 export type SocialPlatform =
   | "instagram"
@@ -463,7 +462,12 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const fb = profilesByPlatform.facebook;
   const ig = profilesByPlatform.instagram;
   const bannerUrl = yt?.bannerUrl || fb?.bannerUrl || "";
-  const avatarUrl = data.company_profile?.logo_url || ig?.profilePic || yt?.profilePic || fb?.profilePic || "";
+  const avatarUrl =
+    data.company_profile?.logo_url ||
+    ig?.profilePic ||
+    yt?.profilePic ||
+    fb?.profilePic ||
+    "";
 
   // Tagline (used by hero/footer)
   const tagline = description || yt?.bio || ig?.bio || fb?.bio || "";
@@ -590,7 +594,9 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   };
   products.forEach((p) => {
     addImg(p.primaryPhoto, (p.source || "Catalog").toUpperCase(), p.name);
-    p.photos.forEach((ph) => addImg(ph, (p.source || "Catalog").toUpperCase(), p.name));
+    p.photos.forEach((ph) =>
+      addImg(ph, (p.source || "Catalog").toUpperCase(), p.name),
+    );
   });
   (data.media_assets || []).forEach((m: any) =>
     addImg(m.url, "Catalog", m.product_name),
@@ -775,7 +781,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   };
 }
 
-export function extractSellerData(rawData: unknown = defaultSellerRawData) {
+export function extractSellerData(rawData: unknown) {
   return extractSellerDataFromRaw(rawData);
 }
 
