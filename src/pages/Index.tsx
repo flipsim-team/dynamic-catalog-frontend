@@ -10,6 +10,7 @@ import MediaGallery from "@/components/seller/MediaGallery";
 import SocialPosts from "@/components/seller/SocialPosts";
 import ReviewsSection from "@/components/seller/ReviewsSection";
 import ContactSidebar from "@/components/seller/ContactSidebar";
+import CatalogFeedback from "@/components/seller/CatalogFeedback";
 import Footer from "@/components/seller/Footer";
 import MobileCTA from "@/components/seller/MobileCTA";
 import SplashScreen from "@/components/seller/SplashScreen";
@@ -243,6 +244,10 @@ const Index = () => {
             {socialHasData && <SocialPosts data={data} />}
             {reviewsHasData && <ReviewsSection data={data} />}
             {contactHasData && <ContactSidebar data={data} />}
+            <CatalogFeedback
+              sellerId={sellerId || data.sellerId || "unknown"}
+              sellerName={data.sellerName}
+            />
             <Footer data={data} />
             <MobileCTA data={data} />
             <div className="h-16 md:hidden" />
