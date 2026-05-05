@@ -34,18 +34,28 @@ function normalizeSourceKey(source: string) {
     .replace(/\s+/g, "_");
 }
 
+function isWebsiteSource(value: string) {
+  return normalizeSourceKey(value) === "website";
+}
+
 function collectProductSourceEntries(product: CatalogProduct) {
   const entries: SourceFilterOption[] = [];
   const addEntry = (key: string, label: string) => {
     const normalizedKey = normalizeSourceKey(key);
-    const normalizedLabel = String(label || "").trim();
+    const normalizedLabel = isWebsiteSource(normalizedKey)
+      ? "Website"
+      : String(label || "").trim();
     if (!normalizedKey || !normalizedLabel) return;
     entries.push({ key: normalizedKey, label: normalizedLabel, count: 1 });
   };
 
   const primarySource = String(product.source || "").trim();
   if (primarySource) {
-    addEntry(primarySource, normalizeSourceLabel(primarySource));
+    if (isWebsiteSource(primarySource)) {
+      addEntry("website", "Website");
+    } else {
+      addEntry(primarySource, normalizeSourceLabel(primarySource));
+    }
   }
 
   for (const tile of product.sourceTiles || []) {
@@ -55,10 +65,10 @@ function collectProductSourceEntries(product: CatalogProduct) {
   for (const link of product.sourceLinks || []) {
     const linkKey = link.platform
       ? normalizeSourceKey(link.platform)
-      : normalizeSourceKey(link.label || link.url);
+      : "website";
     const linkLabel = link.platform
       ? normalizeSourceLabel(link.platform)
-      : link.label || normalizeSourceLabel(linkKey);
+      : "Website";
     addEntry(linkKey, linkLabel);
   }
 
