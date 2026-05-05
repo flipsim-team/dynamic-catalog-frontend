@@ -14,7 +14,6 @@ const DEFAULT_NAV_LINKS = [
   { key: "social", label: "Social", href: "#social" },
   { key: "reviews", label: "Ratings & Reviews", href: "#reviews" },
   { key: "contact", label: "Contact", href: "#contact" },
-  { key: "feedback", label: "Feedback", href: "#feedback" },
 ];
 
 export default function NavBar({ data }: { data: SellerData }) {
@@ -56,8 +55,6 @@ export default function NavBar({ data }: { data: SellerData }) {
         );
       case "contact":
         return Boolean(data.primaryPhone || data.email || data.fullAddress);
-      case "feedback":
-        return true;
       default:
         return true;
     }

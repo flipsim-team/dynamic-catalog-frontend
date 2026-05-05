@@ -194,6 +194,7 @@ const Index = () => {
     data.whatsappUrl ||
     data.socialProfiles.some((profile) => Boolean(profile.url)),
   );
+  const feedbackTriggerSectionId = aboutHasData ? "about" : "overview";
 
   return (
     <div className="page-shell relative min-h-screen bg-background">
@@ -244,16 +245,18 @@ const Index = () => {
             {socialHasData && <SocialPosts data={data} />}
             {reviewsHasData && <ReviewsSection data={data} />}
             {contactHasData && <ContactSidebar data={data} />}
-            <CatalogFeedback
-              sellerId={sellerId || data.sellerId || "unknown"}
-              sellerName={data.sellerName}
-            />
             <Footer data={data} />
             <MobileCTA data={data} />
             <div className="h-16 md:hidden" />
           </motion.div>
         )}
       </AnimatePresence>
+
+      <CatalogFeedback
+        sellerId={sellerId || data.sellerId || "unknown"}
+        sellerName={data.sellerName}
+        triggerSectionId={feedbackTriggerSectionId}
+      />
 
       <ScrollToTopButton />
     </div>
