@@ -104,12 +104,15 @@ export default function CatalogFeedback({
         payload,
       }),
     }).catch(() => {
-      console.log("Backend is not wired yet; keep the local submission as the source of truth.");
+      console.log(
+        "Backend is not wired yet; keep the local submission as the source of truth.",
+      );
     });
 
     toast({
-      title: "Your feedback has been shared with the developer",
-      duration: 5000,
+      title:
+        "Your feedback has been shared with the Content Aggregated Catalog Creation Team",
+      duration: 4000,
     });
 
     dismissFeedback();
@@ -146,12 +149,15 @@ export default function CatalogFeedback({
           payload,
         }),
       }).catch(() => {
-        console.log("Backend is not wired yet; keep the local submission as the source of truth.");
+        console.log(
+          "Backend is not wired yet; keep the local submission as the source of truth.",
+        );
       });
 
       toast({
-        title: "Your feedback has been shared with the developer",
-        duration: 5000,
+        title:
+          "Your feedback has been shared with the Content Aggregated Catalog Creation Team",
+        duration: 4000,
       });
 
       dismissFeedback();
@@ -186,7 +192,7 @@ export default function CatalogFeedback({
 
             <div className="pr-8">
               <h3 className="text-sm font-semibold text-foreground">
-                How relevant are these results?
+                Is the catalog created relevant?
               </h3>
               <p className="mt-1 text-xs text-muted-foreground">
                 Share quick feedback to help improve this catalog.
