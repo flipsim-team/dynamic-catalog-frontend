@@ -1,0 +1,391 @@
+{
+  "seller_id": 56373327,
+  "company_profile": {
+    "name": {
+      "value": "Tenex Tutorials",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "Tenex Tutorials is a highly-rated educational institution in New Delhi and Noida, dedicated to providing exceptional academic coaching and support. With an impressive 4.9-star rating from 283 reviews, they are recognized for their effective teaching methodologies and commitment to student success.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Noida",
+      "sources": [
+        "google",
+        "facebook",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "SD-06, Sector 116, South Market, East Kidwai Nagar, Marut Camp, Race Course",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "201303",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://www.tenextutorials.com",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Educational institution",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 4.9,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 283,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "9345387736681550157",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/308650379_461547112694367_5383708459825901932_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=irO3j5tqwDAQ7kNvwGCW_0R&_nc_oc=AdqoryckW0mnPCHUTuz1qH4-spjBXgGz6AAVgdDEljL3nCnFbPME6tjhHO84eCzjqG9WNWgKPx-alIqIO9muhyqP&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=Y6oewz85t_DrBxwWYvmE0Q&_nc_ss=7e289&oh=00_Af6fo20sBb2bqBmQynwWgxJBBV_Wutp51kuC_7WSDwrKCA&oe=69FF9409",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/307181519_461547109361034_1123534275107342949_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=-De0dIpqhGQQ7kNvwFccrXB&_nc_oc=Ado991gO_I5hoEXd7k2V87jgwWsoQVrWtjGNK8ohy3_EWwOiJO_IgYO506HzR1f525Wyq_v-iO4TnIpFJWkx1FWR&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=TtHu5mtvIo4v62F7cgpQRw&_nc_ss=7e289&oh=00_Af5Q48fqzaUXp9H1VQX8u4Yg5iKUF2IIZfak22EZe0iWXg&oe=69FF892A",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/tenextutorial",
+      "sources": [
+        "google",
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "9811363863",
+        "sources": [
+          "google",
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "8048052844",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "tenextutorials@yahoo.com",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "tenextutorials@yahoo.co.in",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/tenextutorial",
+        "sources": [
+          "google",
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "followers_facebook": 1375,
+    "confidence": 0.9,
+    "sources": [
+      "google",
+      "facebook"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 1375
+      }
+    ],
+    "data_sources": [
+      "website"
+    ]
+  },
+  "products": [],
+  "media_assets": [],
+  "catalog_items": [],
+  "rejected_items": [],
+  "reviews": [
+    {
+      "author": "Arnav",
+      "rating": 5,
+      "text": "Excellent tuition centre with very supportive and knowledgeable teachers. Concepts are explained clearly, doubts are handled patiently, and individual attention really helps improve performance. Highly recommended for quality learning and great results.",
+      "original_lang": null,
+      "date": "2026-01-26T09:43:34Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Devansh Singh",
+      "rating": 5,
+      "text": "Joining this coaching program was one of the best decisions I’ve ever made. From day one, the guidance was clear, motivating, and completely tailored to my goals. The coach doesn’t just teach—you feel truly supported, understood, and challenged to become your best self.",
+      "original_lang": null,
+      "date": "2026-01-26T09:31:10Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Amit",
+      "rating": 5,
+      "text": "Thank you so much sumit Sir.i studied class 11 maths from your videos..Sir explains the concepts in a manner that is easy to understand .sir's knowledge  of the subject is unparallel. The extra questions in your videos were also a great bonus.Thank you Sir",
+      "original_lang": null,
+      "date": "2026-03-03T08:38:01Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Maanya Chadha",
+      "rating": 5,
+      "text": "Very good, dedicated teachers. They make us do very thorough preparations for exams. 50% of the question paper comes from their assignments. 12/10, would recommend.",
+      "original_lang": null,
+      "date": "2026-01-27T12:01:38Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Aarna Shukla",
+      "rating": 5,
+      "text": "Vipin sir is the one of the best skilled teacher who can explain concepts with clear cut methods for better understanding. His science classes are the best and he is always there to support the students .",
+      "original_lang": null,
+      "date": "2026-01-27T12:01:47Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Kartik Sharma",
+      "rating": 5,
+      "text": "Best coaching for board class . Math is taught by Disha mam for class tenth and science by Vipin sir .",
+      "original_lang": null,
+      "date": "2026-01-26T09:55:10Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Gaurika Handa",
+      "rating": 5,
+      "text": "Vipin sir,A very good science teacher who explains concepts clearly and makes learning interesting. Always supportive and patient with students.",
+      "original_lang": null,
+      "date": "2026-01-27T12:01:06Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Ashok Srivastava",
+      "rating": 5,
+      "text": "One of the best institute. Disha mam teaching Math for 9th and 10th is outstanding.  Other teachers are also of extraordinary caliber. Here teachers just not only teach but motivate and encourage students.",
+      "original_lang": null,
+      "date": "2025-03-08T07:23:15Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 4.9,
+    "no_of_ratings": 283,
+    "rating_comments": [
+      "Excellent tuition centre with very supportive and knowledgeable teachers. Concepts are explained clearly, doubts are handled patiently, and individual attention really helps improve performance. Highly recommended for quality learning and great results.",
+      "Joining this coaching program was one of the best decisions I’ve ever made. From day one, the guidance was clear, motivating, and completely tailored to my goals. The coach doesn’t just teach—you feel truly supported, understood, and challenged to become your best self.",
+      "Thank you so much sumit Sir.i studied class 11 maths from your videos..Sir explains the concepts in a manner that is easy to understand .sir's knowledge  of the subject is unparallel. The extra questions in your videos were also a great bonus.Thank you Sir",
+      "Very good, dedicated teachers. They make us do very thorough preparations for exams. 50% of the question paper comes from their assignments. 12/10, would recommend.",
+      "Vipin sir is the one of the best skilled teacher who can explain concepts with clear cut methods for better understanding. His science classes are the best and he is always there to support the students .",
+      "Best coaching for board class . Math is taught by Disha mam for class tenth and science by Vipin sir .",
+      "Vipin sir,A very good science teacher who explains concepts clearly and makes learning interesting. Always supportive and patient with students.",
+      "One of the best institute. Disha mam teaching Math for 9th and 10th is outstanding.  Other teachers are also of extraordinary caliber. Here teachers just not only teach but motivate and encourage students."
+    ],
+    "reviews_url": null
+  },
+  "overall_confidence": 0.18,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/tenextutorial",
+      "profile_pic_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/308650379_461547112694367_5383708459825901932_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=irO3j5tqwDAQ7kNvwGCW_0R&_nc_oc=AdqoryckW0mnPCHUTuz1qH4-spjBXgGz6AAVgdDEljL3nCnFbPME6tjhHO84eCzjqG9WNWgKPx-alIqIO9muhyqP&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=Y6oewz85t_DrBxwWYvmE0Q&_nc_ss=7e289&oh=00_Af6fo20sBb2bqBmQynwWgxJBBV_Wutp51kuC_7WSDwrKCA&oe=69FF9409",
+      "banner_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/307181519_461547109361034_1123534275107342949_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=-De0dIpqhGQQ7kNvwFccrXB&_nc_oc=Ado991gO_I5hoEXd7k2V87jgwWsoQVrWtjGNK8ohy3_EWwOiJO_IgYO506HzR1f525Wyq_v-iO4TnIpFJWkx1FWR&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=TtHu5mtvIo4v62F7cgpQRw&_nc_ss=7e289&oh=00_Af5Q48fqzaUXp9H1VQX8u4Yg5iKUF2IIZfak22EZe0iWXg&oe=69FF892A",
+      "bio": "Our branches:-\n1)  SD-06 , Sector-116, Noida \n2)  South Market, East kidwai nagar\n3)  Marut Camp, Race Course",
+      "followers_count": 1375,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/tenextutorial/posts/pfbid02bMkg7MS4sc2K3VPzLBSr7PhCKY1peRxfq65BZEUb9PYMaa9NqGToWCVJ3TVG4xxKl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1344142751101461&set=a.461547082694370",
+          "caption": "Best results in Delhi ncr \n\nIf you’re searching for the best results in Delhi NCR, choosing the right guidance and coaching can make all the difference. Tenex Tutorials has quickly become a trusted name for students who want consistent academic success and top performance. With a focus on personalized learning, Tenex Tutorials ensures that every student receives the attention they need to excel in their studies.\n\nOne of the key reasons why Tenex Tutorials stands out in Delhi NCR is its team of highly experienced educators. They use structured lesson plans, regular assessments, and proven teaching methods to help students achieve outstanding results. Whether you are preparing for school exams, competitive tests, or entrance exams, Tenex Tutorials provides a strong academic foundation.\n\nAnother advantage of Tenex Tutorials is its student-centric approach. Small batch sizes, doubt-clearing sessions, and performance tracking help students stay ahead. Parents also trust Tenex Tutorials for its transparent progress updates and commitment to excellence.\n\nIn the competitive academic environment of Delhi NCR, Tenex Tutorials continues to deliver top results year after year. If you are aiming for success and want reliable coaching, Tenex Tutorials is a smart choice for achieving your academic goals.\nAdmissions Open\nJoin TENEX For Best Results\nClasses  at \nNoida sec 116\nSuperteceh cape town 74\nEast kidwai nagar\nRace course\n\nCall today to book ur Free Trial \n9811363863. For more info visit us at https://www.tenextutorials.com/latest-update/best-results-in-delhi-ncr/88?utm_source=facebookpage",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777547671
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/tenextutorial/posts/pfbid02NsoL4dexsf1SGAZMke88AQckDGSAFMTPHY6wTLVCTspWjaUNJPrYCH9qv6ah5uH1l",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1336172401898496&set=a.461547082694370",
+          "caption": "Looking for the best coaching institute in Delhi NCR with proven results? \n\n Looking for the best coaching institute in Delhi NCR with proven results? Admissions are now open for the new academic session, offering top-quality guidance for students across all major subjects. Our institute is known for delivering the best results in Delhi NCR, helping students excel in board exams and competitive tests with confidence. With experienced faculty, structured study material, and regular assessments, we ensure every student gets personalized attention and a clear path to success. Our focus is not just on completing the syllabus, but on building strong concepts, improving problem-solving skills, and boosting overall academic performance. Parents trust us for our consistent track record of top results, while students choose us for our supportive learning environment and result-oriented teaching methods. Limited seats are available to maintain quality education, so early admission is highly recommended. If you want the best results in Delhi NCR and a reliable coaching institute that truly supports your academic journey, enroll now. Admissions are open—secure your seat today and take the first step towards academic excellence. Admissions Open Join TENEX For Best Results Classes at Noida sec 116 Superteceh cape town 74 East kidwai nagar Race course Call today to book ur Free Trial 9811363863. For more info visit us at https://www.tenextutorials.com/latest-update/looking-for-the-best-coaching-institute-in-delhi-ncr-with-proven-results/87?utm_source=facebookpage",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1776709881
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/tenextutorial/posts/pfbid0EC1p6BbsaFbDeMe8jAjSNNXTQKHhXZVJDdNFdKVFMivqczSinR2vBu7V4WFdJ5R1l",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1335750418607361&set=a.461547082694370",
+          "caption": "Admissions Open in Delhi NCR – Join the Coaching Institute Delivering the Best Results\n\nAdmissions Open in Delhi NCR – Join the Coaching Institute Delivering the Best Results\n\nLooking for the best coaching institute in Delhi NCR with proven results? Admissions are now open for the new academic session, offering top-quality guidance for students across all major subjects. Our institute is known for delivering the best results in Delhi NCR, helping students excel in board exams and competitive tests with confidence.\n\nWith experienced faculty, structured study material, and regular assessments, we ensure every student gets personalized attention and a clear path to success. Our focus is not just on completing the syllabus, but on building strong concepts, improving problem-solving skills, and boosting overall academic performance.\n\nParents trust us for our consistent track record of top results, while students choose us for our supportive learning environment and result-oriented teaching methods. Limited seats are available to maintain quality education, so early admission is highly recommended.\n\nIf you want the best results in Delhi NCR and a reliable coaching institute that truly supports your academic journey, enroll now. Admissions are open—secure your seat today and take the first step towards academic excellence.\nAdmissions Open\nJoin TENEX For Best Results\nClasses  at \nNoida sec 116\nSuperteceh cape town 74\nEast kidwai nagar\nRace course\nCall today to book ur Free Trial \n9811363863\n. For more info visit us at https://www.tenextutorials.com/latest-update/admissions-open-in-delhi-ncr-join-the-coaching-institute-delivering-the-best-results/86?utm_source=facebookpage",
+          "likes": 1,
+          "comments": null,
+          "views": null,
+          "posted_at": 1776666657
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "9811363863",
+          "date": 1777547671,
+          "post_url": "https://www.facebook.com/tenextutorial/posts/pfbid02bMkg7MS4sc2K3VPzLBSr7PhCKY1peRxfq65BZEUb9PYMaa9NqGToWCVJ3TVG4xxKl"
+        }
+      ],
+      "extra_profile": {
+        "phone": "+91 98113 63863",
+        "email": "tenextutorials@yahoo.com",
+        "website": "http://www.tenextutorials.com/",
+        "address": "Noida(sector-116), East Kidwai Nagar, Race Course",
+        "city": null
+      }
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-05T08:45:22.314Z",
+    "duration_seconds": 27,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 0,
+      "Agent04/Media": 0,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [
+          "reviews"
+        ],
+        "quality_target": 0.75,
+        "reasoning": "The seller record contains a company profile but no raw products. Therefore, I will enrich the company profile, and then call product and dedup agents which will process an empty list of products. The reviews agent will be skipped as no reviews API URL is provided. Finally, the catalog will be written."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": null,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 0,
+      "enriched": 0,
+      "catalog_items": 0,
+      "rejected": 0,
+      "with_vision": 0,
+      "vision_skipped": 0
+    },
+    "social": {
+      "urls_detected": 1,
+      "platforms_scraped": [
+        "facebook"
+      ],
+      "posts_collected": 3,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.18
+  },
+  "_saved_at": "2026-05-05T08:45:49.538Z"
+}
