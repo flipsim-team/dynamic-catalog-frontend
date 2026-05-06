@@ -73,6 +73,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
         ? "Multiple"
         : "Public";
   const hasIndividual = reviews.length > 0;
+  const hasAggregate = rating != null;
   const filteredReviews = useMemo(() => {
     return reviews.filter((review) => {
       const starMatch =
@@ -181,7 +182,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
           </div>
 
           <div
-            className={`grid ${hasIndividual ? "lg:grid-cols-[1.1fr_0.9fr]" : "grid-cols-1"} gap-6 lg:items-stretch`}
+            className={`grid ${hasAggregate && hasIndividual ? "lg:grid-cols-[1.1fr_0.9fr]" : "grid-cols-1"} gap-6 lg:items-stretch`}
           >
             {/* Aggregate */}
             {rating != null && (

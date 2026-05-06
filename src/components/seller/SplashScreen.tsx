@@ -1,4 +1,5 @@
 import { useState } from "react";
+import ParticlesBackground from "./ParticlesBackground";
 import { motion } from "framer-motion";
 
 export default function SplashScreen({
@@ -21,8 +22,9 @@ export default function SplashScreen({
     <motion.div
       initial={{ opacity: 1 }}
       exit={{ opacity: 0, transition: { duration: 0.45, ease: "easeOut" } }}
-      className="fixed inset-0 z-[120] flex items-center justify-center overflow-hidden bg-background"
+      className="fixed inset-0 z-[120] flex items-center justify-center overflow-hidden bg-transparent"
     >
+      <ParticlesBackground variant="catalog" className="z-0 opacity-85" />
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,hsl(var(--primary)/0.1),transparent_32%),radial-gradient(circle_at_80%_20%,hsl(var(--secondary)/0.08),transparent_28%),linear-gradient(135deg,hsl(var(--foreground)/0.04),transparent_40%,hsl(var(--foreground)/0.03))]" />
       <motion.div
         animate={{ scale: [1, 1.08, 1], opacity: [0.15, 0.3, 0.15] }}
