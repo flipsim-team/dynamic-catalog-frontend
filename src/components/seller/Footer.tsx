@@ -106,16 +106,17 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
           >
             <div>
               <div className="flex items-center gap-3 mb-4">
-                <div className="w-11 h-11 rounded-full overflow-hidden border border-white/10 bg-white flex items-center justify-center shadow-sm">
+                <div className="relative w-11 h-11 rounded-full overflow-hidden border border-white/10 bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 flex items-center justify-center shadow-lg">
+                  <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,hsl(var(--primary)/0.22),transparent_58%)]" />
                   {showAvatar ? (
                     <img
                       src={data.avatarUrl?.value}
                       alt={data.sellerName}
-                      className="h-full w-full object-contain bg-white p-px"
+                      className="relative z-10 h-full w-full object-contain p-1"
                       onError={() => setAvatarFailed(true)}
                     />
                   ) : (
-                    <span className="font-bold text-sm text-primary">
+                    <span className="relative z-10 font-bold text-sm text-white">
                       {initials}
                     </span>
                   )}

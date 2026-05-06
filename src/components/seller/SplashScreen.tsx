@@ -23,7 +23,7 @@ export default function SplashScreen({
       exit={{ opacity: 0, transition: { duration: 0.45, ease: "easeOut" } }}
       className="fixed inset-0 z-[120] flex items-center justify-center overflow-hidden bg-background"
     >
-      <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,hsl(var(--primary)/0.06),transparent_32%),radial-gradient(circle_at_80%_20%,hsl(var(--secondary)/0.05),transparent_28%)]" />
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,hsl(var(--primary)/0.1),transparent_32%),radial-gradient(circle_at_80%_20%,hsl(var(--secondary)/0.08),transparent_28%),linear-gradient(135deg,hsl(var(--foreground)/0.04),transparent_40%,hsl(var(--foreground)/0.03))]" />
       <motion.div
         animate={{ scale: [1, 1.08, 1], opacity: [0.15, 0.3, 0.15] }}
         transition={{ duration: 2.4, repeat: Infinity, ease: "easeInOut" }}
@@ -34,12 +34,13 @@ export default function SplashScreen({
           initial={{ scale: 0.9, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ duration: 0.65, ease: [0.22, 1, 0.36, 1] }}
-          className="relative flex h-28 w-28 items-center justify-center rounded-[2rem] border border-border bg-card shadow-lg overflow-hidden"
+          className="relative flex h-28 w-28 items-center justify-center overflow-hidden rounded-[2rem] border border-white/10 bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 shadow-2xl"
         >
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,hsl(var(--primary)/0.22),transparent_58%)]" />
           <motion.div
             animate={{ rotate: 360 }}
             transition={{ duration: 10, repeat: Infinity, ease: "linear" }}
-            className="absolute inset-2 rounded-[1.5rem] border border-dashed border-primary/20"
+            className="absolute inset-2 rounded-[1.5rem] border border-dashed border-white/15"
           />
           {showAvatar ? (
             <img
@@ -49,7 +50,7 @@ export default function SplashScreen({
               onError={() => setAvatarFailed(true)}
             />
           ) : (
-            <span className="relative z-10 bg-gradient-to-br from-primary via-brand-indigo to-secondary bg-clip-text text-3xl font-black text-transparent">
+            <span className="relative z-10 bg-gradient-to-br from-white via-primary/90 to-secondary bg-clip-text text-3xl font-black text-transparent">
               {initials}
             </span>
           )}
