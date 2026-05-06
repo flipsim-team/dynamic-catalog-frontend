@@ -32,7 +32,7 @@ export default function CatalogFeedback({
   const [isVisible, setIsVisible] = useState(false);
   const [isNegativeOpen, setIsNegativeOpen] = useState(false);
   const [isDismissed, setIsDismissed] = useState(false);
-  const feedbackRecipientEmail = "gunjan.bhanarkar@indiamart.com";
+  const feedbackRecipientEmail = "test@test.com";
   const dismissedKey = getDismissedKey(sellerId);
 
   useEffect(() => {
