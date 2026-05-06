@@ -1,6 +1,17 @@
-import { useEffect, useState } from "react";
+/* eslint-disable react-hooks/exhaustive-deps */
+import { useEffect, useState, useRef } from "react";
+import { createPortal } from "react-dom";
+import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
-import { ArrowRight, Building2, Hash, Search, Store } from "lucide-react";
+import {
+  ArrowRight,
+  BookDashedIcon,
+  BookOpenText,
+  Building2,
+  Hash,
+  Search,
+  Store,
+} from "lucide-react";
 import { motion } from "framer-motion";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -12,6 +23,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
+import ParticlesBackground from "@/components/seller/ParticlesBackground";
 import {
   type SellerCatalogSummary,
   listAvailableSellerCatalogs,
@@ -21,6 +33,14 @@ const Dashboard = () => {
   const [catalogs, setCatalogs] = useState<SellerCatalogSummary[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState("");
+  const [showSuggestions, setShowSuggestions] = useState(false);
+  const searchRef = useRef<HTMLDivElement | null>(null);
+  const [selectedIndex, setSelectedIndex] = useState<number>(-1);
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    if (!showSuggestions) setSelectedIndex(-1);
+  }, [showSuggestions]);
 
   useEffect(() => {
     let active = true;
@@ -48,9 +68,32 @@ const Dashboard = () => {
     );
   });
 
+  // clamp selectedIndex when results change
+  useEffect(() => {
+    const len = Math.min(filteredCatalogs.length, 8);
+    if (len === 0) {
+      setSelectedIndex(-1);
+      return;
+    }
+    if (selectedIndex >= len) setSelectedIndex(len - 1);
+  }, [filteredCatalogs.length]);
+
+  // scroll selected suggestion into view
+  useEffect(() => {
+    if (selectedIndex < 0) return;
+    const el = document.getElementById(`suggestion-${selectedIndex}`);
+    if (el) el.scrollIntoView({ block: "nearest" });
+  }, [selectedIndex]);
+
+  function SuggestionsPortal({ children }: { children: React.ReactNode }) {
+    if (typeof document === "undefined") return null;
+    return createPortal(children, document.body);
+  }
+
   return (
-    <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.9),_rgba(243,244,246,0.95)_40%,_rgba(229,231,235,1))] text-foreground">
-      <div className="mx-auto flex min-h-screen w-full max-w-7xl flex-col px-4 py-10 sm:px-6 lg:px-8">
+    <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.9),_rgba(243,244,246,0.95)_40%,_rgba(229,231,235,1))] text-foreground relative">
+      <ParticlesBackground variant="dashboard" className="z-0 opacity-100" />
+      <div className="mx-auto relative z-10 flex min-h-screen w-full max-w-7xl flex-col px-4 py-10 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
@@ -87,14 +130,114 @@ const Dashboard = () => {
                   {isLoading ? "—" : catalogs.length}
                 </div>
               </div>
-              <div className="relative">
-                <Search className="absolute left-3 top-3.5 h-4 w-4 text-slate-400" />
+              <div
+                ref={searchRef}
+                className="relative rounded-2xl border border-border/70 bg-white px-4 py-3 shadow-sm flex items-center"
+              >
+                <Search className="absolute left-6 h-4 w-4 text-slate-400" />
                 <Input
                   placeholder="Search by seller ID or name..."
                   value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                  className="pl-10 rounded-2xl border-border/70 bg-white text-slate-950 placeholder-slate-400"
+                  onChange={(e) => {
+                    setSearchQuery(e.target.value);
+                    setSelectedIndex(-1);
+                    setShowSuggestions(true);
+                  }}
+                  onFocus={() => setShowSuggestions(true)}
+                  onBlur={() =>
+                    setTimeout(() => setShowSuggestions(false), 120)
+                  }
+                  onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => {
+                    const len = Math.min(filteredCatalogs.length, 8);
+                    if (e.key === "ArrowDown") {
+                      e.preventDefault();
+                      if (!showSuggestions) {
+                        if (len > 0) {
+                          setSelectedIndex(0);
+                          setShowSuggestions(true);
+                        }
+                        return;
+                      }
+                      if (len === 0) return;
+                      setSelectedIndex((i) => (i + 1 + len) % len);
+                    } else if (e.key === "ArrowUp") {
+                      e.preventDefault();
+                      if (!showSuggestions) return;
+                      if (len === 0) return;
+                      setSelectedIndex((i) => (i - 1 + len) % len);
+                    } else if (e.key === "Enter") {
+                      if (!showSuggestions) return;
+                      e.preventDefault();
+                      if (selectedIndex >= 0 && selectedIndex < len) {
+                        const id = filteredCatalogs[selectedIndex].id;
+                        setShowSuggestions(false);
+                        navigate(`/${id}`);
+                      }
+                    } else if (e.key === "Escape") {
+                      setShowSuggestions(false);
+                    }
+                  }}
+                  className="w-full pl-12 rounded-2xl border-0 bg-transparent text-slate-950 placeholder-slate-400 focus:ring-0"
                 />
+                {showSuggestions && searchQuery.trim().length > 0 && (
+                  <SuggestionsPortal>
+                    {(() => {
+                      const rect = searchRef.current?.getBoundingClientRect();
+                      if (!rect || typeof document === "undefined") return null;
+                      const style: React.CSSProperties = {
+                        position: "absolute",
+                        left: rect.left + window.scrollX,
+                        top: rect.bottom + window.scrollY + 12,
+                        width: rect.width,
+                        zIndex: 9999,
+                      };
+
+                      return (
+                        <div
+                          style={style}
+                          className="max-h-56 overflow-auto rounded-xl border border-border bg-white shadow-lg"
+                          role="listbox"
+                        >
+                          {filteredCatalogs.slice(0, 8).map((catalog, idx) => (
+                            <div
+                              key={catalog.id}
+                              id={`suggestion-${idx}`}
+                              role="option"
+                              aria-selected={selectedIndex === idx}
+                            >
+                              <Link
+                                to={`/${catalog.id}`}
+                                className={`block px-4 py-3 ${selectedIndex === idx ? "bg-muted/30" : "hover:bg-muted/40"}`}
+                                onMouseDown={(e) => e.preventDefault()}
+                                onClick={() => setShowSuggestions(false)}
+                                onMouseEnter={() => setSelectedIndex(idx)}
+                              >
+                                <div className="flex items-center justify-between">
+                                  <div className="text-sm font-medium text-slate-950">
+                                    {catalog.sellerName}
+                                  </div>
+                                  <div className="text-xs text-slate-500">
+                                    {catalog.id}
+                                  </div>
+                                </div>
+                                {catalog.description && (
+                                  <div className="mt-1 text-xs text-slate-600 line-clamp-2">
+                                    {catalog.description}
+                                  </div>
+                                )}
+                              </Link>
+                            </div>
+                          ))}
+                          {filteredCatalogs.length === 0 && (
+                            <div className="p-4 text-sm text-slate-600">
+                              No matches
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })()}
+                  </SuggestionsPortal>
+                )}
               </div>
             </div>
           </div>
@@ -143,7 +286,8 @@ const Dashboard = () => {
                     <CardHeader className="space-y-3 pb-3">
                       <div className="flex items-start justify-between gap-3">
                         <div className="rounded-2xl bg-slate-950 p-2.5 text-white shadow-lg shadow-slate-950/10 flex-shrink-0">
-                          <Hash className="h-4 w-4" />
+                          <BookOpenText className="h-4 w-4" />
+                          {/* <Hash className="h-4 w-4" /> */}
                         </div>
                         <Badge
                           variant="outline"
