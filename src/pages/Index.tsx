@@ -10,6 +10,7 @@ import MediaGallery from "@/components/seller/MediaGallery";
 import SocialPosts from "@/components/seller/SocialPosts";
 import ReviewsSection from "@/components/seller/ReviewsSection";
 import ContactSidebar from "@/components/seller/ContactSidebar";
+import CatalogFeedback from "@/components/seller/CatalogFeedback";
 import Footer from "@/components/seller/Footer";
 import MobileCTA from "@/components/seller/MobileCTA";
 import SplashScreen from "@/components/seller/SplashScreen";
@@ -193,6 +194,7 @@ const Index = () => {
     data.whatsappUrl ||
     data.socialProfiles.some((profile) => Boolean(profile.url)),
   );
+  const feedbackTriggerSectionId = aboutHasData ? "about" : "overview";
 
   return (
     <div className="page-shell relative min-h-screen bg-background">
@@ -249,6 +251,12 @@ const Index = () => {
           </motion.div>
         )}
       </AnimatePresence>
+
+      <CatalogFeedback
+        sellerId={sellerId || data.sellerId || "unknown"}
+        sellerName={data.sellerName}
+        triggerSectionId={feedbackTriggerSectionId}
+      />
 
       <ScrollToTopButton />
     </div>
