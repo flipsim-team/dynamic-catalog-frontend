@@ -23,6 +23,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
+import ParticlesBackground from "@/components/seller/ParticlesBackground";
 import {
   type SellerCatalogSummary,
   listAvailableSellerCatalogs,
@@ -90,8 +91,9 @@ const Dashboard = () => {
   }
 
   return (
-    <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.9),_rgba(243,244,246,0.95)_40%,_rgba(229,231,235,1))] text-foreground">
-      <div className="mx-auto flex min-h-screen w-full max-w-7xl flex-col px-4 py-10 sm:px-6 lg:px-8">
+    <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.9),_rgba(243,244,246,0.95)_40%,_rgba(229,231,235,1))] text-foreground relative">
+      <ParticlesBackground variant="dashboard" className="z-0 opacity-100" />
+      <div className="mx-auto relative z-10 flex min-h-screen w-full max-w-7xl flex-col px-4 py-10 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
