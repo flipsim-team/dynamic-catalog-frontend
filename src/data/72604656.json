@@ -10,7 +10,7 @@
       "post_url": null
     },
     "description": {
-      "value": "Allied Surgical Emporium is a trusted surgical supply store in Lucknow, providing a comprehensive range of essential medical equipment and solutions. They specialize in high-quality products including Cautery Machines, OT Lights, Portable Fumigation and SS Fogger Machines, SoClean Biomedical Waste Solutions, and Surgical Sutures, serving the needs of healthcare facilities.",
+      "value": "Allied Surgical Emporium is a highly-rated surgical supply store in Lucknow, providing essential medical equipment and solutions. They offer a comprehensive range of products including Cautery Machines, OT Lights, Portable Fumigation and Fogger Machines, SoClean Biomedical Waste Solutions, and Surgical Sutures, serving the critical needs of healthcare professionals with quality and reliability.",
       "sources": [
         "llm_generated"
       ],
@@ -83,7 +83,7 @@
       "post_url": null
     },
     "logo_url": {
-      "value": "https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/97265463_564653950919628_164664978794610688_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzEuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEpdyuwvbtMClrtmKr1dUXnO9vKjrnEcQSsIXoMW7qg5gq0vAmXNoJx35HApYBHp3Y&_nc_ohc=SqH8XS18VTQQ7kNvwFOT--U&_nc_gid=WRCotqFfs7fX9Reupmsn5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af421K6zWzj580nHEA98CSzFMBn23FVLwP2CZYKFsnJXGQ&oe=69FE3E77&_nc_sid=8b3546",
+      "value": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/97265463_564653950919628_164664978794610688_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzEuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFmsMmpS8OvJph4LpJeKinaWwkVqNlBaQ1VEbWeXEP8Kcm9WR5uHuTdt2xWok8uzes&_nc_ohc=MgzH_BkyNnAQ7kNvwGFBKQT&_nc_gid=klXUk6ZsJyZksf_1Md8IlA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6SCLEHfIiHKaknNSdNJWZJaMvFDA11DNFnFrRI2ubReA&oe=6A00E177&_nc_sid=8b3546",
       "sources": [
         "instagram"
       ],
@@ -187,7 +187,7 @@
       }
     ],
     "followers_facebook": 396,
-    "followers_instagram": 93,
+    "followers_instagram": 94,
     "posts_count_instagram": 6,
     "following_count_instagram": 19,
     "followers_youtube": 61,
@@ -205,7 +205,7 @@
       },
       {
         "platform": "instagram",
-        "followers": 93
+        "followers": 94
       },
       {
         "platform": "youtube",
@@ -213,10 +213,12 @@
       }
     ],
     "data_sources": [
+      "facebook",
       "website",
       "youtube"
     ],
-    "reviews_api_url": "https://api.scrapingdog.com/google_maps/reviews?api_key=69859b2025968963c82b2349&data_id=0x399bfda6291a848d:0xec8ce8319db61921"
+    "reviews_api_url": "https://api.scrapingdog.com/google_maps/reviews?api_key=69859b2025968963c82b2349&data_id=0x399bfda6291a848d:0xec8ce8319db61921",
+    "reviews_url": "https://www.google.com/maps?cid=17045253989487483169"
   },
   "products": [
     {
@@ -227,8 +229,8 @@
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Cautery Machine",
       "product_sub_type": "Surgical Cautery Machine",
-      "buyer_persona": "Hospitals, clinics, and surgeons who require equipment for tissue cutting and coagulation during surgical procedures.",
-      "description": "Cautery Machines is a surgical cautery machine offered by Allied Surgical Emporium based in Lucknow. Priced at Rs. 130. Suitable for: Hospitals, clinics, and surgeons who require equipment for tissue cutting and coagulation during surgical procedures.",
+      "buyer_persona": "A hospital procurement manager or a surgeon looking for equipment to perform surgical procedures.",
+      "description": "Cautery Machines is a surgical cautery machine offered by Allied Surgical Emporium based in Lucknow. Priced at Rs. 130. Suitable for: A hospital procurement manager or a surgeon looking for equipment to perform surgical procedures.",
       "seo_title": "Cautery Machines Surgical Cautery Machine | Catalog Listing",
       "tags": [
         "Cautery Machines",
@@ -291,8 +293,8 @@
       "industry_segment": "Medical Equipment & Supply",
       "product_category": "Operating Theatre Light",
       "product_sub_type": "Surgical Examination Light",
-      "buyer_persona": "A procurement manager or hospital administrator purchasing specialized lighting for operating rooms or examination areas.",
-      "description": "OT Lights is a surgical examination light offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or hospital administrator purchasing specialized lighting for operating rooms or examination areas.",
+      "buyer_persona": "A procurement manager or hospital administrator purchasing specialized lighting equipment for operating theatres or examination rooms.",
+      "description": "OT Lights is a surgical examination light offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or hospital administrator purchasing specialized lighting equipment for operating theatres or examination rooms.",
       "seo_title": "OT Lights Surgical Examination Light | Catalog Listing",
       "tags": [
         "OT Lights",
@@ -333,8 +335,11 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://i.ytimg.com/vi/u27wjFOGww0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgWihMMA8=&rs=AOn4CLC7sq5Yg_R6iZkMvdVEmXOlSmxpYQ",
+      "primary_photo_url": "https://i.ytimg.com/vi/2tJY3o7Je3A/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBaKEswDw==&rs=AOn4CLCwOnOdL0EygkgUynkwuEnd9J_1_g",
       "photo_urls": [
+        "https://i.ytimg.com/vi/2tJY3o7Je3A/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBaKEswDw==&rs=AOn4CLCwOnOdL0EygkgUynkwuEnd9J_1_g",
+        "https://i.ytimg.com/vi/W91AQcoLXzQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYTyBcKGUwDw==&rs=AOn4CLC4JFpu15Pl4lzubHHLQqqlbRbqMw",
+        "https://i.ytimg.com/vi/DhzaxzNGr2o/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGEsgVChlMA8=&rs=AOn4CLC4IDoKo7ypbItED8fj6P80qzP8GQ",
         "https://i.ytimg.com/vi/u27wjFOGww0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgWihMMA8=&rs=AOn4CLC7sq5Yg_R6iZkMvdVEmXOlSmxpYQ"
       ],
       "source_url": "https://alliedsurgicalemporium.com/product/ot-lights/",
@@ -352,12 +357,12 @@
       "social_sources": [
         {
           "platform": "youtube",
-          "post_url": "https://www.youtube.com/watch?v=u27wjFOGww0",
-          "thumbnail_url": "https://i.ytimg.com/vi/u27wjFOGww0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgWihMMA8=&rs=AOn4CLC7sq5Yg_R6iZkMvdVEmXOlSmxpYQ",
-          "caption": "120000 lux",
-          "posted_at": "2021-06-28T09:55:48.000Z",
-          "likes": 8,
-          "views": 83
+          "post_url": "https://www.youtube.com/shorts/2tJY3o7Je3A",
+          "thumbnail_url": "https://i.ytimg.com/vi/2tJY3o7Je3A/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBaKEswDw==&rs=AOn4CLCwOnOdL0EygkgUynkwuEnd9J_1_g",
+          "caption": "Leds’ in a combination of white and yellow",
+          "posted_at": "2022-09-17T10:34:59.000Z",
+          "likes": 10,
+          "views": 187
         }
       ]
     },
@@ -365,17 +370,17 @@
       "raw_name": "Portable Fumigation",
       "clean_name": "Portable Fumigation",
       "fingerprint": "634fc1766b96",
-      "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Equipment & Supply",
+      "top_level_domain": "Healthcare & Medical",
+      "industry_segment": "Disinfection & Sterilization",
       "product_category": "Fumigation Machine",
       "product_sub_type": "Portable Fumigation Machine",
-      "buyer_persona": "A procurement manager or medical professional at a hospital, clinic, or laboratory looking for equipment to disinfect spaces.",
-      "description": "Portable Fumigation is a portable fumigation machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or medical professional at a hospital, clinic, or laboratory looking for equipment to disinfect spaces.",
+      "buyer_persona": "A procurement manager or facility manager at a hospital, clinic, or other medical facility looking for equipment to disinfect and sterilize spaces.",
+      "description": "Portable Fumigation is a portable fumigation machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or facility manager at a hospital, clinic, or other medical facility looking for equipment to disinfect and sterilize spaces.",
       "seo_title": "Portable Fumigation Portable Fumigation Machine | Catalog Listing",
       "tags": [
         "Portable Fumigation",
-        "Healthcare & Pharma",
-        "Medical Equipment & Supplies",
+        "Healthcare & Medical",
+        "Disinfection & Sterilization",
         "Fumigation Machine",
         "Portable Fumigation Machine"
       ],
@@ -430,18 +435,18 @@
       "clean_name": "Fogger Macines SS",
       "fingerprint": "07cb59f86048",
       "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Equipment & Supply",
+      "industry_segment": "Medical Equipment & Device",
       "product_category": "Fogger Machine",
-      "product_sub_type": "Stainless Steel Disinfection Fogger",
-      "buyer_persona": "A procurement manager for hospitals, clinics, or laboratories looking to purchase equipment for disinfection and sterilization.",
-      "description": "Fogger Macines SS is a stainless steel disinfection fogger offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager for hospitals, clinics, or laboratories looking to purchase equipment for disinfection and sterilization.",
-      "seo_title": "Fogger Macines SS Stainless Steel Disinfection Fogger | Catalog Listin",
+      "product_sub_type": "Stainless Steel Fogger Machine",
+      "buyer_persona": "A procurement manager or facility manager for a hospital, clinic, or laboratory seeking equipment for disinfection and sanitization.",
+      "description": "Fogger Macines SS is a stainless steel fogger machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or facility manager for a hospital, clinic, or laboratory seeking equipment for disinfection and sanitization.",
+      "seo_title": "Fogger Macines SS Stainless Steel Fogger Machine | Catalog Listing",
       "tags": [
         "Fogger Macines SS",
         "Healthcare & Pharma",
-        "Medical Equipment & Supplies",
+        "Medical Equipment & Devices",
         "Fogger Machine",
-        "Stainless Steel Disinfection Fogger"
+        "Stainless Steel Fogger Machine"
       ],
       "alt_text": "Fogger Macines SS from Allied Surgical Emporium",
       "domain_attributes": {
@@ -449,7 +454,7 @@
       },
       "specifications": {
         "category": "Fogger Machine",
-        "sub_type": "Stainless Steel Disinfection Fogger",
+        "sub_type": "Stainless Steel Fogger Machine",
         "image_url": null,
         "source_url": "https://alliedsurgicalemporium.com/product/fogger-macines-ss/",
         "price_single": null,
@@ -497,8 +502,8 @@
       "industry_segment": "Healthcare Waste Management",
       "product_category": "Waste Management Solution",
       "product_sub_type": "Biomedical Waste Solution",
-      "buyer_persona": "A healthcare facility administrator or procurement manager seeking compliant and efficient methods for managing and disposing of biomedical waste.",
-      "description": "SoClean Biomedical Waste Solutions is a biomedical waste solution offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare facility administrator or procurement manager seeking compliant and efficient methods for managing and disposing of biomedical waste.",
+      "buyer_persona": "A healthcare facility manager or procurement officer responsible for ensuring safe and compliant disposal of medical waste.",
+      "description": "SoClean Biomedical Waste Solutions is a biomedical waste solution offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare facility manager or procurement officer responsible for ensuring safe and compliant disposal of medical waste.",
       "seo_title": "SoClean Biomedical Waste Solutions Biomedical Waste Solution | Catalog",
       "tags": [
         "SoClean Biomedical Waste Solutions",
@@ -561,8 +566,8 @@
       "industry_segment": "Medical Devices & Supply",
       "product_category": "Suture",
       "product_sub_type": "Surgical Suture",
-      "buyer_persona": "A procurement manager or surgeon at a hospital, clinic, or surgical center purchasing essential medical consumables for surgical procedures.",
-      "description": "Surgical Sutures is a surgical suture offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or surgeon at a hospital, clinic, or surgical center purchasing essential medical consumables for surgical procedures.",
+      "buyer_persona": "A procurement manager or surgeon at a hospital or clinic purchasing essential medical consumables for surgical procedures.",
+      "description": "Surgical Sutures is a surgical suture offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or surgeon at a hospital or clinic purchasing essential medical consumables for surgical procedures.",
       "seo_title": "Surgical Sutures Surgical Suture | Catalog Listing",
       "tags": [
         "Surgical Sutures",
@@ -624,16 +629,16 @@
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Nebulizer",
-      "product_sub_type": "Nebulizer Machine",
-      "buyer_persona": "A hospital, clinic, or individual patient seeking a device for respiratory medication delivery.",
-      "description": "Nebulizer Machines is a nebulizer machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital, clinic, or individual patient seeking a device for respiratory medication delivery.",
-      "seo_title": "Nebulizer Machines Nebulizer Machine | Catalog Listing",
+      "product_sub_type": "Respiratory Nebulizer Machine",
+      "buyer_persona": "A healthcare professional, hospital procurement manager, or an individual/caregiver purchasing for respiratory therapy and management of conditions like asthma or COPD.",
+      "description": "Nebulizer Machines is a respiratory nebulizer machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare professional, hospital procurement manager, or an individual/caregiver purchasing for respiratory therapy and management of conditions like asthma or COPD.",
+      "seo_title": "Nebulizer Machines Respiratory Nebulizer Machine | Catalog Listing",
       "tags": [
         "Nebulizer Machines",
         "Healthcare & Pharma",
         "Medical Devices & Equipment",
         "Nebulizer",
-        "Nebulizer Machine"
+        "Respiratory Nebulizer Machine"
       ],
       "alt_text": "Nebulizer Machines from Allied Surgical Emporium",
       "domain_attributes": {
@@ -641,7 +646,7 @@
       },
       "specifications": {
         "category": "Nebulizer",
-        "sub_type": "Nebulizer Machine",
+        "sub_type": "Respiratory Nebulizer Machine",
         "image_url": null,
         "source_url": "https://alliedsurgicalemporium.com/product/nebulizer-machines/",
         "price_single": null,
@@ -686,26 +691,26 @@
       "clean_name": "LS Belts",
       "fingerprint": "195cfdba04c7",
       "top_level_domain": "Healthcare & Medical",
-      "industry_segment": "Orthopedic & Rehabilitation Aids",
-      "product_category": "Lumbosacral Belt",
-      "product_sub_type": "Lumbosacral Support Belt",
-      "buyer_persona": "A patient or healthcare professional seeking a supportive belt for lumbar and sacral region discomfort or injury.",
-      "description": "LS Belts is a lumbosacral support belt offered by Allied Surgical Emporium based in Lucknow. Suitable for: A patient or healthcare professional seeking a supportive belt for lumbar and sacral region discomfort or injury.",
-      "seo_title": "LS Belts Lumbosacral Support Belt | Catalog Listing",
+      "industry_segment": "Orthopaedic & Rehabilitation Aids",
+      "product_category": "Support Belt",
+      "product_sub_type": "Lumbo Sacral Support Belt",
+      "buyer_persona": "Patients seeking relief from back pain or requiring post-operative support, as well as hospitals, clinics, and pharmacies for their inventory.",
+      "description": "LS Belts is a lumbo sacral support belt offered by Allied Surgical Emporium based in Lucknow. Suitable for: Patients seeking relief from back pain or requiring post-operative support, as well as hospitals, clinics, and pharmacies for their inventory.",
+      "seo_title": "LS Belts Lumbo Sacral Support Belt | Catalog Listing",
       "tags": [
         "LS Belts",
         "Healthcare & Medical",
-        "Orthopedic & Rehabilitation Aids",
-        "Lumbosacral Belt",
-        "Lumbosacral Support Belt"
+        "Orthopaedic & Rehabilitation Aids",
+        "Support Belt",
+        "Lumbo Sacral Support Belt"
       ],
       "alt_text": "LS Belts from Allied Surgical Emporium",
       "domain_attributes": {
         "source_url": "https://alliedsurgicalemporium.com/product/ls-belts/"
       },
       "specifications": {
-        "category": "Lumbosacral Belt",
-        "sub_type": "Lumbosacral Support Belt",
+        "category": "Support Belt",
+        "sub_type": "Lumbo Sacral Support Belt",
         "image_url": null,
         "source_url": "https://alliedsurgicalemporium.com/product/ls-belts/",
         "price_single": null,
@@ -749,19 +754,19 @@
       "raw_name": "Walkers and Walking Sticks",
       "clean_name": "Walkers and Walking Sticks",
       "fingerprint": "2591afe1cac3",
-      "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Devices & Mobility Aids",
+      "top_level_domain": "Healthcare & Medical",
+      "industry_segment": "Mobility & Assistive Device",
       "product_category": "Walking Aid",
       "product_sub_type": "Walker And Walking Stick",
-      "buyer_persona": "Individuals seeking support and stability for walking due to age, injury, or disability, or healthcare providers procuring for patients.",
-      "description": "Walkers and Walking Sticks is a walker and walking stick offered by Allied Surgical Emporium based in Lucknow. Suitable for: Individuals seeking support and stability for walking due to age, injury, or disability, or healthcare providers procuring for patients.",
-      "seo_title": "Walkers and Walking Sticks Walker And Walking Stick | Catalog Listing",
+      "buyer_persona": "An individual or caregiver seeking devices to assist with mobility and balance due to age, injury, or disability.",
+      "description": "Walkers and Walking Sticks is a walker and walking stick offered by Allied Surgical Emporium based in Lucknow. Suitable for: An individual or caregiver seeking devices to assist with mobility and balance due to age, injury, or disability.",
+      "seo_title": "Walkers and Walking Sticks Walker and Walking Stick | Catalog Listing",
       "tags": [
         "Walkers and Walking Sticks",
-        "Healthcare & Pharma",
-        "Medical Devices & Mobility Aids",
+        "Healthcare & Medical",
+        "Mobility & Assistive Devices",
         "Walking Aid",
-        "Walker And Walking Stick"
+        "Walker and Walking Stick"
       ],
       "alt_text": "Walkers and Walking Sticks from Allied Surgical Emporium",
       "domain_attributes": {
@@ -817,8 +822,8 @@
       "industry_segment": "Medical Supplies & Disposable",
       "product_category": "Medical Disposable",
       "product_sub_type": "Orthopedic And General Medical Disposable",
-      "buyer_persona": "A procurement manager or medical professional in a hospital, clinic, or surgical center looking to stock essential single-use medical supplies for patient care and procedures.",
-      "description": "Orthopedic and General Medical Disposables is a orthopedic and general medical disposable offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or medical professional in a hospital, clinic, or surgical center looking to stock essential single-use medical supplies for patient care and procedures.",
+      "buyer_persona": "A procurement manager or medical professional at a hospital, clinic, or surgical center purchasing single-use items for patient care and procedures.",
+      "description": "Orthopedic and General Medical Disposables is a orthopedic and general medical disposable offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or medical professional at a hospital, clinic, or surgical center purchasing single-use items for patient care and procedures.",
       "seo_title": "Orthopedic and General Medical Disposables Orthopedic And General Medi",
       "tags": [
         "Orthopedic and General Medical Disposables",
@@ -877,17 +882,17 @@
       "raw_name": "Workstation Ventilation Systems",
       "clean_name": "Workstation Ventilation Systems",
       "fingerprint": "b327802a1b14",
-      "top_level_domain": "Healthcare & Medical",
-      "industry_segment": "Laboratory & Cleanroom Equipment",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Medical & Laboratory Equipment",
       "product_category": "Ventilation System",
       "product_sub_type": "Workstation Ventilation System",
-      "buyer_persona": "Hospitals, laboratories, and research facilities requiring controlled air environments at specific workstations for safety and compliance.",
-      "description": "Workstation Ventilation Systems is a workstation ventilation system offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, laboratories, and research facilities requiring controlled air environments at specific workstations for safety and compliance.",
+      "buyer_persona": "Hospitals, clinics, laboratories, and research facilities that require controlled air environments for specific workstations to ensure sterility, safety, and product integrity.",
+      "description": "Workstation Ventilation Systems is a workstation ventilation system offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, clinics, laboratories, and research facilities that require controlled air environments for specific workstations to ensure sterility, safety, and product integrity.",
       "seo_title": "Workstation Ventilation Systems Workstation Ventilation System | Catal",
       "tags": [
         "Workstation Ventilation Systems",
-        "Healthcare & Medical",
-        "Laboratory & Cleanroom Equipment",
+        "Healthcare & Pharma",
+        "Medical & Laboratory Equipment",
         "Ventilation System",
         "Workstation Ventilation System"
       ],
@@ -942,18 +947,18 @@
       "clean_name": "Anesthesia Machines and Trolleys",
       "fingerprint": "398df1034443",
       "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Equipment & Device",
+      "industry_segment": "Medical Equipment & Supply",
       "product_category": "Anesthesia Machine",
-      "product_sub_type": "Anesthesia Delivery System",
-      "buyer_persona": "A procurement manager or hospital administrator purchasing essential equipment for operating theaters and surgical departments.",
-      "description": "Anesthesia Machines and Trolleys is a anesthesia delivery system offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or hospital administrator purchasing essential equipment for operating theaters and surgical departments.",
-      "seo_title": "Anesthesia Machines and Trolleys Anesthesia Delivery System | Catalog ",
+      "product_sub_type": "Anesthesia Machine System",
+      "buyer_persona": "A procurement manager or medical professional at a hospital, clinic, or surgical center looking to purchase essential equipment for administering anesthesia during medical procedures.",
+      "description": "Anesthesia Machines and Trolleys is a anesthesia machine system offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or medical professional at a hospital, clinic, or surgical center looking to purchase essential equipment for administering anesthesia during medical procedures.",
+      "seo_title": "Anesthesia Machines and Trolleys Anesthesia Machine System | Catalog L",
       "tags": [
         "Anesthesia Machines and Trolleys",
         "Healthcare & Pharma",
-        "Medical Equipment & Devices",
+        "Medical Equipment & Supplies",
         "Anesthesia Machine",
-        "Anesthesia Delivery System"
+        "Anesthesia Machine System"
       ],
       "alt_text": "Anesthesia Machines and Trolleys from Allied Surgical Emporium",
       "domain_attributes": {
@@ -961,7 +966,7 @@
       },
       "specifications": {
         "category": "Anesthesia Machine",
-        "sub_type": "Anesthesia Delivery System",
+        "sub_type": "Anesthesia Machine System",
         "image_url": null,
         "source_url": "https://alliedsurgicalemporium.com/product/anesthesia-machines-and-trolleys/",
         "price_single": null,
@@ -1006,16 +1011,16 @@
       "clean_name": "Infant Warmers",
       "fingerprint": "8cf4e37905a3",
       "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Devices & Equipment",
+      "industry_segment": "Medical Equipment & Device",
       "product_category": "Infant Warmer",
       "product_sub_type": "Neonatal Care Equipment",
-      "buyer_persona": "Hospitals, clinics, and neonatal care units purchase this to provide essential thermal support for newborns, particularly those requiring intensive care.",
-      "description": "Infant Warmers is a neonatal care equipment offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, clinics, and neonatal care units purchase this to provide essential thermal support for newborns, particularly those requiring intensive care.",
+      "buyer_persona": "A hospital procurement manager or neonatologist purchasing essential equipment for neonatal intensive care units or delivery rooms to maintain stable body temperature for newborns.",
+      "description": "Infant Warmers is a neonatal care equipment offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital procurement manager or neonatologist purchasing essential equipment for neonatal intensive care units or delivery rooms to maintain stable body temperature for newborns.",
       "seo_title": "Infant Warmers Neonatal Care Equipment | Catalog Listing",
       "tags": [
         "Infant Warmers",
         "Healthcare & Pharma",
-        "Medical Devices & Equipment",
+        "Medical Equipment & Devices",
         "Infant Warmer",
         "Neonatal Care Equipment"
       ],
@@ -1056,7 +1061,7 @@
       "source_url": "https://alliedsurgicalemporium.com/product/infant-warmers/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -1073,8 +1078,8 @@
       "industry_segment": "Medical Equipment & Device",
       "product_category": "Oxygen Therapy Equipment",
       "product_sub_type": "Oxygen Concentrator And Cylinder",
-      "buyer_persona": "Healthcare providers, hospitals, clinics, and individuals requiring respiratory support or home oxygen therapy.",
-      "description": "Oxygen Concentrators and Cylinders is a oxygen concentrator and cylinder offered by Allied Surgical Emporium based in Lucknow. Suitable for: Healthcare providers, hospitals, clinics, and individuals requiring respiratory support or home oxygen therapy.",
+      "buyer_persona": "A hospital procurement manager, clinic owner, or individual patient/caregiver seeking equipment for respiratory support and oxygen delivery.",
+      "description": "Oxygen Concentrators and Cylinders is a oxygen concentrator and cylinder offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital procurement manager, clinic owner, or individual patient/caregiver seeking equipment for respiratory support and oxygen delivery.",
       "seo_title": "Oxygen Concentrators and Cylinders Oxygen Concentrator and Cylinder | ",
       "tags": [
         "Oxygen Concentrators and Cylinders",
@@ -1136,16 +1141,16 @@
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Bipap Machine",
-      "product_sub_type": "Non-invasive Ventilator",
-      "buyer_persona": "A healthcare provider, hospital procurement manager, or individual patient seeking a device for non-invasive ventilation to treat sleep apnea or respiratory conditions.",
-      "description": "BiPAP Machines is a non-invasive ventilator offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare provider, hospital procurement manager, or individual patient seeking a device for non-invasive ventilation to treat sleep apnea or respiratory conditions.",
-      "seo_title": "BiPAP Machines Non-Invasive Ventilator | Catalog Listing",
+      "product_sub_type": "Respiratory Therapy Bipap Machine",
+      "buyer_persona": "A patient or healthcare provider seeking a device for non-invasive respiratory support, primarily for conditions like sleep apnea, COPD, or other forms of respiratory insufficiency.",
+      "description": "BiPAP Machines is a respiratory therapy bipap machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A patient or healthcare provider seeking a device for non-invasive respiratory support, primarily for conditions like sleep apnea, COPD, or other forms of respiratory insufficiency.",
+      "seo_title": "BiPAP Machines Respiratory Therapy BiPAP Machine | Catalog Listing",
       "tags": [
         "BiPAP Machines",
         "Healthcare & Pharma",
         "Medical Devices & Equipment",
         "BiPAP Machine",
-        "Non-Invasive Ventilator"
+        "Respiratory Therapy BiPAP Machine"
       ],
       "alt_text": "BiPAP Machines from Allied Surgical Emporium",
       "domain_attributes": {
@@ -1153,7 +1158,7 @@
       },
       "specifications": {
         "category": "Bipap Machine",
-        "sub_type": "Non-invasive Ventilator",
+        "sub_type": "Respiratory Therapy Bipap Machine",
         "image_url": null,
         "source_url": "https://alliedsurgicalemporium.com/product/bipap-machines/",
         "price_single": null,
@@ -1184,7 +1189,7 @@
       "source_url": "https://alliedsurgicalemporium.com/product/bipap-machines/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -1264,16 +1269,16 @@
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Patient Monitor",
-      "product_sub_type": "Clinical Patient Monitor",
-      "buyer_persona": "A procurement manager or clinician at a hospital, clinic, or surgical center looking to purchase equipment for monitoring patient vital signs.",
-      "description": "Patient Monitors is a clinical patient monitor offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or clinician at a hospital, clinic, or surgical center looking to purchase equipment for monitoring patient vital signs.",
-      "seo_title": "Patient Monitors Clinical Patient Monitor | Catalog Listing",
+      "product_sub_type": "Vital Signs Patient Monitor",
+      "buyer_persona": "Hospitals, clinics, and other healthcare facilities or professionals who need to continuously monitor patients' vital signs.",
+      "description": "Patient Monitors is a vital signs patient monitor offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, clinics, and other healthcare facilities or professionals who need to continuously monitor patients' vital signs.",
+      "seo_title": "Patient Monitors Vital Signs Patient Monitor | Catalog Listing",
       "tags": [
         "Patient Monitors",
         "Healthcare & Pharma",
         "Medical Devices & Equipment",
         "Patient Monitor",
-        "Clinical Patient Monitor"
+        "Vital Signs Patient Monitor"
       ],
       "alt_text": "Patient Monitors from Allied Surgical Emporium",
       "domain_attributes": {
@@ -1281,7 +1286,7 @@
       },
       "specifications": {
         "category": "Patient Monitor",
-        "sub_type": "Clinical Patient Monitor",
+        "sub_type": "Vital Signs Patient Monitor",
         "image_url": null,
         "source_url": "https://alliedsurgicalemporium.com/product/patient-monitors/",
         "price_single": null,
@@ -1328,16 +1333,16 @@
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Blood Pressure Monitor",
-      "product_sub_type": "Digital Blood Pressure Monitor",
-      "buyer_persona": "A healthcare professional or an individual monitoring their blood pressure at home, seeking an accurate and reliable device.",
-      "description": "BP Machines is a digital blood pressure monitor offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare professional or an individual monitoring their blood pressure at home, seeking an accurate and reliable device.",
-      "seo_title": "BP Machines Digital Blood Pressure Monitor | Catalog Listing",
+      "product_sub_type": "Diagnostic Blood Pressure Monitor",
+      "buyer_persona": "A procurement manager for a hospital, clinic, or a medical professional purchasing diagnostic equipment for patient care.",
+      "description": "BP Machines is a diagnostic blood pressure monitor offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager for a hospital, clinic, or a medical professional purchasing diagnostic equipment for patient care.",
+      "seo_title": "BP Machines Diagnostic Blood Pressure Monitor | Catalog Listing",
       "tags": [
         "BP Machines",
         "Healthcare & Pharma",
         "Medical Devices & Equipment",
         "Blood Pressure Monitor",
-        "Digital Blood Pressure Monitor"
+        "Diagnostic Blood Pressure Monitor"
       ],
       "alt_text": "BP Machines from Allied Surgical Emporium",
       "domain_attributes": {
@@ -1345,7 +1350,7 @@
       },
       "specifications": {
         "category": "Blood Pressure Monitor",
-        "sub_type": "Digital Blood Pressure Monitor",
+        "sub_type": "Diagnostic Blood Pressure Monitor",
         "image_url": null,
         "source_url": "https://alliedsurgicalemporium.com/product/bp-machines/",
         "price_single": null,
@@ -1393,8 +1398,8 @@
       "industry_segment": "Medical Devices & Surgical Supply",
       "product_category": "Surgical Instrument",
       "product_sub_type": "Laparoscopic Instrument",
-      "buyer_persona": "A hospital procurement manager, surgeon, or clinic administrator looking for specialized tools for minimally invasive surgical procedures.",
-      "description": "Laparoscopic Instruments is a laparoscopic instrument offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital procurement manager, surgeon, or clinic administrator looking for specialized tools for minimally invasive surgical procedures.",
+      "buyer_persona": "A hospital procurement manager, surgeon, or medical facility administrator seeking specialized tools for minimally invasive surgical procedures.",
+      "description": "Laparoscopic Instruments is a laparoscopic instrument offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital procurement manager, surgeon, or medical facility administrator seeking specialized tools for minimally invasive surgical procedures.",
       "seo_title": "Laparoscopic Instruments Laparoscopic Instrument | Catalog Listing",
       "tags": [
         "Laparoscopic Instruments",
@@ -1455,25 +1460,25 @@
       "fingerprint": "c4f9d8203470",
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Surgical Supply",
-      "product_category": "Surgical Instrument",
-      "product_sub_type": "Orthopedic Surgical Instrument",
-      "buyer_persona": "A procurement manager or surgeon at a hospital, clinic, or surgical center purchasing specialized tools for orthopedic surgeries.",
-      "description": "Orthopedic Instruments is a orthopedic surgical instrument offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or surgeon at a hospital, clinic, or surgical center purchasing specialized tools for orthopedic surgeries.",
-      "seo_title": "Orthopedic Instruments Orthopedic Surgical Instrument | Catalog Listin",
+      "product_category": "Orthopedic Instrument",
+      "product_sub_type": "Surgical Orthopedic Instrument",
+      "buyer_persona": "Hospitals, clinics, and individual surgeons purchase these instruments for use in orthopedic surgical procedures.",
+      "description": "Orthopedic Instruments is a surgical orthopedic instrument offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, clinics, and individual surgeons purchase these instruments for use in orthopedic surgical procedures.",
+      "seo_title": "Orthopedic Instruments Surgical Orthopedic Instrument | Catalog Listin",
       "tags": [
         "Orthopedic Instruments",
         "Healthcare & Pharma",
         "Medical Devices & Surgical Supplies",
-        "Surgical Instrument",
-        "Orthopedic Surgical Instrument"
+        "Orthopedic Instrument",
+        "Surgical Orthopedic Instrument"
       ],
       "alt_text": "Orthopedic Instruments from Allied Surgical Emporium",
       "domain_attributes": {
         "source_url": "https://alliedsurgicalemporium.com/product/orthopedic-instruments/"
       },
       "specifications": {
-        "category": "Surgical Instrument",
-        "sub_type": "Orthopedic Surgical Instrument",
+        "category": "Orthopedic Instrument",
+        "sub_type": "Surgical Orthopedic Instrument",
         "image_url": null,
         "source_url": "https://alliedsurgicalemporium.com/product/orthopedic-instruments/",
         "price_single": null,
@@ -1504,7 +1509,7 @@
       "source_url": "https://alliedsurgicalemporium.com/product/orthopedic-instruments/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -1525,7 +1530,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.158Z"
+      "classified_at": "2026-05-06T07:58:09.565Z"
     },
     {
       "fingerprint": "039f81718e8a",
@@ -1537,7 +1542,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.159Z"
+      "classified_at": "2026-05-06T07:58:09.566Z"
     },
     {
       "fingerprint": "634fc1766b96",
@@ -1549,7 +1554,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.161Z"
+      "classified_at": "2026-05-06T07:58:09.572Z"
     },
     {
       "fingerprint": "07cb59f86048",
@@ -1561,7 +1566,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.161Z"
+      "classified_at": "2026-05-06T07:58:09.573Z"
     },
     {
       "fingerprint": "4ee21771bfb4",
@@ -1573,7 +1578,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.162Z"
+      "classified_at": "2026-05-06T07:58:09.573Z"
     },
     {
       "fingerprint": "1f98e2b177d4",
@@ -1585,7 +1590,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.162Z"
+      "classified_at": "2026-05-06T07:58:09.575Z"
     },
     {
       "fingerprint": "fc0dd8e7c839",
@@ -1597,7 +1602,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.163Z"
+      "classified_at": "2026-05-06T07:58:09.576Z"
     },
     {
       "fingerprint": "195cfdba04c7",
@@ -1609,7 +1614,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.163Z"
+      "classified_at": "2026-05-06T07:58:09.577Z"
     },
     {
       "fingerprint": "2591afe1cac3",
@@ -1621,7 +1626,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.164Z"
+      "classified_at": "2026-05-06T07:58:09.578Z"
     },
     {
       "fingerprint": "905d487b6285",
@@ -1633,7 +1638,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.165Z"
+      "classified_at": "2026-05-06T07:58:09.579Z"
     },
     {
       "fingerprint": "b327802a1b14",
@@ -1645,7 +1650,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.166Z"
+      "classified_at": "2026-05-06T07:58:09.580Z"
     },
     {
       "fingerprint": "398df1034443",
@@ -1657,7 +1662,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.166Z"
+      "classified_at": "2026-05-06T07:58:09.581Z"
     },
     {
       "fingerprint": "8cf4e37905a3",
@@ -1669,7 +1674,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.167Z"
+      "classified_at": "2026-05-06T07:58:09.582Z"
     },
     {
       "fingerprint": "87576cc46d7f",
@@ -1681,7 +1686,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.168Z"
+      "classified_at": "2026-05-06T07:58:09.583Z"
     },
     {
       "fingerprint": "196cc107deb6",
@@ -1693,7 +1698,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.168Z"
+      "classified_at": "2026-05-06T07:58:09.584Z"
     },
     {
       "fingerprint": "7f80cb80ccc3",
@@ -1705,7 +1710,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.169Z"
+      "classified_at": "2026-05-06T07:58:09.585Z"
     },
     {
       "fingerprint": "d2fc0f48153a",
@@ -1717,7 +1722,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.170Z"
+      "classified_at": "2026-05-06T07:58:09.586Z"
     },
     {
       "fingerprint": "5ff61d0c5a38",
@@ -1729,7 +1734,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.170Z"
+      "classified_at": "2026-05-06T07:58:09.587Z"
     },
     {
       "fingerprint": "77603180cf7d",
@@ -1741,7 +1746,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.171Z"
+      "classified_at": "2026-05-06T07:58:09.588Z"
     },
     {
       "fingerprint": "c4f9d8203470",
@@ -1753,7 +1758,7 @@
       "visual_description": "",
       "media_alt_text": "",
       "used_vision": false,
-      "classified_at": "2026-05-04T08:42:31.172Z"
+      "classified_at": "2026-05-06T07:58:09.589Z"
     }
   ],
   "catalog_items": [
@@ -1761,29 +1766,27 @@
       "fingerprint": "d7be88edfc7b",
       "raw_name": "ICU Bed",
       "clean_name": "ICU Bed",
-      "product_category": "Hospital Furniture",
+      "product_category": "Medical Bed",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "A medical bed, likely for Intensive Care Units, featuring multiple adjustable sections for patient positioning. It is constructed with a metal frame and equipped with casters for mobility, and appears to have manual adjustment cranks.",
+      "description": "A medical bed, likely for ICU use, featuring an adjustable metal frame with multiple sections for patient positioning. It includes side rails for safety and is equipped with wheels for easy mobility within a hospital or clinic setting.",
       "seo_title": "ICU Bed",
       "alt_text": "ICU Bed",
       "tags": [
         "ICU",
         "bed",
-        "hospital",
-        "medical equipment",
-        "patient care",
-        "furniture"
+        "medical bed",
+        "hospital furniture",
+        "patient care"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
       "specifications": {
-        "adjustment_type": "Manual cranks",
-        "mobility": "Casters/Wheels",
-        "frame_material": "Metal",
-        "sections": "Multi-section adjustable"
+        "Adjustability": "Multi-section adjustable frame",
+        "Mobility": "Equipped with wheels",
+        "Safety Features": "Side rails"
       },
       "b2b_attributes": {},
       "classification_confidence": 1,
@@ -1806,36 +1809,172 @@
         "caption": "icu bed",
         "posted_at": "2021-07-17T08:26:28.000Z",
         "likes": 14,
-        "views": 1479
+        "views": 1481
+      }
+    },
+    {
+      "fingerprint": "e8dca1542eb0",
+      "raw_name": "Wheelchair",
+      "clean_name": "Wheelchair",
+      "product_category": "Medical Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A standard manual wheelchair featuring a chrome-plated frame, black seat and backrest, and blue side panels. It is equipped with large spoked wheels for patient mobility.",
+      "seo_title": "Wheelchair",
+      "alt_text": "Wheelchair",
+      "tags": [
+        "wheelchair",
+        "mobility aid",
+        "medical equipment"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=OpW0J0fr5SI",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/OpW0J0fr5SI/hqdefault.jpg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/OpW0J0fr5SI/hqdefault.jpg",
+      "media_url": "https://i.ytimg.com/vi/OpW0J0fr5SI/hqdefault.jpg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=OpW0J0fr5SI",
+        "thumbnail_url": "https://i.ytimg.com/vi/OpW0J0fr5SI/hqdefault.jpg",
+        "caption": "#Alliedsurgicalemporiumagencies\n#karmafiggter3c",
+        "posted_at": "2024-02-13T13:29:20.000Z",
+        "likes": 2,
+        "views": 95
+      }
+    },
+    {
+      "fingerprint": "811c0fb2ce07",
+      "raw_name": "Surgical and Orthopaedic Instruments",
+      "clean_name": "Surgical and Orthopaedic Instruments",
+      "product_category": "Surgical Instrument",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post features a diverse collection of surgical and orthopedic instruments manufactured by Calcutta Metallic Co. The image displays various types of forceps, clamps, and retractors, demonstrating the range of precision tools available.",
+      "seo_title": "Surgical and Orthopaedic Instruments",
+      "alt_text": "Surgical and Orthopaedic Instruments",
+      "tags": [
+        "Surgical instruments",
+        "Orthopedic instruments",
+        "Forceps",
+        "Clamps",
+        "Retractors",
+        "Medical tools"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "facebook",
+      "sources": [
+        "facebook"
+      ],
+      "source_url": "https://www.facebook.com/alliedsurgicalemporium/posts/pfbid0adP6VB8mwKT3bu6tvGerRKZd2mcnQEX4vMFfCpK1hfSEaiurhfmtukArNDE9UQrnl",
+      "photo_urls": [
+        "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/484169041_1058811989599087_837932206792870405_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=jV6c-K-Azu0Q7kNvwEg3K8_&_nc_oc=AdowjOC9inYBzPef3laDJJ8ylD_A1FVWNoUYFD3hfrqN7W8brV63FDwxYOR9xRHlvM2fa53AvhVTId26Ihha3haX&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=Db4xxVmwoCVVJOA1CpswaQ&_nc_ss=72289&oh=00_Af4CrFVhXDTa7gfhVRKta4NzVvi4bmtZ7Prm7Zz8pGZimA&oe=6A00D9B3"
+      ],
+      "primary_photo_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/484169041_1058811989599087_837932206792870405_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=jV6c-K-Azu0Q7kNvwEg3K8_&_nc_oc=AdowjOC9inYBzPef3laDJJ8ylD_A1FVWNoUYFD3hfrqN7W8brV63FDwxYOR9xRHlvM2fa53AvhVTId26Ihha3haX&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=Db4xxVmwoCVVJOA1CpswaQ&_nc_ss=72289&oh=00_Af4CrFVhXDTa7gfhVRKta4NzVvi4bmtZ7Prm7Zz8pGZimA&oe=6A00D9B3",
+      "media_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/484169041_1058811989599087_837932206792870405_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=jV6c-K-Azu0Q7kNvwEg3K8_&_nc_oc=AdowjOC9inYBzPef3laDJJ8ylD_A1FVWNoUYFD3hfrqN7W8brV63FDwxYOR9xRHlvM2fa53AvhVTId26Ihha3haX&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=Db4xxVmwoCVVJOA1CpswaQ&_nc_ss=72289&oh=00_Af4CrFVhXDTa7gfhVRKta4NzVvi4bmtZ7Prm7Zz8pGZimA&oe=6A00D9B3",
+      "used_vision": true,
+      "social_source": {
+        "platform": "facebook",
+        "post_url": "https://www.facebook.com/alliedsurgicalemporium/posts/pfbid0adP6VB8mwKT3bu6tvGerRKZd2mcnQEX4vMFfCpK1hfSEaiurhfmtukArNDE9UQrnl",
+        "thumbnail_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/484169041_1058811989599087_837932206792870405_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=jV6c-K-Azu0Q7kNvwEg3K8_&_nc_oc=AdowjOC9inYBzPef3laDJJ8ylD_A1FVWNoUYFD3hfrqN7W8brV63FDwxYOR9xRHlvM2fa53AvhVTId26Ihha3haX&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=Db4xxVmwoCVVJOA1CpswaQ&_nc_ss=72289&oh=00_Af4CrFVhXDTa7gfhVRKta4NzVvi4bmtZ7Prm7Zz8pGZimA&oe=6A00D9B3",
+        "caption": null,
+        "posted_at": 1719815714,
+        "likes": 3,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "ec03267076a2",
+      "raw_name": "Forza Freedom 5000 Wheelchair",
+      "clean_name": "Forza Freedom 5000 Wheelchair",
+      "product_category": "Mobility Aid",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases a Forza Freedom 5000 wheelchair, highlighting its design and key features. The product appears to be a premium mobility aid designed for user convenience.",
+      "seo_title": "Forza Freedom 5000 Wheelchair",
+      "alt_text": "Forza Freedom 5000 Wheelchair",
+      "tags": [
+        "wheelchairpremium",
+        "Forzafreedom5000"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Armrests": "Swing Away & Detachable"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=lInzOvVD5Qw",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/lInzOvVD5Qw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC4AOKAgwIABABGGAgYChgMA8=&rs=AOn4CLBeBAQOBN4VTWK7U9t-ONhzdwkw3A"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/lInzOvVD5Qw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC4AOKAgwIABABGGAgYChgMA8=&rs=AOn4CLBeBAQOBN4VTWK7U9t-ONhzdwkw3A",
+      "media_url": "https://i.ytimg.com/vi/lInzOvVD5Qw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC4AOKAgwIABABGGAgYChgMA8=&rs=AOn4CLBeBAQOBN4VTWK7U9t-ONhzdwkw3A",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=lInzOvVD5Qw",
+        "thumbnail_url": "https://i.ytimg.com/vi/lInzOvVD5Qw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC4AOKAgwIABABGGAgYChgMA8=&rs=AOn4CLBeBAQOBN4VTWK7U9t-ONhzdwkw3A",
+        "caption": "#wheelchairpremium #Forzafreedom5000",
+        "posted_at": "2026-02-14T08:08:27.000Z",
+        "likes": null,
+        "views": 274
       }
     },
     {
       "fingerprint": "2a660fb384dc",
       "raw_name": "LED Otoscope with tip set",
       "clean_name": "LED Otoscope with tip set",
-      "product_category": "Diagnostic Instrument",
+      "product_category": "Medical Diagnostic Instrument",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "A handheld medical device designed for examining the ear canal and eardrum, featuring an LED light source for clear illumination. It comes with a set of interchangeable tips for various uses.",
+      "description": "A handheld LED otoscope, a medical diagnostic tool used for examining the ear canal and eardrum, which is supplied with a set of interchangeable tips.",
       "seo_title": "LED Otoscope with tip set",
       "alt_text": "LED Otoscope with tip set",
       "tags": [
         "Otoscope",
         "LED",
-        "Medical Device",
+        "Medical Instrument",
         "Diagnostic Tool",
-        "Ear Examination"
+        "ENT"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
       "specifications": {
         "Light Source": "LED",
-        "Accessories": "Tip Set"
+        "Included Accessories": "Tip Set"
       },
       "b2b_attributes": {},
-      "classification_confidence": 0.95,
+      "classification_confidence": 1,
       "extraction_confidence": 0.65,
       "source": "youtube",
       "sources": [
@@ -1859,27 +1998,28 @@
       }
     },
     {
-      "fingerprint": "2fea0acef6a2",
-      "raw_name": "Wheelchair Hardseat",
-      "clean_name": "Wheelchair Hardseat",
-      "product_category": "Mobility Aid",
+      "fingerprint": "9cf28700bd3c",
+      "raw_name": "K-WIRE CUTTER",
+      "clean_name": "K-WIRE CUTTER",
+      "product_category": "Surgical Instrument",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "A wheelchair featuring a hard seat design, likely for enhanced support and durability. The image shows a person demonstrating the seat.",
-      "seo_title": "Wheelchair Hardseat",
-      "alt_text": "Wheelchair Hardseat",
+      "description": "A specialized surgical instrument, specifically a K-Wire Cutter (product code SS.-A-010), designed for cutting Kirschner wires used in orthopedic procedures. It is part of a complete range of general and gynae surgery instruments offered by Shreetam Surgical.",
+      "seo_title": "K-WIRE CUTTER",
+      "alt_text": "K-WIRE CUTTER",
       "tags": [
-        "wheelchair",
-        "hardseat",
-        "mobility aid",
-        "medical equipment"
+        "K-wire cutter",
+        "surgical instrument",
+        "orthopedic",
+        "general surgery",
+        "gynae surgery"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
       "specifications": {
-        "seat_type": "Hard seat"
+        "Product Code": "SS.-A-010"
       },
       "b2b_attributes": {},
       "classification_confidence": 1,
@@ -1888,48 +2028,53 @@
       "sources": [
         "youtube"
       ],
-      "source_url": "https://www.youtube.com/watch?v=DiBLnx7GY5E",
+      "source_url": "https://www.youtube.com/watch?v=v1JMKgLgdxk",
       "photo_urls": [
-        "https://i.ytimg.com/vi/DiBLnx7GY5E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEIgTyhyMA8=&rs=AOn4CLC7zpD5tXUISw_Pw64FeG63x4ifOA"
+        "https://i.ytimg.com/vi/v1JMKgLgdxk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLBwTn9hTqmtMHen9LT_-RRYL8QVNA"
       ],
-      "primary_photo_url": "https://i.ytimg.com/vi/DiBLnx7GY5E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEIgTyhyMA8=&rs=AOn4CLC7zpD5tXUISw_Pw64FeG63x4ifOA",
-      "media_url": "https://i.ytimg.com/vi/DiBLnx7GY5E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEIgTyhyMA8=&rs=AOn4CLC7zpD5tXUISw_Pw64FeG63x4ifOA",
+      "primary_photo_url": "https://i.ytimg.com/vi/v1JMKgLgdxk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLBwTn9hTqmtMHen9LT_-RRYL8QVNA",
+      "media_url": "https://i.ytimg.com/vi/v1JMKgLgdxk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLBwTn9hTqmtMHen9LT_-RRYL8QVNA",
       "used_vision": true,
       "social_source": {
         "platform": "youtube",
-        "post_url": "https://www.youtube.com/watch?v=DiBLnx7GY5E",
-        "thumbnail_url": "https://i.ytimg.com/vi/DiBLnx7GY5E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEIgTyhyMA8=&rs=AOn4CLC7zpD5tXUISw_Pw64FeG63x4ifOA",
-        "caption": "#wheelchairshardseat #Alliedsurgicalemporiumagencies",
-        "posted_at": "2023-11-22T09:25:56.000Z",
-        "likes": 2,
-        "views": 188
+        "post_url": "https://www.youtube.com/watch?v=v1JMKgLgdxk",
+        "thumbnail_url": "https://i.ytimg.com/vi/v1JMKgLgdxk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLBwTn9hTqmtMHen9LT_-RRYL8QVNA",
+        "caption": "A complete range of general and gynae surgery instruments..",
+        "posted_at": "2022-09-23T09:48:10.000Z",
+        "likes": 1,
+        "views": 26
       }
     },
     {
-      "fingerprint": "2904d9efedb4",
-      "raw_name": "Manual Semifowler ABS Hospital Patient Bed",
-      "clean_name": "Manual Semifowler ABS Hospital Patient Bed",
-      "product_category": "Hospital Bed",
+      "fingerprint": "d9ae6b36dd4f",
+      "raw_name": "Smart ICU Monitor Trolley",
+      "clean_name": "Smart ICU Monitor Trolley",
+      "product_category": "Medical Trolley",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "This post showcases a manual semifowler hospital patient bed, constructed with ABS material. It features a crank mechanism for manual adjustments, designed for patient comfort and care in a hospital setting.",
-      "seo_title": "Manual Semifowler ABS Hospital Patient Bed",
-      "alt_text": "Manual Semifowler ABS Hospital Patient Bed",
+      "description": "This smart ICU Monitor Trolley is designed for critical care environments, offering seamless organization and effortless mobility. It is a durable and ergonomic solution, featuring multiple power outlets and a multi-device platform to keep life-saving equipment powered and within reach.",
+      "seo_title": "Smart ICU Monitor Trolley",
+      "alt_text": "Smart ICU Monitor Trolley",
       "tags": [
-        "Hospital Bed",
-        "Patient Bed",
-        "Manual Bed",
-        "Semifowler Bed",
-        "ABS Bed",
-        "Medical Furniture"
+        "MedicalEquipment",
+        "ICUTrolley",
+        "HealthcareInnovation",
+        "MedicalSupplies",
+        "PatientCare",
+        "HospitalInfrastructure",
+        "AlliedSurgical",
+        "ICUDesign"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
       "specifications": {
-        "Type": "Manual Semifowler",
-        "Material": "ABS"
+        "design": "Smart, Modern, Ergonomic",
+        "features": "Multiple power outlets, Multi-device platform, Seamless organization, Effortless mobility",
+        "durability": "Durable, Built to last",
+        "safety": "Safe & Reliable, Patient Friendly",
+        "environment": "Critical environments (ICU)"
       },
       "b2b_attributes": {},
       "classification_confidence": 1,
@@ -1938,52 +2083,104 @@
       "sources": [
         "youtube"
       ],
-      "source_url": "https://www.youtube.com/watch?v=tKmjrxd6Q0I",
+      "source_url": "https://www.youtube.com/shorts/03XrKF0q-fk",
       "photo_urls": [
-        "https://i.ytimg.com/vi/tKmjrxd6Q0I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACwAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBdN3noupHABeWkVjVlsyVbcd_StQ"
+        "https://i.ytimg.com/vi/03XrKF0q-fk/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYUyBcKGUwDw==&rs=AOn4CLDjjbSXBHyuQvRZoUA1on-MWJcBNA"
       ],
-      "primary_photo_url": "https://i.ytimg.com/vi/tKmjrxd6Q0I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACwAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBdN3noupHABeWkVjVlsyVbcd_StQ",
-      "media_url": "https://i.ytimg.com/vi/tKmjrxd6Q0I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACwAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBdN3noupHABeWkVjVlsyVbcd_StQ",
+      "primary_photo_url": "https://i.ytimg.com/vi/03XrKF0q-fk/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYUyBcKGUwDw==&rs=AOn4CLDjjbSXBHyuQvRZoUA1on-MWJcBNA",
+      "media_url": "https://i.ytimg.com/vi/03XrKF0q-fk/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYUyBcKGUwDw==&rs=AOn4CLDjjbSXBHyuQvRZoUA1on-MWJcBNA",
       "used_vision": true,
       "social_source": {
         "platform": "youtube",
-        "post_url": "https://www.youtube.com/watch?v=tKmjrxd6Q0I",
-        "thumbnail_url": "https://i.ytimg.com/vi/tKmjrxd6Q0I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACwAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBdN3noupHABeWkVjVlsyVbcd_StQ",
-        "caption": "Hospital Patient Bed",
-        "posted_at": "2022-09-17T08:26:37.000Z",
-        "likes": 5,
-        "views": 29
+        "post_url": "https://www.youtube.com/shorts/03XrKF0q-fk",
+        "thumbnail_url": "https://i.ytimg.com/vi/03XrKF0q-fk/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYUyBcKGUwDw==&rs=AOn4CLDjjbSXBHyuQvRZoUA1on-MWJcBNA",
+        "caption": "Elevate patient care with our smart ICU Monitor Trolley, designed for seamless organization and effortless mobility in critical environments. This durable, ergonomic solution features multiple power outlets and a multi-device platform to keep life-saving equipment powered and within reach.\n.\n.\n.\n.\n#MedicalEquipment #ICUTrolley #HealthcareInnovation #MedicalSupplies #PatientCare #HospitalInfrastructure #AlliedSurgical #ICUDesign",
+        "posted_at": "2026-04-29T09:19:34.000Z",
+        "likes": 3,
+        "views": 84
+      }
+    },
+    {
+      "fingerprint": "33859338406e",
+      "raw_name": "5 Function Electric ICU Bed",
+      "clean_name": "5 Function Electric ICU Bed",
+      "product_category": "Hospital Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "An electric ICU bed offering 5 functions for seamless adjustments, designed for maximum patient comfort and clinical efficiency. It is ideal for critical care environments where every detail matters.",
+      "seo_title": "5 Function Electric ICU Bed",
+      "alt_text": "5 Function Electric ICU Bed",
+      "tags": [
+        "MedicalDevices",
+        "HospitalEquipment",
+        "ICU",
+        "CriticalCare",
+        "MedTech",
+        "PatientCare"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Functions": "5",
+        "Type": "Electric",
+        "Application": "ICU / Critical Care"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=wfT0zFSjH1A",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/wfT0zFSjH1A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA7pOBARUAVFWicQI0ZBKHgjGibHw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/wfT0zFSjH1A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA7pOBARUAVFWicQI0ZBKHgjGibHw",
+      "media_url": "https://i.ytimg.com/vi/wfT0zFSjH1A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA7pOBARUAVFWicQI0ZBKHgjGibHw",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=wfT0zFSjH1A",
+        "thumbnail_url": "https://i.ytimg.com/vi/wfT0zFSjH1A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA7pOBARUAVFWicQI0ZBKHgjGibHw",
+        "caption": "Advancing patient care with precision. 🩺 Our 5 Function Electric ICU Bed offers seamless adjustments for maximum comfort and clinical efficiency. Perfect for critical care environments where every detail matters.\n.\n.\n.\n.\n#MedicalDevices #HospitalEquipment #ICU #CriticalCare #MedTech #SurgicalSupplies #HospitalManagement #PatientCare #MedicalSupply #AlliedSurgical",
+        "posted_at": "2026-04-24T12:24:52.000Z",
+        "likes": null,
+        "views": 8
       }
     },
     {
       "fingerprint": "d6f213652d85",
       "raw_name": "Gynae Delivery Specialist Table",
       "clean_name": "Gynae Delivery Specialist Table",
-      "product_category": "Obstetric/gynecology Table",
+      "product_category": "Medical Table",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "This Gynae Delivery Specialist Table is designed to ensure a smooth and comfortable delivery experience for both mother and clinician. It features a U-shape top, an adjustable backrest, and strong side support handles.",
+      "description": "A Gynae Delivery Specialist Table designed to ensure a smooth and comfortable delivery experience for both mother and clinician.",
       "seo_title": "Gynae Delivery Specialist Table",
       "alt_text": "Gynae Delivery Specialist Table",
       "tags": [
-        "Obstetric Table",
-        "Gynae Care",
-        "Maternal Health",
-        "Delivery Room",
+        "ObstetricTable",
+        "GynaeCare",
+        "MaternalHealth",
+        "DeliveryRoom",
         "Gynecology",
         "Obstetrics",
-        "Medical Supplies",
-        "Hospital Equipment",
-        "Durable Medical Equipment"
+        "MedicalSupplies",
+        "SurgicalInstruments",
+        "HospitalEquipment",
+        "DurableMedicalEquipment"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
       "specifications": {
-        "Top Shape": "U-shape",
-        "Backrest": "Adjustable",
-        "Support Handles": "Strong side support handles"
+        "top_shape": "U-shape",
+        "backrest": "adjustable",
+        "side_support_handles": "strong"
       },
       "b2b_attributes": {},
       "classification_confidence": 1,
@@ -2010,13 +2207,161 @@
       }
     },
     {
+      "fingerprint": "2fea0acef6a2",
+      "raw_name": "Wheelchair Hardseat",
+      "clean_name": "Wheelchair Hardseat",
+      "product_category": "Mobility Aid",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A wheelchair featuring a durable hard seat, designed to provide stable support for patient mobility. The post demonstrates the hard seat component of the wheelchair.",
+      "seo_title": "Wheelchair Hardseat",
+      "alt_text": "Wheelchair Hardseat",
+      "tags": [
+        "wheelchair",
+        "hardseat",
+        "mobility aid",
+        "medical equipment",
+        "patient care"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "seat_type": "Hardseat"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=DiBLnx7GY5E",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/DiBLnx7GY5E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEIgTyhyMA8=&rs=AOn4CLC7zpD5tXUISw_Pw64FeG63x4ifOA"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/DiBLnx7GY5E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEIgTyhyMA8=&rs=AOn4CLC7zpD5tXUISw_Pw64FeG63x4ifOA",
+      "media_url": "https://i.ytimg.com/vi/DiBLnx7GY5E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEIgTyhyMA8=&rs=AOn4CLC7zpD5tXUISw_Pw64FeG63x4ifOA",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=DiBLnx7GY5E",
+        "thumbnail_url": "https://i.ytimg.com/vi/DiBLnx7GY5E/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGEIgTyhyMA8=&rs=AOn4CLC7zpD5tXUISw_Pw64FeG63x4ifOA",
+        "caption": "#wheelchairshardseat #Alliedsurgicalemporiumagencies",
+        "posted_at": "2023-11-22T09:25:56.000Z",
+        "likes": 2,
+        "views": 188
+      }
+    },
+    {
+      "fingerprint": "0e1ab4c775a1",
+      "raw_name": "Freedom 3000 Wheelchair",
+      "clean_name": "Freedom 3000 Wheelchair",
+      "product_category": "Mobility Aid",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The Freedom 3000 Wheelchair is designed for comfort and convenience, featuring detachable wheels, swing-away arms, and a foldable frame. It is ideal for individuals who are frequently on the move.",
+      "seo_title": "Freedom 3000 Wheelchair",
+      "alt_text": "Freedom 3000 Wheelchair",
+      "tags": [
+        "MobilityAid",
+        "Wheelchair",
+        "MedicalEquipment",
+        "Freedom3000",
+        "AlliedSurgical",
+        "SurgicalAgencies",
+        "PatientCare"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "detachable_wheels": "Yes",
+        "swing_away_arms": "Yes",
+        "foldable_frame": "Yes"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/RqJv9agQ_gA",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/RqJv9agQ_gA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYViBfKGUwDw==&rs=AOn4CLBlSj-7lryyvKofsOD_Lpwfcr5-Xw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/RqJv9agQ_gA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYViBfKGUwDw==&rs=AOn4CLBlSj-7lryyvKofsOD_Lpwfcr5-Xw",
+      "media_url": "https://i.ytimg.com/vi/RqJv9agQ_gA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYViBfKGUwDw==&rs=AOn4CLBlSj-7lryyvKofsOD_Lpwfcr5-Xw",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/RqJv9agQ_gA",
+        "thumbnail_url": "https://i.ytimg.com/vi/RqJv9agQ_gA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYViBfKGUwDw==&rs=AOn4CLBlSj-7lryyvKofsOD_Lpwfcr5-Xw",
+        "caption": "The ultimate blend of comfort and convenience: The Freedom 3000 Wheelchair. ✅ Detachable wheels, swing-away arms, and a foldable frame for the person on the move. Available now at Allied Surgical Emporium Agencies\n.\n.\n.\n#MobilityAid #Wheelchair #MedicalEquipment #Freedom3000 #AlliedSurgical #SurgicalAgencies #PatientCare",
+        "posted_at": "2026-04-15T09:04:47.000Z",
+        "likes": 2,
+        "views": 6
+      }
+    },
+    {
+      "fingerprint": "d8cd963dbc21",
+      "raw_name": "Karma sunny 9 Wheelchair",
+      "clean_name": "Karma sunny 9 Wheelchair",
+      "product_category": "Wheelchair",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases the 'Karma sunny 9 Wheelchair', which appears to be a new product, partially wrapped in plastic. It features large rear wheels, suggesting a manual wheelchair design, and is being handled or assembled.",
+      "seo_title": "Karma sunny 9 Wheelchair",
+      "alt_text": "Karma sunny 9 Wheelchair",
+      "tags": [
+        "Wheelchair",
+        "Mobility Aid",
+        "Karma",
+        "sunny 9"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Model": "sunny 9",
+        "Brand": "Karma"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/X-W86gmuwWg",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/X-W86gmuwWg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgTyhJMA8=&rs=AOn4CLDG-_5lcry2L8niE-itAupJ3I9UIw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/X-W86gmuwWg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgTyhJMA8=&rs=AOn4CLDG-_5lcry2L8niE-itAupJ3I9UIw",
+      "media_url": "https://i.ytimg.com/vi/X-W86gmuwWg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgTyhJMA8=&rs=AOn4CLDG-_5lcry2L8niE-itAupJ3I9UIw",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/X-W86gmuwWg",
+        "thumbnail_url": "https://i.ytimg.com/vi/X-W86gmuwWg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgTyhJMA8=&rs=AOn4CLDG-_5lcry2L8niE-itAupJ3I9UIw",
+        "caption": "Wheelchair sunny 9",
+        "posted_at": "2025-01-04T07:58:48.000Z",
+        "likes": 3,
+        "views": 173
+      }
+    },
+    {
       "clean_name": "Cautery Machines",
       "fingerprint": "c020906ca323",
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Cautery Machine",
       "product_sub_type": "Surgical Cautery Machine",
-      "buyer_persona": "Hospitals, clinics, and surgeons who require equipment for tissue cutting and coagulation during surgical procedures.",
+      "buyer_persona": "A hospital procurement manager or a surgeon looking for equipment to perform surgical procedures.",
       "seo_title": "Cautery Machines Surgical Cautery Machine | Catalog Listing",
       "tags": [
         "Cautery Machines",
@@ -2055,7 +2400,7 @@
       "sources": [
         "website"
       ],
-      "description": "Cautery Machines is a surgical cautery machine offered by Allied Surgical Emporium based in Lucknow. Priced at Rs. 130. Suitable for: Hospitals, clinics, and surgeons who require equipment for tissue cutting and coagulation during surgical procedures.",
+      "description": "Cautery Machines is a surgical cautery machine offered by Allied Surgical Emporium based in Lucknow. Priced at Rs. 130. Suitable for: A hospital procurement manager or a surgeon looking for equipment to perform surgical procedures.",
       "specifications": {
         "category": "Cautery Machine",
         "sub_type": "Surgical Cautery Machine"
@@ -2071,7 +2416,7 @@
       "industry_segment": "Medical Equipment & Supply",
       "product_category": "Operating Theatre Light",
       "product_sub_type": "Surgical Examination Light",
-      "buyer_persona": "A procurement manager or hospital administrator purchasing specialized lighting for operating rooms or examination areas.",
+      "buyer_persona": "A procurement manager or hospital administrator purchasing specialized lighting equipment for operating theatres or examination rooms.",
       "seo_title": "OT Lights Surgical Examination Light | Catalog Listing",
       "tags": [
         "OT Lights",
@@ -2097,8 +2442,11 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://i.ytimg.com/vi/u27wjFOGww0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgWihMMA8=&rs=AOn4CLC7sq5Yg_R6iZkMvdVEmXOlSmxpYQ",
+      "primary_photo_url": "https://i.ytimg.com/vi/2tJY3o7Je3A/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBaKEswDw==&rs=AOn4CLCwOnOdL0EygkgUynkwuEnd9J_1_g",
       "photo_urls": [
+        "https://i.ytimg.com/vi/2tJY3o7Je3A/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBaKEswDw==&rs=AOn4CLCwOnOdL0EygkgUynkwuEnd9J_1_g",
+        "https://i.ytimg.com/vi/W91AQcoLXzQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYTyBcKGUwDw==&rs=AOn4CLC4JFpu15Pl4lzubHHLQqqlbRbqMw",
+        "https://i.ytimg.com/vi/DhzaxzNGr2o/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGEsgVChlMA8=&rs=AOn4CLC4IDoKo7ypbItED8fj6P80qzP8GQ",
         "https://i.ytimg.com/vi/u27wjFOGww0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgWihMMA8=&rs=AOn4CLC7sq5Yg_R6iZkMvdVEmXOlSmxpYQ"
       ],
       "source_url": "https://alliedsurgicalemporium.com/product/ot-lights/",
@@ -2116,15 +2464,15 @@
       "social_sources": [
         {
           "platform": "youtube",
-          "post_url": "https://www.youtube.com/watch?v=u27wjFOGww0",
-          "thumbnail_url": "https://i.ytimg.com/vi/u27wjFOGww0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgWihMMA8=&rs=AOn4CLC7sq5Yg_R6iZkMvdVEmXOlSmxpYQ",
-          "caption": "120000 lux",
-          "posted_at": "2021-06-28T09:55:48.000Z",
-          "likes": 8,
-          "views": 83
+          "post_url": "https://www.youtube.com/shorts/2tJY3o7Je3A",
+          "thumbnail_url": "https://i.ytimg.com/vi/2tJY3o7Je3A/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBaKEswDw==&rs=AOn4CLCwOnOdL0EygkgUynkwuEnd9J_1_g",
+          "caption": "Leds’ in a combination of white and yellow",
+          "posted_at": "2022-09-17T10:34:59.000Z",
+          "likes": 10,
+          "views": 187
         }
       ],
-      "description": "OT Lights is a surgical examination light offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or hospital administrator purchasing specialized lighting for operating rooms or examination areas.",
+      "description": "OT Lights is a surgical examination light offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or hospital administrator purchasing specialized lighting equipment for operating theatres or examination rooms.",
       "specifications": {
         "category": "Operating Theatre Light",
         "sub_type": "Surgical Examination Light"
@@ -2136,16 +2484,16 @@
     {
       "clean_name": "Portable Fumigation",
       "fingerprint": "634fc1766b96",
-      "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Equipment & Supply",
+      "top_level_domain": "Healthcare & Medical",
+      "industry_segment": "Disinfection & Sterilization",
       "product_category": "Fumigation Machine",
       "product_sub_type": "Portable Fumigation Machine",
-      "buyer_persona": "A procurement manager or medical professional at a hospital, clinic, or laboratory looking for equipment to disinfect spaces.",
+      "buyer_persona": "A procurement manager or facility manager at a hospital, clinic, or other medical facility looking for equipment to disinfect and sterilize spaces.",
       "seo_title": "Portable Fumigation Portable Fumigation Machine | Catalog Listing",
       "tags": [
         "Portable Fumigation",
-        "Healthcare & Pharma",
-        "Medical Equipment & Supplies",
+        "Healthcare & Medical",
+        "Disinfection & Sterilization",
         "Fumigation Machine",
         "Portable Fumigation Machine"
       ],
@@ -2179,7 +2527,7 @@
       "sources": [
         "website"
       ],
-      "description": "Portable Fumigation is a portable fumigation machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or medical professional at a hospital, clinic, or laboratory looking for equipment to disinfect spaces.",
+      "description": "Portable Fumigation is a portable fumigation machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or facility manager at a hospital, clinic, or other medical facility looking for equipment to disinfect and sterilize spaces.",
       "specifications": {
         "category": "Fumigation Machine",
         "sub_type": "Portable Fumigation Machine"
@@ -2192,17 +2540,17 @@
       "clean_name": "Fogger Macines SS",
       "fingerprint": "07cb59f86048",
       "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Equipment & Supply",
+      "industry_segment": "Medical Equipment & Device",
       "product_category": "Fogger Machine",
-      "product_sub_type": "Stainless Steel Disinfection Fogger",
-      "buyer_persona": "A procurement manager for hospitals, clinics, or laboratories looking to purchase equipment for disinfection and sterilization.",
-      "seo_title": "Fogger Macines SS Stainless Steel Disinfection Fogger | Catalog Listin",
+      "product_sub_type": "Stainless Steel Fogger Machine",
+      "buyer_persona": "A procurement manager or facility manager for a hospital, clinic, or laboratory seeking equipment for disinfection and sanitization.",
+      "seo_title": "Fogger Macines SS Stainless Steel Fogger Machine | Catalog Listing",
       "tags": [
         "Fogger Macines SS",
         "Healthcare & Pharma",
-        "Medical Equipment & Supplies",
+        "Medical Equipment & Devices",
         "Fogger Machine",
-        "Stainless Steel Disinfection Fogger"
+        "Stainless Steel Fogger Machine"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -2234,10 +2582,10 @@
       "sources": [
         "website"
       ],
-      "description": "Fogger Macines SS is a stainless steel disinfection fogger offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager for hospitals, clinics, or laboratories looking to purchase equipment for disinfection and sterilization.",
+      "description": "Fogger Macines SS is a stainless steel fogger machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or facility manager for a hospital, clinic, or laboratory seeking equipment for disinfection and sanitization.",
       "specifications": {
         "category": "Fogger Machine",
-        "sub_type": "Stainless Steel Disinfection Fogger"
+        "sub_type": "Stainless Steel Fogger Machine"
       },
       "alt_text": "Fogger Macines SS from Allied Surgical Emporium",
       "used_vision": false,
@@ -2250,7 +2598,7 @@
       "industry_segment": "Healthcare Waste Management",
       "product_category": "Waste Management Solution",
       "product_sub_type": "Biomedical Waste Solution",
-      "buyer_persona": "A healthcare facility administrator or procurement manager seeking compliant and efficient methods for managing and disposing of biomedical waste.",
+      "buyer_persona": "A healthcare facility manager or procurement officer responsible for ensuring safe and compliant disposal of medical waste.",
       "seo_title": "SoClean Biomedical Waste Solutions Biomedical Waste Solution | Catalog",
       "tags": [
         "SoClean Biomedical Waste Solutions",
@@ -2289,7 +2637,7 @@
       "sources": [
         "website"
       ],
-      "description": "SoClean Biomedical Waste Solutions is a biomedical waste solution offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare facility administrator or procurement manager seeking compliant and efficient methods for managing and disposing of biomedical waste.",
+      "description": "SoClean Biomedical Waste Solutions is a biomedical waste solution offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare facility manager or procurement officer responsible for ensuring safe and compliant disposal of medical waste.",
       "specifications": {
         "category": "Waste Management Solution",
         "sub_type": "Biomedical Waste Solution"
@@ -2305,7 +2653,7 @@
       "industry_segment": "Medical Devices & Supply",
       "product_category": "Suture",
       "product_sub_type": "Surgical Suture",
-      "buyer_persona": "A procurement manager or surgeon at a hospital, clinic, or surgical center purchasing essential medical consumables for surgical procedures.",
+      "buyer_persona": "A procurement manager or surgeon at a hospital or clinic purchasing essential medical consumables for surgical procedures.",
       "seo_title": "Surgical Sutures Surgical Suture | Catalog Listing",
       "tags": [
         "Surgical Sutures",
@@ -2344,7 +2692,7 @@
       "sources": [
         "website"
       ],
-      "description": "Surgical Sutures is a surgical suture offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or surgeon at a hospital, clinic, or surgical center purchasing essential medical consumables for surgical procedures.",
+      "description": "Surgical Sutures is a surgical suture offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or surgeon at a hospital or clinic purchasing essential medical consumables for surgical procedures.",
       "specifications": {
         "category": "Suture",
         "sub_type": "Surgical Suture"
@@ -2359,15 +2707,15 @@
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Nebulizer",
-      "product_sub_type": "Nebulizer Machine",
-      "buyer_persona": "A hospital, clinic, or individual patient seeking a device for respiratory medication delivery.",
-      "seo_title": "Nebulizer Machines Nebulizer Machine | Catalog Listing",
+      "product_sub_type": "Respiratory Nebulizer Machine",
+      "buyer_persona": "A healthcare professional, hospital procurement manager, or an individual/caregiver purchasing for respiratory therapy and management of conditions like asthma or COPD.",
+      "seo_title": "Nebulizer Machines Respiratory Nebulizer Machine | Catalog Listing",
       "tags": [
         "Nebulizer Machines",
         "Healthcare & Pharma",
         "Medical Devices & Equipment",
         "Nebulizer",
-        "Nebulizer Machine"
+        "Respiratory Nebulizer Machine"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -2399,10 +2747,10 @@
       "sources": [
         "website"
       ],
-      "description": "Nebulizer Machines is a nebulizer machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital, clinic, or individual patient seeking a device for respiratory medication delivery.",
+      "description": "Nebulizer Machines is a respiratory nebulizer machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare professional, hospital procurement manager, or an individual/caregiver purchasing for respiratory therapy and management of conditions like asthma or COPD.",
       "specifications": {
         "category": "Nebulizer",
-        "sub_type": "Nebulizer Machine"
+        "sub_type": "Respiratory Nebulizer Machine"
       },
       "alt_text": "Nebulizer Machines from Allied Surgical Emporium",
       "used_vision": false,
@@ -2412,17 +2760,17 @@
       "clean_name": "LS Belts",
       "fingerprint": "195cfdba04c7",
       "top_level_domain": "Healthcare & Medical",
-      "industry_segment": "Orthopedic & Rehabilitation Aids",
-      "product_category": "Lumbosacral Belt",
-      "product_sub_type": "Lumbosacral Support Belt",
-      "buyer_persona": "A patient or healthcare professional seeking a supportive belt for lumbar and sacral region discomfort or injury.",
-      "seo_title": "LS Belts Lumbosacral Support Belt | Catalog Listing",
+      "industry_segment": "Orthopaedic & Rehabilitation Aids",
+      "product_category": "Support Belt",
+      "product_sub_type": "Lumbo Sacral Support Belt",
+      "buyer_persona": "Patients seeking relief from back pain or requiring post-operative support, as well as hospitals, clinics, and pharmacies for their inventory.",
+      "seo_title": "LS Belts Lumbo Sacral Support Belt | Catalog Listing",
       "tags": [
         "LS Belts",
         "Healthcare & Medical",
-        "Orthopedic & Rehabilitation Aids",
-        "Lumbosacral Belt",
-        "Lumbosacral Support Belt"
+        "Orthopaedic & Rehabilitation Aids",
+        "Support Belt",
+        "Lumbo Sacral Support Belt"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -2454,10 +2802,10 @@
       "sources": [
         "website"
       ],
-      "description": "LS Belts is a lumbosacral support belt offered by Allied Surgical Emporium based in Lucknow. Suitable for: A patient or healthcare professional seeking a supportive belt for lumbar and sacral region discomfort or injury.",
+      "description": "LS Belts is a lumbo sacral support belt offered by Allied Surgical Emporium based in Lucknow. Suitable for: Patients seeking relief from back pain or requiring post-operative support, as well as hospitals, clinics, and pharmacies for their inventory.",
       "specifications": {
-        "category": "Lumbosacral Belt",
-        "sub_type": "Lumbosacral Support Belt"
+        "category": "Support Belt",
+        "sub_type": "Lumbo Sacral Support Belt"
       },
       "alt_text": "LS Belts from Allied Surgical Emporium",
       "used_vision": false,
@@ -2466,18 +2814,18 @@
     {
       "clean_name": "Walkers and Walking Sticks",
       "fingerprint": "2591afe1cac3",
-      "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Devices & Mobility Aids",
+      "top_level_domain": "Healthcare & Medical",
+      "industry_segment": "Mobility & Assistive Device",
       "product_category": "Walking Aid",
       "product_sub_type": "Walker And Walking Stick",
-      "buyer_persona": "Individuals seeking support and stability for walking due to age, injury, or disability, or healthcare providers procuring for patients.",
-      "seo_title": "Walkers and Walking Sticks Walker And Walking Stick | Catalog Listing",
+      "buyer_persona": "An individual or caregiver seeking devices to assist with mobility and balance due to age, injury, or disability.",
+      "seo_title": "Walkers and Walking Sticks Walker and Walking Stick | Catalog Listing",
       "tags": [
         "Walkers and Walking Sticks",
-        "Healthcare & Pharma",
-        "Medical Devices & Mobility Aids",
+        "Healthcare & Medical",
+        "Mobility & Assistive Devices",
         "Walking Aid",
-        "Walker And Walking Stick"
+        "Walker and Walking Stick"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -2509,7 +2857,7 @@
       "sources": [
         "website"
       ],
-      "description": "Walkers and Walking Sticks is a walker and walking stick offered by Allied Surgical Emporium based in Lucknow. Suitable for: Individuals seeking support and stability for walking due to age, injury, or disability, or healthcare providers procuring for patients.",
+      "description": "Walkers and Walking Sticks is a walker and walking stick offered by Allied Surgical Emporium based in Lucknow. Suitable for: An individual or caregiver seeking devices to assist with mobility and balance due to age, injury, or disability.",
       "specifications": {
         "category": "Walking Aid",
         "sub_type": "Walker And Walking Stick"
@@ -2525,7 +2873,7 @@
       "industry_segment": "Medical Supplies & Disposable",
       "product_category": "Medical Disposable",
       "product_sub_type": "Orthopedic And General Medical Disposable",
-      "buyer_persona": "A procurement manager or medical professional in a hospital, clinic, or surgical center looking to stock essential single-use medical supplies for patient care and procedures.",
+      "buyer_persona": "A procurement manager or medical professional at a hospital, clinic, or surgical center purchasing single-use items for patient care and procedures.",
       "seo_title": "Orthopedic and General Medical Disposables Orthopedic And General Medi",
       "tags": [
         "Orthopedic and General Medical Disposables",
@@ -2564,7 +2912,7 @@
       "sources": [
         "website"
       ],
-      "description": "Orthopedic and General Medical Disposables is a orthopedic and general medical disposable offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or medical professional in a hospital, clinic, or surgical center looking to stock essential single-use medical supplies for patient care and procedures.",
+      "description": "Orthopedic and General Medical Disposables is a orthopedic and general medical disposable offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or medical professional at a hospital, clinic, or surgical center purchasing single-use items for patient care and procedures.",
       "specifications": {
         "category": "Medical Disposable",
         "sub_type": "Orthopedic And General Medical Disposable"
@@ -2576,16 +2924,16 @@
     {
       "clean_name": "Workstation Ventilation Systems",
       "fingerprint": "b327802a1b14",
-      "top_level_domain": "Healthcare & Medical",
-      "industry_segment": "Laboratory & Cleanroom Equipment",
+      "top_level_domain": "Healthcare & Pharma",
+      "industry_segment": "Medical & Laboratory Equipment",
       "product_category": "Ventilation System",
       "product_sub_type": "Workstation Ventilation System",
-      "buyer_persona": "Hospitals, laboratories, and research facilities requiring controlled air environments at specific workstations for safety and compliance.",
+      "buyer_persona": "Hospitals, clinics, laboratories, and research facilities that require controlled air environments for specific workstations to ensure sterility, safety, and product integrity.",
       "seo_title": "Workstation Ventilation Systems Workstation Ventilation System | Catal",
       "tags": [
         "Workstation Ventilation Systems",
-        "Healthcare & Medical",
-        "Laboratory & Cleanroom Equipment",
+        "Healthcare & Pharma",
+        "Medical & Laboratory Equipment",
         "Ventilation System",
         "Workstation Ventilation System"
       ],
@@ -2619,7 +2967,7 @@
       "sources": [
         "website"
       ],
-      "description": "Workstation Ventilation Systems is a workstation ventilation system offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, laboratories, and research facilities requiring controlled air environments at specific workstations for safety and compliance.",
+      "description": "Workstation Ventilation Systems is a workstation ventilation system offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, clinics, laboratories, and research facilities that require controlled air environments for specific workstations to ensure sterility, safety, and product integrity.",
       "specifications": {
         "category": "Ventilation System",
         "sub_type": "Workstation Ventilation System"
@@ -2632,17 +2980,17 @@
       "clean_name": "Anesthesia Machines and Trolleys",
       "fingerprint": "398df1034443",
       "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Equipment & Device",
+      "industry_segment": "Medical Equipment & Supply",
       "product_category": "Anesthesia Machine",
-      "product_sub_type": "Anesthesia Delivery System",
-      "buyer_persona": "A procurement manager or hospital administrator purchasing essential equipment for operating theaters and surgical departments.",
-      "seo_title": "Anesthesia Machines and Trolleys Anesthesia Delivery System | Catalog ",
+      "product_sub_type": "Anesthesia Machine System",
+      "buyer_persona": "A procurement manager or medical professional at a hospital, clinic, or surgical center looking to purchase essential equipment for administering anesthesia during medical procedures.",
+      "seo_title": "Anesthesia Machines and Trolleys Anesthesia Machine System | Catalog L",
       "tags": [
         "Anesthesia Machines and Trolleys",
         "Healthcare & Pharma",
-        "Medical Equipment & Devices",
+        "Medical Equipment & Supplies",
         "Anesthesia Machine",
-        "Anesthesia Delivery System"
+        "Anesthesia Machine System"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -2674,10 +3022,10 @@
       "sources": [
         "website"
       ],
-      "description": "Anesthesia Machines and Trolleys is a anesthesia delivery system offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or hospital administrator purchasing essential equipment for operating theaters and surgical departments.",
+      "description": "Anesthesia Machines and Trolleys is a anesthesia machine system offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or medical professional at a hospital, clinic, or surgical center looking to purchase essential equipment for administering anesthesia during medical procedures.",
       "specifications": {
         "category": "Anesthesia Machine",
-        "sub_type": "Anesthesia Delivery System"
+        "sub_type": "Anesthesia Machine System"
       },
       "alt_text": "Anesthesia Machines and Trolleys from Allied Surgical Emporium",
       "used_vision": false,
@@ -2687,15 +3035,15 @@
       "clean_name": "Infant Warmers",
       "fingerprint": "8cf4e37905a3",
       "top_level_domain": "Healthcare & Pharma",
-      "industry_segment": "Medical Devices & Equipment",
+      "industry_segment": "Medical Equipment & Device",
       "product_category": "Infant Warmer",
       "product_sub_type": "Neonatal Care Equipment",
-      "buyer_persona": "Hospitals, clinics, and neonatal care units purchase this to provide essential thermal support for newborns, particularly those requiring intensive care.",
+      "buyer_persona": "A hospital procurement manager or neonatologist purchasing essential equipment for neonatal intensive care units or delivery rooms to maintain stable body temperature for newborns.",
       "seo_title": "Infant Warmers Neonatal Care Equipment | Catalog Listing",
       "tags": [
         "Infant Warmers",
         "Healthcare & Pharma",
-        "Medical Devices & Equipment",
+        "Medical Equipment & Devices",
         "Infant Warmer",
         "Neonatal Care Equipment"
       ],
@@ -2721,7 +3069,7 @@
       "source_url": "https://alliedsurgicalemporium.com/product/infant-warmers/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -2729,7 +3077,7 @@
       "sources": [
         "website"
       ],
-      "description": "Infant Warmers is a neonatal care equipment offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, clinics, and neonatal care units purchase this to provide essential thermal support for newborns, particularly those requiring intensive care.",
+      "description": "Infant Warmers is a neonatal care equipment offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital procurement manager or neonatologist purchasing essential equipment for neonatal intensive care units or delivery rooms to maintain stable body temperature for newborns.",
       "specifications": {
         "category": "Infant Warmer",
         "sub_type": "Neonatal Care Equipment"
@@ -2745,7 +3093,7 @@
       "industry_segment": "Medical Equipment & Device",
       "product_category": "Oxygen Therapy Equipment",
       "product_sub_type": "Oxygen Concentrator And Cylinder",
-      "buyer_persona": "Healthcare providers, hospitals, clinics, and individuals requiring respiratory support or home oxygen therapy.",
+      "buyer_persona": "A hospital procurement manager, clinic owner, or individual patient/caregiver seeking equipment for respiratory support and oxygen delivery.",
       "seo_title": "Oxygen Concentrators and Cylinders Oxygen Concentrator and Cylinder | ",
       "tags": [
         "Oxygen Concentrators and Cylinders",
@@ -2784,7 +3132,7 @@
       "sources": [
         "website"
       ],
-      "description": "Oxygen Concentrators and Cylinders is a oxygen concentrator and cylinder offered by Allied Surgical Emporium based in Lucknow. Suitable for: Healthcare providers, hospitals, clinics, and individuals requiring respiratory support or home oxygen therapy.",
+      "description": "Oxygen Concentrators and Cylinders is a oxygen concentrator and cylinder offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital procurement manager, clinic owner, or individual patient/caregiver seeking equipment for respiratory support and oxygen delivery.",
       "specifications": {
         "category": "Oxygen Therapy Equipment",
         "sub_type": "Oxygen Concentrator And Cylinder"
@@ -2799,15 +3147,15 @@
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Bipap Machine",
-      "product_sub_type": "Non-invasive Ventilator",
-      "buyer_persona": "A healthcare provider, hospital procurement manager, or individual patient seeking a device for non-invasive ventilation to treat sleep apnea or respiratory conditions.",
-      "seo_title": "BiPAP Machines Non-Invasive Ventilator | Catalog Listing",
+      "product_sub_type": "Respiratory Therapy Bipap Machine",
+      "buyer_persona": "A patient or healthcare provider seeking a device for non-invasive respiratory support, primarily for conditions like sleep apnea, COPD, or other forms of respiratory insufficiency.",
+      "seo_title": "BiPAP Machines Respiratory Therapy BiPAP Machine | Catalog Listing",
       "tags": [
         "BiPAP Machines",
         "Healthcare & Pharma",
         "Medical Devices & Equipment",
         "BiPAP Machine",
-        "Non-Invasive Ventilator"
+        "Respiratory Therapy BiPAP Machine"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -2831,7 +3179,7 @@
       "source_url": "https://alliedsurgicalemporium.com/product/bipap-machines/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -2839,10 +3187,10 @@
       "sources": [
         "website"
       ],
-      "description": "BiPAP Machines is a non-invasive ventilator offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare provider, hospital procurement manager, or individual patient seeking a device for non-invasive ventilation to treat sleep apnea or respiratory conditions.",
+      "description": "BiPAP Machines is a respiratory therapy bipap machine offered by Allied Surgical Emporium based in Lucknow. Suitable for: A patient or healthcare provider seeking a device for non-invasive respiratory support, primarily for conditions like sleep apnea, COPD, or other forms of respiratory insufficiency.",
       "specifications": {
         "category": "Bipap Machine",
-        "sub_type": "Non-invasive Ventilator"
+        "sub_type": "Respiratory Therapy Bipap Machine"
       },
       "alt_text": "BiPAP Machines from Allied Surgical Emporium",
       "used_vision": false,
@@ -2909,15 +3257,15 @@
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Patient Monitor",
-      "product_sub_type": "Clinical Patient Monitor",
-      "buyer_persona": "A procurement manager or clinician at a hospital, clinic, or surgical center looking to purchase equipment for monitoring patient vital signs.",
-      "seo_title": "Patient Monitors Clinical Patient Monitor | Catalog Listing",
+      "product_sub_type": "Vital Signs Patient Monitor",
+      "buyer_persona": "Hospitals, clinics, and other healthcare facilities or professionals who need to continuously monitor patients' vital signs.",
+      "seo_title": "Patient Monitors Vital Signs Patient Monitor | Catalog Listing",
       "tags": [
         "Patient Monitors",
         "Healthcare & Pharma",
         "Medical Devices & Equipment",
         "Patient Monitor",
-        "Clinical Patient Monitor"
+        "Vital Signs Patient Monitor"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -2949,10 +3297,10 @@
       "sources": [
         "website"
       ],
-      "description": "Patient Monitors is a clinical patient monitor offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or clinician at a hospital, clinic, or surgical center looking to purchase equipment for monitoring patient vital signs.",
+      "description": "Patient Monitors is a vital signs patient monitor offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, clinics, and other healthcare facilities or professionals who need to continuously monitor patients' vital signs.",
       "specifications": {
         "category": "Patient Monitor",
-        "sub_type": "Clinical Patient Monitor"
+        "sub_type": "Vital Signs Patient Monitor"
       },
       "alt_text": "Patient Monitors from Allied Surgical Emporium",
       "used_vision": false,
@@ -2964,15 +3312,15 @@
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Equipment",
       "product_category": "Blood Pressure Monitor",
-      "product_sub_type": "Digital Blood Pressure Monitor",
-      "buyer_persona": "A healthcare professional or an individual monitoring their blood pressure at home, seeking an accurate and reliable device.",
-      "seo_title": "BP Machines Digital Blood Pressure Monitor | Catalog Listing",
+      "product_sub_type": "Diagnostic Blood Pressure Monitor",
+      "buyer_persona": "A procurement manager for a hospital, clinic, or a medical professional purchasing diagnostic equipment for patient care.",
+      "seo_title": "BP Machines Diagnostic Blood Pressure Monitor | Catalog Listing",
       "tags": [
         "BP Machines",
         "Healthcare & Pharma",
         "Medical Devices & Equipment",
         "Blood Pressure Monitor",
-        "Digital Blood Pressure Monitor"
+        "Diagnostic Blood Pressure Monitor"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -3004,10 +3352,10 @@
       "sources": [
         "website"
       ],
-      "description": "BP Machines is a digital blood pressure monitor offered by Allied Surgical Emporium based in Lucknow. Suitable for: A healthcare professional or an individual monitoring their blood pressure at home, seeking an accurate and reliable device.",
+      "description": "BP Machines is a diagnostic blood pressure monitor offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager for a hospital, clinic, or a medical professional purchasing diagnostic equipment for patient care.",
       "specifications": {
         "category": "Blood Pressure Monitor",
-        "sub_type": "Digital Blood Pressure Monitor"
+        "sub_type": "Diagnostic Blood Pressure Monitor"
       },
       "alt_text": "BP Machines from Allied Surgical Emporium",
       "used_vision": false,
@@ -3020,7 +3368,7 @@
       "industry_segment": "Medical Devices & Surgical Supply",
       "product_category": "Surgical Instrument",
       "product_sub_type": "Laparoscopic Instrument",
-      "buyer_persona": "A hospital procurement manager, surgeon, or clinic administrator looking for specialized tools for minimally invasive surgical procedures.",
+      "buyer_persona": "A hospital procurement manager, surgeon, or medical facility administrator seeking specialized tools for minimally invasive surgical procedures.",
       "seo_title": "Laparoscopic Instruments Laparoscopic Instrument | Catalog Listing",
       "tags": [
         "Laparoscopic Instruments",
@@ -3059,7 +3407,7 @@
       "sources": [
         "website"
       ],
-      "description": "Laparoscopic Instruments is a laparoscopic instrument offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital procurement manager, surgeon, or clinic administrator looking for specialized tools for minimally invasive surgical procedures.",
+      "description": "Laparoscopic Instruments is a laparoscopic instrument offered by Allied Surgical Emporium based in Lucknow. Suitable for: A hospital procurement manager, surgeon, or medical facility administrator seeking specialized tools for minimally invasive surgical procedures.",
       "specifications": {
         "category": "Surgical Instrument",
         "sub_type": "Laparoscopic Instrument"
@@ -3073,16 +3421,16 @@
       "fingerprint": "c4f9d8203470",
       "top_level_domain": "Healthcare & Pharma",
       "industry_segment": "Medical Devices & Surgical Supply",
-      "product_category": "Surgical Instrument",
-      "product_sub_type": "Orthopedic Surgical Instrument",
-      "buyer_persona": "A procurement manager or surgeon at a hospital, clinic, or surgical center purchasing specialized tools for orthopedic surgeries.",
-      "seo_title": "Orthopedic Instruments Orthopedic Surgical Instrument | Catalog Listin",
+      "product_category": "Orthopedic Instrument",
+      "product_sub_type": "Surgical Orthopedic Instrument",
+      "buyer_persona": "Hospitals, clinics, and individual surgeons purchase these instruments for use in orthopedic surgical procedures.",
+      "seo_title": "Orthopedic Instruments Surgical Orthopedic Instrument | Catalog Listin",
       "tags": [
         "Orthopedic Instruments",
         "Healthcare & Pharma",
         "Medical Devices & Surgical Supplies",
-        "Surgical Instrument",
-        "Orthopedic Surgical Instrument"
+        "Orthopedic Instrument",
+        "Surgical Orthopedic Instrument"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -3106,7 +3454,7 @@
       "source_url": "https://alliedsurgicalemporium.com/product/orthopedic-instruments/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.95,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -3114,10 +3462,10 @@
       "sources": [
         "website"
       ],
-      "description": "Orthopedic Instruments is a orthopedic surgical instrument offered by Allied Surgical Emporium based in Lucknow. Suitable for: A procurement manager or surgeon at a hospital, clinic, or surgical center purchasing specialized tools for orthopedic surgeries.",
+      "description": "Orthopedic Instruments is a surgical orthopedic instrument offered by Allied Surgical Emporium based in Lucknow. Suitable for: Hospitals, clinics, and individual surgeons purchase these instruments for use in orthopedic surgical procedures.",
       "specifications": {
-        "category": "Surgical Instrument",
-        "sub_type": "Orthopedic Surgical Instrument"
+        "category": "Orthopedic Instrument",
+        "sub_type": "Surgical Orthopedic Instrument"
       },
       "alt_text": "Orthopedic Instruments from Allied Surgical Emporium",
       "used_vision": false,
@@ -3130,8 +3478,8 @@
       "author": "Shahbaz Rabbani",
       "rating": 5,
       "text": "I recommend this store for its comprehensive inventory of respiratory and surgical equipments at very reasonable prices and reliable, professional customer support.",
-      "original_lang": "en",
-      "date": "2026-03-04T10:20:00.071Z",
+      "original_lang": null,
+      "date": "2026-03-04T10:20:00Z",
       "likes": 0,
       "is_local_guide": true,
       "owner_response": null
@@ -3140,240 +3488,70 @@
       "author": "Mishri Lal",
       "rating": 5,
       "text": "Good service    ….. all products are available at reasonable prices",
-      "original_lang": "en",
-      "date": "2026-02-20T13:25:08.989Z",
+      "original_lang": null,
+      "date": "2026-02-20T13:25:08Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Dr arvind Mishra",
       "rating": 5,
       "text": "Good quality products ...and good service",
-      "original_lang": "en",
-      "date": "2026-01-29T11:42:14.845Z",
+      "original_lang": null,
+      "date": "2026-01-29T11:42:14Z",
       "likes": 0,
-      "is_local_guide": false,
-      "owner_response": "Thanks for your Faith "
+      "is_local_guide": true,
+      "owner_response": null
     },
     {
       "author": "DRIRSHAD AHMAD",
       "rating": 5,
       "text": "Good staff and excellent products...",
-      "original_lang": "en",
-      "date": "2026-02-20T11:19:09.019Z",
+      "original_lang": null,
+      "date": "2026-02-20T11:19:09Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Harnam Harnam",
       "rating": 5,
       "text": "Visiting past 20 years. Excellent Products",
-      "original_lang": "en",
-      "date": "2026-02-28T08:37:16.685Z",
+      "original_lang": null,
+      "date": "2026-02-28T08:37:16Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Sandeep Kumar",
       "rating": 5,
       "text": "Good products at reasonable prices and good staff",
-      "original_lang": "en",
-      "date": "2025-11-27T07:30:29.848Z",
+      "original_lang": null,
+      "date": "2025-11-27T07:30:29Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Siddharth Gupta",
       "rating": 5,
       "text": "Excellent products...and good service",
-      "original_lang": "en",
-      "date": "2026-03-02T12:57:45.263Z",
+      "original_lang": null,
+      "date": "2026-03-02T12:57:45Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Anmol Srivastava",
       "rating": 5,
       "text": "Very nice product at good price",
-      "original_lang": "en",
-      "date": "2024-07-26T07:35:14.830Z",
+      "original_lang": null,
+      "date": "2024-07-26T07:35:14Z",
       "likes": 0,
       "is_local_guide": true,
-      "owner_response": null
-    },
-    {
-      "author": "vivekanand",
-      "rating": 5,
-      "text": "This is best shop for surgical items and there quality is very good",
-      "original_lang": "en",
-      "date": "2025-12-24T11:18:12.055Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "DIWA SHUKLA",
-      "rating": 5,
-      "text": "Efficient n well trained staff with good quality products",
-      "original_lang": "en",
-      "date": "2025-10-25T08:45:36.196Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Rohit Pal",
-      "rating": 5,
-      "text": "All the products are available at reasonable prices...",
-      "original_lang": "en",
-      "date": "2026-02-27T08:52:02.259Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Rachna Misra",
-      "rating": 5,
-      "text": "Wonderful  experience nice staff. Genuine prices",
-      "original_lang": "en",
-      "date": "2026-01-10T11:45:31.766Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": "Thank you "
-    },
-    {
-      "author": "Manish Jaiswal",
-      "rating": 5,
-      "text": "Amazing nature and very polite staff and owner so good 😊",
-      "original_lang": "en",
-      "date": "2026-01-27T06:03:19.904Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Ashutosh Shukla",
-      "rating": 5,
-      "text": "Good shop for surgical item hospital accessories normal price",
-      "original_lang": "en",
-      "date": "2025-10-29T07:46:33.711Z",
-      "likes": 0,
-      "is_local_guide": true,
-      "owner_response": null
-    },
-    {
-      "author": "Mohd khalid Khan",
-      "rating": 5,
-      "text": "Best shop in lucknow for medical Equipments",
-      "original_lang": "en",
-      "date": "2026-02-17T07:57:40.680Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "nilesh rai",
-      "rating": 5,
-      "text": "good service and nice products",
-      "original_lang": "en",
-      "date": "2025-10-18T07:48:28.275Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "DR.SHADAAB KHAN",
-      "rating": 5,
-      "text": "Selling good products\nAnd good staff",
-      "original_lang": "en",
-      "date": "2025-10-15T12:47:49.764Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Ira Singhal",
-      "rating": 5,
-      "text": "Offers all kond of surgical items at reasonable price",
-      "original_lang": "en",
-      "date": "2025-10-16T09:32:39.660Z",
-      "likes": 0,
-      "is_local_guide": true,
-      "owner_response": null
-    },
-    {
-      "author": "Mohd Jeelani",
-      "rating": 5,
-      "text": "Excellent products and good service....",
-      "original_lang": "en",
-      "date": "2026-02-09T09:26:48.405Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "purushottam pandey",
-      "rating": 5,
-      "text": "Good products at reasinable prices ...",
-      "original_lang": "en",
-      "date": "2025-10-27T09:22:40.946Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Sandeep Kumar",
-      "rating": 5,
-      "text": "Very nice product at good prices",
-      "original_lang": "en",
-      "date": "2025-10-17T08:52:47.119Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Madam Ji",
-      "rating": 5,
-      "text": "Very nice shop good quality products and best price",
-      "original_lang": "en",
-      "date": "2024-08-24T11:17:22.912Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "SHERRY GAMERZ Sherry",
-      "rating": 5,
-      "text": "Excellent products and good staff",
-      "original_lang": "en",
-      "date": "2025-10-27T08:22:23.382Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "sanjay yadav",
-      "rating": 5,
-      "text": "Very good quality of every product with great price 👌 👍",
-      "original_lang": "en",
-      "date": "2024-12-19T12:35:41.005Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": "Thank you from Allied Surgical Emporium - Best OT Lights Shop in Lucknow"
-    },
-    {
-      "author": "shambhu dayal",
-      "rating": 5,
-      "text": "Good staff...and good service...",
-      "original_lang": "en",
-      "date": "2026-02-24T06:10:16.826Z",
-      "likes": 0,
-      "is_local_guide": false,
       "owner_response": null
     }
   ],
@@ -3388,22 +3566,51 @@
       "Visiting past 20 years. Excellent Products",
       "Good products at reasonable prices and good staff",
       "Excellent products...and good service",
-      "Very nice product at good price",
-      "This is best shop for surgical items and there quality is very good",
-      "Efficient n well trained staff with good quality products"
+      "Very nice product at good price"
     ],
-    "reviews_url": "https://api.scrapingdog.com/google_maps/reviews?api_key=69859b2025968963c82b2349&data_id=0x399bfda6291a848d:0xec8ce8319db61921"
+    "reviews_url": "https://www.google.com/maps?cid=17045253989487483169"
   },
-  "overall_confidence": 0.938,
+  "overall_confidence": 0.944,
   "social_profiles": [
     {
       "platform": "facebook",
       "url": "https://www.facebook.com/alliedsurgicalemporium/",
-      "profile_pic_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/305317543_443557071124585_8264675002496275156_n.jpg?stp=dst-jpg_p200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=wM3E4NffsboQ7kNvwFldJsQ&_nc_oc=AdoBo_7IT1PbaU2Ze1fXtK6jS_uTdVu3Qh-ORPCtH8ou5AOvUV9zKWRNweDt7Hk_Ey4&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=TQi_xSMwnaJBI8eui8kw6w&_nc_ss=7c289&oh=00_Af7ZA5ekcKyjuG65O_IXgz_mk8I0MtCT1Y54C0SRtm2gng&oe=69FE43D3",
-      "banner_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/473659329_1013382517475368_606293293068596976_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=2a1932&_nc_ohc=7DXvSSLsNy0Q7kNvwFXiPPc&_nc_oc=AdrecUhv6CuJ9kz7xKTNpEE8L6XMomn8OS0_YBhmFYxiu2-GiEAG0XYFIDESzCZXE0I&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=cLG5Gb-qbJz09olen42XqQ&_nc_ss=7c289&oh=00_Af4rMwXWvCc1Va_fIjmwBmX18Le_wheUXrpcUgxT2yy0sQ&oe=69FE2CD6",
+      "profile_pic_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/305317543_443557071124585_8264675002496275156_n.jpg?stp=dst-jpg_p200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=f907e8&_nc_ohc=KQkCcbm5d80Q7kNvwFD0Zau&_nc_oc=AdrsujvWc8_jYcFGDoA06_-r8FAEWpr_3Ko7KxkzJ7x4Vp1JQJ9zXJqFnyeft7QJUpI&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=mNnBXVdlyJ4fGJTOxfYRtg&_nc_ss=7c289&oh=00_Af5n_PxGf27KSlVemiztUh4eEp2GxCZcwNpbLyZiLkYUTw&oe=6A00AE93",
+      "banner_url": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/473659329_1013382517475368_606293293068596976_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=2a1932&_nc_ohc=C3urMW3VWhsQ7kNvwFaX0B3&_nc_oc=Adov9-uqFGxo7uPsH61uP1ead6H5kIhNL2VAMM4C2SR0zVAY2YozwQzh5WgHGbMwUUE&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=hcyFR3tcd4raOaF3CAkLdA&_nc_ss=7c289&oh=00_Af7I4zvhC93LQA0yXXcy4uZGhJLELweWfajz08-Yj7I9qA&oe=6A00CFD6",
       "bio": "Serving the noble profession of Medical and Health Care since 1944.",
       "followers_count": 396,
-      "posts": [],
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/alliedsurgicalemporium/posts/pfbid02q6Sb73s5ArqNYHVg2P6QEafW3v44tEDhcVGtjjjN6ASFdQRoWayBmA4EU4bvbTLtl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1142693351210950&set=a.443557041124588",
+          "caption": null,
+          "likes": 2,
+          "comments": null,
+          "views": null,
+          "posted_at": 1751352230
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/alliedsurgicalemporium/posts/pfbid0RiAPXLi9BR3GCnNW4B6LBJVm1DwKyHxKfGdJVmn8vBx3Jy7GbwYBafRExfBBeK1Tl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=873094468170841&set=a.443557041124588",
+          "caption": null,
+          "likes": 7,
+          "comments": null,
+          "views": null,
+          "posted_at": 1719815772
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/alliedsurgicalemporium/posts/pfbid0adP6VB8mwKT3bu6tvGerRKZd2mcnQEX4vMFfCpK1hfSEaiurhfmtukArNDE9UQrnl",
+          "thumbnail_url": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/484169041_1058811989599087_837932206792870405_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=7b2446&_nc_ohc=jV6c-K-Azu0Q7kNvwEg3K8_&_nc_oc=AdowjOC9inYBzPef3laDJJ8ylD_A1FVWNoUYFD3hfrqN7W8brV63FDwxYOR9xRHlvM2fa53AvhVTId26Ihha3haX&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=Db4xxVmwoCVVJOA1CpswaQ&_nc_ss=72289&oh=00_Af4CrFVhXDTa7gfhVRKta4NzVvi4bmtZ7Prm7Zz8pGZimA&oe=6A00D9B3",
+          "caption": null,
+          "likes": 3,
+          "comments": null,
+          "views": null,
+          "posted_at": 1719815714
+        }
+      ],
       "contacts_from_posts": [],
       "extra_profile": {
         "phone": "+91 90443 10222",
@@ -3416,17 +3623,17 @@
     {
       "platform": "instagram",
       "url": "https://instagram.com/alliedsurgicalemporium",
-      "profile_pic_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/97265463_564653950919628_164664978794610688_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzEuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEpdyuwvbtMClrtmKr1dUXnO9vKjrnEcQSsIXoMW7qg5gq0vAmXNoJx35HApYBHp3Y&_nc_ohc=SqH8XS18VTQQ7kNvwFOT--U&_nc_gid=WRCotqFfs7fX9Reupmsn5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af421K6zWzj580nHEA98CSzFMBn23FVLwP2CZYKFsnJXGQ&oe=69FE3E77&_nc_sid=8b3546",
+      "profile_pic_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/97265463_564653950919628_164664978794610688_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzEuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFmsMmpS8OvJph4LpJeKinaWwkVqNlBaQ1VEbWeXEP8Kcm9WR5uHuTdt2xWok8uzes&_nc_ohc=MgzH_BkyNnAQ7kNvwGFBKQT&_nc_gid=klXUk6ZsJyZksf_1Md8IlA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6SCLEHfIiHKaknNSdNJWZJaMvFDA11DNFnFrRI2ubReA&oe=6A00E177&_nc_sid=8b3546",
       "banner_url": null,
       "bio": "Serving the noble profession since 1944\n📍Lucknow, Uttar Pradesh",
-      "followers_count": 93,
+      "followers_count": 94,
       "following_count": 19,
       "posts_count": 6,
       "posts": [
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/CAfXEernpY8/",
-          "thumbnail_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/624947941_18191846698344523_4704570149475201735_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEpdyuwvbtMClrtmKr1dUXnO9vKjrnEcQSsIXoMW7qg5gq0vAmXNoJx35HApYBHp3Y&_nc_ohc=1eAFXc2SEwsQ7kNvwG4z7St&_nc_gid=WRCotqFfs7fX9Reupmsn5A&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxNDY3MDE5NjM4MzQ1NDc4MA%3D%3D.3-ccb7-5&oh=00_Af7yxP_5rm3x9fUsssJBJL16Pg0iDDXY1D_Q_0mlJd35BA&oe=69FE2D40&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/624947941_18191846698344523_4704570149475201735_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFmsMmpS8OvJph4LpJeKinaWwkVqNlBaQ1VEbWeXEP8Kcm9WR5uHuTdt2xWok8uzes&_nc_ohc=RhBUGWohzR8Q7kNvwEBvYJI&_nc_gid=klXUk6ZsJyZksf_1Md8IlA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxNDY3MDE5NjM4MzQ1NDc4MA%3D%3D.3-ccb7-5&oh=00_Af47X6G7STZ8O73YGpUAQUEgvaJ_u7cuo5ZOfdwJu3wkIw&oe=6A00D040&_nc_sid=8b3546",
           "caption": "With the best to offer to our health care and medical professionals! \nBringing to our clients a wide range of products and services to cater to the varied requirements! •\n•\n•\n•\n•\n•\n\n#heathcare \n#medical \n#75years \n#servingthecommunity \n#doctors \n#doctorsindia \n#india \n#lucknow \n#surgicalequipments \n#supplier \n#follow \n#instadaily \n#medicalprofessionals \n#allied \n#alliedhealth",
           "likes": 12,
           "comments": 0,
@@ -3436,7 +3643,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/CAfXBriHhcb/",
-          "thumbnail_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/621196806_18124171762558344_5130294017132390545_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEpdyuwvbtMClrtmKr1dUXnO9vKjrnEcQSsIXoMW7qg5gq0vAmXNoJx35HApYBHp3Y&_nc_ohc=1PeRBWaOqnIQ7kNvwEGgekr&_nc_gid=WRCotqFfs7fX9Reupmsn5A&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxNDY3MDAwNDAyNDI1MjE4Nw%3D%3D.3-ccb7-5&oh=00_Af76EMMWKxVXcM8meuid_fOZ-2rVFmu5O-oG_Cb5H0xljw&oe=69FE491C&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/621196806_18124171762558344_5130294017132390545_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFmsMmpS8OvJph4LpJeKinaWwkVqNlBaQ1VEbWeXEP8Kcm9WR5uHuTdt2xWok8uzes&_nc_ohc=Q5B1SWy5dEQQ7kNvwExGU1V&_nc_gid=klXUk6ZsJyZksf_1Md8IlA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxNDY3MDAwNDAyNDI1MjE4Nw%3D%3D.3-ccb7-5&oh=00_Af6sjROiKmzx3DHErNoJsubwDiqI6AtF88WOUOM4mUXfqg&oe=6A00B3DC&_nc_sid=8b3546",
           "caption": "With the best to offer to our health care and medical professionals! \nBringing to our clients a wide range of products and services to cater to the varied requirements! •\n•\n•\n•\n•\n•\n\n#heathcare \n#medical \n#75years \n#servingthecommunity \n#doctors \n#doctorsindia \n#india \n#lucknow \n#surgicalequipments \n#supplier \n#follow \n#instadaily \n#medicalprofessionals \n#allied \n#alliedhealth",
           "likes": 10,
           "comments": 0,
@@ -3446,7 +3653,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/CAfW-mSHQiU/",
-          "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/626230660_18329328460174970_4385529423370026035_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEpdyuwvbtMClrtmKr1dUXnO9vKjrnEcQSsIXoMW7qg5gq0vAmXNoJx35HApYBHp3Y&_nc_ohc=aHzd1nbSIL0Q7kNvwHZyA_H&_nc_gid=WRCotqFfs7fX9Reupmsn5A&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxNDY2OTc5MjIyODYwODE0OA%3D%3D.3-ccb7-5&oh=00_Af78CLz5rhp3zAGvtvtxbQLXATH9M1FZoOojlUjvEqYMJA&oe=69FE36D7&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/626230660_18329328460174970_4385529423370026035_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFmsMmpS8OvJph4LpJeKinaWwkVqNlBaQ1VEbWeXEP8Kcm9WR5uHuTdt2xWok8uzes&_nc_ohc=BvJHNROIybUQ7kNvwEsRsSg&_nc_gid=klXUk6ZsJyZksf_1Md8IlA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxNDY2OTc5MjIyODYwODE0OA%3D%3D.3-ccb7-5&oh=00_Af4xhPnQQscY4Xe1rqhqksFvplDfLrKWORpg0nJoUNWxSw&oe=6A00D9D7&_nc_sid=8b3546",
           "caption": "With the best to offer to our health care and medical professionals! \nBringing to our clients a wide range of products and services to cater to the varied requirements! •\n•\n•\n•\n•\n•\n\n#heathcare \n#medical \n#75years \n#servingthecommunity \n#doctors \n#doctorsindia \n#india \n#lucknow \n#surgicalequipments \n#supplier \n#follow \n#instadaily \n#medicalprofessionals \n#allied \n#johnsonandjohnson",
           "likes": 9,
           "comments": 1,
@@ -3456,7 +3663,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/CAfWnz4nvF6/",
-          "thumbnail_url": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/622016226_18089223178844024_6797129170454007685_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEpdyuwvbtMClrtmKr1dUXnO9vKjrnEcQSsIXoMW7qg5gq0vAmXNoJx35HApYBHp3Y&_nc_ohc=78gNgHDnPsQQ7kNvwEiYfjt&_nc_gid=WRCotqFfs7fX9Reupmsn5A&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxNDY2ODIyNjI4NTMzNDkwNg%3D%3D.3-ccb7-5&oh=00_Af4oueNdxJO8oOKVw5k70DsCaAuxTWlWgprnyzgiC91iTA&oe=69FE39D3&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/622016226_18089223178844024_6797129170454007685_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFmsMmpS8OvJph4LpJeKinaWwkVqNlBaQ1VEbWeXEP8Kcm9WR5uHuTdt2xWok8uzes&_nc_ohc=o3D452Q61M0Q7kNvwH3Uinc&_nc_gid=klXUk6ZsJyZksf_1Md8IlA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxNDY2ODIyNjI4NTMzNDkwNg%3D%3D.3-ccb7-5&oh=00_Af4OpMPUFqsnPVS4JA_Zm4tz0DShPfroch-R2gQdkGJY3g&oe=6A00DCD3&_nc_sid=8b3546",
           "caption": "With lots of luck we move forward to serve the community! •\n•\n•\n•\n•\n•\n\n#heathcare \n#medical \n#75years \n#servingthecommunity \n#doctors \n#doctorsindia \n#india \n#lucknow \n#surgicalequipments \n#supplier \n#follow \n#instadaily \n#medicalprofessionals \n#allied \n#alliedhealth",
           "likes": 8,
           "comments": 0,
@@ -3466,7 +3673,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/CAXEtBCHaPu/",
-          "thumbnail_url": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/619598507_18111148243653744_252492805604156926_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEpdyuwvbtMClrtmKr1dUXnO9vKjrnEcQSsIXoMW7qg5gq0vAmXNoJx35HApYBHp3Y&_nc_ohc=3F0dAZGKSEoQ7kNvwHmU9aI&_nc_gid=WRCotqFfs7fX9Reupmsn5A&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxMjMzNzYxOTM0OTc3NTM0Mg%3D%3D.3-ccb7-5&oh=00_Af794hYvRx7ERLgjOhVLBkh3yGxOmUGRbcYxBlEUP4oAnA&oe=69FE15AC&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/619598507_18111148243653744_252492805604156926_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFmsMmpS8OvJph4LpJeKinaWwkVqNlBaQ1VEbWeXEP8Kcm9WR5uHuTdt2xWok8uzes&_nc_ohc=3F0dAZGKSEoQ7kNvwFCJQRQ&_nc_gid=klXUk6ZsJyZksf_1Md8IlA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxMjMzNzYxOTM0OTc3NTM0Mg%3D%3D.3-ccb7-5&oh=00_Af4Qgu6aFo4W8rSwRfl9mV6hClVgRBkvl5YMO86XwmT8wA&oe=6A00B8AC&_nc_sid=8b3546",
           "caption": "With lots of luck we move forward to serve the community! •\n•\n•\n•\n•\n•\n\n#heathcare \n#medical \n#75years \n#servingthecommunity \n#doctors \n#doctorsindia \n#india \n#lucknow \n#surgicalequipments \n#supplier \n#follow \n#instadaily \n#medicalprofessionals \n#allied \n#alliedhealth",
           "likes": 12,
           "comments": 0,
@@ -3476,7 +3683,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/CAXD5yHHAaC/",
-          "thumbnail_url": "https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/620958740_18133778269500772_8683889059371368192_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEpdyuwvbtMClrtmKr1dUXnO9vKjrnEcQSsIXoMW7qg5gq0vAmXNoJx35HApYBHp3Y&_nc_ohc=xK-J6taULpUQ7kNvwELqbm1&_nc_gid=WRCotqFfs7fX9Reupmsn5A&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxMjMzNDA5ODYzNDExNDY5MA%3D%3D.3-ccb7-5&oh=00_Af49kPsENXKT_0PtSYmle49HuOcz6IyBNuXXronkFDRpdg&oe=69FE437C&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/620958740_18133778269500772_8683889059371368192_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFmsMmpS8OvJph4LpJeKinaWwkVqNlBaQ1VEbWeXEP8Kcm9WR5uHuTdt2xWok8uzes&_nc_ohc=XdQKaepJxOkQ7kNvwFovgwO&_nc_gid=klXUk6ZsJyZksf_1Md8IlA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MjMxMjMzNDA5ODYzNDExNDY5MA%3D%3D.3-ccb7-5&oh=00_Af4yru2ZfUhNCOEEvj0aH8w5JE0_9Wf3IYd2cvtBraqK2g&oe=6A00AE3C&_nc_sid=8b3546",
           "caption": "With lots of luck we move forward to serve the community! •\n•\n•\n•\n•\n•\n\n#heathcare \n#medical \n#75years \n#servingthecommunity \n#doctors \n#doctorsindia \n#india \n#lucknow \n#surgicalequipments \n#supplier \n#follow \n#instadaily \n#medicalprofessionals \n#allied \n#alliedhealth",
           "likes": 16,
           "comments": 0,
@@ -3496,7 +3703,7 @@
     {
       "platform": "youtube",
       "url": "https://www.youtube.com/channel/UCXxYLTlx5NHhnVn_1G1Ua9g",
-      "profile_pic_url": "https://yt3.googleusercontent.com/yziFwJGMAB5y-KY-65lob0fH_KffC4hWIVA4qFdftxAr7iL_Uiz_RKZBGaLXRc96QjUBoW3wGg=s160-c-k-c0x00ffffff-no-rj",
+      "profile_pic_url": "https://yt3.googleusercontent.com/yziFwJGMAB5y-KY-65lob0fH_KffC4hWIVA4qFdftxAr7iL_Uiz_RKZBGaLXRc96QjUBoW3wGg=s68-c-k-c0x00ffffff-no-rj",
       "banner_url": "https://yt3.googleusercontent.com/R7wIFpGouYzoPAu7oG_KuwQ6cVkLpm55n7P8m6mz3iitQ3wshC_DdIwl7VWObWKwN4f6vSAOIQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
       "bio": "FULL RANGE OF HOSPITAL EQUIPMENTS, HOSPITAL FURNITURE , WHEELCHAIRS, DISPOVAN SYRINGES,AND O.T EQUIPMENTS ETC....",
       "followers_count": 61,
@@ -3508,8 +3715,18 @@
           "caption": "icu bed",
           "likes": 14,
           "comments": 0,
-          "views": 1479,
+          "views": 1481,
           "posted_at": "2021-07-17T08:26:28.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=OpW0J0fr5SI",
+          "thumbnail_url": "https://i.ytimg.com/vi/OpW0J0fr5SI/hqdefault.jpg",
+          "caption": "#Alliedsurgicalemporiumagencies\n#karmafiggter3c",
+          "likes": 2,
+          "comments": 2,
+          "views": 95,
+          "posted_at": "2024-02-13T13:29:20.000Z"
         },
         {
           "type": "video",
@@ -3523,13 +3740,63 @@
         },
         {
           "type": "video",
-          "post_url": "https://www.youtube.com/watch?v=tKmjrxd6Q0I",
-          "thumbnail_url": "https://i.ytimg.com/vi/tKmjrxd6Q0I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACwAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBdN3noupHABeWkVjVlsyVbcd_StQ",
-          "caption": "Hospital Patient Bed",
-          "likes": 5,
-          "comments": 1,
-          "views": 29,
-          "posted_at": "2022-09-17T08:26:37.000Z"
+          "post_url": "https://www.youtube.com/watch?v=lInzOvVD5Qw",
+          "thumbnail_url": "https://i.ytimg.com/vi/lInzOvVD5Qw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC4AOKAgwIABABGGAgYChgMA8=&rs=AOn4CLBeBAQOBN4VTWK7U9t-ONhzdwkw3A",
+          "caption": "#wheelchairpremium #Forzafreedom5000",
+          "likes": 0,
+          "comments": 0,
+          "views": 274,
+          "posted_at": "2026-02-14T08:08:27.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=v1JMKgLgdxk",
+          "thumbnail_url": "https://i.ytimg.com/vi/v1JMKgLgdxk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGUA4AC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLBwTn9hTqmtMHen9LT_-RRYL8QVNA",
+          "caption": "A complete range of general and gynae surgery instruments..",
+          "likes": 1,
+          "comments": 0,
+          "views": 26,
+          "posted_at": "2022-09-23T09:48:10.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/03XrKF0q-fk",
+          "thumbnail_url": "https://i.ytimg.com/vi/03XrKF0q-fk/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYUyBcKGUwDw==&rs=AOn4CLDjjbSXBHyuQvRZoUA1on-MWJcBNA",
+          "caption": "Elevate patient care with our smart ICU Monitor Trolley, designed for seamless organization and effortless mobility in critical environments. This durable, ergonomic solution features multiple power outlets and a multi-device platform to keep life-saving equipment powered and within reach.\n.\n.\n.\n.\n#MedicalEquipment #ICUTrolley #HealthcareInnovation #MedicalSupplies #PatientCare #HospitalInfrastructure #AlliedSurgical #ICUDesign",
+          "likes": 3,
+          "comments": 0,
+          "views": 84,
+          "posted_at": "2026-04-29T09:19:34.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/W91AQcoLXzQ",
+          "thumbnail_url": "https://i.ytimg.com/vi/W91AQcoLXzQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYTyBcKGUwDw==&rs=AOn4CLC4JFpu15Pl4lzubHHLQqqlbRbqMw",
+          "caption": "Illuminate every life with the next generation of OT lighting! 🌟 Our Ceiling OT Lights are designed for:\n\n✅ High Intensity LED Illumination\n\n✅ Shadow-Free Clear Visibility\n\n✅ Adjustable Arms for Perfect Positioning\n\n✅ Energy Efficient & Long Lasting\n\nUpgrade your surgical setup today with Allied Surgical Emporium Agencies.\n.\n.\n.\n#SurgicalEquipment #MedicalDevices #OperatingTheater #HealthcareInnovation #OTLight #SurgicalLights #HospitalSupply #AlliedSurgical #MedicalTechnology",
+          "likes": 0,
+          "comments": 0,
+          "views": 219,
+          "posted_at": "2026-04-27T08:38:54.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/RqJv9agQ_gA",
+          "thumbnail_url": "https://i.ytimg.com/vi/RqJv9agQ_gA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYViBfKGUwDw==&rs=AOn4CLBlSj-7lryyvKofsOD_Lpwfcr5-Xw",
+          "caption": "The ultimate blend of comfort and convenience: The Freedom 3000 Wheelchair. ✅ Detachable wheels, swing-away arms, and a foldable frame for the person on the move. Available now at Allied Surgical Emporium Agencies\n.\n.\n.\n#MobilityAid #Wheelchair #MedicalEquipment #Freedom3000 #AlliedSurgical #SurgicalAgencies #PatientCare",
+          "likes": 2,
+          "comments": 0,
+          "views": 6,
+          "posted_at": "2026-04-15T09:04:47.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/2tJY3o7Je3A",
+          "thumbnail_url": "https://i.ytimg.com/vi/2tJY3o7Je3A/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBaKEswDw==&rs=AOn4CLCwOnOdL0EygkgUynkwuEnd9J_1_g",
+          "caption": "Leds’ in a combination of white and yellow",
+          "likes": 10,
+          "comments": 0,
+          "views": 187,
+          "posted_at": "2022-09-17T10:34:59.000Z"
         },
         {
           "type": "video",
@@ -3543,13 +3810,13 @@
         },
         {
           "type": "video",
-          "post_url": "https://www.youtube.com/watch?v=u27wjFOGww0",
-          "thumbnail_url": "https://i.ytimg.com/vi/u27wjFOGww0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgWihMMA8=&rs=AOn4CLC7sq5Yg_R6iZkMvdVEmXOlSmxpYQ",
-          "caption": "120000 lux",
-          "likes": 8,
+          "post_url": "https://www.youtube.com/watch?v=wfT0zFSjH1A",
+          "thumbnail_url": "https://i.ytimg.com/vi/wfT0zFSjH1A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLA7pOBARUAVFWicQI0ZBKHgjGibHw",
+          "caption": "Advancing patient care with precision. 🩺 Our 5 Function Electric ICU Bed offers seamless adjustments for maximum comfort and clinical efficiency. Perfect for critical care environments where every detail matters.\n.\n.\n.\n.\n#MedicalDevices #HospitalEquipment #ICU #CriticalCare #MedTech #SurgicalSupplies #HospitalManagement #PatientCare #MedicalSupply #AlliedSurgical",
+          "likes": 0,
           "comments": 0,
-          "views": 83,
-          "posted_at": "2021-06-28T09:55:48.000Z"
+          "views": 8,
+          "posted_at": "2026-04-24T12:24:52.000Z"
         },
         {
           "type": "video",
@@ -3560,6 +3827,36 @@
           "comments": 0,
           "views": 188,
           "posted_at": "2023-11-22T09:25:56.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=DhzaxzNGr2o",
+          "thumbnail_url": "https://i.ytimg.com/vi/DhzaxzNGr2o/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGEsgVChlMA8=&rs=AOn4CLC4IDoKo7ypbItED8fj6P80qzP8GQ",
+          "caption": "#surgicalrange surgical",
+          "likes": 3,
+          "comments": 0,
+          "views": 17,
+          "posted_at": "2021-06-29T08:30:13.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/X-W86gmuwWg",
+          "thumbnail_url": "https://i.ytimg.com/vi/X-W86gmuwWg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgTyhJMA8=&rs=AOn4CLDG-_5lcry2L8niE-itAupJ3I9UIw",
+          "caption": "Wheelchair sunny 9",
+          "likes": 3,
+          "comments": 0,
+          "views": 173,
+          "posted_at": "2025-01-04T07:58:48.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=u27wjFOGww0",
+          "thumbnail_url": "https://i.ytimg.com/vi/u27wjFOGww0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGMAoAC4AOKAgwIABABGGUgWihMMA8=&rs=AOn4CLC7sq5Yg_R6iZkMvdVEmXOlSmxpYQ",
+          "caption": "120000 lux",
+          "likes": 8,
+          "comments": 0,
+          "views": 84,
+          "posted_at": "2021-06-28T09:55:48.000Z"
         }
       ],
       "contacts_from_posts": [],
@@ -3570,8 +3867,8 @@
     }
   ],
   "pipeline_summary": {
-    "run_started_at": "2026-05-04T08:40:36.455Z",
-    "duration_seconds": 148,
+    "run_started_at": "2026-05-06T07:56:31.161Z",
+    "duration_seconds": 154,
     "agents_in_order": [
       "CompanyEnricher",
       "Agent03/Product",
@@ -3592,25 +3889,27 @@
       "plan_execution": {
         "recommended_agents": [
           "company",
+          "sign3",
           "product",
           "reviews",
           "dedup",
+          "social_enrichment",
           "catalog"
         ],
         "skip_agents": [],
         "quality_target": 0.85,
-        "reasoning": "Seller has a rich profile with a website, social media, and a reviews API. Products are available for enrichment. Aiming for high quality."
+        "reasoning": "The seller record is rich with company details, a website, and many products. A reviews API is also present. This allows for comprehensive enrichment and a high quality target."
       },
       "evaluate_product_output": {
         "decision": "proceed",
-        "avg_confidence": 0.93,
+        "avg_confidence": 0.94,
         "retry_triggered": false
       }
     },
     "products": {
       "raw_input": 20,
       "enriched": 20,
-      "catalog_items": 25,
+      "catalog_items": 32,
       "rejected": 0,
       "with_vision": 0,
       "vision_skipped": 20
@@ -3622,10 +3921,10 @@
         "instagram",
         "youtube"
       ],
-      "posts_collected": 12,
-      "social_products_extracted": 5
+      "posts_collected": 24,
+      "social_products_extracted": 12
     },
-    "overall_confidence": 0.938
+    "overall_confidence": 0.944
   },
-  "_saved_at": "2026-05-04T08:43:04.860Z"
+  "_saved_at": "2026-05-06T07:59:05.280Z"
 }

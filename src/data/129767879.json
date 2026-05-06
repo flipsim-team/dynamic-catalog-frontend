@@ -10,7 +10,7 @@
       "post_url": null
     },
     "description": {
-      "value": "Apex Maxtech Private Limited is a company based in Palghar specializing in machine construction. They focus on the engineering and manufacturing of machinery for various industrial needs.",
+      "value": "Apex Maxtech Private Limited is a Palghar-based company specializing in machine construction. They focus on designing, manufacturing, and assembling robust machinery, providing essential equipment solutions for various industrial needs.",
       "sources": [
         "llm_generated"
       ],
@@ -42,7 +42,7 @@
       "post_url": null
     },
     "website": {
-      "value": "https://www.google.com/search?sca_esv=a9b5b8d8ec73e17d&gl=in&hl=en&pws=0&si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOeRPDWP6-ec0XohNS64X7BO1gShVjybIppJVv-gXIsZpakFF2aSqSZM3RKe_yg6nm10MBdb8iriV_XxvIxRW5mXmUP92AbhZCH5TR3QRaJynn2hZzw%3D%3D&q=Apex+Maxtech+Private+Limited+Reviews&sa=X&ved=2ahUKEwis5OyzmJ-UAxXTEFkFHe-GMpkQ0bkNegQIGxAF",
+      "value": "https://www.google.com/search?sca_esv=a9b5b8d8ec73e17d&gl=in&hl=en&pws=0&si=AL3DRZEsmMGCryMMFSHJ3StBhOdZ2-6yYkXd_doETEE1OR-qOeRPDWP6-ec0XohNS64X7BO1gShVjybIppJVv-gXIsZpakFF5aSqSZM3RKe_yg6nm10MBdb8iriV_XxvIxRW5mXmUP92AbhZCH5TR3QRaJynn2hZzw%3D%3D&q=Apex+Maxtech+Private+Limited+Reviews&sa=X&ved=2ahUKEwis5OyzmJ-UAxXTEFkFHe-GMpkQ0bkNegQIGxAF",
       "sources": [
         "google"
       ],
@@ -85,13 +85,14 @@
         "post_url": null
       }
     ],
-    "confidence": 0.5,
+    "confidence": 0.6,
     "sources": [
       "google"
     ],
     "data_sources": [
       "website"
-    ]
+    ],
+    "reviews_url": "https://www.google.com/maps?cid=13461691880957884330"
   },
   "products": [],
   "media_assets": [],
@@ -102,13 +103,13 @@
     "total_rating": null,
     "no_of_ratings": 0,
     "rating_comments": [],
-    "reviews_url": null
+    "reviews_url": "https://www.google.com/maps?cid=13461691880957884330"
   },
-  "overall_confidence": 0.1,
+  "overall_confidence": 0.12,
   "social_profiles": [],
   "pipeline_summary": {
-    "run_started_at": "2026-05-04T08:39:38.852Z",
-    "duration_seconds": 36,
+    "run_started_at": "2026-05-06T08:09:13.086Z",
+    "duration_seconds": 52,
     "agents_in_order": [
       "CompanyEnricher",
       "Agent03/Product",
@@ -116,7 +117,7 @@
     ],
     "agent_call_counts": {
       "Agent02/Orchestrator": 1,
-      "Agent03/Product": 1,
+      "Agent03/Product": 2,
       "Agent03a/Category": 0,
       "Agent04/Media": 0,
       "Agent05/EnrichDedup": 1,
@@ -128,20 +129,22 @@
       "plan_execution": {
         "recommended_agents": [
           "company",
+          "sign3",
           "product",
           "dedup",
+          "social_enrichment",
           "catalog"
         ],
         "skip_agents": [
           "reviews"
         ],
         "quality_target": 0.75,
-        "reasoning": "Seller has 0 raw products, but run_product_agent can discover products. No reviews API URL, so run_reviews_agent will be skipped. The provided website is a Google search URL, which might impact data extraction."
+        "reasoning": "Initial seller record is sparse with 0 raw products and a Google search URL as the website. Company agent is crucial for context. Product agent will need to generate products. Sign3 and social enrichment are mandatory. Reviews agent is skipped due to no reviews API URL."
       },
       "evaluate_product_output": {
-        "decision": "proceed",
+        "decision": "retry",
         "avg_confidence": null,
-        "retry_triggered": false
+        "retry_triggered": true
       }
     },
     "products": {
@@ -158,7 +161,7 @@
       "posts_collected": 0,
       "social_products_extracted": 0
     },
-    "overall_confidence": 0.1
+    "overall_confidence": 0.12
   },
-  "_saved_at": "2026-05-04T08:40:15.234Z"
+  "_saved_at": "2026-05-06T08:10:05.537Z"
 }
