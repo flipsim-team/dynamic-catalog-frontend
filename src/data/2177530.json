@@ -10,7 +10,7 @@
       "post_url": null
     },
     "description": {
-      "value": "Samarth Electrocare Pvt. Ltd. is a Nagpur-based industrial equipment supplier dedicated to providing cost-effective and optimized solutions. Backed by a highly qualified and fully equipped team, they ensure reliable upkeep and committed delivery for their industrial clients.",
+      "value": "Samarth Electrocare Pvt. Ltd. is a leading industrial equipment supplier based in Nagpur. They are distinguished by their highly qualified and fully equipped team, providing cost-effective and optimized solutions with strong upkeep and delivery commitments.",
       "sources": [
         "llm_generated"
       ],
@@ -210,53 +210,332 @@
         "post_url": null
       }
     ],
+    "followers_facebook": 39,
+    "followers_youtube": 32,
     "confidence": 0.9,
     "sources": [
       "google",
-      "facebook"
+      "facebook",
+      "youtube"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 39
+      },
+      {
+        "platform": "youtube",
+        "followers": 32
+      }
     ],
     "data_sources": [
-      "website"
-    ]
+      "website",
+      "youtube"
+    ],
+    "reviews_url": "https://www.google.com/maps?cid=11152226502041590515"
   },
   "products": [
+    {
+      "raw_name": "Industrial Automation",
+      "clean_name": "Industrial Automation System",
+      "fingerprint": "80635fe082c5",
+      "top_level_domain": "Industrial Machinery & Equipment",
+      "industry_segment": "Automation & Control System",
+      "product_category": "Automation Solution",
+      "product_sub_type": "Industrial Automation System",
+      "buyer_persona": "A plant manager or operations director seeking to optimize production processes, reduce labor costs, and improve efficiency through automated systems.",
+      "description": "Industrial Automation Systems integrate advanced PLC/DCS control with SCADA for comprehensive process automation in manufacturing. These systems are available on request, tailored to specific industrial requirements. Ideal for plant managers and operations directors, they optimize production, reduce labor costs, and enhance overall efficiency. Samarth Electrocare Pvt. Ltd. provides robust, scalable, and reliable automation solutions designed for demanding industrial environments.",
+      "seo_title": "Process Automation Systems — PLC/DCS & SCADA Integration | Buy Online",
+      "tags": [
+        "Industrial Automation",
+        "Process Automation",
+        "PLC Systems",
+        "DCS Systems",
+        "SCADA Integration",
+        "Manufacturing Automation",
+        "Factory Automation",
+        "Control Systems",
+        "Industrial Solutions",
+        "Automation Solutions",
+        "Efficiency Improvement",
+        "Production Optimization"
+      ],
+      "alt_text": "Industrial Automation System with PLC/DCS control from Samarth Electrocare Pvt. Ltd.",
+      "domain_attributes": {
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/indautomation.jpg",
+        "source_url": "http://www.mysepl.in",
+        "AutomationType": "Process Automation",
+        "ControlSystem": "PLC/DCS",
+        "IntegrationCapability": "SCADA",
+        "IndustryApplication": "Manufacturing"
+      },
+      "specifications": {
+        "category": "Automation Solution",
+        "sub_type": "Industrial Automation System",
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/indautomation.jpg",
+        "source_url": "https://www.youtube.com/watch?v=yi31o8x5jHY",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "AutomationType": "Process Automation",
+        "ControlSystem": "PLC/DCS",
+        "IntegrationCapability": "SCADA",
+        "IndustryApplication": "Manufacturing"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8537",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Samarth Electrocare Pvt. Ltd",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2017/11/indautomation.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2017/11/indautomation.jpg",
+        "https://i.ytimg.com/vi/yi31o8x5jHY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGD8gZSg6MA8=&rs=AOn4CLAwwzsoTCO9Vgr9LziRWTtnTJc9Xw",
+        "https://i.ytimg.com/vi/vEutg36Xo44/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-DoACuAiKAgwIABABGF0gXShdMA8=&rs=AOn4CLD5BS99FfllsrHHfZALkLcG0axBgA",
+        "https://i.ytimg.com/vi/j3az1vwXi70/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGGUgZShlMA8=&rs=AOn4CLD4G-9GiKYKryutJcZwJTkesHh-kQ",
+        "https://i.ytimg.com/vi/GuXRz0xeskQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGDggUyhyMA8=&rs=AOn4CLC3h8fI7SWho1aTFmUbTaKljkZSkQ"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=yi31o8x5jHY",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website",
+        "youtube"
+      ],
+      "social_sources": [
+        {
+          "platform": "youtube",
+          "post_url": "https://www.youtube.com/watch?v=yi31o8x5jHY",
+          "thumbnail_url": "https://i.ytimg.com/vi/yi31o8x5jHY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGD8gZSg6MA8=&rs=AOn4CLAwwzsoTCO9Vgr9LziRWTtnTJc9Xw",
+          "caption": "Automation",
+          "posted_at": "2026-02-27T05:30:12.000Z",
+          "likes": 1,
+          "views": 14
+        }
+      ]
+    },
+    {
+      "raw_name": "Renewable Energy",
+      "clean_name": "Industrial Solar Power System",
+      "fingerprint": "fa1766264b61",
+      "top_level_domain": "Industrial Machinery & Equipment",
+      "industry_segment": "Energy Solution",
+      "product_category": "Renewable Energy System",
+      "product_sub_type": "Solar Power System",
+      "buyer_persona": "An industrial facility owner or energy manager looking to reduce operational costs, achieve sustainability goals, and ensure energy independence through renewable sources.",
+      "description": "Industrial Solar Power Systems are on-grid renewable energy solutions designed for large-scale applications, typically with capacities in megawatts. These custom-engineered systems are available on request, tailored to specific energy demands and site conditions. Ideal for industrial facility owners and energy managers, they significantly reduce operational costs and promote energy independence. Samarth Electrocare Pvt. Ltd. delivers high-performance, reliable, and sustainable solar solutions built for long-term efficiency and environmental benefits.",
+      "seo_title": "Industrial Solar Power Systems — On-Grid MW Capacity | Buy Online",
+      "tags": [
+        "Renewable Energy",
+        "Solar Power System",
+        "Industrial Solar",
+        "On-Grid Solar",
+        "MW Solar Capacity",
+        "Energy Solutions",
+        "Sustainable Energy",
+        "Solar Panels",
+        "Solar Inverter",
+        "Green Energy",
+        "Energy Independence",
+        "Cost Reduction"
+      ],
+      "alt_text": "Industrial Solar Power System with MW capacity from Samarth Electrocare Pvt. Ltd.",
+      "domain_attributes": {
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/renewableenergy.jpg",
+        "source_url": "http://www.mysepl.in",
+        "EnergySource": "Solar",
+        "SystemCapacity": "MW",
+        "ApplicationType": "Industrial",
+        "GridConnection": "On-Grid"
+      },
+      "specifications": {
+        "category": "Renewable Energy System",
+        "sub_type": "Solar Power System",
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/renewableenergy.jpg",
+        "source_url": "http://www.mysepl.in",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "EnergySource": "Solar",
+        "SystemCapacity": "MW",
+        "ApplicationType": "Industrial",
+        "GridConnection": "On-Grid"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8541",
+        "gst_percent": 12,
+        "country_of_origin": "India",
+        "brand": "Samarth Electrocare Pvt. Ltd",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/renewableenergy.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2020/11/renewableenergy.jpg"
+      ],
+      "source_url": "http://www.mysepl.in",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Test & Repair Laboratory",
+      "clean_name": "Test & Repair Laboratory",
+      "fingerprint": "38a6bc719eaa",
+      "top_level_domain": "Industrial Service",
+      "industry_segment": "Maintenance & Repair Service",
+      "product_category": "Laboratory Service",
+      "product_sub_type": "Equipment Testing & Repair",
+      "buyer_persona": "A maintenance manager or quality control specialist needing specialized facilities for diagnosing faults, calibrating instruments, and repairing industrial equipment.",
+      "description": "Our Test & Repair Laboratory offers specialized diagnostic, calibration, and repair services for a wide range of industrial electronic equipment. Pricing for our expert services is available upon request, tailored to your specific needs. These facilities are ideal for maintenance managers and quality control specialists seeking precise fault diagnosis and reliable equipment restoration. We ensure high standards of service, backed by ISO certification, to minimize downtime and extend the lifespan of your critical machinery.",
+      "seo_title": "Industrial Equipment Testing & Repair Services — ISO Certified | Samarth Electrocare",
+      "tags": [
+        "Laboratory services",
+        "equipment repair",
+        "industrial testing",
+        "calibration services",
+        "electronic repair",
+        "maintenance services",
+        "ISO certified",
+        "industrial solutions",
+        "fault diagnosis",
+        "equipment maintenance",
+        "B2B services",
+        "Nagpur services"
+      ],
+      "alt_text": "Test & Repair Laboratory for Industrial Electronics, ISO Certified by Samarth Electrocare Pvt. Ltd.",
+      "domain_attributes": {
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/trainingimage.jpg",
+        "source_url": "http://www.mysepl.in",
+        "ServiceType": "Diagnostic & Repair",
+        "EquipmentFocus": "Industrial Electronics",
+        "Certification": "ISO",
+        "TurnaroundTime": "Days"
+      },
+      "specifications": {
+        "category": "Laboratory Service",
+        "sub_type": "Equipment Testing & Repair",
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/trainingimage.jpg",
+        "source_url": "http://www.mysepl.in",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "ServiceType": "Diagnostic & Repair",
+        "EquipmentFocus": "Industrial Electronics",
+        "Certification": "ISO",
+        "TurnaroundTime": "Days"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "service",
+        "hsn_code": "9987",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Samarth Electrocare Pvt. Ltd",
+        "certifications": [
+          "ISO"
+        ]
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2017/11/trainingimage.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2017/11/trainingimage.jpg"
+      ],
+      "source_url": "http://www.mysepl.in",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
     {
       "raw_name": "Education & Training",
       "clean_name": "Education & Training",
       "fingerprint": "3c62fa97bc3c",
-      "top_level_domain": "Service",
-      "industry_segment": "Industrial & Technical Training",
-      "product_category": "Training Service",
-      "product_sub_type": "Industrial Equipment Training",
-      "buyer_persona": "Companies or individuals in industrial sectors seeking to train staff on the operation, maintenance, or design of industrial equipment.",
-      "description": "We offer comprehensive Education & Training services specializing in industrial equipment operation, maintenance, and design. Pricing for our tailored training programs is available upon request, ensuring solutions that fit your specific needs. These services are ideal for companies and individuals in industrial sectors seeking to enhance staff proficiency and technical skills. Our expert-led courses provide practical knowledge and often include certification, ensuring high-quality workforce development.",
-      "seo_title": "Industrial Equipment Training & Education Services — Expert-led | Buy Online",
+      "top_level_domain": "Industrial Service",
+      "industry_segment": "Professional Development",
+      "product_category": "Training Program",
+      "product_sub_type": "Industrial Skills Training",
+      "buyer_persona": "A human resources manager or operations supervisor seeking to upskill their workforce in industrial technologies, safety protocols, or equipment operation.",
+      "description": "We provide comprehensive industrial skills Education & Training programs, delivered on-site to ensure practical relevance and immediate application. Pricing for our training modules is available upon request, designed to fit various organizational budgets. These programs are tailored for human resources managers and operations supervisors looking to upskill their workforce in industrial technologies, safety protocols, and equipment operation. Participants receive certifications upon completion, validating their enhanced competencies and adherence to industry best practices.",
+      "seo_title": "Industrial Skills Training Programs — On-site & Certified | Samarth Electrocare",
       "tags": [
-        "Industrial Training",
-        "Equipment Training",
-        "Technical Education",
-        "Skill Development",
-        "Workforce Training",
-        "Corporate Training",
-        "Certification Courses",
-        "Industrial Skills",
-        "Samarth Electrocare",
-        "Training Services India",
-        "Professional Development",
-        "Machinery Training"
+        "Industrial training",
+        "technical education",
+        "skills development",
+        "workforce training",
+        "on-site training",
+        "safety protocols",
+        "equipment operation",
+        "technician training",
+        "certified programs",
+        "B2B training",
+        "corporate training",
+        "Nagpur training"
       ],
-      "alt_text": "Education & Training, Industrial Equipment Training Services by Samarth Electrocare Pvt. Ltd.",
+      "alt_text": "On-site Industrial Skills Education & Training for Technicians by Samarth Electrocare Pvt. Ltd.",
       "domain_attributes": {
         "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg",
         "source_url": "http://www.mysepl.in",
-        "Training Focus": "Industrial Equipment Operation, Maintenance, Design, Software, Technical Skills",
-        "Training Format": "Online, In-person, Workshop, Certification Course",
-        "Duration": null,
-        "Certification Provided": null
+        "TrainingFormat": "On-site",
+        "CourseDuration": "Days",
+        "TargetAudience": "Technicians",
+        "CertificationProvided": "Yes"
       },
       "specifications": {
-        "category": "Training Service",
-        "sub_type": "Industrial Equipment Training",
+        "category": "Training Program",
+        "sub_type": "Industrial Skills Training",
         "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg",
         "source_url": "http://www.mysepl.in",
         "price_single": null,
@@ -264,15 +543,15 @@
         "price_max": null,
         "price_unit": null,
         "currency": "INR",
-        "Training Focus": "Industrial Equipment Operation, Maintenance, Design, Software, Technical Skills",
-        "Training Format": "Online, In-person, Workshop, Certification Course",
-        "Duration": null,
-        "Certification Provided": null
+        "TrainingFormat": "On-site",
+        "CourseDuration": "Days",
+        "TargetAudience": "Technicians",
+        "CertificationProvided": "Yes"
       },
       "b2b_attributes": {
         "moq": null,
         "moq_unit": null,
-        "price_unit": null,
+        "price_unit": "program",
         "hsn_code": "9992",
         "gst_percent": 18,
         "country_of_origin": "India",
@@ -303,64 +582,62 @@
       ]
     },
     {
-      "raw_name": "Tyre Plants",
-      "clean_name": "Tyre Manufacturing Plants",
-      "fingerprint": "6552c685edb6",
-      "top_level_domain": "Industrial Equipment",
-      "industry_segment": "Rubber & Tyre Manufacturing Equipment",
-      "product_category": "Tyre Manufacturing Plant",
-      "product_sub_type": "Complete Tyre Production Line",
-      "buyer_persona": "A procurement manager or business owner in the rubber and tyre industry looking to set up or expand a tyre manufacturing facility.",
-      "description": "Tyre Manufacturing Plants are comprehensive industrial facilities designed for the complete production of various types of tyres, from passenger car to OTR. These plants are typically available on a price-on-request basis, offering customized solutions to meet specific production demands. Ideal for large-scale industrial corporations and rubber product manufacturers, they facilitate high-volume and efficient tyre production. Featuring advanced automation levels and robust plant layouts, these facilities ensure quality-controlled manufacturing processes.",
-      "seo_title": "Complete Tyre Manufacturing Plants — High Capacity | Industrial",
+      "raw_name": "Industry 4.0",
+      "clean_name": "Industry 4.0 Solutions",
+      "fingerprint": "b57e10c63966",
+      "top_level_domain": "Industrial Machinery & Equipment",
+      "industry_segment": "Digital Transformation Solution",
+      "product_category": "Industry 4.0 Solution",
+      "product_sub_type": "Smart Factory Integration",
+      "buyer_persona": "A CEO or IT director of a manufacturing company looking to implement advanced technologies like IoT, AI, and data analytics to create smart, interconnected production systems.",
+      "description": "Our Industry 4.0 Solutions offer smart factory integration, leveraging core IoT technology for enterprise-wide digital transformation. Pricing for these advanced solutions is available upon request, customized for your specific manufacturing environment. These solutions are designed for CEOs and IT directors aiming to implement AI and data analytics to create interconnected production systems. Key benefits include predictive maintenance and modular scalability, ensuring your operations are future-ready and highly efficient.",
+      "seo_title": "Smart Factory Industry 4.0 Solutions — IoT & AI Integration | Samarth Electrocare",
       "tags": [
-        "tyre plant",
-        "tyre manufacturing",
-        "rubber processing",
-        "industrial equipment",
-        "tyre production line",
-        "tyre factory",
-        "manufacturing machinery",
-        "rubber industry",
-        "tyre making plant",
-        "industrial plant",
-        "heavy machinery",
-        "tyre production equipment"
+        "Industry 4.0",
+        "smart factory",
+        "IoT solutions",
+        "AI integration",
+        "data analytics",
+        "digital transformation",
+        "predictive maintenance",
+        "manufacturing automation",
+        "industrial IoT",
+        "enterprise solutions",
+        "modular scalability",
+        "B2B technology"
       ],
-      "alt_text": "Tyre Manufacturing Plants for high-volume production by Samarth Electrocare Pvt. Ltd",
+      "alt_text": "Industry 4.0 Smart Factory Integration Solutions with IoT & AI by Samarth Electrocare Pvt. Ltd.",
       "domain_attributes": {
-        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
-        "source_url": "http://www.mysepl.in/portfolio/tyre-plants/",
-        "Production Capacity": "Varies by configuration",
-        "Automation Level": "Configurable (e.g., fully automated, semi-automated)",
-        "Type of Tyres Produced": "Passenger car tyres, truck tyres, OTR tyres, specialty tyres",
-        "Plant Layout": "Customizable based on site requirements",
-        "Condition": "New, used, or refurbished options available"
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/industry4img.jpg",
+        "source_url": "http://www.mysepl.in",
+        "CoreTechnology": "IoT",
+        "IntegrationScope": "Enterprise-wide",
+        "KeyBenefit": "Predictive Maintenance",
+        "Scalability": "Modular"
       },
       "specifications": {
-        "category": "Tyre Manufacturing Plant",
-        "sub_type": "Complete Tyre Production Line",
-        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
-        "source_url": "http://www.mysepl.in/portfolio/tyre-plants/",
+        "category": "Industry 4.0 Solution",
+        "sub_type": "Smart Factory Integration",
+        "image_url": "http://www.mysepl.in/wp-content/uploads/2017/11/industry4img.jpg",
+        "source_url": "http://www.mysepl.in",
         "price_single": null,
         "price_min": null,
         "price_max": null,
         "price_unit": null,
         "currency": "INR",
-        "Production Capacity": "Varies by configuration",
-        "Automation Level": "Configurable (e.g., fully automated, semi-automated)",
-        "Type of Tyres Produced": "Passenger car tyres, truck tyres, OTR tyres, specialty tyres",
-        "Plant Layout": "Customizable based on site requirements",
-        "Condition": "New, used, or refurbished options available"
+        "CoreTechnology": "IoT",
+        "IntegrationScope": "Enterprise-wide",
+        "KeyBenefit": "Predictive Maintenance",
+        "Scalability": "Modular"
       },
       "b2b_attributes": {
         "moq": null,
         "moq_unit": null,
-        "price_unit": "unit",
-        "hsn_code": "8479",
+        "price_unit": "project",
+        "hsn_code": "9983",
         "gst_percent": 18,
         "country_of_origin": "India",
-        "brand": null,
+        "brand": "Samarth Electrocare Pvt. Ltd",
         "certifications": []
       },
       "price_single": null,
@@ -370,96 +647,14 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2017/11/industry4img.jpg",
       "photo_urls": [
-        "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg"
+        "http://www.mysepl.in/wp-content/uploads/2017/11/industry4img.jpg"
       ],
-      "source_url": "http://www.mysepl.in/portfolio/tyre-plants/",
+      "source_url": "http://www.mysepl.in",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
-      "extraction_confidence": 0.75,
-      "self_healing_attempted": false,
-      "retry_count": 0,
-      "warnings": [],
-      "sources": [
-        "website"
-      ]
-    },
-    {
-      "raw_name": "Steel Plant",
-      "clean_name": "Steel Manufacturing Plant",
-      "fingerprint": "b7b5325b95a2",
-      "top_level_domain": "Industrial Equipment",
-      "industry_segment": "Metal Production & Processing",
-      "product_category": "Steel Plant",
-      "product_sub_type": "Integrated Steel Production Facility",
-      "buyer_persona": "Large industrial corporations, steel manufacturers, or government entities seeking to establish or expand steel production capabilities.",
-      "description": "Steel Manufacturing Plants are integrated industrial facilities designed for the comprehensive production of various steel products, including billets, slabs, and rebar. These large-scale plants are typically offered on a price-on-request basis, providing tailored solutions for specific production capacities. They are essential for major industrial corporations and steel producers aiming to establish or expand their steelmaking capabilities. Utilizing advanced technologies like Blast Furnaces or Electric Arc Furnaces, these plants ensure efficient, high-quality, and high-volume steel output.",
-      "seo_title": "Integrated Steel Manufacturing Plant — High Capacity | Industrial",
-      "tags": [
-        "steel plant",
-        "steel manufacturing",
-        "metal production",
-        "industrial plant",
-        "steel factory",
-        "steelmaking equipment",
-        "heavy industry",
-        "metal processing",
-        "billet production",
-        "slab production",
-        "rebar manufacturing",
-        "industrial machinery"
-      ],
-      "alt_text": "Steel Manufacturing Plant for high-volume metal production by Samarth Electrocare Pvt. Ltd",
-      "domain_attributes": {
-        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
-        "source_url": "http://www.mysepl.in/portfolio/steel-plant/",
-        "Production Capacity": "Varies by configuration (e.g., X tons per annum)",
-        "Technology Type": "Blast Furnace, Electric Arc Furnace, Induction Furnace, etc.",
-        "Product Output": "Billets, slabs, rebar, sheets, coils, structural steel",
-        "Automation Level": "Configurable (e.g., fully automated, semi-automated)"
-      },
-      "specifications": {
-        "category": "Steel Plant",
-        "sub_type": "Integrated Steel Production Facility",
-        "image_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
-        "source_url": "http://www.mysepl.in/portfolio/steel-plant/",
-        "price_single": null,
-        "price_min": null,
-        "price_max": null,
-        "price_unit": null,
-        "currency": "INR",
-        "Production Capacity": "Varies by configuration (e.g., X tons per annum)",
-        "Technology Type": "Blast Furnace, Electric Arc Furnace, Induction Furnace, etc.",
-        "Product Output": "Billets, slabs, rebar, sheets, coils, structural steel",
-        "Automation Level": "Configurable (e.g., fully automated, semi-automated)"
-      },
-      "b2b_attributes": {
-        "moq": null,
-        "moq_unit": null,
-        "price_unit": "unit",
-        "hsn_code": "8479",
-        "gst_percent": 18,
-        "country_of_origin": "India",
-        "brand": null,
-        "certifications": []
-      },
-      "price_single": null,
-      "price_min": null,
-      "price_max": null,
-      "is_price_range": false,
-      "price_on_request": true,
-      "price_unit": null,
-      "currency": "INR",
-      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
-      "photo_urls": [
-        "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg"
-      ],
-      "source_url": "http://www.mysepl.in/portfolio/steel-plant/",
-      "in_stock": true,
-      "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.85,
       "extraction_confidence": 0.75,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -471,13 +666,60 @@
   ],
   "media_assets": [
     {
+      "fingerprint": "80635fe082c5",
+      "product_name": "Industrial Automation System",
+      "url": "http://www.mysepl.in/wp-content/uploads/2017/11/indautomation.jpg",
+      "scene_type": "product_lifestyle",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Industrial automation system, robotic assembly line",
+        "shape_visible": "Articulated robotic arms, car body frames, rectangular conveyor belts, compact forklifts, grid-patterned safety fences",
+        "color_appearance": "Predominantly yellow (robots, forklifts), blue (conveyors, structures), grey (car bodies, fences), and white (floor, cabinets)",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "Computer-generated illustration of a factory environment on a clean, white background",
+        "additional_visual_notes": "Features multiple robotic arms, conveyor systems, partially assembled car bodies, human operators, and forklifts, all rendered in a stylized manner."
+      },
+      "visual_description": "A computer-generated illustration depicts a modern industrial automation system on a clean white background. The scene showcases an assembly line with multiple yellow robotic arms actively working on grey car bodies, which are moving along blue conveyor belts. Several miniature human figures and yellow forklifts are also visible, providing a sense of scale and illustrating the operational context within a factory environment. The overall presentation is clean, organized, and highlights advanced manufacturing technology.",
+      "media_alt_text": "Computer-generated illustration of an industrial automation system with yellow robotic arms assembling car bodies on a blue conveyor line.",
+      "used_vision": true,
+      "classified_at": "2026-05-06T02:46:24.964Z"
+    },
+    {
+      "fingerprint": "fa1766264b61",
+      "product_name": "Industrial Solar Power System",
+      "url": "http://www.mysepl.in/wp-content/uploads/2020/11/renewableenergy.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.93,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Product — Samarth Electrocare Pvt. Ltd",
+      "used_vision": false,
+      "classified_at": "2026-05-06T02:46:24.735Z"
+    },
+    {
+      "fingerprint": "38a6bc719eaa",
+      "product_name": "Test & Repair Laboratory",
+      "url": "http://www.mysepl.in/wp-content/uploads/2017/11/trainingimage.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.93,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Product — Samarth Electrocare Pvt. Ltd",
+      "used_vision": false,
+      "classified_at": "2026-05-06T02:46:25.172Z"
+    },
+    {
       "fingerprint": "3c62fa97bc3c",
       "product_name": "Education & Training",
       "url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg",
       "scene_type": "product_lifestyle",
-      "media_confidence": 1,
+      "media_confidence": 0.9,
       "visual_features": {
-        "product_type_confirmed": "training session / workshop",
+        "product_type_confirmed": "training session",
         "shape_visible": null,
         "color_appearance": null,
         "clarity_appearance": null,
@@ -485,89 +727,284 @@
         "setting_or_mounting": null,
         "metal_visible": null,
         "certification_label_visible": false,
-        "presentation": "classroom / workshop setting",
-        "additional_visual_notes": "A female presenter is addressing a seated audience in a bright room with a large whiteboard and windows, suggesting an in-person training format."
+        "presentation": "classroom setting",
+        "additional_visual_notes": "whiteboard, diverse audience, large windows, brick wall"
       },
-      "visual_description": "The image depicts a training session or workshop in progress, with a female presenter standing at the front, gesturing towards a large white board mounted on a white brick wall. A diverse group of adults is seated in wooden chairs, attentively facing the presenter. Natural light streams in from a large window on the left side of the bright room.",
-      "media_alt_text": "A female presenter gestures towards a whiteboard while addressing a diverse group of adults seated in a bright training room.",
+      "visual_description": "The image depicts a professional training session in progress. A woman, dressed in a grey blazer and jeans, stands at the front of a room, gesturing towards a large white board while addressing a seated audience. The room features large windows on the left and a white painted brick wall on the right, creating a bright, modern classroom or conference setting.",
+      "media_alt_text": "A woman presents to a diverse group of people in a bright classroom with a whiteboard and large windows, depicting a training program.",
       "used_vision": true,
-      "classified_at": "2026-05-04T08:48:50.521Z"
+      "classified_at": "2026-05-06T02:46:18.926Z"
     },
     {
-      "fingerprint": "6552c685edb6",
-      "product_name": "Tyre Manufacturing Plants",
-      "url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
+      "fingerprint": "b57e10c63966",
+      "product_name": "Industry 4.0 Solutions",
+      "url": "http://www.mysepl.in/wp-content/uploads/2017/11/industry4img.jpg",
       "scene_type": "product_image",
-      "media_confidence": 0.95,
-      "visual_features": {
-        "product_type_confirmed": "Tyre manufacturing plant machinery",
-        "shape_visible": "Industrial machinery with various geometric and cylindrical components, round tyres, linear conveyor belt",
-        "color_appearance": "Dominant colors are blue, red, and yellow on the machinery, with grey structural elements and black tyres",
-        "clarity_appearance": null,
-        "size_impression": null,
-        "setting_or_mounting": null,
-        "metal_visible": "Steel, various industrial metals",
-        "certification_label_visible": false,
-        "presentation": "Industrial factory floor setting",
-        "additional_visual_notes": "Two finished tyres are visible on a conveyor belt, indicating the production process. The machinery appears modern and well-maintained."
-      },
-      "visual_description": "The image displays an interior view of a large-scale industrial factory floor, featuring rows of complex machinery in blue, red, and yellow colors. A conveyor belt runs down the center, on which two black, finished tyres are visible. The background shows more machinery and industrial lighting, indicating an active manufacturing environment.",
-      "media_alt_text": "Interior view of a tyre manufacturing plant with blue, red, and yellow machinery, and two black tyres on a conveyor belt.",
-      "used_vision": true,
-      "classified_at": "2026-05-04T08:48:50.625Z"
-    },
-    {
-      "fingerprint": "b7b5325b95a2",
-      "product_name": "Steel Manufacturing Plant",
-      "url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
-      "scene_type": "product_lifestyle",
-      "media_confidence": 1,
-      "visual_features": {
-        "product_type_confirmed": "steel coils",
-        "shape_visible": "cylindrical",
-        "color_appearance": "silvery-gray, metallic sheen",
-        "clarity_appearance": null,
-        "size_impression": "very large (>5 tons each, industrial scale)",
-        "setting_or_mounting": null,
-        "metal_visible": "steel",
-        "certification_label_visible": false,
-        "presentation": "industrial warehouse setting",
-        "additional_visual_notes": "A worker in safety gear is inspecting one of the coils. The coils are stacked in an organized manner."
-      },
-      "visual_description": "The image displays a large quantity of shiny, silvery-gray steel coils, stacked high in what appears to be an industrial warehouse or factory setting. The coils are cylindrical with hollow centers, and some are secured with dark bands. A worker in a hard hat and safety vest is visible in the foreground, inspecting one of the lower coils, providing a sense of scale to the massive industrial products.",
-      "media_alt_text": "A worker in a hard hat and safety vest inspects large, silvery-gray steel coils stacked high in an industrial warehouse.",
-      "used_vision": true,
-      "classified_at": "2026-05-04T08:48:52.616Z"
+      "media_confidence": 0.93,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Product — Samarth Electrocare Pvt. Ltd",
+      "used_vision": false,
+      "classified_at": "2026-05-06T02:46:25.723Z"
     }
   ],
   "catalog_items": [
     {
-      "clean_name": "Education & Training",
-      "fingerprint": "3c62fa97bc3c",
-      "top_level_domain": "Service",
-      "industry_segment": "Industrial & Technical Training",
-      "product_category": "Training Service",
-      "product_sub_type": "Industrial Equipment Training",
-      "buyer_persona": "Companies or individuals in industrial sectors seeking to train staff on the operation, maintenance, or design of industrial equipment.",
-      "seo_title": "Industrial Equipment Training & Education Services — Expert-led | Buy Online",
+      "clean_name": "Industrial Automation System",
+      "fingerprint": "80635fe082c5",
+      "top_level_domain": "Industrial Machinery & Equipment",
+      "industry_segment": "Automation & Control System",
+      "product_category": "Automation Solution",
+      "product_sub_type": "Industrial Automation System",
+      "buyer_persona": "A plant manager or operations director seeking to optimize production processes, reduce labor costs, and improve efficiency through automated systems.",
+      "seo_title": "Process Automation Systems — PLC/DCS & SCADA Integration | Buy Online",
       "tags": [
-        "Industrial Training",
-        "Equipment Training",
-        "Technical Education",
-        "Skill Development",
-        "Workforce Training",
-        "Corporate Training",
-        "Certification Courses",
-        "Industrial Skills",
-        "Samarth Electrocare",
-        "Training Services India",
-        "Professional Development",
-        "Machinery Training"
+        "Industrial Automation",
+        "Process Automation",
+        "PLC Systems",
+        "DCS Systems",
+        "SCADA Integration",
+        "Manufacturing Automation",
+        "Factory Automation",
+        "Control Systems",
+        "Industrial Solutions",
+        "Automation Solutions",
+        "Efficiency Improvement",
+        "Production Optimization"
       ],
       "b2b_attributes": {
         "moq": null,
         "moq_unit": null,
         "price_unit": null,
+        "hsn_code": "8537",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Samarth Electrocare Pvt. Ltd",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2017/11/indautomation.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2017/11/indautomation.jpg",
+        "https://i.ytimg.com/vi/yi31o8x5jHY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGD8gZSg6MA8=&rs=AOn4CLAwwzsoTCO9Vgr9LziRWTtnTJc9Xw",
+        "https://i.ytimg.com/vi/vEutg36Xo44/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-DoACuAiKAgwIABABGF0gXShdMA8=&rs=AOn4CLD5BS99FfllsrHHfZALkLcG0axBgA",
+        "https://i.ytimg.com/vi/j3az1vwXi70/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGGUgZShlMA8=&rs=AOn4CLD4G-9GiKYKryutJcZwJTkesHh-kQ",
+        "https://i.ytimg.com/vi/GuXRz0xeskQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGDggUyhyMA8=&rs=AOn4CLC3h8fI7SWho1aTFmUbTaKljkZSkQ"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=yi31o8x5jHY",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website",
+        "youtube"
+      ],
+      "social_sources": [
+        {
+          "platform": "youtube",
+          "post_url": "https://www.youtube.com/watch?v=yi31o8x5jHY",
+          "thumbnail_url": "https://i.ytimg.com/vi/yi31o8x5jHY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGD8gZSg6MA8=&rs=AOn4CLAwwzsoTCO9Vgr9LziRWTtnTJc9Xw",
+          "caption": "Automation",
+          "posted_at": "2026-02-27T05:30:12.000Z",
+          "likes": 1,
+          "views": 14
+        }
+      ],
+      "raw_name": "Industrial Automation",
+      "description": "Industrial Automation Systems integrate advanced PLC/DCS control with SCADA for comprehensive process automation in manufacturing. These systems are available on request, tailored to specific industrial requirements. Ideal for plant managers and operations directors, they optimize production, reduce labor costs, and enhance overall efficiency. Samarth Electrocare Pvt. Ltd. provides robust, scalable, and reliable automation solutions designed for demanding industrial environments. A computer-generated illustration depicts a modern industrial automation system on a clean white background. The scene showcases an assembly line with multiple yellow robotic arms actively working on grey car bodies, which are moving along blue conveyor belts. Several miniature human figures and yellow forklifts are also visible, providing a sense of scale and illustrating the operational context within a factory environment. The overall presentation is clean, organized, and highlights advanced manufacturing technology.",
+      "specifications": {
+        "category": "Automation Solution",
+        "sub_type": "Industrial Automation System",
+        "AutomationType": "Process Automation",
+        "ControlSystem": "PLC/DCS",
+        "IntegrationCapability": "SCADA",
+        "IndustryApplication": "Manufacturing",
+        "visual_shape": "Articulated robotic arms, car body frames, rectangular conveyor belts, compact forklifts, grid-patterned safety fences",
+        "visual_color": "Predominantly yellow (robots, forklifts), blue (conveyors, structures), grey (car bodies, fences), and white (floor, cabinets)",
+        "presentation": "Computer-generated illustration of a factory environment on a clean, white background",
+        "visual_product_type": "Industrial automation system, robotic assembly line",
+        "visual_notes": "Features multiple robotic arms, conveyor systems, partially assembled car bodies, human operators, and forklifts, all rendered in a stylized manner."
+      },
+      "alt_text": "Computer-generated illustration of an industrial automation system with yellow robotic arms assembling car bodies on a blue conveyor line.",
+      "used_vision": true,
+      "media_url": "http://www.mysepl.in/wp-content/uploads/2017/11/indautomation.jpg"
+    },
+    {
+      "clean_name": "Industrial Solar Power System",
+      "fingerprint": "fa1766264b61",
+      "top_level_domain": "Industrial Machinery & Equipment",
+      "industry_segment": "Energy Solution",
+      "product_category": "Renewable Energy System",
+      "product_sub_type": "Solar Power System",
+      "buyer_persona": "An industrial facility owner or energy manager looking to reduce operational costs, achieve sustainability goals, and ensure energy independence through renewable sources.",
+      "seo_title": "Industrial Solar Power Systems — On-Grid MW Capacity | Buy Online",
+      "tags": [
+        "Renewable Energy",
+        "Solar Power System",
+        "Industrial Solar",
+        "On-Grid Solar",
+        "MW Solar Capacity",
+        "Energy Solutions",
+        "Sustainable Energy",
+        "Solar Panels",
+        "Solar Inverter",
+        "Green Energy",
+        "Energy Independence",
+        "Cost Reduction"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8541",
+        "gst_percent": 12,
+        "country_of_origin": "India",
+        "brand": "Samarth Electrocare Pvt. Ltd",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/renewableenergy.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2020/11/renewableenergy.jpg"
+      ],
+      "source_url": "http://www.mysepl.in",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "raw_name": "Renewable Energy",
+      "description": "Industrial Solar Power Systems are on-grid renewable energy solutions designed for large-scale applications, typically with capacities in megawatts. These custom-engineered systems are available on request, tailored to specific energy demands and site conditions. Ideal for industrial facility owners and energy managers, they significantly reduce operational costs and promote energy independence. Samarth Electrocare Pvt. Ltd. delivers high-performance, reliable, and sustainable solar solutions built for long-term efficiency and environmental benefits.",
+      "specifications": {
+        "category": "Renewable Energy System",
+        "sub_type": "Solar Power System",
+        "EnergySource": "Solar",
+        "SystemCapacity": "MW",
+        "ApplicationType": "Industrial",
+        "GridConnection": "On-Grid"
+      },
+      "alt_text": "Product — Samarth Electrocare Pvt. Ltd",
+      "used_vision": false,
+      "media_url": "http://www.mysepl.in/wp-content/uploads/2020/11/renewableenergy.jpg"
+    },
+    {
+      "clean_name": "Test & Repair Laboratory",
+      "fingerprint": "38a6bc719eaa",
+      "top_level_domain": "Industrial Service",
+      "industry_segment": "Maintenance & Repair Service",
+      "product_category": "Laboratory Service",
+      "product_sub_type": "Equipment Testing & Repair",
+      "buyer_persona": "A maintenance manager or quality control specialist needing specialized facilities for diagnosing faults, calibrating instruments, and repairing industrial equipment.",
+      "seo_title": "Industrial Equipment Testing & Repair Services — ISO Certified | Samarth Electrocare",
+      "tags": [
+        "Laboratory services",
+        "equipment repair",
+        "industrial testing",
+        "calibration services",
+        "electronic repair",
+        "maintenance services",
+        "ISO certified",
+        "industrial solutions",
+        "fault diagnosis",
+        "equipment maintenance",
+        "B2B services",
+        "Nagpur services"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "service",
+        "hsn_code": "9987",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Samarth Electrocare Pvt. Ltd",
+        "certifications": [
+          "ISO"
+        ]
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2017/11/trainingimage.jpg",
+      "photo_urls": [
+        "http://www.mysepl.in/wp-content/uploads/2017/11/trainingimage.jpg"
+      ],
+      "source_url": "http://www.mysepl.in",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Our Test & Repair Laboratory offers specialized diagnostic, calibration, and repair services for a wide range of industrial electronic equipment. Pricing for our expert services is available upon request, tailored to your specific needs. These facilities are ideal for maintenance managers and quality control specialists seeking precise fault diagnosis and reliable equipment restoration. We ensure high standards of service, backed by ISO certification, to minimize downtime and extend the lifespan of your critical machinery.",
+      "specifications": {
+        "category": "Laboratory Service",
+        "sub_type": "Equipment Testing & Repair",
+        "ServiceType": "Diagnostic & Repair",
+        "EquipmentFocus": "Industrial Electronics",
+        "Certification": "ISO",
+        "TurnaroundTime": "Days"
+      },
+      "alt_text": "Product — Samarth Electrocare Pvt. Ltd",
+      "used_vision": false,
+      "media_url": "http://www.mysepl.in/wp-content/uploads/2017/11/trainingimage.jpg"
+    },
+    {
+      "clean_name": "Education & Training",
+      "fingerprint": "3c62fa97bc3c",
+      "top_level_domain": "Industrial Service",
+      "industry_segment": "Professional Development",
+      "product_category": "Training Program",
+      "product_sub_type": "Industrial Skills Training",
+      "buyer_persona": "A human resources manager or operations supervisor seeking to upskill their workforce in industrial technologies, safety protocols, or equipment operation.",
+      "seo_title": "Industrial Skills Training Programs — On-site & Certified | Samarth Electrocare",
+      "tags": [
+        "Industrial training",
+        "technical education",
+        "skills development",
+        "workforce training",
+        "on-site training",
+        "safety protocols",
+        "equipment operation",
+        "technician training",
+        "certified programs",
+        "B2B training",
+        "corporate training",
+        "Nagpur training"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "program",
         "hsn_code": "9992",
         "gst_percent": 18,
         "country_of_origin": "India",
@@ -596,53 +1033,53 @@
       "sources": [
         "website"
       ],
-      "description": "We offer comprehensive Education & Training services specializing in industrial equipment operation, maintenance, and design. Pricing for our tailored training programs is available upon request, ensuring solutions that fit your specific needs. These services are ideal for companies and individuals in industrial sectors seeking to enhance staff proficiency and technical skills. Our expert-led courses provide practical knowledge and often include certification, ensuring high-quality workforce development. The image depicts a training session or workshop in progress, with a female presenter standing at the front, gesturing towards a large white board mounted on a white brick wall. A diverse group of adults is seated in wooden chairs, attentively facing the presenter. Natural light streams in from a large window on the left side of the bright room.",
+      "description": "We provide comprehensive industrial skills Education & Training programs, delivered on-site to ensure practical relevance and immediate application. Pricing for our training modules is available upon request, designed to fit various organizational budgets. These programs are tailored for human resources managers and operations supervisors looking to upskill their workforce in industrial technologies, safety protocols, and equipment operation. Participants receive certifications upon completion, validating their enhanced competencies and adherence to industry best practices. The image depicts a professional training session in progress. A woman, dressed in a grey blazer and jeans, stands at the front of a room, gesturing towards a large white board while addressing a seated audience. The room features large windows on the left and a white painted brick wall on the right, creating a bright, modern classroom or conference setting.",
       "specifications": {
-        "category": "Training Service",
-        "sub_type": "Industrial Equipment Training",
-        "Training Focus": "Industrial Equipment Operation, Maintenance, Design, Software, Technical Skills",
-        "Training Format": "Online, In-person, Workshop, Certification Course",
-        "Duration": null,
-        "Certification Provided": null,
-        "presentation": "classroom / workshop setting",
-        "visual_product_type": "training session / workshop",
-        "visual_notes": "A female presenter is addressing a seated audience in a bright room with a large whiteboard and windows, suggesting an in-person training format."
+        "category": "Training Program",
+        "sub_type": "Industrial Skills Training",
+        "TrainingFormat": "On-site",
+        "CourseDuration": "Days",
+        "TargetAudience": "Technicians",
+        "CertificationProvided": "Yes",
+        "presentation": "classroom setting",
+        "visual_product_type": "training session",
+        "visual_notes": "whiteboard, diverse audience, large windows, brick wall"
       },
-      "alt_text": "A female presenter gestures towards a whiteboard while addressing a diverse group of adults seated in a bright training room.",
+      "alt_text": "A woman presents to a diverse group of people in a bright classroom with a whiteboard and large windows, depicting a training program.",
       "used_vision": true,
       "media_url": "http://www.mysepl.in/wp-content/uploads/2017/11/teaching-seminar.jpg"
     },
     {
-      "clean_name": "Tyre Manufacturing Plants",
-      "fingerprint": "6552c685edb6",
-      "top_level_domain": "Industrial Equipment",
-      "industry_segment": "Rubber & Tyre Manufacturing Equipment",
-      "product_category": "Tyre Manufacturing Plant",
-      "product_sub_type": "Complete Tyre Production Line",
-      "buyer_persona": "A procurement manager or business owner in the rubber and tyre industry looking to set up or expand a tyre manufacturing facility.",
-      "seo_title": "Complete Tyre Manufacturing Plants — High Capacity | Industrial",
+      "clean_name": "Industry 4.0 Solutions",
+      "fingerprint": "b57e10c63966",
+      "top_level_domain": "Industrial Machinery & Equipment",
+      "industry_segment": "Digital Transformation Solution",
+      "product_category": "Industry 4.0 Solution",
+      "product_sub_type": "Smart Factory Integration",
+      "buyer_persona": "A CEO or IT director of a manufacturing company looking to implement advanced technologies like IoT, AI, and data analytics to create smart, interconnected production systems.",
+      "seo_title": "Smart Factory Industry 4.0 Solutions — IoT & AI Integration | Samarth Electrocare",
       "tags": [
-        "tyre plant",
-        "tyre manufacturing",
-        "rubber processing",
-        "industrial equipment",
-        "tyre production line",
-        "tyre factory",
-        "manufacturing machinery",
-        "rubber industry",
-        "tyre making plant",
-        "industrial plant",
-        "heavy machinery",
-        "tyre production equipment"
+        "Industry 4.0",
+        "smart factory",
+        "IoT solutions",
+        "AI integration",
+        "data analytics",
+        "digital transformation",
+        "predictive maintenance",
+        "manufacturing automation",
+        "industrial IoT",
+        "enterprise solutions",
+        "modular scalability",
+        "B2B technology"
       ],
       "b2b_attributes": {
         "moq": null,
         "moq_unit": null,
-        "price_unit": "unit",
-        "hsn_code": "8479",
+        "price_unit": "project",
+        "hsn_code": "9983",
         "gst_percent": 18,
         "country_of_origin": "India",
-        "brand": null,
+        "brand": "Samarth Electrocare Pvt. Ltd",
         "certifications": []
       },
       "price_single": null,
@@ -652,14 +1089,14 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg",
+      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2017/11/industry4img.jpg",
       "photo_urls": [
-        "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg"
+        "http://www.mysepl.in/wp-content/uploads/2017/11/industry4img.jpg"
       ],
-      "source_url": "http://www.mysepl.in/portfolio/tyre-plants/",
+      "source_url": "http://www.mysepl.in",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.85,
       "extraction_confidence": 0.75,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -667,102 +1104,118 @@
       "sources": [
         "website"
       ],
-      "raw_name": "Tyre Plants",
-      "description": "Tyre Manufacturing Plants are comprehensive industrial facilities designed for the complete production of various types of tyres, from passenger car to OTR. These plants are typically available on a price-on-request basis, offering customized solutions to meet specific production demands. Ideal for large-scale industrial corporations and rubber product manufacturers, they facilitate high-volume and efficient tyre production. Featuring advanced automation levels and robust plant layouts, these facilities ensure quality-controlled manufacturing processes. The image displays an interior view of a large-scale industrial factory floor, featuring rows of complex machinery in blue, red, and yellow colors. A conveyor belt runs down the center, on which two black, finished tyres are visible. The background shows more machinery and industrial lighting, indicating an active manufacturing environment.",
+      "raw_name": "Industry 4.0",
+      "description": "Our Industry 4.0 Solutions offer smart factory integration, leveraging core IoT technology for enterprise-wide digital transformation. Pricing for these advanced solutions is available upon request, customized for your specific manufacturing environment. These solutions are designed for CEOs and IT directors aiming to implement AI and data analytics to create interconnected production systems. Key benefits include predictive maintenance and modular scalability, ensuring your operations are future-ready and highly efficient.",
       "specifications": {
-        "category": "Tyre Manufacturing Plant",
-        "sub_type": "Complete Tyre Production Line",
-        "Production Capacity": "Varies by configuration",
-        "Automation Level": "Configurable (e.g., fully automated, semi-automated)",
-        "Type of Tyres Produced": "Passenger car tyres, truck tyres, OTR tyres, specialty tyres",
-        "Plant Layout": "Customizable based on site requirements",
-        "Condition": "New, used, or refurbished options available",
-        "visual_shape": "Industrial machinery with various geometric and cylindrical components, round tyres, linear conveyor belt",
-        "visual_color": "Dominant colors are blue, red, and yellow on the machinery, with grey structural elements and black tyres",
-        "visual_metal": "Steel, various industrial metals",
-        "presentation": "Industrial factory floor setting",
-        "visual_product_type": "Tyre manufacturing plant machinery",
-        "visual_notes": "Two finished tyres are visible on a conveyor belt, indicating the production process. The machinery appears modern and well-maintained."
+        "category": "Industry 4.0 Solution",
+        "sub_type": "Smart Factory Integration",
+        "CoreTechnology": "IoT",
+        "IntegrationScope": "Enterprise-wide",
+        "KeyBenefit": "Predictive Maintenance",
+        "Scalability": "Modular"
       },
-      "alt_text": "Interior view of a tyre manufacturing plant with blue, red, and yellow machinery, and two black tyres on a conveyor belt.",
-      "used_vision": true,
-      "media_url": "http://www.mysepl.in/wp-content/uploads/2020/11/tyreplants-390x231.jpg"
+      "alt_text": "Product — Samarth Electrocare Pvt. Ltd",
+      "used_vision": false,
+      "media_url": "http://www.mysepl.in/wp-content/uploads/2017/11/industry4img.jpg"
     },
     {
-      "clean_name": "Steel Manufacturing Plant",
-      "fingerprint": "b7b5325b95a2",
-      "top_level_domain": "Industrial Equipment",
-      "industry_segment": "Metal Production & Processing",
-      "product_category": "Steel Plant",
-      "product_sub_type": "Integrated Steel Production Facility",
-      "buyer_persona": "Large industrial corporations, steel manufacturers, or government entities seeking to establish or expand steel production capabilities.",
-      "seo_title": "Integrated Steel Manufacturing Plant — High Capacity | Industrial",
+      "fingerprint": "bb22a1c67b93",
+      "raw_name": "ABB PLC panel",
+      "clean_name": "ABB PLC panel",
+      "product_category": "Industrial Control System",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The post showcases an ABB PLC panel, a key component for industrial automation systems, used to control and automate machinery and processes in manufacturing or industrial environments. The accompanying video likely demonstrates its application within an automated production line.",
+      "seo_title": "ABB PLC panel",
+      "alt_text": "ABB PLC panel",
       "tags": [
-        "steel plant",
-        "steel manufacturing",
-        "metal production",
-        "industrial plant",
-        "steel factory",
-        "steelmaking equipment",
-        "heavy industry",
-        "metal processing",
-        "billet production",
-        "slab production",
-        "rebar manufacturing",
-        "industrial machinery"
+        "Automation",
+        "ABB",
+        "PLC",
+        "Industrial Control"
       ],
-      "b2b_attributes": {
-        "moq": null,
-        "moq_unit": null,
-        "price_unit": "unit",
-        "hsn_code": "8479",
-        "gst_percent": 18,
-        "country_of_origin": "India",
-        "brand": null,
-        "certifications": []
-      },
       "price_single": null,
-      "price_min": null,
-      "price_max": null,
-      "is_price_range": false,
-      "price_on_request": true,
-      "price_unit": null,
+      "price_text": null,
       "currency": "INR",
-      "primary_photo_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg",
-      "photo_urls": [
-        "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg"
-      ],
-      "source_url": "http://www.mysepl.in/portfolio/steel-plant/",
-      "in_stock": true,
-      "page_slot": "products.item",
-      "classification_confidence": 0.9,
-      "extraction_confidence": 0.75,
-      "self_healing_attempted": false,
-      "retry_count": 0,
-      "warnings": [],
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
       "sources": [
-        "website"
+        "youtube"
       ],
-      "raw_name": "Steel Plant",
-      "description": "Steel Manufacturing Plants are integrated industrial facilities designed for the comprehensive production of various steel products, including billets, slabs, and rebar. These large-scale plants are typically offered on a price-on-request basis, providing tailored solutions for specific production capacities. They are essential for major industrial corporations and steel producers aiming to establish or expand their steelmaking capabilities. Utilizing advanced technologies like Blast Furnaces or Electric Arc Furnaces, these plants ensure efficient, high-quality, and high-volume steel output. The image displays a large quantity of shiny, silvery-gray steel coils, stacked high in what appears to be an industrial warehouse or factory setting. The coils are cylindrical with hollow centers, and some are secured with dark bands. A worker in a hard hat and safety vest is visible in the foreground, inspecting one of the lower coils, providing a sense of scale to the massive industrial products.",
-      "specifications": {
-        "category": "Steel Plant",
-        "sub_type": "Integrated Steel Production Facility",
-        "Production Capacity": "Varies by configuration (e.g., X tons per annum)",
-        "Technology Type": "Blast Furnace, Electric Arc Furnace, Induction Furnace, etc.",
-        "Product Output": "Billets, slabs, rebar, sheets, coils, structural steel",
-        "Automation Level": "Configurable (e.g., fully automated, semi-automated)",
-        "visual_shape": "cylindrical",
-        "visual_color": "silvery-gray, metallic sheen",
-        "visual_size": "very large (>5 tons each, industrial scale)",
-        "visual_metal": "steel",
-        "presentation": "industrial warehouse setting",
-        "visual_product_type": "steel coils",
-        "visual_notes": "A worker in safety gear is inspecting one of the coils. The coils are stacked in an organized manner."
-      },
-      "alt_text": "A worker in a hard hat and safety vest inspects large, silvery-gray steel coils stacked high in an industrial warehouse.",
+      "source_url": "https://www.youtube.com/watch?v=qZADnjm2hGA",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/qZADnjm2hGA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGDwgZSg5MA8=&rs=AOn4CLCI_XhrmAK89buacaVfREExn_7Ryw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/qZADnjm2hGA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGDwgZSg5MA8=&rs=AOn4CLCI_XhrmAK89buacaVfREExn_7Ryw",
+      "media_url": "https://i.ytimg.com/vi/qZADnjm2hGA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGDwgZSg5MA8=&rs=AOn4CLCI_XhrmAK89buacaVfREExn_7Ryw",
       "used_vision": true,
-      "media_url": "http://www.mysepl.in/wp-content/uploads/2020/11/steelplant-390x231.jpg"
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=qZADnjm2hGA",
+        "thumbnail_url": "https://i.ytimg.com/vi/qZADnjm2hGA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGDwgZSg5MA8=&rs=AOn4CLCI_XhrmAK89buacaVfREExn_7Ryw",
+        "caption": "#Automation,  ABB PLC panel",
+        "posted_at": "2026-02-27T05:02:32.000Z",
+        "likes": 1,
+        "views": 11
+      }
+    },
+    {
+      "fingerprint": "ebfeaa52fcaa",
+      "raw_name": "Digital Temperature Controllers",
+      "clean_name": "Digital Temperature Controllers",
+      "product_category": "Industrial Control Device",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "These are digital temperature controllers designed to monitor and control the temperature of heating or cooling systems. They are available in single and dual set point configurations and typically interface with various thermocouples or sensors. Two models from EAPL, H3TX-2A-U and TXT-CS-U UNITEMP, are showcased.",
+      "seo_title": "Digital Temperature Controllers",
+      "alt_text": "Digital Temperature Controllers",
+      "tags": [
+        "Industrial Automation",
+        "Temperature Control",
+        "EAPL",
+        "Sensors",
+        "Heating",
+        "Cooling"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Function": "Monitor and control temperature",
+        "Set Point Options": "Single, Dual",
+        "Application": "Heating and cooling systems",
+        "Sensing Method": "Thermocouples / sensors",
+        "Brand": "EAPL",
+        "Models": "H3TX-2A-U, TXT-CS-U UNITEMP"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=BcY3PWMGYyQ",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/BcY3PWMGYyQ/maxresdefault.jpg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/BcY3PWMGYyQ/maxresdefault.jpg",
+      "media_url": "https://i.ytimg.com/vi/BcY3PWMGYyQ/maxresdefault.jpg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=BcY3PWMGYyQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/BcY3PWMGYyQ/maxresdefault.jpg",
+        "caption": "Samarth Electrocare is service provider in the field of industrial automation and renewable energy. Authorized Value Provider of ABB. We are amongst the first few companies to be chosen in West India and it would not have been possible without your support. Geographical penetration was increased from Nagpur to Central and West India spanning to states of Maharashtra\nAdded most of the reputed organization to the portfolio like ABB, Autonics, OBO Bettermann, EAPL, Finder, Multispan, Pepperl+Fuchs, Schmersal, Essen, etc.\nPatents for Solar arrangements were registered, and the Solar portfolio expanded to major accounts in Government and Private Sector. \n\nFollow us on : Facebook :   / samarthelectrocare  \n                          LinkedIn :   / samarth-electrocare-private-limited  ",
+        "posted_at": "2020-12-22T06:54:35.000Z",
+        "likes": 3,
+        "views": 158
+      }
     }
   ],
   "rejected_items": [],
@@ -771,18 +1224,18 @@
       "author": "Samarth Electrocare",
       "rating": 5,
       "text": "one  stop solution for Industrial Automation",
-      "original_lang": "en",
-      "date": "2026-01-10T12:38:30.990Z",
+      "original_lang": null,
+      "date": "2026-01-10T12:38:30Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Sabahat",
       "rating": 5,
       "text": "This is a one stop solution for all Industrial automation  I am highly satisfied with the services rendered by Samarth Electrocare. I highly recommend them for VFD,  PLC and other automation",
-      "original_lang": "en",
-      "date": "2020-09-15T18:42:15.144Z",
+      "original_lang": null,
+      "date": "2020-09-15T18:42:15Z",
       "likes": 0,
       "is_local_guide": true,
       "owner_response": null
@@ -792,9 +1245,9 @@
       "rating": 5,
       "text": null,
       "original_lang": null,
-      "date": "2026-04-18T15:59:42.865Z",
+      "date": "2026-04-18T15:59:42Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
@@ -802,9 +1255,9 @@
       "rating": 5,
       "text": null,
       "original_lang": null,
-      "date": "2026-04-18T06:44:23.050Z",
+      "date": "2026-04-18T06:44:23Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
@@ -812,9 +1265,9 @@
       "rating": 3,
       "text": null,
       "original_lang": null,
-      "date": "2020-09-18T08:57:28.196Z",
+      "date": "2020-09-18T08:57:28Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
@@ -822,9 +1275,9 @@
       "rating": 5,
       "text": null,
       "original_lang": null,
-      "date": "2020-09-17T04:43:31.475Z",
+      "date": "2020-09-17T04:43:31Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     }
   ],
@@ -835,22 +1288,22 @@
       "one  stop solution for Industrial Automation",
       "This is a one stop solution for all Industrial automation  I am highly satisfied with the services rendered by Samarth Electrocare. I highly recommend them for VFD,  PLC and other automation"
     ],
-    "reviews_url": null
+    "reviews_url": "https://www.google.com/maps?cid=11152226502041590515"
   },
-  "overall_confidence": 0.92,
+  "overall_confidence": 0.908,
   "social_profiles": [
     {
       "platform": "facebook",
       "url": "https://www.facebook.com/samarthelectrocare",
-      "profile_pic_url": null,
-      "banner_url": null,
-      "bio": null,
-      "followers_count": null,
+      "profile_pic_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/310932299_534652168667676_477720207664015489_n.jpg?stp=c6.0.107.107a_dst-jpg_s107x107_tt6&_nc_cat=101&ccb=1-7&_nc_sid=f907e8&_nc_ohc=XK99Kj7lNmsQ7kNvwHOheib&_nc_oc=AdoE1a2nbPL001dOwlltm8XFXkYMpd_sqX5AZxZ2JttrRq5D5K4sdIo4ht1ydpVYOiQ&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=hwwXlkFvnPOUhjGIXxR5Cg&_nc_ss=7c289&oh=00_Af5QYOjCRffXiFCUeSGofpdAkVxytqESPYXbhPu438MUKQ&oe=6A0079E0",
+      "banner_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/311073895_534652165334343_2960974889080254212_n.png?_nc_cat=103&ccb=1-7&_nc_sid=2a1932&_nc_ohc=vLNOtfjJgkIQ7kNvwFS_UJ9&_nc_oc=AdpTlSlEqQMGzIagy21jgkjwzbiPlp7wCXuJ_KGCBOvEGIb2R-Cry34Gc6PahkrJYAA&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&_nc_gid=Kpu_J-A2BIb6F4O9-5yb2w&_nc_ss=7c289&oh=00_Af78tWqBnaWDKVWjmAkWVUBuGQ8wKD17EX_Z2MpvBuSCZQ&oe=6A00929B",
+      "bio": "A House of Electronics and electrical components.\n# Industrial Automation Hub#",
+      "followers_count": 39,
       "posts": [
         {
           "type": "post",
-          "post_url": "https://www.facebook.com/samarthelectrocare/posts/pfbid0V1wArkkBigun4rP6r6HBmADPYo9ewFvZKqpa88bQDnrNCTanD2yYBE8EgJSu9tQsl",
-          "thumbnail_url": "https://www.facebook.com/samarthelectrocare/posts/pfbid0V1wArkkBigun4rP6r6HBmADPYo9ewFvZKqpa88bQDnrNCTanD2yYBE8EgJSu9tQsl",
+          "post_url": "https://www.facebook.com/samarthelectrocare/posts/pfbid02YsNt3Rg1Zz6XTmr7KhoBjMGewqYhWGTpyqT492s1kayhRSZcobURJPpzoKxijoBAl",
+          "thumbnail_url": "https://www.facebook.com/samarthelectrocare/posts/pfbid02YsNt3Rg1Zz6XTmr7KhoBjMGewqYhWGTpyqT492s1kayhRSZcobURJPpzoKxijoBAl",
           "caption": "VFD panel with 13\n2KW drive and 45KW drive,",
           "likes": 9,
           "comments": 4,
@@ -869,7 +1322,7 @@
         },
         {
           "type": "post",
-          "post_url": "https://www.facebook.com/samarthelectrocare/posts/pfbid0ew9JeyJ3bkdT2rwqMghgNtvNUVBTSauYzd91xxVskEouwhuBRZ7dJKmkA5nTTLXml",
+          "post_url": "https://www.facebook.com/samarthelectrocare/posts/pfbid0ekzJMq2JnJ1zWWgK8TaHYf3mQMUv5noAChqUQrjcwj8aspU4wkdQwcJRex4imxxUl",
           "thumbnail_url": null,
           "caption": "Connect with us",
           "likes": 1,
@@ -880,11 +1333,146 @@
       ],
       "contacts_from_posts": [],
       "extra_profile": {
-        "phone": null,
-        "email": null,
-        "website": null,
-        "address": null,
+        "phone": "+91 74474 79871",
+        "email": "electrocarenag@gmail.com",
+        "website": "http://www.mysepl.in/",
+        "address": "B. No 410, NIT Commercial Complex, Sitabuldi, Nagpur, Nagpur, India, 440012",
         "city": null
+      }
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UCmAFqJvkvlnC0yR2iBA2vSQ",
+      "profile_pic_url": "https://yt3.googleusercontent.com/ytc/AIdro_losPzWcVHG-iQnnodZlPnvWS3sUBP-2Af8kj_HM3EOJhQ=s68-c-k-c0x00ffffff-no-rj",
+      "banner_url": "https://yt3.googleusercontent.com/8DirDynpmEaRWEar1WqEmpfqQz3MnOJtUte6rydBXkw5Vj-YIk06SKnyrXNaWf85E1OpAxgc=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "bio": "#Hub of industrial automation. #Authorised channel partner of ABB. #solutionprovider #automation #installation&commissioning #onsitework #amc",
+      "followers_count": 32,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=v-u5YnvlQjQ",
+          "thumbnail_url": "https://i.ytimg.com/vi/v-u5YnvlQjQ/hqdefault.jpg",
+          "caption": "some pictures of Inauguration and Exhibition held on 30th and 31st October 2021",
+          "likes": 6,
+          "comments": 0,
+          "views": 95,
+          "posted_at": "2021-11-08T12:27:05.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=vEutg36Xo44",
+          "thumbnail_url": "https://i.ytimg.com/vi/vEutg36Xo44/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-DoACuAiKAgwIABABGF0gXShdMA8=&rs=AOn4CLD5BS99FfllsrHHfZALkLcG0axBgA",
+          "caption": "Indorama was facing frequent breakdown in production due the failure in the Existing Old existing VFD Panels installed at the CP4 production line. This was resulting is huge production losses. Huge Energy losses due to the ageing of the VFD Panels The Machines were not working with optimized efficiency and malfunctioning resulted in Tow Breakages & wastages adding further to the losses. Large inventory of spares was required and maintained by Indorama for repairs.\n\nSamarth & ABB Team of highly technical and qualified engineers studied the existing system. A solution was designed considering the pain areas of the customer and the production nuances. ACS 880 series drives were recommended. These drives are Energy Efficient and save substantial\nPower Single drive series ACS 880 advantage is different rating have common interchangeable modules. These are rack mounted so maintenance is easy and more importantly the interchangeable modules\nreduce the future maintenance inventory. ABB drives are easy to operate, user friendly, energy efficient, easy to maintain and less inventory spares required\n\nSAMARTH EDGE\nExpertise of more than 19 years in Automation\n200 plus Man year of experience\nService First is the Philosophy\nStrong Project Management capability\nTimely Execution\nNew Installation & commissioning, Retrofitting, Upgrade and Annual Maintenance Contract Services under one roof",
+          "likes": 6,
+          "comments": 0,
+          "views": 81,
+          "posted_at": "2021-07-16T09:54:34.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/Yy6wVkZNDSU",
+          "thumbnail_url": "https://i.ytimg.com/vi/Yy6wVkZNDSU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGHIgXihEMA8=&rs=AOn4CLBMLth99_xOqxlJ3Es9VRQfsRISZg",
+          "caption": "Panel Manufacturing",
+          "likes": 2,
+          "comments": 0,
+          "views": 52,
+          "posted_at": "2026-04-06T10:14:44.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=qZADnjm2hGA",
+          "thumbnail_url": "https://i.ytimg.com/vi/qZADnjm2hGA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGDwgZSg5MA8=&rs=AOn4CLCI_XhrmAK89buacaVfREExn_7Ryw",
+          "caption": "#Automation,  ABB PLC panel",
+          "likes": 1,
+          "comments": 0,
+          "views": 11,
+          "posted_at": "2026-02-27T05:02:32.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/j3az1vwXi70",
+          "thumbnail_url": "https://i.ytimg.com/vi/j3az1vwXi70/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYACgAqKAgwIABABGGUgZShlMA8=&rs=AOn4CLD4G-9GiKYKryutJcZwJTkesHh-kQ",
+          "caption": "Success Story: Precision Commissioning & Control Optimization at Rathi Steel & Metal Pvt Ltd\nWe are proud to announce the successful completion of a critical troubleshooting and commissioning project at Rathi Steel & Metal Pvt Ltd (MIDC, Jalna)!\nOur expert service engineer, Pranit Dupare, led the technical execution to ensure seamless motor control and advanced automation for their blower fan systems.\n🛠️ Project Highlights:\nVFD Troubleshooting: Comprehensive inspection and commissioning of ABB ACS 560 (75KW) Variable Frequency Drives. We optimized power/control wiring and fine-tuned motor parameters for peak efficiency.\nModbus Communication Setup: Established robust communication between ABB PM5032 controllers and the VFDs. This included precise configuration of baud rates, node addressing, and parameter mapping for seamless remote monitoring.\nSystem Integration & Testing: Verified both Auto and Manual operation modes. We successfully demonstrated full start/stop and speed control functionality via Modbus, ensuring the system is ready for high-demand industrial use.\nOperational Stability: Confirmed error-free data exchange and stable feedback signals, providing the client with a reliable, transparent control interface.\nAt Samarth Electrocare Pvt. Ltd., we don't just fix problems—we optimize performance. This project underscores our commitment to delivering high-quality industrial automation and electrical services across Maharashtra.\n#IndustrialAutomation #ABB #VFD #Commissioning #ElectricalEngineering Modbus SteelIndustry SamarthElectrocare EngineeringExcellence",
+          "likes": 4,
+          "comments": 0,
+          "views": 211,
+          "posted_at": "2026-04-06T10:03:54.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/vINa7i7LaXg",
+          "thumbnail_url": "https://i.ytimg.com/vi/vINa7i7LaXg/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ae4CgALwA4oCDAgAEAEYZSBUKFAwDw==&rs=AOn4CLBinJRmnTPcgZ66A7zj-aMhTXGevw",
+          "caption": "On April 18, we convened for the Samarth Electrocare Pvt Ltd Annual Gathering. Looking out at the room, I was reminded that our strength doesn’t just lie in our technical capabilities, but in the collective brilliance of our team.\n​We took this time to review a year of significant milestones in industrial automation and renewable energy. More importantly, we set our sights on the future. My commitment to this team is to continue fostering an environment where innovation thrives and where every contribution helps power a more sustainable tomorrow.\n​The road ahead is ambitious, and there is no team I’d rather navigate it with.\n​#Leadership #SamarthElectrocare #IndustrialInnovation #GrowthMindset #FutureOfEnergy",
+          "likes": 6,
+          "comments": 0,
+          "views": 83,
+          "posted_at": "2026-04-21T11:48:32.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=yi31o8x5jHY",
+          "thumbnail_url": "https://i.ytimg.com/vi/yi31o8x5jHY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGD8gZSg6MA8=&rs=AOn4CLAwwzsoTCO9Vgr9LziRWTtnTJc9Xw",
+          "caption": "Automation",
+          "likes": 1,
+          "comments": 0,
+          "views": 14,
+          "posted_at": "2026-02-27T05:30:12.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=8dJ6IBcNKM8",
+          "thumbnail_url": "https://i.ytimg.com/vi/8dJ6IBcNKM8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHeA4AC4AOKAgwIABABGEAgTihyMA8=&rs=AOn4CLDJAQdWX4TJaMU8UYOM25NGMKimIA",
+          "caption": "Inaugration function for the grand opning of Manufacturing Unit & T/R Lab.",
+          "likes": 15,
+          "comments": 0,
+          "views": 246,
+          "posted_at": "2021-11-02T10:27:53.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=BcY3PWMGYyQ",
+          "thumbnail_url": "https://i.ytimg.com/vi/BcY3PWMGYyQ/maxresdefault.jpg",
+          "caption": "Samarth Electrocare is service provider in the field of industrial automation and renewable energy. Authorized Value Provider of ABB. We are amongst the first few companies to be chosen in West India and it would not have been possible without your support. Geographical penetration was increased from Nagpur to Central and West India spanning to states of Maharashtra\nAdded most of the reputed organization to the portfolio like ABB, Autonics, OBO Bettermann, EAPL, Finder, Multispan, Pepperl+Fuchs, Schmersal, Essen, etc.\nPatents for Solar arrangements were registered, and the Solar portfolio expanded to major accounts in Government and Private Sector. \n\nFollow us on : Facebook :   / samarthelectrocare  \n                          LinkedIn :   / samarth-electrocare-private-limited  ",
+          "likes": 3,
+          "comments": 0,
+          "views": 158,
+          "posted_at": "2020-12-22T06:54:35.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=YJ8O93nS0Ns",
+          "thumbnail_url": "https://i.ytimg.com/vi/YJ8O93nS0Ns/hqdefault.jpg",
+          "caption": "Exhibition of Samarth products held on 30th and 31st October 2021",
+          "likes": 2,
+          "comments": 0,
+          "views": 56,
+          "posted_at": "2021-11-08T08:28:01.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=GuXRz0xeskQ",
+          "thumbnail_url": "https://i.ytimg.com/vi/GuXRz0xeskQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHOBoAC3gOKAgwIABABGDggUyhyMA8=&rs=AOn4CLC3h8fI7SWho1aTFmUbTaKljkZSkQ",
+          "caption": "Successfully completed the automation of the PM1 tissue paper machine at the paper mill of Origami Cellulo Pvt. Ltd.,Amravati Road",
+          "likes": 5,
+          "comments": 0,
+          "views": 32,
+          "posted_at": "2026-03-06T05:46:16.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=7MwmJuplCX4",
+          "thumbnail_url": "https://i.ytimg.com/vi/7MwmJuplCX4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHeA4AC4AOKAgwIABABGE0gWyhlMA8=&rs=AOn4CLA-Us-SHYIklLAFKHMb8BKmgfi-_A",
+          "caption": "Review of product and services of Samarth Electrocare Pvt. Ltd. from costomers.",
+          "likes": 2,
+          "comments": 0,
+          "views": 57,
+          "posted_at": "2021-11-02T11:20:33.000Z"
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "location": null,
+        "links": []
       }
     },
     {
@@ -909,8 +1497,8 @@
     }
   ],
   "pipeline_summary": {
-    "run_started_at": "2026-05-04T08:47:25.401Z",
-    "duration_seconds": 97,
+    "run_started_at": "2026-05-06T02:45:11.910Z",
+    "duration_seconds": 106,
     "agents_in_order": [
       "CompanyEnricher",
       "Agent03/Product",
@@ -919,8 +1507,8 @@
     "agent_call_counts": {
       "Agent02/Orchestrator": 1,
       "Agent03/Product": 1,
-      "Agent03a/Category": 3,
-      "Agent04/Media": 3,
+      "Agent03a/Category": 5,
+      "Agent04/Media": 5,
       "Agent05/EnrichDedup": 1,
       "Agent07/Social": 1,
       "CompanyEnricher": 1,
@@ -937,34 +1525,35 @@
         "skip_agents": [
           "reviews"
         ],
-        "quality_target": 0.7,
-        "reasoning": "Company profile is well-defined. Raw products need enrichment and classification. Reviews agent will be skipped as no reviews API URL is provided. Media classification will be handled by the product agent. Dedup is a mandatory final step before writing to catalog."
+        "quality_target": 0.75,
+        "reasoning": "The seller has 121 raw products, but the sample product names suggest they might be company descriptions or services rather than actual products. This plan will enrich the company profile, process up to 20 products, evaluate their quality, deduplicate them, and then write the catalog. The reviews agent is skipped as no reviews API URL is provided."
       },
       "evaluate_product_output": {
         "decision": "proceed",
-        "avg_confidence": 0.9,
+        "avg_confidence": 0.88,
         "retry_triggered": false
       }
     },
     "products": {
-      "raw_input": 3,
-      "enriched": 3,
-      "catalog_items": 3,
+      "raw_input": 5,
+      "enriched": 5,
+      "catalog_items": 7,
       "rejected": 0,
-      "with_vision": 3,
-      "vision_skipped": 0
+      "with_vision": 2,
+      "vision_skipped": 3
     },
     "social": {
       "urls_detected": 4,
       "platforms_scraped": [
         "facebook",
+        "youtube",
         "linkedin",
         "twitter"
       ],
-      "posts_collected": 3,
-      "social_products_extracted": 0
+      "posts_collected": 15,
+      "social_products_extracted": 2
     },
-    "overall_confidence": 0.92
+    "overall_confidence": 0.908
   },
-  "_saved_at": "2026-05-04T08:49:02.707Z"
+  "_saved_at": "2026-05-06T02:46:57.739Z"
 }
