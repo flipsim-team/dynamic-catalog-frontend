@@ -10,7 +10,7 @@
       "post_url": null
     },
     "description": {
-      "value": "ADITI ORGANIC CERTIFICATIONS PVT LTD is a Bengaluru-based certification agency specializing in organic accreditations and recognitions. They guide clients through a clear 5-step certification process, offering transparent pricing plans, valuable industry insights, and expertise in areas like fodder production and ruminant management.",
+      "value": "ADITI ORGANIC CERTIFICATIONS PVT LTD, based in Bengaluru, is a dedicated certification agency providing comprehensive organic accreditations and recognitions. They streamline the certification journey with a clear 5-step process and offer specialized expertise in areas like fodder production and ruminant management, supporting clients in achieving and maintaining organic standards.",
       "sources": [
         "llm_generated"
       ],
@@ -101,7 +101,7 @@
       "post_url": null
     },
     "banner_url": {
-      "value": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/560192686_1246710487491931_5769058845800903367_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=2a1932&_nc_ohc=xLBp0f1Tr5QQ7kNvwHrOs7Z&_nc_oc=AdqNduULcuXJVw34SIjfhYb7NrMauN8aT90KiHi5SwRIn7prY7hx09-sIPxpQR4w5T8S687NHYuzOjkQ3cCAjRLA&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=PU2vTMgtTdKmvpQehih7hg&_nc_ss=7c289&oh=00_Af40bDAAGBr3tyaRIZiLIQEsjc1EXstIrw3y9p2U8ghycg&oe=6A008D9F",
+      "value": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/560192686_1246710487491931_5769058845800903367_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2a1932&_nc_ohc=M_NI2nvEnbwQ7kNvwFPxIcs&_nc_oc=AdpR7UbRzRLuoF49YEGVf-lG6EAmzLekOS84HlPv8pIScqaLtn7wf6vgULrgvKkL_hU&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=XONjvMmOAG716F8DqnnZQw&_nc_ss=72289&oh=00_Af6DVy0-j1PJZ3FXMKWLEHpLshPl-U0aJcj-zRCFzqrjrw&oe=6A00FE1F",
       "sources": [
         "facebook"
       ],
@@ -128,7 +128,7 @@
       "post_url": null
     },
     "youtube": {
-      "value": "https://youtube.com/channel/ucvyxcyswvpl8n_n-z4c5ung",
+      "value": "https://youtube.com/channel/UCVyxCYSwVpL8n_n-z4c5uNg",
       "sources": [
         "google",
         "website"
@@ -140,14 +140,6 @@
       "value": "https://linkedin.com/company/aditi-organic-certifications-private-limited",
       "sources": [
         "google",
-        "website"
-      ],
-      "date": null,
-      "post_url": null
-    },
-    "twitter": {
-      "value": "https://twitter.com/",
-      "sources": [
         "website"
       ],
       "date": null,
@@ -219,7 +211,7 @@
         "post_url": null
       },
       {
-        "value": "https://youtube.com/channel/ucvyxcyswvpl8n_n-z4c5ung",
+        "value": "https://youtube.com/channel/UCVyxCYSwVpL8n_n-z4c5uNg",
         "sources": [
           "google",
           "website"
@@ -235,26 +227,19 @@
         ],
         "date": null,
         "post_url": null
-      },
-      {
-        "value": "https://twitter.com/",
-        "sources": [
-          "website"
-        ],
-        "date": null,
-        "post_url": null
       }
     ],
     "followers_facebook": 1119,
     "followers_instagram": 362,
     "posts_count_instagram": 30,
     "following_count_instagram": 8,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "sources": [
       "google",
       "facebook",
       "linkedin",
-      "instagram"
+      "instagram",
+      "youtube"
     ],
     "social_metrics": [
       {
@@ -267,36 +252,129 @@
       }
     ],
     "data_sources": [
+      "instagram",
       "website"
     ],
     "reviews_url": "https://www.google.com/maps?cid=1548592384319049483"
   },
   "products": [
     {
+      "raw_name": "Fodder Production And Management Of Ruminants",
+      "clean_name": "Fodder Production And Management Of Ruminants",
+      "fingerprint": "0e9f51f52761",
+      "top_level_domain": "Education & Training",
+      "industry_segment": "Agricultural Education",
+      "product_category": "Training Course",
+      "product_sub_type": "Livestock Management",
+      "buyer_persona": "Farmers, agricultural students, livestock managers, or consultants seeking knowledge and best practices in fodder production and ruminant management.",
+      "description": "This comprehensive training course, \"Fodder Production And Management Of Ruminants,\" offers essential knowledge and best practices for optimizing livestock nutrition and health. Please contact ADITI ORGANIC CERTIFICATIONS PVT LTD directly for detailed pricing and enrollment information. Designed for farmers, agricultural students, and livestock managers, this program equips participants with skills in efficient fodder cultivation and effective ruminant care. Gain expertise to enhance farm productivity and ensure sustainable animal welfare through expert-led instruction.",
+      "seo_title": "Fodder Production & Ruminant Management Training Course — Expert-led | Buy Online",
+      "tags": [
+        "Fodder Production",
+        "Ruminant Management",
+        "Livestock Training",
+        "Agricultural Course",
+        "Animal Husbandry",
+        "Farm Management",
+        "Farmer Education",
+        "Sustainable Agriculture",
+        "Livestock Management",
+        "Training Program"
+      ],
+      "alt_text": "Fodder Production And Management Of Ruminants Training Course by ADITI ORGANIC CERTIFICATIONS PVT LTD",
+      "domain_attributes": {
+        "image_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798-370x250.jpg",
+        "source_url": "https://aditicert.net/latest-news/https-aditicert-net-wp-content-uploads-2022-10-organic-livestock-prodction-fodder-and-management-aditit-11-08-22_compressed-pdf/",
+        "CourseDuration": null,
+        "TargetAudience": "Farmers, agricultural students, livestock managers, or consultants seeking knowledge and best practices in fodder production and ruminant management.",
+        "LearningOutcomes": [
+          "Optimize livestock nutrition",
+          "Improve ruminant health",
+          "Implement efficient fodder cultivation",
+          "Enhance farm productivity",
+          "Ensure sustainable animal welfare"
+        ],
+        "Format": null
+      },
+      "specifications": {
+        "category": "Training Course",
+        "sub_type": "Livestock Management",
+        "image_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798-370x250.jpg",
+        "source_url": "https://aditicert.net/latest-news/https-aditicert-net-wp-content-uploads-2022-10-organic-livestock-prodction-fodder-and-management-aditit-11-08-22_compressed-pdf/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "CourseDuration": null,
+        "TargetAudience": "Farmers, agricultural students, livestock managers, or consultants seeking knowledge and best practices in fodder production and ruminant management.",
+        "LearningOutcomes": [
+          "Optimize livestock nutrition",
+          "Improve ruminant health",
+          "Implement efficient fodder cultivation",
+          "Enhance farm productivity",
+          "Ensure sustainable animal welfare"
+        ],
+        "Format": null
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "9992",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798-370x250.jpg",
+      "photo_urls": [
+        "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798-370x250.jpg"
+      ],
+      "source_url": "https://aditicert.net/latest-news/https-aditicert-net-wp-content-uploads-2022-10-organic-livestock-prodction-fodder-and-management-aditit-11-08-22_compressed-pdf/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.8,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
       "raw_name": "IndG.A.P.",
       "clean_name": "IndG.A.P.",
       "fingerprint": "bc61979abcb6",
       "top_level_domain": "Certification Service",
       "industry_segment": "Agricultural Certification",
-      "product_category": "Certification Program",
-      "product_sub_type": "Good Agricultural Practices Certification",
-      "buyer_persona": "Farmers, agricultural producers, or food businesses in India seeking to demonstrate adherence to good agricultural practices for market access or quality assurance.",
-      "description": "IndG.A.P. is a good agricultural practices certification offered by ADITI ORGANIC CERTIFICATIONS PVT LTD based in Bengaluru. Suitable for: Farmers, agricultural producers, or food businesses in India seeking to demonstrate adherence to good agricultural practices for market access or quality assurance.",
-      "seo_title": "IndG.A.P. Good Agricultural Practices Certification | Catalog Listing",
+      "product_category": "Certification Standard",
+      "product_sub_type": "Good Agricultural Practice",
+      "buyer_persona": "Agricultural producers, farmers, and food businesses in India seeking to demonstrate compliance with national good agricultural practices standards for market access and quality assurance.",
+      "description": "IndG.A.P. is a good agricultural practices offered by ADITI ORGANIC CERTIFICATIONS PVT LTD based in Bengaluru. Suitable for: Agricultural producers, farmers, and food businesses in India seeking to demonstrate compliance with national good agricultural practices standards for market access and quality assurance.",
+      "seo_title": "IndG.A.P. Good Agricultural Practices | Catalog Listing",
       "tags": [
         "IndG.A.P.",
         "Certification Services",
         "Agricultural Certification",
-        "Certification Program",
-        "Good Agricultural Practices Certification"
+        "Certification Standard",
+        "Good Agricultural Practices"
       ],
       "alt_text": "IndG.A.P. from ADITI ORGANIC CERTIFICATIONS PVT LTD",
       "domain_attributes": {
         "source_url": "https://aditicert.net/wp-content/uploads/2023/11/INF-9.14.0_Steps-to-Voluntary-Certification-Schemes_231115SS.pdf"
       },
       "specifications": {
-        "category": "Certification Program",
-        "sub_type": "Good Agricultural Practices Certification",
+        "category": "Certification Standard",
+        "sub_type": "Good Agricultural Practice",
         "image_url": null,
         "source_url": "https://aditicert.net/wp-content/uploads/2023/11/INF-9.14.0_Steps-to-Voluntary-Certification-Schemes_231115SS.pdf",
         "price_single": null,
@@ -327,7 +405,7 @@
       "source_url": "https://aditicert.net/wp-content/uploads/2023/11/INF-9.14.0_Steps-to-Voluntary-Certification-Schemes_231115SS.pdf",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.95,
+      "classification_confidence": 0.9,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -337,33 +415,33 @@
       ]
     },
     {
-      "raw_name": "Organic farming on solving Climate Change",
-      "clean_name": "Organic farming on solving Climate Change",
-      "fingerprint": "33cf44f5dc7b",
+      "raw_name": "Fodder production and management of ruminants",
+      "clean_name": "Fodder production and management of ruminants",
+      "fingerprint": "0e9f51f52761",
       "top_level_domain": "Education & Training",
-      "industry_segment": "Environmental Education",
-      "product_category": "Educational Publication",
-      "product_sub_type": "Climate Change & Agriculture Research",
-      "buyer_persona": "Environmentalists, policymakers, farmers, or researchers interested in the role of organic farming practices in mitigating climate change.",
-      "description": "Organic farming on solving Climate Change is a climate change & agriculture research offered by ADITI ORGANIC CERTIFICATIONS PVT LTD based in Bengaluru. Suitable for: Environmentalists, policymakers, farmers, or researchers interested in the role of organic farming practices in mitigating climate change.",
-      "seo_title": "Organic farming on solving Climate Change Climate Change & Agriculture",
+      "industry_segment": "Agricultural Education",
+      "product_category": "Training Course",
+      "product_sub_type": "Livestock Management",
+      "buyer_persona": "Farmers, agricultural students, livestock managers, or consultants seeking knowledge and best practices in fodder production and ruminant management.",
+      "description": "Fodder production and management of ruminants is a livestock management offered by ADITI ORGANIC CERTIFICATIONS PVT LTD based in Bengaluru. Suitable for: Farmers, agricultural students, livestock managers, or consultants seeking knowledge and best practices in fodder production and ruminant management.",
+      "seo_title": "Fodder production and management of ruminants Livestock Management | C",
       "tags": [
-        "Organic farming on solving Climate Change",
+        "Fodder production and management of ruminants",
         "Education & Training",
-        "Environmental Education",
-        "Educational Publication",
-        "Climate Change & Agriculture Research"
+        "Agricultural Education",
+        "Training Course",
+        "Livestock Management"
       ],
-      "alt_text": "Organic farming on solving Climate Change from ADITI ORGANIC CERTIFICATIONS PVT LTD",
+      "alt_text": "Fodder production and management of ruminants from ADITI ORGANIC CERTIFICATIONS PVT LTD",
       "domain_attributes": {
-        "image_url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
-        "source_url": "https://aditicert.net/latest-news/http-aditicert-net-wp-content-uploads-2021-07-organic-farming-on-solving-climate-change-210629kn-2-pdf/"
+        "image_url": "https://aditicert.net/wp-content/uploads/2021/11/image-6.png",
+        "source_url": "https://aditicert.net/latest-news/https-aditicert-net-wp-content-uploads-2022-10-organic-livestock-prodction-fodder-and-management-aditit-11-08-22_compressed-pdf/"
       },
       "specifications": {
-        "category": "Educational Publication",
-        "sub_type": "Climate Change & Agriculture Research",
-        "image_url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
-        "source_url": "https://aditicert.net/latest-news/http-aditicert-net-wp-content-uploads-2021-07-organic-farming-on-solving-climate-change-210629kn-2-pdf/",
+        "category": "Training Course",
+        "sub_type": "Livestock Management",
+        "image_url": "https://aditicert.net/wp-content/uploads/2021/11/image-6.png",
+        "source_url": "https://aditicert.net/latest-news/https-aditicert-net-wp-content-uploads-2022-10-organic-livestock-prodction-fodder-and-management-aditit-11-08-22_compressed-pdf/",
         "price_single": null,
         "price_min": null,
         "price_max": null,
@@ -387,14 +465,14 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
+      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/11/image-6.png",
       "photo_urls": [
-        "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg"
+        "https://aditicert.net/wp-content/uploads/2021/11/image-6.png"
       ],
-      "source_url": "https://aditicert.net/latest-news/http-aditicert-net-wp-content-uploads-2021-07-organic-farming-on-solving-climate-change-210629kn-2-pdf/",
+      "source_url": "https://aditicert.net/latest-news/https-aditicert-net-wp-content-uploads-2022-10-organic-livestock-prodction-fodder-and-management-aditit-11-08-22_compressed-pdf/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.8,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -402,97 +480,73 @@
       "sources": [
         "website"
       ]
-    }
-  ],
-  "media_assets": [
-    {
-      "fingerprint": "bc61979abcb6",
-      "product_name": "IndG.A.P.",
-      "url": null,
-      "scene_type": "unknown",
-      "media_confidence": 0,
-      "visual_features": {},
-      "visual_description": "",
-      "media_alt_text": "",
-      "used_vision": false,
-      "classified_at": "2026-05-06T02:53:56.541Z"
     },
     {
-      "fingerprint": "0e9f51f52761",
-      "product_name": "Fodder Production and Management of Ruminants",
-      "url": "https://aditicert.net/wp-content/uploads/2021/11/image-6.png",
-      "scene_type": "product_lifestyle",
-      "media_confidence": 0.95,
-      "visual_features": {
-        "product_type_confirmed": null,
-        "shape_visible": null,
-        "color_appearance": null,
-        "clarity_appearance": null,
-        "size_impression": null,
-        "setting_or_mounting": null,
-        "metal_visible": null,
-        "certification_label_visible": false,
-        "presentation": "outdoor field",
-        "additional_visual_notes": "dense field of green fodder plants"
-      },
-      "visual_description": "The image displays a dense field of tall, vibrant green plants, likely a fodder crop, growing in rows on dark brown soil. The plants have long, broad leaves and appear healthy and well-established, filling most of the frame from foreground to background under what appears to be an overcast sky.",
-      "media_alt_text": "A lush, dense field of tall, vibrant green fodder plants growing in rows on dark brown soil under an overcast sky.",
-      "used_vision": true,
-      "classified_at": "2026-05-06T02:54:04.297Z"
-    },
-    {
-      "fingerprint": "33cf44f5dc7b",
-      "product_name": "Organic farming on solving Climate Change",
-      "url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
-      "scene_type": "product_lifestyle",
-      "media_confidence": 0.9,
-      "visual_features": {
-        "product_type_confirmed": null,
-        "shape_visible": null,
-        "color_appearance": null,
-        "clarity_appearance": null,
-        "size_impression": null,
-        "setting_or_mounting": null,
-        "metal_visible": null,
-        "certification_label_visible": false,
-        "presentation": "outdoor natural setting",
-        "additional_visual_notes": "Image depicts livestock (cows and calves) in a rural, natural environment, likely related to farming or agriculture. No jewelry or gemstone products are visible in this image."
-      },
-      "visual_description": "The image displays a herd of cattle, including adult cows and several calves, grazing on a dry, reddish-brown field with sparse green vegetation. In the background, a large, green, tree-covered mountain rises under a cloudy, overcast sky. The overall scene depicts a rural, natural environment.",
-      "media_alt_text": "A herd of cows and calves graze on a dry, reddish field with a large green mountain in the background under a cloudy sky.",
-      "used_vision": true,
-      "classified_at": "2026-05-06T02:54:02.927Z"
-    }
-  ],
-  "catalog_items": [
-    {
-      "clean_name": "Fodder Production and Management of Ruminants",
-      "fingerprint": "0e9f51f52761",
-      "top_level_domain": "Education & Training",
-      "industry_segment": "Agricultural Education",
-      "product_category": "Training Course",
-      "product_sub_type": "Livestock Management Training",
-      "buyer_persona": "Farmers, agricultural students, or livestock managers seeking to improve their knowledge and practices in fodder production and ruminant management.",
-      "seo_title": "Fodder Production & Ruminant Management Training Course | Buy Online",
+      "raw_name": "Global Scenario and Evolution of the Organic market",
+      "clean_name": "Global Scenario and Evolution of the Organic Market",
+      "fingerprint": "7cd5569196e5",
+      "top_level_domain": "Market Research",
+      "industry_segment": "Organic Food Industry Insight",
+      "product_category": "Market Report",
+      "product_sub_type": "Organic Market Trend",
+      "buyer_persona": "Businesses, investors, policymakers, and researchers in the organic food sector seeking comprehensive insights into global market trends, growth drivers, and future outlook.",
+      "description": "This comprehensive market report offers an in-depth analysis of the global organic market, detailing its current scenario, historical evolution, and future growth projections. Available for immediate download, this report provides critical data and strategic insights for informed decision-making. Ideal for businesses, investors, and policymakers, it covers key trends, market drivers, challenges, and opportunities within the organic food and agriculture sector. Leverage expert analysis from ADITI ORGANIC CERTIFICATIONS PVT LTD to navigate the complexities and capitalize on the burgeoning organic industry worldwide.",
+      "seo_title": "Global Organic Market Report — Trends & Evolution | Buy Online",
       "tags": [
-        "Fodder Production",
-        "Ruminant Management",
-        "Livestock Training",
-        "Agricultural Course",
-        "Farm Management",
-        "Animal Nutrition",
-        "Dairy Farming",
-        "Cattle Management",
-        "Organic Farming",
-        "Agricultural Education",
-        "Veterinary Training",
-        "Sustainable Agriculture"
+        "Global Organic Market",
+        "Organic Market Trends",
+        "Market Research Report",
+        "Organic Food Industry",
+        "Market Evolution",
+        "Organic Agriculture",
+        "Industry Analysis",
+        "Market Insights",
+        "Business Intelligence",
+        "Organic Sector Growth",
+        "Sustainability Report",
+        "ADITI ORGANIC"
       ],
+      "alt_text": "Global Organic Market Report by ADITI ORGANIC CERTIFICATIONS PVT LTD, detailing market trends and evolution.",
+      "domain_attributes": {
+        "image_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798.jpg",
+        "source_url": "https://aditicert.net/latest-news/global-scenario-and-evolution-of-the-organic-market/",
+        "ReportScope": "Global",
+        "KeyFindings": [
+          "Market Size & Growth",
+          "Regional Analysis",
+          "Consumer Trends",
+          "Regulatory Landscape",
+          "Competitive Environment"
+        ],
+        "TargetAudience": "Businesses, investors, policymakers, and researchers in the organic food sector seeking comprehensive insights into global market trends, growth drivers, and future outlook.",
+        "PublicationDate": "2023"
+      },
+      "specifications": {
+        "category": "Market Report",
+        "sub_type": "Organic Market Trend",
+        "image_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798.jpg",
+        "source_url": "https://aditicert.net/latest-news/global-scenario-and-evolution-of-the-organic-market/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "ReportScope": "Global",
+        "KeyFindings": [
+          "Market Size & Growth",
+          "Regional Analysis",
+          "Consumer Trends",
+          "Regulatory Landscape",
+          "Competitive Environment"
+        ],
+        "TargetAudience": "Businesses, investors, policymakers, and researchers in the organic food sector seeking comprehensive insights into global market trends, growth drivers, and future outlook.",
+        "PublicationDate": "2023"
+      },
       "b2b_attributes": {
         "moq": null,
         "moq_unit": null,
-        "price_unit": null,
-        "hsn_code": "9992",
+        "price_unit": "report",
+        "hsn_code": "9983",
         "gst_percent": 18,
         "country_of_origin": "India",
         "brand": "ADITI ORGANIC CERTIFICATIONS PVT LTD",
@@ -505,14 +559,255 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/11/image-6.png",
+      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798.jpg",
       "photo_urls": [
-        "https://aditicert.net/wp-content/uploads/2021/11/image-6.png"
+        "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798.jpg"
+      ],
+      "source_url": "https://aditicert.net/latest-news/global-scenario-and-evolution-of-the-organic-market/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Organic farming on solving Climate Change",
+      "clean_name": "Organic Farming on Solving Climate Change",
+      "fingerprint": "33cf44f5dc7b",
+      "top_level_domain": "Environmental Consulting",
+      "industry_segment": "Sustainable Agriculture",
+      "product_category": "Research Publication",
+      "product_sub_type": "Climate Change Solution",
+      "buyer_persona": "Environmentalists, policymakers, agricultural researchers, and farmers interested in the role of organic farming practices in mitigating climate change and promoting sustainability.",
+      "description": "This insightful research publication explores the critical role of organic farming practices in addressing and mitigating the impacts of climate change. Available as a digital download, it presents evidence-based findings and innovative strategies for sustainable agricultural solutions. A vital resource for environmentalists, policymakers, and agricultural researchers, this publication highlights how organic methods contribute to carbon sequestration, soil health, and biodiversity. Authored by experts from ADITI ORGANIC CERTIFICATIONS PVT LTD, it offers actionable recommendations for fostering a resilient and climate-friendly food system.",
+      "seo_title": "Organic Farming & Climate Change — Sustainable Solutions | Buy Online",
+      "tags": [
+        "Organic Farming",
+        "Climate Change Solutions",
+        "Sustainable Agriculture",
+        "Environmental Research",
+        "Carbon Sequestration",
+        "Soil Health",
+        "Biodiversity",
+        "Agricultural Policy",
+        "Eco-friendly Farming",
+        "Research Publication",
+        "ADITI ORGANIC",
+        "Climate Mitigation"
+      ],
+      "alt_text": "Research publication on Organic Farming's role in solving Climate Change by ADITI ORGANIC CERTIFICATIONS PVT LTD.",
+      "domain_attributes": {
+        "image_url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
+        "source_url": "https://aditicert.net/latest-news/http-aditicert-net-wp-content-uploads-2021-07-organic-farming-on-solving-climate-change-210629kn-2-pdf/",
+        "Topic": "Organic Farming and Climate Change Mitigation",
+        "ResearchMethodology": "Literature Review, Case Studies, Data Analysis",
+        "KeyRecommendations": [
+          "Policy Support for Organic Transition",
+          "Investment in Agroecology",
+          "Farmer Education Programs"
+        ],
+        "TargetAudience": "Environmentalists, policymakers, agricultural researchers, and farmers interested in the role of organic farming practices in mitigating climate change and promoting sustainability."
+      },
+      "specifications": {
+        "category": "Research Publication",
+        "sub_type": "Climate Change Solution",
+        "image_url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
+        "source_url": "https://aditicert.net/latest-news/http-aditicert-net-wp-content-uploads-2021-07-organic-farming-on-solving-climate-change-210629kn-2-pdf/",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Topic": "Organic Farming and Climate Change Mitigation",
+        "ResearchMethodology": "Literature Review, Case Studies, Data Analysis",
+        "KeyRecommendations": [
+          "Policy Support for Organic Transition",
+          "Investment in Agroecology",
+          "Farmer Education Programs"
+        ],
+        "TargetAudience": "Environmentalists, policymakers, agricultural researchers, and farmers interested in the role of organic farming practices in mitigating climate change and promoting sustainability."
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "publication",
+        "hsn_code": "9983",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "ADITI ORGANIC CERTIFICATIONS PVT LTD",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
+      "photo_urls": [
+        "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg"
+      ],
+      "source_url": "https://aditicert.net/latest-news/http-aditicert-net-wp-content-uploads-2021-07-organic-farming-on-solving-climate-change-210629kn-2-pdf/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "0e9f51f52761",
+      "product_name": "Fodder Production And Management Of Ruminants",
+      "url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798-370x250.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.93,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "Product — ADITI ORGANIC CERTIFICATIONS PVT LTD",
+      "used_vision": false,
+      "classified_at": "2026-05-06T10:27:00.804Z"
+    },
+    {
+      "fingerprint": "bc61979abcb6",
+      "product_name": "IndG.A.P.",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-06T10:26:49.094Z"
+    },
+    {
+      "fingerprint": "0e9f51f52761",
+      "product_name": "Fodder production and management of ruminants",
+      "url": "https://aditicert.net/wp-content/uploads/2021/11/image-6.png",
+      "scene_type": "unknown",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "outdoor field",
+        "additional_visual_notes": "Image depicts a field of green fodder plants, likely for agricultural purposes, not a jewelry or gemstone product."
+      },
+      "visual_description": "A close-up view of a dense field of tall, vibrant green plants with long, slender leaves, growing in rows on dark brown soil. The plants appear healthy and uniform, filling most of the frame under an overcast sky, suggesting an agricultural setting.",
+      "media_alt_text": "A dense field of tall, vibrant green fodder plants with long leaves growing in rows on dark brown soil under an overcast sky.",
+      "used_vision": true,
+      "classified_at": "2026-05-06T10:27:01.361Z"
+    },
+    {
+      "fingerprint": "7cd5569196e5",
+      "product_name": "Global Scenario and Evolution of the Organic Market",
+      "url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798.jpg",
+      "scene_type": "unknown",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "natural outdoor landscape",
+        "additional_visual_notes": "field of green leafy plants, trees, rocks, and mist in the background"
+      },
+      "visual_description": "The image displays a vibrant green field of plants, likely a tea plantation, covering the foreground and midground. The plants have numerous fresh, light green leaves. In the background, there are tree trunks and large rocks, partially obscured by a soft mist, suggesting a humid, possibly mountainous environment.",
+      "media_alt_text": "A lush green field of tea plants with fresh leaves, partially obscured by mist and trees in the background.",
+      "used_vision": true,
+      "classified_at": "2026-05-06T10:26:58.626Z"
+    },
+    {
+      "fingerprint": "33cf44f5dc7b",
+      "product_name": "Organic Farming on Solving Climate Change",
+      "url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
+      "scene_type": "unknown",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": null,
+        "shape_visible": null,
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "outdoor natural landscape",
+        "additional_visual_notes": "Several cows and calves are visible in a dry field with a large green mountain in the background. The sky is cloudy."
+      },
+      "visual_description": "The image depicts a rural landscape under an overcast sky, featuring several cows and calves grazing on a dry, reddish-brown field with sparse green vegetation. In the background, a large, green, tree-covered mountain rises, with additional trees and utility poles visible on the horizon.",
+      "media_alt_text": "Cows and calves graze on a dry field with sparse vegetation, set against a backdrop of a large, green, tree-covered mountain under a cloudy sky.",
+      "used_vision": true,
+      "classified_at": "2026-05-06T10:26:57.248Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "Fodder Production And Management Of Ruminants",
+      "fingerprint": "0e9f51f52761",
+      "top_level_domain": "Education & Training",
+      "industry_segment": "Agricultural Education",
+      "product_category": "Training Course",
+      "product_sub_type": "Livestock Management",
+      "buyer_persona": "Farmers, agricultural students, livestock managers, or consultants seeking knowledge and best practices in fodder production and ruminant management.",
+      "seo_title": "Fodder Production & Ruminant Management Training Course — Expert-led | Buy Online",
+      "tags": [
+        "Fodder Production",
+        "Ruminant Management",
+        "Livestock Training",
+        "Agricultural Course",
+        "Animal Husbandry",
+        "Farm Management",
+        "Farmer Education",
+        "Sustainable Agriculture",
+        "Livestock Management",
+        "Training Program"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "9992",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798-370x250.jpg",
+      "photo_urls": [
+        "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798-370x250.jpg"
       ],
       "source_url": "https://aditicert.net/latest-news/https-aditicert-net-wp-content-uploads-2022-10-organic-livestock-prodction-fodder-and-management-aditit-11-08-22_compressed-pdf/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.8,
       "extraction_confidence": 0.75,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -520,37 +815,40 @@
       "sources": [
         "website"
       ],
-      "raw_name": "Fodder production and management of ruminants",
-      "description": "This comprehensive training course, offered by ADITI ORGANIC CERTIFICATIONS PVT LTD, focuses on advanced techniques for fodder production and efficient management of ruminant livestock. Designed to enhance practical skills and theoretical knowledge, this program is available on request with pricing in INR. It is ideal for farmers, agricultural students, and livestock managers aiming to optimize feed resources and improve animal health and productivity. Leverage expert insights from a leading certification agency to implement sustainable and profitable livestock management practices. The image displays a dense field of tall, vibrant green plants, likely a fodder crop, growing in rows on dark brown soil. The plants have long, broad leaves and appear healthy and well-established, filling most of the frame from foreground to background under what appears to be an overcast sky.",
+      "description": "This comprehensive training course, \"Fodder Production And Management Of Ruminants,\" offers essential knowledge and best practices for optimizing livestock nutrition and health. Please contact ADITI ORGANIC CERTIFICATIONS PVT LTD directly for detailed pricing and enrollment information. Designed for farmers, agricultural students, and livestock managers, this program equips participants with skills in efficient fodder cultivation and effective ruminant care. Gain expertise to enhance farm productivity and ensure sustainable animal welfare through expert-led instruction.",
       "specifications": {
         "category": "Training Course",
-        "sub_type": "Livestock Management Training",
-        "course_duration": null,
-        "learning_outcomes": null,
-        "target_audience": "Farmers, agricultural students, or livestock managers seeking to improve their knowledge and practices in fodder production and ruminant management.",
-        "delivery_method": null,
-        "presentation": "outdoor field",
-        "visual_notes": "dense field of green fodder plants"
+        "sub_type": "Livestock Management",
+        "CourseDuration": null,
+        "TargetAudience": "Farmers, agricultural students, livestock managers, or consultants seeking knowledge and best practices in fodder production and ruminant management.",
+        "LearningOutcomes": [
+          "Optimize livestock nutrition",
+          "Improve ruminant health",
+          "Implement efficient fodder cultivation",
+          "Enhance farm productivity",
+          "Ensure sustainable animal welfare"
+        ],
+        "Format": null
       },
-      "alt_text": "A lush, dense field of tall, vibrant green fodder plants growing in rows on dark brown soil under an overcast sky.",
-      "used_vision": true,
-      "media_url": "https://aditicert.net/wp-content/uploads/2021/11/image-6.png"
+      "alt_text": "Product — ADITI ORGANIC CERTIFICATIONS PVT LTD",
+      "used_vision": false,
+      "media_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798-370x250.jpg"
     },
     {
-      "clean_name": "Organic farming on solving Climate Change",
-      "fingerprint": "33cf44f5dc7b",
+      "clean_name": "Fodder production and management of ruminants",
+      "fingerprint": "0e9f51f52761",
       "top_level_domain": "Education & Training",
-      "industry_segment": "Environmental Education",
-      "product_category": "Educational Publication",
-      "product_sub_type": "Climate Change & Agriculture Research",
-      "buyer_persona": "Environmentalists, policymakers, farmers, or researchers interested in the role of organic farming practices in mitigating climate change.",
-      "seo_title": "Organic farming on solving Climate Change Climate Change & Agriculture",
+      "industry_segment": "Agricultural Education",
+      "product_category": "Training Course",
+      "product_sub_type": "Livestock Management",
+      "buyer_persona": "Farmers, agricultural students, livestock managers, or consultants seeking knowledge and best practices in fodder production and ruminant management.",
+      "seo_title": "Fodder production and management of ruminants Livestock Management | C",
       "tags": [
-        "Organic farming on solving Climate Change",
+        "Fodder production and management of ruminants",
         "Education & Training",
-        "Environmental Education",
-        "Educational Publication",
-        "Climate Change & Agriculture Research"
+        "Agricultural Education",
+        "Training Course",
+        "Livestock Management"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -569,14 +867,14 @@
       "price_on_request": true,
       "price_unit": null,
       "currency": "INR",
-      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
+      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/11/image-6.png",
       "photo_urls": [
-        "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg"
+        "https://aditicert.net/wp-content/uploads/2021/11/image-6.png"
       ],
-      "source_url": "https://aditicert.net/latest-news/http-aditicert-net-wp-content-uploads-2021-07-organic-farming-on-solving-climate-change-210629kn-2-pdf/",
+      "source_url": "https://aditicert.net/latest-news/https-aditicert-net-wp-content-uploads-2022-10-organic-livestock-prodction-fodder-and-management-aditit-11-08-22_compressed-pdf/",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.9,
+      "classification_confidence": 0.8,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -584,32 +882,236 @@
       "sources": [
         "website"
       ],
-      "description": "Organic farming on solving Climate Change is a climate change & agriculture research offered by ADITI ORGANIC CERTIFICATIONS PVT LTD based in Bengaluru. Suitable for: Environmentalists, policymakers, farmers, or researchers interested in the role of organic farming practices in mitigating climate change. The image displays a herd of cattle, including adult cows and several calves, grazing on a dry, reddish-brown field with sparse green vegetation. In the background, a large, green, tree-covered mountain rises under a cloudy, overcast sky. The overall scene depicts a rural, natural environment.",
+      "description": "Fodder production and management of ruminants is a livestock management offered by ADITI ORGANIC CERTIFICATIONS PVT LTD based in Bengaluru. Suitable for: Farmers, agricultural students, livestock managers, or consultants seeking knowledge and best practices in fodder production and ruminant management. A close-up view of a dense field of tall, vibrant green plants with long, slender leaves, growing in rows on dark brown soil. The plants appear healthy and uniform, filling most of the frame under an overcast sky, suggesting an agricultural setting.",
       "specifications": {
-        "category": "Educational Publication",
-        "sub_type": "Climate Change & Agriculture Research",
-        "presentation": "outdoor natural setting",
-        "visual_notes": "Image depicts livestock (cows and calves) in a rural, natural environment, likely related to farming or agriculture. No jewelry or gemstone products are visible in this image."
+        "category": "Training Course",
+        "sub_type": "Livestock Management",
+        "presentation": "outdoor field",
+        "visual_notes": "Image depicts a field of green fodder plants, likely for agricultural purposes, not a jewelry or gemstone product."
       },
-      "alt_text": "A herd of cows and calves graze on a dry, reddish field with a large green mountain in the background under a cloudy sky.",
+      "alt_text": "A dense field of tall, vibrant green fodder plants with long leaves growing in rows on dark brown soil under an overcast sky.",
+      "used_vision": true,
+      "media_url": "https://aditicert.net/wp-content/uploads/2021/11/image-6.png"
+    },
+    {
+      "clean_name": "Global Scenario and Evolution of the Organic Market",
+      "fingerprint": "7cd5569196e5",
+      "top_level_domain": "Market Research",
+      "industry_segment": "Organic Food Industry Insight",
+      "product_category": "Market Report",
+      "product_sub_type": "Organic Market Trend",
+      "buyer_persona": "Businesses, investors, policymakers, and researchers in the organic food sector seeking comprehensive insights into global market trends, growth drivers, and future outlook.",
+      "seo_title": "Global Organic Market Report — Trends & Evolution | Buy Online",
+      "tags": [
+        "Global Organic Market",
+        "Organic Market Trends",
+        "Market Research Report",
+        "Organic Food Industry",
+        "Market Evolution",
+        "Organic Agriculture",
+        "Industry Analysis",
+        "Market Insights",
+        "Business Intelligence",
+        "Organic Sector Growth",
+        "Sustainability Report",
+        "ADITI ORGANIC"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "report",
+        "hsn_code": "9983",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "ADITI ORGANIC CERTIFICATIONS PVT LTD",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798.jpg",
+      "photo_urls": [
+        "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798.jpg"
+      ],
+      "source_url": "https://aditicert.net/latest-news/global-scenario-and-evolution-of-the-organic-market/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "raw_name": "Global Scenario and Evolution of the Organic market",
+      "description": "This comprehensive market report offers an in-depth analysis of the global organic market, detailing its current scenario, historical evolution, and future growth projections. Available for immediate download, this report provides critical data and strategic insights for informed decision-making. Ideal for businesses, investors, and policymakers, it covers key trends, market drivers, challenges, and opportunities within the organic food and agriculture sector. Leverage expert analysis from ADITI ORGANIC CERTIFICATIONS PVT LTD to navigate the complexities and capitalize on the burgeoning organic industry worldwide. The image displays a vibrant green field of plants, likely a tea plantation, covering the foreground and midground. The plants have numerous fresh, light green leaves. In the background, there are tree trunks and large rocks, partially obscured by a soft mist, suggesting a humid, possibly mountainous environment.",
+      "specifications": {
+        "category": "Market Report",
+        "sub_type": "Organic Market Trend",
+        "ReportScope": "Global",
+        "KeyFindings": [
+          "Market Size & Growth",
+          "Regional Analysis",
+          "Consumer Trends",
+          "Regulatory Landscape",
+          "Competitive Environment"
+        ],
+        "TargetAudience": "Businesses, investors, policymakers, and researchers in the organic food sector seeking comprehensive insights into global market trends, growth drivers, and future outlook.",
+        "PublicationDate": "2023",
+        "presentation": "natural outdoor landscape",
+        "visual_notes": "field of green leafy plants, trees, rocks, and mist in the background"
+      },
+      "alt_text": "A lush green field of tea plants with fresh leaves, partially obscured by mist and trees in the background.",
+      "used_vision": true,
+      "media_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798.jpg"
+    },
+    {
+      "clean_name": "Organic Farming on Solving Climate Change",
+      "fingerprint": "33cf44f5dc7b",
+      "top_level_domain": "Environmental Consulting",
+      "industry_segment": "Sustainable Agriculture",
+      "product_category": "Research Publication",
+      "product_sub_type": "Climate Change Solution",
+      "buyer_persona": "Environmentalists, policymakers, agricultural researchers, and farmers interested in the role of organic farming practices in mitigating climate change and promoting sustainability.",
+      "seo_title": "Organic Farming & Climate Change — Sustainable Solutions | Buy Online",
+      "tags": [
+        "Organic Farming",
+        "Climate Change Solutions",
+        "Sustainable Agriculture",
+        "Environmental Research",
+        "Carbon Sequestration",
+        "Soil Health",
+        "Biodiversity",
+        "Agricultural Policy",
+        "Eco-friendly Farming",
+        "Research Publication",
+        "ADITI ORGANIC",
+        "Climate Mitigation"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": "publication",
+        "hsn_code": "9983",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "ADITI ORGANIC CERTIFICATIONS PVT LTD",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg",
+      "photo_urls": [
+        "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg"
+      ],
+      "source_url": "https://aditicert.net/latest-news/http-aditicert-net-wp-content-uploads-2021-07-organic-farming-on-solving-climate-change-210629kn-2-pdf/",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "raw_name": "Organic farming on solving Climate Change",
+      "description": "This insightful research publication explores the critical role of organic farming practices in addressing and mitigating the impacts of climate change. Available as a digital download, it presents evidence-based findings and innovative strategies for sustainable agricultural solutions. A vital resource for environmentalists, policymakers, and agricultural researchers, this publication highlights how organic methods contribute to carbon sequestration, soil health, and biodiversity. Authored by experts from ADITI ORGANIC CERTIFICATIONS PVT LTD, it offers actionable recommendations for fostering a resilient and climate-friendly food system. The image depicts a rural landscape under an overcast sky, featuring several cows and calves grazing on a dry, reddish-brown field with sparse green vegetation. In the background, a large, green, tree-covered mountain rises, with additional trees and utility poles visible on the horizon.",
+      "specifications": {
+        "category": "Research Publication",
+        "sub_type": "Climate Change Solution",
+        "Topic": "Organic Farming and Climate Change Mitigation",
+        "ResearchMethodology": "Literature Review, Case Studies, Data Analysis",
+        "KeyRecommendations": [
+          "Policy Support for Organic Transition",
+          "Investment in Agroecology",
+          "Farmer Education Programs"
+        ],
+        "TargetAudience": "Environmentalists, policymakers, agricultural researchers, and farmers interested in the role of organic farming practices in mitigating climate change and promoting sustainability.",
+        "presentation": "outdoor natural landscape",
+        "visual_notes": "Several cows and calves are visible in a dry field with a large green mountain in the background. The sky is cloudy."
+      },
+      "alt_text": "Cows and calves graze on a dry field with sparse vegetation, set against a backdrop of a large, green, tree-covered mountain under a cloudy sky.",
       "used_vision": true,
       "media_url": "https://aditicert.net/wp-content/uploads/2021/05/Picture1.jpg"
+    },
+    {
+      "fingerprint": "b37835160b23",
+      "raw_name": "NPOP Certification",
+      "clean_name": "NPOP Certification",
+      "product_category": "Certification Service",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Aditi Organic Certifications Pvt. Ltd. is accepting applications from processing and trading operators for certification under the National Programme for Organic Production (NPOP). This certification aims to enhance credibility and gain valuable recognition in the organic marketplace.",
+      "seo_title": "NPOP Certification",
+      "alt_text": "NPOP Certification",
+      "tags": [
+        "organic certification",
+        "NPOP",
+        "certification",
+        "organic marketplace",
+        "processors",
+        "traders",
+        "aditi organic"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Certification Body": "Aditi Organic Certifications Pvt. Ltd.",
+        "Programme": "National Programme for Organic Production (NPOP)",
+        "Eligible Applicants": "processing and trading operators"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DBYdmBySv4S/",
+      "photo_urls": [
+        "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/627184948_18254024323292767_4273325679023215938_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=kg0kaNDr8v4Q7kNvwGfLlRd&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQ4MzY2NDQ2ODM3NzUzMzk3MA%3D%3D.3-ccb7-5&oh=00_Af5cMY7dHqSqJ50xEAteE1NvU87xEn-PXSJB0rfNTarEoQ&oe=6A0103F6&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/627184948_18254024323292767_4273325679023215938_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=kg0kaNDr8v4Q7kNvwGfLlRd&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQ4MzY2NDQ2ODM3NzUzMzk3MA%3D%3D.3-ccb7-5&oh=00_Af5cMY7dHqSqJ50xEAteE1NvU87xEn-PXSJB0rfNTarEoQ&oe=6A0103F6&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/627184948_18254024323292767_4273325679023215938_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=kg0kaNDr8v4Q7kNvwGfLlRd&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQ4MzY2NDQ2ODM3NzUzMzk3MA%3D%3D.3-ccb7-5&oh=00_Af5cMY7dHqSqJ50xEAteE1NvU87xEn-PXSJB0rfNTarEoQ&oe=6A0103F6&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DBYdmBySv4S/",
+        "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/627184948_18254024323292767_4273325679023215938_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=kg0kaNDr8v4Q7kNvwGfLlRd&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQ4MzY2NDQ2ODM3NzUzMzk3MA%3D%3D.3-ccb7-5&oh=00_Af5cMY7dHqSqJ50xEAteE1NvU87xEn-PXSJB0rfNTarEoQ&oe=6A0103F6&_nc_sid=8b3546",
+        "caption": "Exciting News from Aditi Organic Certifications Pvt. Ltd.!\nWe are delighted to announce that Aditi Organic Certifications Pvt. Ltd. is now accepting applications from processing and trading operators for certification under the National Programme for Organic Production (NPOP).\nBy choosing Aditi Organic Certifications, you can enhance your credibility and gain valuable recognition in the organic marketplace.\nFor more information, visit www.aditicert.net or contact us at marketing@aditicert.net.\nTogether, let's raise the bar for quality and make a lasting impact in the organic sector!\n#NPOP #organiccertification #organicproducts #OrganicStandard #sustainablefarming #organicfarming #OrganicFood #Aditicertifications",
+        "posted_at": "2024-10-21T10:06:28.000Z",
+        "likes": 7,
+        "views": null
+      }
     },
     {
       "clean_name": "IndG.A.P.",
       "fingerprint": "bc61979abcb6",
       "top_level_domain": "Certification Service",
       "industry_segment": "Agricultural Certification",
-      "product_category": "Certification Program",
-      "product_sub_type": "Good Agricultural Practices Certification",
-      "buyer_persona": "Farmers, agricultural producers, or food businesses in India seeking to demonstrate adherence to good agricultural practices for market access or quality assurance.",
-      "seo_title": "IndG.A.P. Good Agricultural Practices Certification | Catalog Listing",
+      "product_category": "Certification Standard",
+      "product_sub_type": "Good Agricultural Practice",
+      "buyer_persona": "Agricultural producers, farmers, and food businesses in India seeking to demonstrate compliance with national good agricultural practices standards for market access and quality assurance.",
+      "seo_title": "IndG.A.P. Good Agricultural Practices | Catalog Listing",
       "tags": [
         "IndG.A.P.",
         "Certification Services",
         "Agricultural Certification",
-        "Certification Program",
-        "Good Agricultural Practices Certification"
+        "Certification Standard",
+        "Good Agricultural Practices"
       ],
       "b2b_attributes": {
         "moq": null,
@@ -633,7 +1135,7 @@
       "source_url": "https://aditicert.net/wp-content/uploads/2023/11/INF-9.14.0_Steps-to-Voluntary-Certification-Schemes_231115SS.pdf",
       "in_stock": true,
       "page_slot": "products.item",
-      "classification_confidence": 0.95,
+      "classification_confidence": 0.9,
       "extraction_confidence": 0.5,
       "self_healing_attempted": false,
       "retry_count": 0,
@@ -641,108 +1143,24 @@
       "sources": [
         "website"
       ],
-      "description": "IndG.A.P. is a good agricultural practices certification offered by ADITI ORGANIC CERTIFICATIONS PVT LTD based in Bengaluru. Suitable for: Farmers, agricultural producers, or food businesses in India seeking to demonstrate adherence to good agricultural practices for market access or quality assurance.",
+      "description": "IndG.A.P. is a good agricultural practices offered by ADITI ORGANIC CERTIFICATIONS PVT LTD based in Bengaluru. Suitable for: Agricultural producers, farmers, and food businesses in India seeking to demonstrate compliance with national good agricultural practices standards for market access and quality assurance.",
       "specifications": {
-        "category": "Certification Program",
-        "sub_type": "Good Agricultural Practices Certification"
+        "category": "Certification Standard",
+        "sub_type": "Good Agricultural Practice"
       },
       "alt_text": "IndG.A.P. from ADITI ORGANIC CERTIFICATIONS PVT LTD",
       "used_vision": false,
       "media_url": null
     }
   ],
-  "rejected_items": [
-    {
-      "product_name": "Fodder Production And Management Of Ruminants",
-      "raw_name": "Fodder Production And Management Of Ruminants",
-      "fingerprint": "0e9f51f52761",
-      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798-370x250.jpg",
-      "price_single": null,
-      "currency": "INR",
-      "rejection_rule": "product_type_mismatch",
-      "rejection_reason": "Product name/category indicates \"Training Course\" but image clearly shows \"green leafy plants / agricultural field\"",
-      "product_agent": {
-        "clean_name": "Fodder Production And Management Of Ruminants",
-        "category": "Training Course",
-        "sub_type": "Livestock Management Training",
-        "top_level_domain": "Education & Training",
-        "industry_segment": "Agricultural Education",
-        "classification_confidence": 0.9,
-        "description": "This comprehensive training course focuses on advanced techniques for fodder production and efficient management of ruminant livestock. Pricing and availability details are provided upon request, ensuring tailored solutions for diverse needs. Designed for farmers, agricultural students, and livestock managers, this course equips participants with practical knowledge to enhance farm productivity and animal health. ADITI ORGANIC CERTIFICATIONS PVT LTD, a reputable certification agency, ensures the curriculum meets high industry standards for quality and relevance.",
-        "tags": [
-          "Fodder Production",
-          "Ruminant Management",
-          "Livestock Training",
-          "Agricultural Education",
-          "Farm Management",
-          "Animal Nutrition",
-          "Sustainable Agriculture",
-          "Veterinary Science",
-          "Online Course",
-          "Farmers Training",
-          "Agricultural Students",
-          "Livestock Managers"
-        ]
-      },
-      "visual_agent": {
-        "product_type_confirmed": "green leafy plants / agricultural field",
-        "scene_type": "unknown",
-        "visual_description": "The image displays a dense field of vibrant green leafy plants, possibly young tea plants or fodder, covering a gentle slope. In the background, faint outlines of tree trunks and rocks are visible through a light mist or fog, suggesting a natural, possibly mountainous or hilly, outdoor environment. The overall quality is natural and unedited.",
-        "confidence": 1,
-        "shape_visible": null,
-        "color_appearance": null,
-        "size_impression": null,
-        "setting_or_mounting": null,
-        "additional_notes": "dense foliage, misty background, trees visible in distance"
-      },
-      "rejected_at": "2026-05-06T02:54:28.393Z"
-    },
-    {
-      "product_name": "Global Scenario and Evolution of the Organic market",
-      "raw_name": "Global Scenario and Evolution of the Organic market",
-      "fingerprint": "7cd5569196e5",
-      "primary_photo_url": "https://aditicert.net/wp-content/uploads/2021/11/DSCF1798.jpg",
-      "price_single": null,
-      "currency": "INR",
-      "rejection_rule": "product_type_mismatch",
-      "rejection_reason": "Product name/category indicates \"Market Report\" but image clearly shows \"field of green plants (likely tea)\"",
-      "product_agent": {
-        "clean_name": "Global Scenario and Evolution of the Organic market",
-        "category": "Market Report",
-        "sub_type": "Organic Market Analysis",
-        "top_level_domain": "Information Service",
-        "industry_segment": "Market Research",
-        "classification_confidence": 0.9,
-        "description": "Global Scenario and Evolution of the Organic market is a organic market analysis offered by ADITI ORGANIC CERTIFICATIONS PVT LTD based in Bengaluru. Suitable for: Businesses, investors, or policymakers in the organic food sector seeking insights into global market trends, growth drivers, and future outlook.",
-        "tags": [
-          "Global Scenario and Evolution of the Organic market",
-          "Information Services",
-          "Market Research",
-          "Market Report",
-          "Organic Market Analysis"
-        ]
-      },
-      "visual_agent": {
-        "product_type_confirmed": "field of green plants (likely tea)",
-        "scene_type": "product_lifestyle",
-        "visual_description": "The image displays a dense field of vibrant green plants, likely tea bushes, covering a gentle slope. The plants have numerous small, fresh leaves. In the background, larger trees with visible trunks and some rocks are partially obscured by a soft, hazy mist, suggesting a natural, possibly mountainous or hilly, outdoor environment.",
-        "confidence": 0.9,
-        "shape_visible": null,
-        "color_appearance": null,
-        "size_impression": null,
-        "setting_or_mounting": null,
-        "additional_notes": "hilly terrain, trees, rocks, and mist in the background"
-      },
-      "rejected_at": "2026-05-06T02:54:28.393Z"
-    }
-  ],
+  "rejected_items": [],
   "reviews": [
     {
       "author": "Joseph Britto",
       "rating": 5,
       "text": "Aditi Organic Certifications Pvt. Ltd. (Aditi) is a respected certification body in India, known for its extensive experience and wide range of services in the organic sector. Based in Bengaluru, the company has been a significant player for over 15 years, helping to ensure the integrity of organic products from production to market.\nKey Strengths and Good Things about Aditi Organic Certifications\n1. Broad Expertise and Wide-Ranging Services\nAditi offers a comprehensive suite of certification services for a variety of organic operations. These include:\n• Crop Production: Certifying farms for organic crop cultivation.\n• Processing and Trading: Ensuring that products maintain their organic integrity throughout the supply chain.\n• Specialized Areas: They also provide certification for niche sectors like animal husbandry, beekeeping, wild collection of products, and even Bird Friendly Coffee and Fair Trade practices.\nThis wide scope makes them a versatile partner for businesses of all sizes in the organic industry.\n2. Strong Accreditations and Global Recognition\nThe company has multiple accreditations that demonstrate its credibility and adherence to international standards. It's an ISO/IEC 17065 inspection and certification body, ensuring its decisions are independent and impartial. Aditi is accredited by the National Accreditation Body (APEDA) in India and has recognition from foreign bodies like CAEQ, Canada, and the Canadian Food Inspection Agency (CFIA). Their certifications are recognized for export to over 25 countries, including the US and European Union, which is a major benefit for Indian organic exporters.\n3. Professionalism and Efficiency\nClients and testimonials often highlight Aditi's professionalism and efficient processes. They are seen as a well-run organization with proper systems in place. They are committed to providing transparent and timely services, helping clients obtain the necessary certifications in a professional manner. This focus on efficiency can save businesses time and effort in the certification process.\n4. Contribution to the Organic Sector\nAditi is actively involved in promoting the organic sector in India. They have certified a large number of farmers and a significant area of agricultural land across the country. They also offer a Voluntary Certification Scheme for Medicinal Plant Produce (VCSMPP), a scheme promoted by the National Medicinal Plants Board, which highlights their commitment to specific and important segments of the industry. This work contributes to the growth and sustainability of the organic movement in India.",
-      "original_lang": null,
-      "date": "2025-09-12T17:37:46Z",
+      "original_lang": "en",
+      "date": "2025-09-12T17:37:46.423Z",
       "likes": 0,
       "is_local_guide": true,
       "owner_response": null
@@ -751,8 +1169,8 @@
       "author": "Aditya Dhakane",
       "rating": 4,
       "text": "I visited to take a guidance over how to work on tracenet , staff is nice & cooperative, even they take care of visitors nicely, A very nice experience working with them , As a organic certification company they will surpass everyone with their management& service .",
-      "original_lang": null,
-      "date": "2023-04-17T18:36:34Z",
+      "original_lang": "en",
+      "date": "2023-04-17T18:36:34.411Z",
       "likes": 0,
       "is_local_guide": true,
       "owner_response": null
@@ -761,8 +1179,8 @@
       "author": "Madhav Hegde",
       "rating": 5,
       "text": "ADITI Organic Certifications Pvt. Ltd., headquartered in Bengaluru, Karnataka, India, has been devoted to certification of organic products over a decade, assuring the organic integrity of the products from origin to destination. ADITI is an ISO Guide 65(EN 45011) inspection and certification body which assures independence, competence and impartiality in its decisions.\nOrganic Certification: is a certification process for producers of organic food and other organic agricultural products. In general, any business directly involved in food production can be certified, including seed suppliers, farmers, food processors, retailers and restaurants. Overall, organic operations must demonstrate that they are protecting natural resources, conserving biodiversity, and using only approved substances. All these practices are aimed at protecting the environment, minimizing soil degradation, and optimizing biological diversity and productivity while promoting healthy conditions.\n\nFor organic producers, certification identifies suppliers of products approved for use in certified operations. For consumers, \"certified organic\" serves as a product assurance. Certified organic producers go to great lengths to ensure that their products are safe and risk-free. Choosing certified organic foods guarantees that what you are eating has met all federal standards and a third-party inspector has visited the facility",
-      "original_lang": null,
-      "date": "2020-12-02T08:41:42Z",
+      "original_lang": "en",
+      "date": "2020-12-02T08:43:37.118Z",
       "likes": 3,
       "is_local_guide": true,
       "owner_response": null
@@ -771,8 +1189,8 @@
       "author": "sooraj surendran",
       "rating": 5,
       "text": "Best option for organic certification.",
-      "original_lang": null,
-      "date": "2021-02-16T17:34:34Z",
+      "original_lang": "en",
+      "date": "2021-02-18T08:23:52.432Z",
       "likes": 2,
       "is_local_guide": true,
       "owner_response": null
@@ -781,8 +1199,8 @@
       "author": "JAYARAM H R",
       "rating": 5,
       "text": "Its very uniquely designed with nature friendly interiors. People and the cause for working for organic farming practice is great.",
-      "original_lang": null,
-      "date": "2022-06-27T01:09:28Z",
+      "original_lang": "en",
+      "date": "2022-06-27T01:14:39.613Z",
       "likes": 0,
       "is_local_guide": true,
       "owner_response": null
@@ -791,8 +1209,8 @@
       "author": "NR Prasad",
       "rating": 5,
       "text": "Good place to get your organic certification",
-      "original_lang": null,
-      "date": "2020-01-16T06:54:48Z",
+      "original_lang": "en",
+      "date": "2020-01-16T06:54:48.442Z",
       "likes": 1,
       "is_local_guide": true,
       "owner_response": null
@@ -801,8 +1219,8 @@
       "author": "Astr Iyappan",
       "rating": 1,
       "text": "Useless shop no respect for customer. Irresponsible people",
-      "original_lang": null,
-      "date": "2020-05-31T05:43:42Z",
+      "original_lang": "en",
+      "date": "2020-05-31T05:43:42.706Z",
       "likes": 3,
       "is_local_guide": true,
       "owner_response": null
@@ -811,9 +1229,179 @@
       "author": "Madhav Hegde",
       "rating": 5,
       "text": "Hi..place for all kinds of Organic Certification",
-      "original_lang": null,
-      "date": "2020-10-26T02:37:46Z",
+      "original_lang": "en",
+      "date": "2020-10-26T02:38:51.989Z",
       "likes": 1,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Suresh K",
+      "rating": 5,
+      "text": "Good place to get organic certification",
+      "original_lang": "en",
+      "date": "2022-06-14T15:34:54.545Z",
+      "likes": 3,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Shaik Althaf Hussain",
+      "rating": 5,
+      "text": "Reach out to their website for contact details",
+      "original_lang": "en",
+      "date": "2021-05-11T11:08:31.554Z",
+      "likes": 2,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "dileep sharma",
+      "rating": 5,
+      "text": "Organic certifications done here",
+      "original_lang": "en",
+      "date": "2019-09-12T11:29:58.673Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Shiva Kumar",
+      "rating": 5,
+      "text": "Very good customer care",
+      "original_lang": "en",
+      "date": "2018-07-12T09:51:31.973Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Nagaraja G",
+      "rating": 5,
+      "text": "Good company",
+      "original_lang": "en",
+      "date": "2024-12-01T14:31:15.171Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Darshan c b",
+      "rating": 5,
+      "text": "Certifies ur organic products",
+      "original_lang": "en",
+      "date": "2019-08-16T14:30:05.027Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Chetan Kulkarni",
+      "rating": 5,
+      "text": "A professional organic certification organization",
+      "original_lang": "en",
+      "date": "2022-01-14T16:10:40.762Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Rudresh Bhaud",
+      "rating": 5,
+      "text": "Quality with excellence",
+      "original_lang": "en",
+      "date": "2023-02-07T02:20:23.990Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Ramesh Kumar",
+      "rating": 5,
+      "text": "Premier organic certification",
+      "original_lang": "en",
+      "date": "2018-12-22T06:51:01.784Z",
+      "likes": 1,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "sushma Rajana",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2023-02-26T06:10:50.208Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "ramu v",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-11-21T12:32:48.670Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Ranganath S",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-09-24T17:09:24.802Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Gayatri",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-08-23T04:19:11.793Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Rashu",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2024-08-27T11:18:23.477Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Priyanka Khanzode",
+      "rating": 4,
+      "text": null,
+      "original_lang": null,
+      "date": "2024-03-06T15:28:33.429Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Ashoka Shetty",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2024-01-09T04:41:35.249Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Sanjna Singh",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2023-08-26T09:12:09.422Z",
+      "likes": 0,
       "is_local_guide": true,
       "owner_response": null
     }
@@ -829,51 +1417,22 @@
       "Its very uniquely designed with nature friendly interiors. People and the cause for working for organic farming practice is great.",
       "Good place to get your organic certification",
       "Useless shop no respect for customer. Irresponsible people",
-      "Hi..place for all kinds of Organic Certification"
+      "Hi..place for all kinds of Organic Certification",
+      "Good place to get organic certification",
+      "Reach out to their website for contact details"
     ],
     "reviews_url": "https://www.google.com/maps?cid=1548592384319049483"
   },
-  "overall_confidence": 0.926,
+  "overall_confidence": 0.874,
   "social_profiles": [
     {
       "platform": "facebook",
       "url": "https://facebook.com/aditiorganic",
-      "profile_pic_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/308688793_467045178791803_2984604581616469453_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=f4qf-Z0dtgAQ7kNvwHupByO&_nc_oc=AdqMH8uuiPWkHIi-7azGAZtJTMvTO6tHnGhh24E3E1gjUxDHB00xI-b0lC1JOj2XfY-VEkv41NFYmIQ6o-mWcFD2&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=ZFilFpjiXjhzJ6ztCw33IA&_nc_ss=7c289&oh=00_Af4BCWg_5n_yfjWl35xvfisDLzO1TzGmpdSKtPO6cJ41ow&oe=6A006DB4",
-      "banner_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/560192686_1246710487491931_5769058845800903367_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=2a1932&_nc_ohc=xLBp0f1Tr5QQ7kNvwHrOs7Z&_nc_oc=AdqNduULcuXJVw34SIjfhYb7NrMauN8aT90KiHi5SwRIn7prY7hx09-sIPxpQR4w5T8S687NHYuzOjkQ3cCAjRLA&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=PU2vTMgtTdKmvpQehih7hg&_nc_ss=7c289&oh=00_Af40bDAAGBr3tyaRIZiLIQEsjc1EXstIrw3y9p2U8ghycg&oe=6A008D9F",
+      "profile_pic_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/308688793_467045178791803_2984604581616469453_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=f4qf-Z0dtgAQ7kNvwFxSaMf&_nc_oc=Adpn6d3UzFSmX98KPHzC0mML-Q8n8xcjSpOgEmJiopCzfYSAinLLnh8ejqlPSU0pd-E&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=KiwIbcAw4VixHpgSN5mjJg&_nc_ss=72289&oh=00_Af6pv2XYAhzfOddDZK81LRycAB7VQJU-Q1KWzVloydYWSg&oe=6A00DE34",
+      "banner_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/560192686_1246710487491931_5769058845800903367_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2a1932&_nc_ohc=M_NI2nvEnbwQ7kNvwFPxIcs&_nc_oc=AdpR7UbRzRLuoF49YEGVf-lG6EAmzLekOS84HlPv8pIScqaLtn7wf6vgULrgvKkL_hU&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=XONjvMmOAG716F8DqnnZQw&_nc_ss=72289&oh=00_Af6DVy0-j1PJZ3FXMKWLEHpLshPl-U0aJcj-zRCFzqrjrw&oe=6A00FE1F",
       "bio": "Aditi Organic Certifications Pvt. Ltd. is an India-based firm founded in 2007 to provide inspection and organic certification services.Certification  is provided according to domestic and international standards. The head office is in Bengaluru, Karnataka",
       "followers_count": 1119,
-      "posts": [
-        {
-          "type": "post",
-          "post_url": "https://www.facebook.com/aditiorganic/posts/pfbid038JqhGc1cV5oCTYr495dVSr5rhKigmB9ksn8F5yCGF3Hcr9c5oGNfb5xPKsXSLv6tl",
-          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1399194638910181&set=a.467045138791807",
-          "caption": "On this Earth Day, we reaffirm our commitment to nurturing the planet through sustainable and responsible practices. From promoting organic farming to strengthening transparent certification systems, every step we take is aimed at protecting soil, water, biodiversity, and the livelihoods that depend on them.\nLet us continue working together to build a resilient, regenerative future—where agriculture and nature thrive in harmony.",
-          "likes": 7,
-          "comments": null,
-          "views": null,
-          "posted_at": 1776838254
-        },
-        {
-          "type": "post",
-          "post_url": "https://www.facebook.com/reel/4343245902564998/",
-          "thumbnail_url": "https://www.facebook.com/reel/4343245902564998/",
-          "caption": "Is water really the problem?\n\nOr have we been looking in the wrong place all along?\n\nHealthy soil — rich in organic matter — can hold up to 85–90% of water.\nBut when soil loses its life, water disappears with it.\n\nThis is not just about farming.\nIt’s about how we treat the land that sustains us.\n\n“The Soil Remembers” is a reminder that solutions already exist — in nature, and in knowledge we are slowly forgetting.\n\n🌱 Regenerate soil. Restore water.\n\nHere is the link to the full story: https://nativecircle.in/stories/the-soil-remembers-episode-3-water-was-never-the-problem-our-thinking-was\nWatch. Reflect. Share.\n\n#Soil #Water #Sustainability #RegenerativeFarming #ClimateAwareness #IndiaFarming #Ecology #nativecircle",
-          "likes": 1,
-          "comments": null,
-          "views": null,
-          "posted_at": 1774332672
-        },
-        {
-          "type": "post",
-          "post_url": "https://www.facebook.com/aditiorganic/posts/pfbid0JexC9wicaVEx6784TunMAZEdDuYjsYZGdcGvm42ztvgratFXpqYSKVEDjpH4TCQCl",
-          "thumbnail_url": null,
-          "caption": null,
-          "likes": 3,
-          "comments": null,
-          "views": null,
-          "posted_at": 1772794527
-        }
-      ],
+      "posts": [],
       "contacts_from_posts": [],
       "extra_profile": {
         "phone": null,
@@ -886,7 +1445,7 @@
     {
       "platform": "instagram",
       "url": "https://instagram.com/aditiorganic",
-      "profile_pic_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/346655527_259253913187178_861102523680972034_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjAuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=6_7UAdFRBTQQ7kNvwEe2mI1&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5_MPc3-qCRssk6sKObVtH_JwaUk9rt2XMHeh8_gZJwcw&oe=6A008924&_nc_sid=8b3546",
+      "profile_pic_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/346655527_259253913187178_861102523680972034_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjAuYzIifQ&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=6_7UAdFRBTQQ7kNvwG3Y7yM&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7YdbzcS9rya5sNUte_R5ZrynoD2x71Rt5-e7T95WlULA&oe=6A00F9A4&_nc_sid=8b3546",
       "banner_url": null,
       "bio": "ADITI is a leading certification body in providing certification services, guaranteeing the rigorous respect of the applied standards on products.",
       "followers_count": 362,
@@ -896,7 +1455,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DXbF7WLknRu/",
-          "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/670554551_18086689073347407_6073881476703655434_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=YF3AQXR2HIoQ7kNvwG2hNLT&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg4MDcyMTU3MjQwNzk2NDc4Mg%3D%3D.3-ccb7-5&oh=00_Af5h7TX-gkf6U2yTvxkoecxJV9f2oiW0pV0kOpY3QgA78A&oe=6A006AA2&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/670554551_18086689073347407_6073881476703655434_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=YF3AQXR2HIoQ7kNvwFrgBFq&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg4MDcyMTU3MjQwNzk2NDc4Mg%3D%3D.3-ccb7-5&oh=00_Af6SCm2i2_wr-_kgmPK-9v5HWsZP41s0YT3NLPFTcN0PAw&oe=6A00DB22&_nc_sid=8b3546",
           "caption": "On this Earth Day, we reaffirm our commitment to nurturing the planet through sustainable and responsible practices. From promoting organic farming to strengthening transparent certification systems, every step we take is aimed at protecting soil, water, biodiversity, and the livelihoods that depend on them.\nLet us continue working together to build a resilient, regenerative future—where agriculture and nature thrive in harmony.",
           "likes": 7,
           "comments": 0,
@@ -906,7 +1465,7 @@
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DViRiNmiMl-/",
-          "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/642401019_18208749136322927_6809625910213057162_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=MBLQCahDmmkQ7kNvwFEFimE&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af59uCE2n6-1ymA91CwMaB2K0nfzPmTwdbzg9tmmkKi25w&oe=6A0071F0&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/642401019_18208749136322927_6809625910213057162_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=MBLQCahDmmkQ7kNvwEA0wjc&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6I8tWYKL1JJb9B1p7cQwqZKOxpPvF0nEl4MKzXQUtgQg&oe=6A00E270&_nc_sid=8b3546",
           "caption": "Across parts of India, farmers once built by\nRead the full story:\n🔗 https://nativecircle.in/stories/the-standing-wells-that-make-water\n\n#NativeCircle #WaterWisdom #TraditionalKnowledge #Groundwater #SustainableWater #IndianAgriculture #WaterStories #LivingTraditions #aditiorganiccertifications #nativecircles #narayanareddy #TheSoilRemembers",
           "likes": 7,
           "comments": 0,
@@ -916,7 +1475,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DUiCUOcEqbE/",
-          "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/632326525_18079123562347407_6374345348306330426_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=2rReJRDo-WIQ7kNvwFvjq26&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgyODYzMjgxOTIwNDI2OTc2NA%3D%3D.3-ccb7-5&oh=00_Af7lqjKLTyTudwPzTKmbvxfzKbvAQ-fZEz_qOhA283Dsvg&oe=6A00870B&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/632326525_18079123562347407_6374345348306330426_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=2rReJRDo-WIQ7kNvwGBkAC8&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgyODYzMjgxOTIwNDI2OTc2NA%3D%3D.3-ccb7-5&oh=00_Af6dwfW5iJraykoUG97BtO6nfz-LtAgKbqeCmbTafYtF-g&oe=6A00F78B&_nc_sid=8b3546",
           "caption": "🌿 𝐄𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐖𝐞𝐥𝐥𝐧𝐞𝐬𝐬 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 | 𝐇𝐞𝐚𝐥𝐭𝐡 & 𝐇𝐚𝐩𝐩𝐢𝐧𝐞𝐬𝐬 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 🌿\n\n📅 6𝐭𝐡 𝐅𝐞𝐛𝐫𝐮𝐚𝐫𝐲 2026\nAt our organization, we believe that true success begins with 𝐇𝐞𝐚𝐥𝐭𝐡𝐲 𝐦𝐢𝐧𝐝𝐬 𝐚𝐧𝐝 𝐇𝐚𝐩𝐩𝐲 𝐡𝐞𝐚𝐫𝐭𝐬.\nWe recently conducted an Employee Wellness Session – “𝐇𝐞𝐚𝐥𝐭𝐡 & 𝐇𝐚𝐩𝐩𝐢𝐧𝐞𝐬𝐬 𝐉𝐨𝐮𝐫𝐧𝐞𝐲” 𝐥𝐞𝐝 𝐛𝐲 𝐃𝐫. 𝐒𝐮𝐯𝐚𝐫𝐧𝐢𝐧𝐢 𝐊𝐨𝐧𝐚𝐥𝐞, 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭, where our team explored practical and mindful ways to bring balance into everyday life.\n\n✨ 𝐊𝐞𝐲 𝐭𝐚𝐤𝐞𝐚𝐰𝐚𝐲𝐬 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐬𝐞𝐬𝐬𝐢𝐨𝐧:\n*𝘜𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥𝘪𝘯𝘨 𝘩𝘦𝘢𝘭𝘵𝘩 𝘣𝘦𝘺𝘰𝘯𝘥 “𝘧𝘦𝘦𝘭𝘪𝘯𝘨 𝘧𝘪𝘯𝘦”\n*𝘛𝘩𝘦 𝘪𝘮𝘱𝘰𝘳𝘵𝘢𝘯𝘤𝘦 𝘰𝘧 𝘥𝘢𝘪𝘭𝘺 𝘳𝘰𝘶𝘵𝘪𝘯𝘦𝘴 𝘢𝘭𝘪𝘨𝘯𝘦𝘥 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘯𝘢𝘵𝘶𝘳𝘢𝘭 𝘤𝘺𝘤𝘭𝘦\n*𝘔𝘪𝘯𝘥𝘧𝘶𝘭 𝘦𝘢𝘵𝘪𝘯𝘨 – 𝘸𝘩𝘢𝘵, 𝘸𝘩𝘦𝘯, 𝘩𝘰𝘸, 𝘢𝘯𝘥 𝘸𝘩𝘺 𝘸𝘦 𝘦𝘢𝘵\n*𝘚𝘮𝘢𝘭𝘭, 𝘤𝘰𝘯𝘴𝘪𝘴𝘵𝘦𝘯𝘵 𝘴𝘵𝘦𝘱𝘴 𝘵𝘰𝘸𝘢𝘳𝘥𝘴 𝘱𝘩𝘺𝘴𝘪𝘤𝘢𝘭 𝘢𝘤𝘵𝘪𝘷𝘪𝘵𝘺\n*𝘔𝘢𝘯𝘢𝘨𝘪𝘯𝘨 𝘸𝘰𝘳𝘬-𝘭𝘪𝘧𝘦 𝘴𝘵𝘳𝘦𝘴𝘴 𝘢𝘯𝘥 𝘭𝘪𝘨𝘩𝘵𝘦𝘯𝘪𝘯𝘨 𝘮𝘦𝘯𝘵𝘢𝘭 𝘭𝘰𝘢𝘥\n\n𝐂𝐮𝐥𝐭𝐢𝐯𝐚𝐭𝐢𝐧𝐠 𝐡𝐚𝐩𝐩𝐢𝐧𝐞𝐬𝐬 𝐛𝐲 𝐧𝐮𝐫𝐭𝐮𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐁𝐨𝐝𝐲, 𝐌𝐢𝐧𝐝 & 𝐒𝐨𝐮𝐥\nThe session was a gentle reminder that 𝐰𝐞𝐥𝐥𝐧𝐞𝐬𝐬 𝐢𝐬 𝐧𝐨𝐭 𝐚 𝐨𝐧𝐞-𝐝𝐚𝐲 𝐠𝐨𝐚𝐥 𝐛𝐮𝐭 𝐚 𝐥𝐢𝐟𝐞𝐥𝐨𝐧𝐠 𝐣𝐨𝐮𝐫𝐧𝐞𝐲, and that asking for help and slowing down are signs of strength, not weakness.\nWe’re grateful to our employees for their enthusiastic participation and to 𝐃𝐫. 𝐒𝐮𝐯𝐚𝐫𝐧𝐢𝐧𝐢 𝐊𝐨𝐧𝐚𝐥𝐞 for guiding us with such simplicity and depth.\n\n✨ 𝐋𝐞𝐭’𝐬 𝐥𝐢𝐯𝐞, 𝐧𝐨𝐭 𝐣𝐮𝐬𝐭 𝐬𝐮𝐫𝐯𝐢𝐯𝐞.\n\n#EmployeeWellness #HealthAndHappiness #WorkplaceWellbeing #MentalHealthAtWork\n#HealthyEmployees #CorporateWellness #EmployeeEngagement #WellbeingAtWork",
           "likes": 4,
           "comments": 0,
@@ -926,7 +1485,7 @@
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DT-GxiGkh2r/",
-          "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/621560785_18077868833347407_7858241929780260913_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=ZL2et_DIPwIQ7kNvwFXMS-R&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6aF2fawWQSskYhBNiLhWhNm2PXLwBTF0L8kpkgkF8gCA&oe=6A00671F&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/621560785_18077868833347407_7858241929780260913_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=ZL2et_DIPwIQ7kNvwG2PlLT&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af49ba9olwYesqS9sSYIVtidHzuY5Wlcf-uYxDroHkjrgg&oe=6A00D79F&_nc_sid=8b3546",
           "caption": null,
           "likes": 0,
           "comments": 0,
@@ -936,7 +1495,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DS9bMf4EmUB/",
-          "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/609567543_18075396521347407_6767929565507575018_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=sE_tewsdeWUQ7kNvwGCOs3r&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwMDMxMzI2NjY4NjgxMzQ0MQ%3D%3D.3-ccb7-5&oh=00_Af4ojA9_h0VQA2raA80jZsuGjip5joJChtj8oeLG0H2EhQ&oe=6A009273&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/609567543_18075396521347407_6767929565507575018_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=sE_tewsdeWUQ7kNvwGdgN_B&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwMDMxMzI2NjY4NjgxMzQ0MQ%3D%3D.3-ccb7-5&oh=00_Af4hexDPvG26PDHasyLWfzS84SahugSMmFSSO4TanTx8QA&oe=6A0102F3&_nc_sid=8b3546",
           "caption": null,
           "likes": 0,
           "comments": 0,
@@ -946,7 +1505,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DSnABsrEvJa/",
-          "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/602154019_18074538272347407_4742592688756256286_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=jp1R1mG1floQ7kNvwHNtnnd&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzc5NDAwMTMyNzc2OTcxMTE5NA%3D%3D.3-ccb7-5&oh=00_Af69NNmlnzGEw9hPEnrqUmxva7wTXxE9ini-0xzcUwl07g&oe=6A0096AD&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/602154019_18074538272347407_4742592688756256286_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=jp1R1mG1floQ7kNvwEdBGZB&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzc5NDAwMTMyNzc2OTcxMTE5NA%3D%3D.3-ccb7-5&oh=00_Af4kIhvvaepwIbOs4i-jQk3r4469wRpSQGtq5s43Ji9m5Q&oe=6A00CEED&_nc_sid=8b3546",
           "caption": null,
           "likes": 0,
           "comments": 0,
@@ -956,7 +1515,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DE4wBuSS5lj/",
-          "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/473836431_18040546316347407_2467576081289946559_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=TThjBFnX4YkQ7kNvwHqVotC&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU0Njc5NTkzMTIwNTM0MzU4Nw%3D%3D.3-ccb7-5&oh=00_Af6vGyRBO4SvFU3XQHSmJbe5DCd0Z2gsKVH2-9Y5GsMRWw&oe=6A009082&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-15/473836431_18040546316347407_2467576081289946559_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=TThjBFnX4YkQ7kNvwGQrXyK&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU0Njc5NTkzMTIwNTM0MzU4Nw%3D%3D.3-ccb7-5&oh=00_Af5p7g9qlY80AhKT7tKOX4C6r1dRpxNZUyfSdJfFE5j1Eg&oe=6A010102&_nc_sid=8b3546",
           "caption": "\"Smart Investing Starts Here: SIP Awareness Program for Staff with ICICI Bank\"\n💼 We recently hosted an impactful SIP (Systematic Investment Plan) workshop for our team, aiming to enhance financial literacy and empower employees with smarter investment strategies. 💼\nThe session focused on:\n• Understanding SIP and its long-term benefits\n• Navigating market trends with confidence\n• Tips for maximizing returns through dollar-cost averaging\nThanks to all the participants and facilitators for making this event successful. Here's to creating a financially savvy workforce! 🌟\n#EmployeeEngagement #SIPWorkshop #FinancialWellness #ContinuousLearning#ICICI",
           "likes": 22,
           "comments": 0,
@@ -966,7 +1525,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DEXHhR2So5H/",
-          "thumbnail_url": "https://scontent-lga3-1.cdninstagram.com/v/t51.82787-15/655412779_18111090694690335_7567226907311549760_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=TVpBYK0TpVcQ7kNvwH6cQqR&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzUzNzMyOTA5Njc2NDM2MTQ4OQ%3D%3D.3-ccb7-5&oh=00_Af7m3lHk9FoJek4pUK8ggx_yaMnR-f4ZhmztzW4GFIREoA&oe=6A00769C&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/655412779_18111090694690335_7567226907311549760_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=TVpBYK0TpVcQ7kNvwF07CPB&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzUzNzMyOTA5Njc2NDM2MTQ4OQ%3D%3D.3-ccb7-5&oh=00_Af60VralFW8EXELKWlD48qn7NsjSC3aAinAPxiZNVZzQsA&oe=6A00E71C&_nc_sid=8b3546",
           "caption": "\"United Steps Towards Excellence: A New Year’s Leap for Team Aditi\" \n🌟 On January 1st, Aditi Organic Certifications Pvt Ltd. began the year with an inspiring interdepartmental meeting where team representatives shared their achievements, challenges, and strategies for improvement.\n\n🔗 This session strengthened understanding of interdepartmental dependencies, fostering a streamlined workflow and better collaboration. Insights from the Management team boosted morale, inspiring everyone to embrace innovation and teamwork.\n\n✨ With a shared vision and renewed energy, this meeting marked a powerful step towards excellence in 2025. Here's to a year of seamless progress and success!\n\n#TeamAditi #StrongerTogether #NewYearGoals #Collaboration #Innovation #Leadership #Teamwork #2025Success #WorkplaceMotivation #seamlessworkflow",
           "likes": 27,
           "comments": 0,
@@ -976,7 +1535,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DCobVFuSoHK/",
-          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/653889402_18113743423708937_9041908393463575783_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=SyONas_nBqUQ7kNvwFhZsGJ&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzUwNjE3MjQ5NTA0MzE3MjE1Mw%3D%3D.3-ccb7-5&oh=00_Af4yZGmPMdumn1jEDS5IEcu9yy41siO5tradfe7dEc1kZw&oe=6A007F5B&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/653889402_18113743423708937_9041908393463575783_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=SyONas_nBqUQ7kNvwFkJMyT&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzUwNjE3MjQ5NTA0MzE3MjE1Mw%3D%3D.3-ccb7-5&oh=00_Af6CxN4SxidM9Cc5q1ql9PGBJlAEbT7KGV_PkMlwOuwacQ&oe=6A00EFDB&_nc_sid=8b3546",
           "caption": "🦷✨ Caring for Smiles at Aditi Organic Certifications! ✨🦷\n\nWe recently organized a Dental Workshop and Check-Up Camp for all our employees with the expert from @CloveDental, emphasizing the importance of oral health and hygiene. The event was well received, with enthusiastic participation across teams!\n\n💡 Highlights from the event:\n\nExpert tips on maintaining oral hygiene and preventing dental issues.\nOn-the-spot dental check-ups and consultations.\nInteractive Q&A session with dental experts.\nAt Aditi Organic Certifications, we believe that our employees' health and wellness come first. This camp is just one of the many ways we are committed to creating a healthier, happier workplace.\n\nHere's to more smiles and wellness initiatives ahead! 😁💼 #employeewellness #healthysmiles #teamaditi #organiccertification",
           "likes": 14,
           "comments": 0,
@@ -986,7 +1545,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DBvrsGVy0B_/",
-          "thumbnail_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/626636750_18110202079651478_1170004946368082910_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=zCz0Stbf8gwQ7kNvwG9Pa19&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQ5MDIwMDM4MjcwMDQ3MDM5OQ%3D%3D.3-ccb7-5&oh=00_Af5phG2-6aM4F2kCcSukayvi5LhHgL6ePYm0CWG_UQEZ1A&oe=6A0089F2&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-15/626636750_18110202079651478_1170004946368082910_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=8B5A7HEKv34Q7kNvwF0m3Kb&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQ5MDIwMDM4MjcwMDQ3MDM5OQ%3D%3D.3-ccb7-5&oh=00_Af7ke1zHK9mW2B_049VzTAyj8E4LUCoQuF6bfPTs3Nmbaw&oe=6A00FA72&_nc_sid=8b3546",
           "caption": "✨ Happy Diwali from Aditi Organic Certifications Pvt. Ltd.! ✨\n\nAs we celebrate the Festival of Lights, may your lives be filled with joy, prosperity, and the warmth of loved ones. Let this Diwali inspire us to embrace sustainability and organic living.\n\nWishing you a safe and joyous Diwali! 🌟\n\n#HappyDiwali #aditiorganic #festival #festivaloflights #sustainability #organicfood #agriculture #NPOP #organiccertified",
           "likes": 11,
           "comments": 0,
@@ -996,7 +1555,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DBYdmBySv4S/",
-          "thumbnail_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.82787-15/627184948_18254024323292767_4273325679023215938_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=kg0kaNDr8v4Q7kNvwElk9nn&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQ4MzY2NDQ2ODM3NzUzMzk3MA%3D%3D.3-ccb7-5&oh=00_Af5ICfAs_wOYilhzAMFb8faCy5pJbLJp4SfuMMUAHsYG-Q&oe=6A009376&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/627184948_18254024323292767_4273325679023215938_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=kg0kaNDr8v4Q7kNvwGfLlRd&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzQ4MzY2NDQ2ODM3NzUzMzk3MA%3D%3D.3-ccb7-5&oh=00_Af5cMY7dHqSqJ50xEAteE1NvU87xEn-PXSJB0rfNTarEoQ&oe=6A0103F6&_nc_sid=8b3546",
           "caption": "Exciting News from Aditi Organic Certifications Pvt. Ltd.!\nWe are delighted to announce that Aditi Organic Certifications Pvt. Ltd. is now accepting applications from processing and trading operators for certification under the National Programme for Organic Production (NPOP).\nBy choosing Aditi Organic Certifications, you can enhance your credibility and gain valuable recognition in the organic marketplace.\nFor more information, visit www.aditicert.net or contact us at marketing@aditicert.net.\nTogether, let's raise the bar for quality and make a lasting impact in the organic sector!\n#NPOP #organiccertification #organicproducts #OrganicStandard #sustainablefarming #organicfarming #OrganicFood #Aditicertifications",
           "likes": 7,
           "comments": 0,
@@ -1006,7 +1565,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/C5hkapuSWH-/",
-          "thumbnail_url": "https://scontent-lga3-3.cdninstagram.com/v/t51.82787-15/624790975_18079432943254700_2825700391743560409_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFkCHn-IbYhB7e4ICoVuKSm0RzjMCV_1LIgDq-zT4HTxpZU2Ds2WvyliYGO4JaDgaw&_nc_ohc=HZFc2lvDwMUQ7kNvwH2-vo5&_nc_gid=AcEM0BlLaHJg6k78dDltiw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM0MjExMjU1OTY2NjM4OTUwMg%3D%3D.3-ccb7-5&oh=00_Af6SfTBEYCjou4yvXdpXx9NjeT8l_Z_x3fZhL_6UPOjJuQ&oe=6A00785C&_nc_sid=8b3546",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/624790975_18079432943254700_2825700391743560409_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gG46HfLRRvjFMnc8wAOmFsUQovHgWwDBg81gFIJjAovGYg99tyxKS_L5lhlAsm4crs&_nc_ohc=HZFc2lvDwMUQ7kNvwFLALY_&_nc_gid=e70ZZEfGBBOIrzD20_gNEA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzM0MjExMjU1OTY2NjM4OTUwMg%3D%3D.3-ccb7-5&oh=00_Af5VXdATfA8BZkhge-w9dAPSCdEiudniyUvGkBpOXfrk9g&oe=6A00E8DC&_nc_sid=8b3546",
           "caption": "Dear All,\n\nOn the occasion of Ugadi, we hope that this New Year is filled with success and delight for everyone. May this new year bring joy and prosperity to all your families and friends.\n\nWishing you a very Happy Ugadi!",
           "likes": 16,
           "comments": 0,
@@ -1032,27 +1591,169 @@
     },
     {
       "platform": "youtube",
-      "url": "https://youtube.com/channel/ucvyxcyswvpl8n_n-z4c5ung",
+      "url": "https://youtube.com/channel/UCVyxCYSwVpL8n_n-z4c5uNg",
       "profile_pic_url": null,
       "banner_url": null,
-      "bio": null,
+      "bio": "Insights, Perspectives and more on everything organic from Aditi Organics- a leading certification body in India.",
       "followers_count": null,
       "posts": [
         {
           "type": "video",
-          "post_url": "https://youtube.com/channel/ucvyxcyswvpl8n_n-z4c5ung/about",
+          "post_url": "https://youtube.com/channel/UCVyxCYSwVpL8n_n-z4c5uNg/about",
           "thumbnail_url": null,
           "caption": null,
           "likes": null,
           "comments": null,
           "views": null,
           "posted_at": null
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=hUOHVNXDkdQ",
+          "thumbnail_url": "https://i.ytimg.com/vi/hUOHVNXDkdQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhZMA8=&rs=AOn4CLC2sN8C-2QL-31WgCZIU5n2jk-vqg",
+          "caption": "Dr. Karthik Nagendra in conversation with Mr. Balram as he shares insights around \"How to Grow Tissue Culture Bamboo Effectively\"",
+          "likes": 2,
+          "comments": 0,
+          "views": 30,
+          "posted_at": "2021-12-15T06:44:50.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=kfBq7M5Lo1c",
+          "thumbnail_url": "https://i.ytimg.com/vi/kfBq7M5Lo1c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVyhVMA8=&rs=AOn4CLAPf0bSK5-h87E7-34RW_4cEULkkQ",
+          "caption": "Dr. Karthik Nagendra in conversation with Prachi as she shares insights on potential for export of agriculture produce/products",
+          "likes": 4,
+          "comments": 2,
+          "views": 117,
+          "posted_at": "2022-03-15T07:39:47.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=apeKGu2u3tY",
+          "thumbnail_url": "https://i.ytimg.com/vi/apeKGu2u3tY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-BYAC4AOKAgwIABABGHIgUihAMA8=&rs=AOn4CLANRK26mXOuS8yUqwM1ZbImuWqL1w",
+          "caption": "Ms.Sangita Sharma- Seed Guardian, Jewel of Karnataka, in conversation with Dr. Karthik Nagendra as she shares insights on \"Sustainable farm solutions- the answer to food safety\"",
+          "likes": 9,
+          "comments": 2,
+          "views": 371,
+          "posted_at": "2021-05-17T04:56:59.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=YQhhN_hR_6A",
+          "thumbnail_url": "https://i.ytimg.com/vi/YQhhN_hR_6A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShUMA8=&rs=AOn4CLBoyZc1_D1i1lrYcbAApo6FERvsew",
+          "caption": "Mr Surajit in conversation with Dr. Karthik Nagendra where he shares insights on challenges & way forward for carbon net neutrality in agriculture",
+          "likes": 5,
+          "comments": 0,
+          "views": 84,
+          "posted_at": "2022-07-12T07:12:34.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=utRj1C6PNno",
+          "thumbnail_url": "https://i.ytimg.com/vi/utRj1C6PNno/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGEogXShlMA8=&rs=AOn4CLDi8jhvVwEBIDKvu1eg4OBVn9NqLw",
+          "caption": "Dr. Karthik Nagendra in conversation with Mr. Kiran Bhaskaran as he shares insights on Understanding How an Indigenous Fruit Forest (IFF) Functions",
+          "likes": 23,
+          "comments": 1,
+          "views": 330,
+          "posted_at": "2021-11-16T07:38:09.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=LIt7hdW7-3A",
+          "thumbnail_url": "https://i.ytimg.com/vi/LIt7hdW7-3A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgVShLMA8=&rs=AOn4CLBaiZnglFvJuoPewPuFTKz5uXr3Qw",
+          "caption": "Ms. Surya Narmada from Kovise Agro in conversation with Dr. Karthik Nagendra where shares insights around good agriculture practices and its impact on the planet & community.",
+          "likes": 3,
+          "comments": 1,
+          "views": 123,
+          "posted_at": "2021-04-29T06:06:39.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=-Wuu0ZOs_2M",
+          "thumbnail_url": "https://i.ytimg.com/vi/-Wuu0ZOs_2M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgUihAMA8=&rs=AOn4CLAdXyAwz2_VxFHjz1Bk3C2tlyFYbg",
+          "caption": "Dr. Karthik Nagendra in conversation with Dr. Krishna as he shares insights on Global opportunities for scientific and exportable organic agriculture  produce",
+          "likes": 6,
+          "comments": 0,
+          "views": 137,
+          "posted_at": "2021-09-24T06:21:34.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=SOgnuJG8fHE",
+          "thumbnail_url": "https://i.ytimg.com/vi/SOgnuJG8fHE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgXyhYMA8=&rs=AOn4CLAIMgHiHKprydlRIKwylNQJaW3KSg",
+          "caption": "Dr. Karthik Nagendra in conversation with Mr. Sachin Bakshi as he shares insights on how one can make agriculture into a profitable venture.",
+          "likes": 6,
+          "comments": 0,
+          "views": 176,
+          "posted_at": "2021-10-12T05:37:44.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=6RbnCmZWmEQ",
+          "thumbnail_url": "https://i.ytimg.com/vi/6RbnCmZWmEQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD4gUihyMA8=&rs=AOn4CLDbfTdfJVJdTxiWWNb6TGNCUJV35A",
+          "caption": "Dr. Kumar in conversation with Dr. Karthik Nagendra as he shares insights into the future of organic farming & the out of box approach the agri sector should embrance",
+          "likes": 16,
+          "comments": 2,
+          "views": 319,
+          "posted_at": "2021-07-02T04:42:48.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=WwhKtrZlqnY",
+          "thumbnail_url": "https://i.ytimg.com/vi/WwhKtrZlqnY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGQgZChkMA8=&rs=AOn4CLDzspX4E5HopQ1xEBD05fT4H3exGw",
+          "caption": "Dr. Karthik Nagendra in conversation with Mr. Bansode as he shares insights on use of pheromones and lures in farms and adding income to Farmers’",
+          "likes": 15,
+          "comments": 0,
+          "views": 305,
+          "posted_at": "2021-06-02T04:16:52.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=Hy1vr5ByP2U",
+          "thumbnail_url": "https://i.ytimg.com/vi/Hy1vr5ByP2U/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWihOMA8=&rs=AOn4CLDQsPG969zKUxM7wpqZikzMuiehOw",
+          "caption": "Dr. Karthik Nagendra in conversation with Dr. Alur as he shares insights on how FPOs can benefit farmers",
+          "likes": 4,
+          "comments": 1,
+          "views": 118,
+          "posted_at": "2022-01-04T08:16:54.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=tNXfRHqRY8A",
+          "thumbnail_url": "https://i.ytimg.com/vi/tNXfRHqRY8A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihVMA8=&rs=AOn4CLCzBJyuBpoSZa5APuFy2Naw1A3CAw",
+          "caption": "Mr. Anil Patil in conversation with Dr. Karthik Nagendra as he shares valuable insights on how farmers can make better profits",
+          "likes": 3,
+          "comments": 1,
+          "views": 117,
+          "posted_at": "2022-05-31T11:25:58.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=ejBHMSKqUXM",
+          "thumbnail_url": "https://i.ytimg.com/vi/ejBHMSKqUXM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGMgYyhjMA8=&rs=AOn4CLCSpuJu0mwNhq2lC1ZtXqzMsslgEQ",
+          "caption": "Dr. Karthik Nagendra in conversation with Kiran Bhaskaran- Head: India Farming School as he shares insights & best practices to keep in mind while starting organic farming",
+          "likes": 11,
+          "comments": 0,
+          "views": 261,
+          "posted_at": "2022-09-27T07:18:30.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=wY7Fj3Fy3Q0",
+          "thumbnail_url": "https://i.ytimg.com/vi/wY7Fj3Fy3Q0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC0gQyh_MA8=&rs=AOn4CLCmgfaWehF5pI8QYAnx060PAQicEA",
+          "caption": "Mr. Hemadi shares insights on how farmers can increase income and become self reliant",
+          "likes": 12,
+          "comments": 1,
+          "views": 207,
+          "posted_at": "2022-02-09T04:47:45.000Z"
         }
       ],
       "contacts_from_posts": [],
       "extra_profile": {
         "location": null,
-        "links": []
+        "links": [
+          "www.aditicert.net"
+        ]
       }
     },
     {
@@ -1064,21 +1765,11 @@
       "followers_count": null,
       "posts": [],
       "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
-    },
-    {
-      "platform": "twitter",
-      "url": "https://twitter.com/",
-      "profile_pic_url": null,
-      "banner_url": null,
-      "bio": null,
-      "followers_count": null,
-      "posts": [],
-      "_note": "Twitter/X public scraping not available — requires authenticated Apify actor (paid)"
     }
   ],
   "pipeline_summary": {
-    "run_started_at": "2026-05-06T02:52:50.684Z",
-    "duration_seconds": 102,
+    "run_started_at": "2026-05-06T10:25:41.189Z",
+    "duration_seconds": 167,
     "agents_in_order": [
       "CompanyEnricher",
       "Agent03/Product",
@@ -1088,7 +1779,7 @@
       "Agent02/Orchestrator": 1,
       "Agent03/Product": 1,
       "Agent03a/Category": 5,
-      "Agent04/Media": 3,
+      "Agent04/Media": 5,
       "Agent05/EnrichDedup": 1,
       "Agent07/Social": 1,
       "CompanyEnricher": 1,
@@ -1102,37 +1793,38 @@
           "dedup",
           "catalog"
         ],
-        "skip_agents": [],
+        "skip_agents": [
+          "reviews"
+        ],
         "quality_target": 0.75,
-        "reasoning": "Company agent first for seller context. Product agent to enrich services/information products. Evaluate product output to check quality. Dedup agent to ensure no duplicates. Reviews agent skipped as no reviews_api_url. Finally, write to catalog."
+        "reasoning": "The seller has a good company profile, but the \"products\" appear to be services or company information, which might be challenging for the product agent. No reviews API is present."
       },
       "evaluate_product_output": {
         "decision": "proceed",
-        "avg_confidence": 0.91,
+        "avg_confidence": 0.84,
         "retry_triggered": false
       }
     },
     "products": {
-      "raw_input": 4,
+      "raw_input": 5,
       "enriched": 5,
-      "catalog_items": 3,
-      "rejected": 2,
-      "with_vision": 2,
-      "vision_skipped": 1
+      "catalog_items": 6,
+      "rejected": 0,
+      "with_vision": 3,
+      "vision_skipped": 2
     },
     "social": {
-      "urls_detected": 5,
+      "urls_detected": 4,
       "platforms_scraped": [
         "facebook",
         "instagram",
         "youtube",
-        "linkedin",
-        "twitter"
+        "linkedin"
       ],
-      "posts_collected": 16,
-      "social_products_extracted": 0
+      "posts_collected": 27,
+      "social_products_extracted": 1
     },
-    "overall_confidence": 0.926
+    "overall_confidence": 0.874
   },
-  "_saved_at": "2026-05-06T02:54:32.908Z"
+  "_saved_at": "2026-05-06T10:28:28.058Z"
 }

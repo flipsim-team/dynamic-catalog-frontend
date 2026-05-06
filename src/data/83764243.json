@@ -11,7 +11,7 @@
       "post_url": null
     },
     "description": {
-      "value": "S3 Technic Pvt Ltd is an agricultural machinery manufacturer based in Noida, dedicated to providing robust and efficient solutions for the modern farming sector. They specialize in producing a range of equipment designed to enhance agricultural productivity and streamline farming operations.",
+      "value": "S3 Technic Pvt Ltd is a dedicated agricultural machinery manufacturer based in Noida. They specialize in producing a range of high-quality equipment designed to enhance farming efficiency and productivity for modern agriculture.",
       "sources": [
         "llm_generated"
       ],
@@ -110,7 +110,7 @@
       "post_url": null
     },
     "logo_url": {
-      "value": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-19/615969106_18040120700738639_2886384208933388536_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=PV5EO6w_1nUQ7kNvwHPcp-Z&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4kWHbSRf4VyOqkpkDeN10qPsLfEu1fDN27FgPRDP2-7Q&oe=6A00B1C1&_nc_sid=8b3546",
+      "value": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-19/615969106_18040120700738639_2886384208933388536_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=PV5EO6w_1nUQ7kNvwFXyeiF&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6v8u1-6s48dt6IqDgd1o7RSU1u389YPwiHr04VWyWjoA&oe=6A00EA01&_nc_sid=8b3546",
       "sources": [
         "instagram"
       ],
@@ -118,7 +118,7 @@
       "post_url": null
     },
     "banner_url": {
-      "value": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/486418851_682808797652735_6370634866654469448_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2a1932&_nc_ohc=eNLDoZSFbPQQ7kNvwFZMLNO&_nc_oc=AdqJWWkw_G1EvqvgHPT0Yk6PbNBEITMFYdUbnbTIXN6R-yqFR8r8mz1bqLsvelczX4s&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=pTOT9RgMD6Py2Mj0JiwzBg&_nc_ss=72289&oh=00_Af67d2AVVjJd5didVwk6Sn6j4M59UEu-jjCLsFd-gPLSLA&oe=6A00B449",
+      "value": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/486418851_682808797652735_6370634866654469448_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2a1932&_nc_ohc=eNLDoZSFbPQQ7kNvwHv-3wR&_nc_oc=Ado3SZ-SPCC0Qu-A7Fk3VOQemR-aE371ESizRFmob8EgLdpKxNTFunbP5fYOV_7j6f4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=fSPQ17P_mgAOwktpCoG5Mw&_nc_ss=72289&oh=00_Af5OOLzW7cEAmhz_KiJAAifiWLbCsCCWCdUozq1XjdF6Uw&oe=6A00EC89",
       "sources": [
         "facebook"
       ],
@@ -215,7 +215,8 @@
         "value": "8851036472",
         "sources": [
           "google",
-          "facebook"
+          "facebook",
+          "sign3"
         ],
         "date": null,
         "post_url": null
@@ -279,11 +280,11 @@
       }
     ],
     "followers_facebook": 216,
-    "followers_instagram": 282,
+    "followers_instagram": 283,
     "posts_count_instagram": 36,
     "following_count_instagram": 43,
     "followers_youtube": 105,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "sources": [
       "google",
       "facebook",
@@ -299,7 +300,7 @@
       },
       {
         "platform": "instagram",
-        "followers": 282
+        "followers": 283
       },
       {
         "platform": "youtube",
@@ -317,16 +318,71 @@
   "media_assets": [],
   "catalog_items": [
     {
-      "fingerprint": "aa99249dac41",
-      "raw_name": "Bluetooth Laser Land Leveller",
-      "clean_name": "Bluetooth Laser Land Leveller",
-      "product_category": "Agricultural Machinery",
+      "fingerprint": "6fb1f21af44c",
+      "raw_name": "Bluetooth Laser Transmitter",
+      "clean_name": "Bluetooth Laser Transmitter",
+      "product_category": "Agricultural Laser Transmitter",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "This is a Bluetooth-enabled laser land leveller, an agricultural machinery designed for precision land preparation. It uses laser technology to ensure accurate levelling of fields, which is crucial for efficient irrigation and crop growth.",
-      "seo_title": "Bluetooth Laser Land Leveller",
-      "alt_text": "Bluetooth Laser Land Leveller",
+      "description": "A new Bluetooth-enabled laser transmitter designed for agricultural use, specifically for laser land leveling. It features dual slope capabilities and can be controlled via a mobile application on your phone. The device is available in more than 10 colors.",
+      "seo_title": "Bluetooth Laser Transmitter",
+      "alt_text": "Bluetooth Laser Transmitter",
+      "tags": [
+        "techinnovation",
+        "agriculture",
+        "laserlandleveler",
+        "s3technics",
+        "farmer",
+        "bluetooth",
+        "mobileapp",
+        "newtech",
+        "farming"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "control_method": "Bluetooth via mobile app",
+        "type": "Dual slope transmitter",
+        "colors": "More than 10 colors (red, yellow, blue/teal shown)",
+        "model_number": "IN2C4501"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DW5NPnak0zH/",
+      "photo_urls": [
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=7OsotuKMwqkQ7kNvwGKO_ch&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af7iQgHmJ2S__NDcYlhNpkdHW78PRsTmcHjpWNyu2WLIkA&oe=6A00F2BB&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=7OsotuKMwqkQ7kNvwGKO_ch&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af7iQgHmJ2S__NDcYlhNpkdHW78PRsTmcHjpWNyu2WLIkA&oe=6A00F2BB&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=7OsotuKMwqkQ7kNvwGKO_ch&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af7iQgHmJ2S__NDcYlhNpkdHW78PRsTmcHjpWNyu2WLIkA&oe=6A00F2BB&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DW5NPnak0zH/",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=7OsotuKMwqkQ7kNvwGKO_ch&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af7iQgHmJ2S__NDcYlhNpkdHW78PRsTmcHjpWNyu2WLIkA&oe=6A00F2BB&_nc_sid=8b3546",
+        "caption": "A new tech in the market - Bluetooth Laser Transmitter controlled by your phone.\n#techinnovation #agriculture #laserlandleveler #s3technics #farmer",
+        "posted_at": "2026-04-09T02:17:51.000Z",
+        "likes": 15,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "10f6f32c23e7",
+      "raw_name": "Bluetooth Laser Land Leveler",
+      "clean_name": "Bluetooth Laser Land Leveler",
+      "product_category": "Agricultural Land Leveler",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A Bluetooth-enabled laser land leveler, likely used for precision leveling in agricultural fields. This product is indicated to be 'Made in India' and is part of agritech solutions.",
+      "seo_title": "Bluetooth Laser Land Leveler",
+      "alt_text": "Bluetooth Laser Land Leveler",
       "tags": [
         "agritech",
         "laserlandleveller",
@@ -338,11 +394,10 @@
       "price_text": null,
       "currency": "INR",
       "specifications": {
-        "connectivity": "Bluetooth",
-        "technology": "Laser"
+        "Connectivity": "Bluetooth"
       },
       "b2b_attributes": {},
-      "classification_confidence": 0.95,
+      "classification_confidence": 1,
       "extraction_confidence": 0.65,
       "source": "instagram",
       "sources": [
@@ -350,186 +405,30 @@
       ],
       "source_url": "https://www.instagram.com/p/DWrkEgeEypP/",
       "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=w6JkBBsTG0gQ7kNvwGlnOuF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7SyWFj7dOGN9n-XwjJm8dVGrdj1MbnFOMCoa3VFmc2Og&oe=6A00D5CE&_nc_sid=8b3546"
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=w6JkBBsTG0gQ7kNvwFmngc1&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NTm6UcNbSQq2SdPvcguvuO0Uz9gLcnrg7mZwYGxbbow&oe=6A00D5CE&_nc_sid=8b3546"
       ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=w6JkBBsTG0gQ7kNvwGlnOuF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7SyWFj7dOGN9n-XwjJm8dVGrdj1MbnFOMCoa3VFmc2Og&oe=6A00D5CE&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=w6JkBBsTG0gQ7kNvwGlnOuF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7SyWFj7dOGN9n-XwjJm8dVGrdj1MbnFOMCoa3VFmc2Og&oe=6A00D5CE&_nc_sid=8b3546",
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=w6JkBBsTG0gQ7kNvwFmngc1&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NTm6UcNbSQq2SdPvcguvuO0Uz9gLcnrg7mZwYGxbbow&oe=6A00D5CE&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=w6JkBBsTG0gQ7kNvwFmngc1&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NTm6UcNbSQq2SdPvcguvuO0Uz9gLcnrg7mZwYGxbbow&oe=6A00D5CE&_nc_sid=8b3546",
       "used_vision": true,
       "social_source": {
         "platform": "instagram",
         "post_url": "https://www.instagram.com/p/DWrkEgeEypP/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=w6JkBBsTG0gQ7kNvwGlnOuF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7SyWFj7dOGN9n-XwjJm8dVGrdj1MbnFOMCoa3VFmc2Og&oe=6A00D5CE&_nc_sid=8b3546",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=w6JkBBsTG0gQ7kNvwFmngc1&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NTm6UcNbSQq2SdPvcguvuO0Uz9gLcnrg7mZwYGxbbow&oe=6A00D5CE&_nc_sid=8b3546",
         "caption": "#agritech #laserlandleveller #madeinindia #agriculture #computergodi",
         "posted_at": "2026-04-03T19:11:38.000Z",
         "likes": 19,
-        "views": 171
-      }
-    },
-    {
-      "fingerprint": "9346ec07bc28",
-      "raw_name": "S3 Technics Laser Land Leveler",
-      "clean_name": "S3 Technics Laser Land Leveler",
-      "product_category": "Agricultural Machinery",
-      "product_sub_type": null,
-      "top_level_domain": null,
-      "industry_segment": null,
-      "description": "A bright yellow agricultural machine, identified as a laser land leveler from S3 Technics, designed for precision farming. It features a robust frame, multiple wheels, hydraulic components, and a prominent laser receiver mast.",
-      "seo_title": "S3 Technics Laser Land Leveler",
-      "alt_text": "S3 Technics Laser Land Leveler",
-      "tags": [
-        "laser level",
-        "s3technics",
-        "madeinindia",
-        "agricultural machinery",
-        "land leveler",
-        "farming equipment",
-        "kisanlife"
-      ],
-      "price_single": null,
-      "price_text": null,
-      "currency": "INR",
-      "specifications": {
-        "Brand": "S3 Technics (S3T)",
-        "Technology": "Laser Level",
-        "Color": "Yellow",
-        "Origin": "Made in India"
-      },
-      "b2b_attributes": {},
-      "classification_confidence": 1,
-      "extraction_confidence": 0.65,
-      "source": "instagram",
-      "sources": [
-        "instagram"
-      ],
-      "source_url": "https://www.instagram.com/p/DXZLapkkxix/",
-      "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=Hj_xhfo0rr0Q7kNvwERRQiP&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7fQjvaOn18sxxuSoGjnDQqzsSe148gGWpmcSLzsiBHmQ&oe=6A00CEAF&_nc_sid=8b3546"
-      ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=Hj_xhfo0rr0Q7kNvwERRQiP&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7fQjvaOn18sxxuSoGjnDQqzsSe148gGWpmcSLzsiBHmQ&oe=6A00CEAF&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=Hj_xhfo0rr0Q7kNvwERRQiP&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7fQjvaOn18sxxuSoGjnDQqzsSe148gGWpmcSLzsiBHmQ&oe=6A00CEAF&_nc_sid=8b3546",
-      "used_vision": true,
-      "social_source": {
-        "platform": "instagram",
-        "post_url": "https://www.instagram.com/p/DXZLapkkxix/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=Hj_xhfo0rr0Q7kNvwERRQiP&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7fQjvaOn18sxxuSoGjnDQqzsSe148gGWpmcSLzsiBHmQ&oe=6A00CEAF&_nc_sid=8b3546",
-        "caption": "Happy customer for 8 years!\n#kisanlife👳‍♂️🌾किसान🌾 #laserlevel #s3technics #madeinindia",
-        "posted_at": "2026-04-21T12:18:10.000Z",
-        "likes": 25,
-        "views": 34452
-      }
-    },
-    {
-      "fingerprint": "fa5555ab79a8",
-      "raw_name": "S3 Laser Leveller",
-      "clean_name": "S3 Laser Leveller",
-      "product_category": "Agricultural Machinery",
-      "product_sub_type": null,
-      "top_level_domain": null,
-      "industry_segment": null,
-      "description": "The S3 Laser Leveller is an agricultural machinery product, presented as being available in 12 different colors. It is designed for farm technology applications, likely for land leveling, and is shown packaged in a protective case.",
-      "seo_title": "S3 Laser Leveller",
-      "alt_text": "S3 Laser Leveller",
-      "tags": [
-        "Laser land leveller",
-        "laser leveller",
-        "agritech",
-        "farm technology",
-        "make in India",
-        "made in India",
-        "computermanjha"
-      ],
-      "price_single": null,
-      "price_text": null,
-      "currency": "INR",
-      "specifications": {
-        "Colors": "12"
-      },
-      "b2b_attributes": {},
-      "classification_confidence": 1,
-      "extraction_confidence": 0.65,
-      "source": "instagram",
-      "sources": [
-        "instagram"
-      ],
-      "source_url": "https://www.instagram.com/p/DVt5vTfEzyP/",
-      "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=MItah4q8RGoQ7kNvwGbzDGc&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af4WKW5aYe0eXC5KywZDp_vemdi_mMhfrtZQpc9g3_szoA&oe=6A00C9A5&_nc_sid=8b3546"
-      ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=MItah4q8RGoQ7kNvwGbzDGc&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af4WKW5aYe0eXC5KywZDp_vemdi_mMhfrtZQpc9g3_szoA&oe=6A00C9A5&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=MItah4q8RGoQ7kNvwGbzDGc&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af4WKW5aYe0eXC5KywZDp_vemdi_mMhfrtZQpc9g3_szoA&oe=6A00C9A5&_nc_sid=8b3546",
-      "used_vision": true,
-      "social_source": {
-        "platform": "instagram",
-        "post_url": "https://www.instagram.com/p/DVt5vTfEzyP/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=MItah4q8RGoQ7kNvwGbzDGc&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af4WKW5aYe0eXC5KywZDp_vemdi_mMhfrtZQpc9g3_szoA&oe=6A00C9A5&_nc_sid=8b3546",
-        "caption": "12 colors of @pentonicdrivenbydesign , 12 colors of S3 Laser Levellers! \nGet in touch to get your favourite color.\n.\n.\n.\n.\n.\n.\n.\n[Laser land leveller, laser leveller, agritech, farm technology, make in India, made in India]\n#computermanjha",
-        "posted_at": "2026-03-10T20:24:22.000Z",
-        "likes": 20,
-        "views": null
-      }
-    },
-    {
-      "fingerprint": "75b1eea3d8db",
-      "raw_name": "S3 Technic Bluetooth Laser Leveler",
-      "clean_name": "S3 Technic Bluetooth Laser Leveler",
-      "product_category": "Agricultural Machinery",
-      "product_sub_type": null,
-      "top_level_domain": null,
-      "industry_segment": null,
-      "description": "This post showcases the S3 Technic Bluetooth Laser Leveler, which is part of the SST Technics Complete Laser System. The system includes a control box, a rotating laser emitter, and an LSR 360 receiver, designed for precision land leveling in agriculture.",
-      "seo_title": "S3 Technic Bluetooth Laser Leveler",
-      "alt_text": "S3 Technic Bluetooth Laser Leveler",
-      "tags": [
-        "agritech",
-        "laserlandleveler",
-        "kisan",
-        "rotavator",
-        "laser leveler",
-        "precision agriculture"
-      ],
-      "price_single": null,
-      "price_text": null,
-      "currency": "INR",
-      "specifications": {
-        "Model": "S3 Technic",
-        "Connectivity": "Bluetooth",
-        "System Type": "Laser Leveler",
-        "Brand": "SST Technics",
-        "Components": "Control Box, Laser Emitter, LSR 360 Receiver"
-      },
-      "b2b_attributes": {},
-      "classification_confidence": 1,
-      "extraction_confidence": 0.65,
-      "source": "instagram",
-      "sources": [
-        "instagram"
-      ],
-      "source_url": "https://www.instagram.com/p/DW6GmqhjY-q/",
-      "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=z5yUq2HefC8Q7kNvwG0lV0r&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7EumoUpErqwFm07dQyPRCPZqaE8FHdp5Rzm4Jjn9-hQw&oe=6A00B773&_nc_sid=8b3546"
-      ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=z5yUq2HefC8Q7kNvwG0lV0r&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7EumoUpErqwFm07dQyPRCPZqaE8FHdp5Rzm4Jjn9-hQw&oe=6A00B773&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=z5yUq2HefC8Q7kNvwG0lV0r&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7EumoUpErqwFm07dQyPRCPZqaE8FHdp5Rzm4Jjn9-hQw&oe=6A00B773&_nc_sid=8b3546",
-      "used_vision": true,
-      "social_source": {
-        "platform": "instagram",
-        "post_url": "https://www.instagram.com/p/DW6GmqhjY-q/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=z5yUq2HefC8Q7kNvwG0lV0r&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7EumoUpErqwFm07dQyPRCPZqaE8FHdp5Rzm4Jjn9-hQw&oe=6A00B773&_nc_sid=8b3546",
-        "caption": "#agritech #laserlandleveler #kisan #rotavator",
-        "posted_at": "2026-04-09T10:40:02.000Z",
-        "likes": 18,
-        "views": 135
+        "views": 172
       }
     },
     {
       "fingerprint": "b2630610fdc8",
       "raw_name": "Bluetooth Laser Leveler Transmitter",
       "clean_name": "Bluetooth Laser Leveler Transmitter",
-      "product_category": "Agricultural Laser Leveler",
+      "product_category": "Laser Leveler",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "This post showcases a Bluetooth-enabled dual slope laser transmitter, which functions as a laser leveler. It is presented in a brochure, highlighting its availability in more than 10 colors, including red, yellow, and blue.",
+      "description": "A Bluetooth-enabled dual slope laser transmitter, designed for precision leveling in agricultural or surveying applications. It emits a laser beam and is available in over 10 colors, including red, yellow, and blue.",
       "seo_title": "Bluetooth Laser Leveler Transmitter",
       "alt_text": "Bluetooth Laser Leveler Transmitter",
       "tags": [
@@ -545,9 +444,8 @@
       "currency": "INR",
       "specifications": {
         "Connectivity": "Bluetooth",
-        "Type": "Dual slope transmitter",
-        "Function": "Laser leveler",
-        "Color Options": "More than 10 colors (e.g., red, yellow, blue)"
+        "Functionality": "Dual slope transmitter, Laser leveler",
+        "Colors": "Available in more than 10 colors (e.g., red, yellow, blue)"
       },
       "b2b_attributes": {},
       "classification_confidence": 0.95,
@@ -558,51 +456,106 @@
       ],
       "source_url": "https://www.instagram.com/p/DWrk78hk-i4/",
       "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=_fsIZKu1FpgQ7kNvwFzc5hr&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6WbVD_ChjzZ0ekH80T3vRhF4VmunU128OYtpb2h4qdWw&oe=6A00BBBB&_nc_sid=8b3546"
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=_fsIZKu1FpgQ7kNvwFCSYOH&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5C0rrlc1KNlUQa9AWtf2KzZ9tykvdi73_O7ycB6YPtEg&oe=6A00F3FB&_nc_sid=8b3546"
       ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=_fsIZKu1FpgQ7kNvwFzc5hr&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6WbVD_ChjzZ0ekH80T3vRhF4VmunU128OYtpb2h4qdWw&oe=6A00BBBB&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=_fsIZKu1FpgQ7kNvwFzc5hr&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6WbVD_ChjzZ0ekH80T3vRhF4VmunU128OYtpb2h4qdWw&oe=6A00BBBB&_nc_sid=8b3546",
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=_fsIZKu1FpgQ7kNvwFCSYOH&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5C0rrlc1KNlUQa9AWtf2KzZ9tykvdi73_O7ycB6YPtEg&oe=6A00F3FB&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=_fsIZKu1FpgQ7kNvwFCSYOH&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5C0rrlc1KNlUQa9AWtf2KzZ9tykvdi73_O7ycB6YPtEg&oe=6A00F3FB&_nc_sid=8b3546",
       "used_vision": true,
       "social_source": {
         "platform": "instagram",
         "post_url": "https://www.instagram.com/p/DWrk78hk-i4/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=_fsIZKu1FpgQ7kNvwFzc5hr&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6WbVD_ChjzZ0ekH80T3vRhF4VmunU128OYtpb2h4qdWw&oe=6A00BBBB&_nc_sid=8b3546",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=_fsIZKu1FpgQ7kNvwFCSYOH&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5C0rrlc1KNlUQa9AWtf2KzZ9tykvdi73_O7ycB6YPtEg&oe=6A00F3FB&_nc_sid=8b3546",
         "caption": "#punjabagriculturaluniversity  #agritech #madeinindia",
         "posted_at": "2026-04-03T19:17:21.000Z",
         "likes": 44,
-        "views": 227
+        "views": 228
       }
     },
     {
-      "fingerprint": "6fb1f21af44c",
-      "raw_name": "Bluetooth Laser Transmitter",
-      "clean_name": "Bluetooth Laser Transmitter",
+      "fingerprint": "9346ec07bc28",
+      "raw_name": "S3 Technics Laser Land Leveler",
+      "clean_name": "S3 Technics Laser Land Leveler",
       "product_category": "Agricultural Machinery",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "A new technological advancement for agriculture, this Bluetooth Laser Transmitter is controlled via a mobile app. It is a dual slope transmitter designed for laser land leveling, available in more than 10 colors.",
-      "seo_title": "Bluetooth Laser Transmitter",
-      "alt_text": "Bluetooth Laser Transmitter",
+      "description": "A robust yellow agricultural machine, identified as an S3 Technics Laser Land Leveler, designed for precision land leveling. It features a sturdy frame, multiple wheels, hydraulic cylinders, and a mast for laser guidance, indicating its use in modern farming practices.",
+      "seo_title": "S3 Technics Laser Land Leveler",
+      "alt_text": "S3 Technics Laser Land Leveler",
       "tags": [
-        "techinnovation",
-        "agriculture",
-        "laserlandleveler",
+        "kisanlife",
+        "laserlevel",
         "s3technics",
-        "farmer",
-        "Bluetooth",
-        "transmitter",
-        "mobile app",
-        "land leveling"
+        "madeinindia",
+        "agriculturalmachinery",
+        "landleveler",
+        "farming"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
       "specifications": {
-        "control_method": "Bluetooth, Mobile app",
-        "type": "Dual slope transmitter",
-        "colors_available": "More than 10 colors (e.g., Red, Yellow, Teal)",
-        "model_number": "IND-2501"
+        "Brand": "S3 Technics",
+        "Type": "Laser Land Leveler",
+        "Color": "Yellow",
+        "Origin": "India"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DXZLapkkxix/",
+      "photo_urls": [
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=Hj_xhfo0rr0Q7kNvwEGBpkf&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6UVDmyFydoxOWtQ0T9o03IYRd9Ddpvlx-1OL0Lnk9mrA&oe=6A00CEAF&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=Hj_xhfo0rr0Q7kNvwEGBpkf&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6UVDmyFydoxOWtQ0T9o03IYRd9Ddpvlx-1OL0Lnk9mrA&oe=6A00CEAF&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=Hj_xhfo0rr0Q7kNvwEGBpkf&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6UVDmyFydoxOWtQ0T9o03IYRd9Ddpvlx-1OL0Lnk9mrA&oe=6A00CEAF&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DXZLapkkxix/",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=Hj_xhfo0rr0Q7kNvwEGBpkf&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6UVDmyFydoxOWtQ0T9o03IYRd9Ddpvlx-1OL0Lnk9mrA&oe=6A00CEAF&_nc_sid=8b3546",
+        "caption": "Happy customer for 8 years!\n#kisanlife👳‍♂️🌾किसान🌾 #laserlevel #s3technics #madeinindia",
+        "posted_at": "2026-04-21T12:18:10.000Z",
+        "likes": 25,
+        "views": 34452
+      }
+    },
+    {
+      "fingerprint": "35e11fe688b7",
+      "raw_name": "SST Technics Complete Laser System",
+      "clean_name": "SST Technics Complete Laser System",
+      "product_category": "Agricultural Machinery",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A complete laser leveling system by SST Technics, featuring an S3 Technic Bluetooth Laser Leveler, an LSR 360 receiver, and a Laser Santal control box. This system is designed for precision land leveling in agricultural applications.",
+      "seo_title": "SST Technics Complete Laser System",
+      "alt_text": "SST Technics Complete Laser System",
+      "tags": [
+        "agritech",
+        "laserlandleveler",
+        "kisan",
+        "rotavator",
+        "SST Technics",
+        "S3 Technic",
+        "Bluetooth Laser Leveler",
+        "LSR 360",
+        "Laser Santal",
+        "land leveling system"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "System Type": "Complete Laser System",
+        "Leveler Model": "S3 Technic Bluetooth Laser Leveler",
+        "Receiver Model": "LSR 360",
+        "Control Box Model": "Laser Santal",
+        "Connectivity": "Bluetooth"
       },
       "b2b_attributes": {},
       "classification_confidence": 1,
@@ -611,48 +564,97 @@
       "sources": [
         "instagram"
       ],
-      "source_url": "https://www.instagram.com/p/DW5NPnak0zH/",
+      "source_url": "https://www.instagram.com/p/DW6GmqhjY-q/",
       "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=7OsotuKMwqkQ7kNvwHHDcZN&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af5m8QoaPFs09NFYR5vPhTZ52ziO83LdKVVahZg3qi9rtA&oe=6A00BA7B&_nc_sid=8b3546"
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=z5yUq2HefC8Q7kNvwE9yUjO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5q1mkIvdXfVde2X8r672yCw-OGudSkOH3ZNTDyrTPbaA&oe=6A00EFB3&_nc_sid=8b3546"
       ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=7OsotuKMwqkQ7kNvwHHDcZN&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af5m8QoaPFs09NFYR5vPhTZ52ziO83LdKVVahZg3qi9rtA&oe=6A00BA7B&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=7OsotuKMwqkQ7kNvwHHDcZN&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af5m8QoaPFs09NFYR5vPhTZ52ziO83LdKVVahZg3qi9rtA&oe=6A00BA7B&_nc_sid=8b3546",
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=z5yUq2HefC8Q7kNvwE9yUjO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5q1mkIvdXfVde2X8r672yCw-OGudSkOH3ZNTDyrTPbaA&oe=6A00EFB3&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=z5yUq2HefC8Q7kNvwE9yUjO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5q1mkIvdXfVde2X8r672yCw-OGudSkOH3ZNTDyrTPbaA&oe=6A00EFB3&_nc_sid=8b3546",
       "used_vision": true,
       "social_source": {
         "platform": "instagram",
-        "post_url": "https://www.instagram.com/p/DW5NPnak0zH/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=7OsotuKMwqkQ7kNvwHHDcZN&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af5m8QoaPFs09NFYR5vPhTZ52ziO83LdKVVahZg3qi9rtA&oe=6A00BA7B&_nc_sid=8b3546",
-        "caption": "A new tech in the market - Bluetooth Laser Transmitter controlled by your phone.\n#techinnovation #agriculture #laserlandleveler #s3technics #farmer",
-        "posted_at": "2026-04-09T02:17:51.000Z",
-        "likes": 15,
+        "post_url": "https://www.instagram.com/p/DW6GmqhjY-q/",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=z5yUq2HefC8Q7kNvwE9yUjO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5q1mkIvdXfVde2X8r672yCw-OGudSkOH3ZNTDyrTPbaA&oe=6A00EFB3&_nc_sid=8b3546",
+        "caption": "#agritech #laserlandleveler #kisan #rotavator",
+        "posted_at": "2026-04-09T10:40:02.000Z",
+        "likes": 18,
+        "views": 136
+      }
+    },
+    {
+      "fingerprint": "fa5555ab79a8",
+      "raw_name": "S3 Laser Leveller",
+      "clean_name": "S3 Laser Leveller",
+      "product_category": "Agricultural Machinery",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The S3 Laser Leveller is an agricultural machinery product designed for land levelling, presented as a complete kit in a protective case. It includes the main leveller unit, a receiver, and other components. A key feature highlighted is its availability in 12 different colors.",
+      "seo_title": "S3 Laser Leveller",
+      "alt_text": "S3 Laser Leveller",
+      "tags": [
+        "Laser land leveller",
+        "laser leveller",
+        "agritech",
+        "farm technology",
+        "make in India",
+        "made in India",
+        "computermanjha"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "color_options": "12 colors"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DVt5vTfEzyP/",
+      "photo_urls": [
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=MItah4q8RGoQ7kNvwGtnuVm&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af6RqosMe4P5cr4-9WElyeJrysAN7ErjoiGVVSkyZtTDjg&oe=6A0101E5&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=MItah4q8RGoQ7kNvwGtnuVm&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af6RqosMe4P5cr4-9WElyeJrysAN7ErjoiGVVSkyZtTDjg&oe=6A0101E5&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=MItah4q8RGoQ7kNvwGtnuVm&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af6RqosMe4P5cr4-9WElyeJrysAN7ErjoiGVVSkyZtTDjg&oe=6A0101E5&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DVt5vTfEzyP/",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=MItah4q8RGoQ7kNvwGtnuVm&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af6RqosMe4P5cr4-9WElyeJrysAN7ErjoiGVVSkyZtTDjg&oe=6A0101E5&_nc_sid=8b3546",
+        "caption": "12 colors of @pentonicdrivenbydesign , 12 colors of S3 Laser Levellers! \nGet in touch to get your favourite color.\n.\n.\n.\n.\n.\n.\n.\n[Laser land leveller, laser leveller, agritech, farm technology, make in India, made in India]\n#computermanjha",
+        "posted_at": "2026-03-10T20:24:22.000Z",
+        "likes": 20,
         "views": null
       }
     },
     {
       "fingerprint": "ba96d3918c95",
-      "raw_name": "S3 Technic laser leveler (Sports model)",
-      "clean_name": "S3 Technic laser leveler (Sports model)",
+      "raw_name": "S3 Technic Laser Leveler (Sports Model)",
+      "clean_name": "S3 Technic Laser Leveler (Sports Model)",
       "product_category": "Agricultural Machinery",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "A bright yellow agricultural laser leveler, identified as the 'Sports model', designed for precision land leveling. It features multiple wheels and hydraulic components, and is promoted as 'simply the best in class'.",
-      "seo_title": "S3 Technic laser leveler (Sports model)",
-      "alt_text": "S3 Technic laser leveler (Sports model)",
+      "description": "A yellow S3 Technic laser leveler, identified as the 'Sports model', designed for precision land leveling in agricultural fields. The manufacturer claims it is 'simply the best in class'.",
+      "seo_title": "S3 Technic Laser Leveler (Sports Model)",
+      "alt_text": "S3 Technic Laser Leveler (Sports Model)",
       "tags": [
         "agricultural machinery",
         "laser leveler",
         "farm equipment",
         "S3 Technic",
-        "land leveling",
-        "sports model"
+        "land leveling"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
       "specifications": {
         "Brand": "S3 Technic",
-        "Type": "Laser leveler",
+        "Type": "Laser Leveler",
         "Model": "Sports model"
       },
       "b2b_attributes": {},
@@ -664,15 +666,15 @@
       ],
       "source_url": "https://www.instagram.com/p/DVEZAtjk1Q-/",
       "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=TTh8kTWQaKkQ7kNvwEzhPq8&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af7PwIh8AmwCZi1cQw0OAnNz3JC8oPxqSKhrXIK-RF9o2A&oe=6A00E23A&_nc_sid=8b3546"
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=TTh8kTWQaKkQ7kNvwEJfOdO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af69MxPSCyzv8hWX6Pabp0L9c1M0JAAQ8zXPlph_GZDFuQ&oe=6A00E23A&_nc_sid=8b3546"
       ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=TTh8kTWQaKkQ7kNvwEzhPq8&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af7PwIh8AmwCZi1cQw0OAnNz3JC8oPxqSKhrXIK-RF9o2A&oe=6A00E23A&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=TTh8kTWQaKkQ7kNvwEzhPq8&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af7PwIh8AmwCZi1cQw0OAnNz3JC8oPxqSKhrXIK-RF9o2A&oe=6A00E23A&_nc_sid=8b3546",
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=TTh8kTWQaKkQ7kNvwEJfOdO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af69MxPSCyzv8hWX6Pabp0L9c1M0JAAQ8zXPlph_GZDFuQ&oe=6A00E23A&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=TTh8kTWQaKkQ7kNvwEJfOdO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af69MxPSCyzv8hWX6Pabp0L9c1M0JAAQ8zXPlph_GZDFuQ&oe=6A00E23A&_nc_sid=8b3546",
       "used_vision": true,
       "social_source": {
         "platform": "instagram",
         "post_url": "https://www.instagram.com/p/DVEZAtjk1Q-/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=TTh8kTWQaKkQ7kNvwEzhPq8&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af7PwIh8AmwCZi1cQw0OAnNz3JC8oPxqSKhrXIK-RF9o2A&oe=6A00E23A&_nc_sid=8b3546",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=TTh8kTWQaKkQ7kNvwEJfOdO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af69MxPSCyzv8hWX6Pabp0L9c1M0JAAQ8zXPlph_GZDFuQ&oe=6A00E23A&_nc_sid=8b3546",
         "caption": "S3 Technic laser leveler - simply the best in class!",
         "posted_at": "2026-02-22T17:29:32.000Z",
         "likes": 18,
@@ -680,177 +682,127 @@
       }
     },
     {
-      "fingerprint": "6ef26dc5b7e4",
-      "raw_name": "Laser Land Leveller",
-      "clean_name": "Laser Land Leveller",
+      "fingerprint": "aa99249dac41",
+      "raw_name": "Bluetooth Laser Land Leveller",
+      "clean_name": "Bluetooth Laser Land Leveller",
       "product_category": "Agricultural Machinery",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "A Laser Land Leveller is an advanced piece of agricultural machinery designed for precise land leveling, which is crucial for efficient irrigation and improved crop yields, especially beneficial for farmers in regions like Haryana. It aligns with the 'Make in India' initiative.",
-      "seo_title": "Laser Land Leveller",
-      "alt_text": "Laser Land Leveller",
+      "description": "This is a Bluetooth-enabled laser land leveller, controlled via a smartphone application. The app displays X and Y slope percentages and allows control over motor, power, and slope settings for precise land leveling.",
+      "seo_title": "Bluetooth Laser Land Leveller",
+      "alt_text": "Bluetooth Laser Land Leveller",
       "tags": [
-        "upkisan",
         "agritech",
-        "makeinindia",
         "laserlandleveller",
-        "Haryanafarmers"
+        "adhunikkrishi",
+        "Bluetooth",
+        "land leveling"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
-      "specifications": {},
+      "specifications": {
+        "Connectivity": "Bluetooth",
+        "Control Interface": "Smartphone App",
+        "Display Parameters": "X-axis slope, Y-axis slope",
+        "Slope X (current)": "3.04%",
+        "Slope Y (current)": "-0.07%"
+      },
       "b2b_attributes": {},
-      "classification_confidence": 0.9,
+      "classification_confidence": 1,
       "extraction_confidence": 0.65,
       "source": "instagram",
       "sources": [
         "instagram"
       ],
-      "source_url": "https://www.instagram.com/p/DVLCOqVk4BQ/",
+      "source_url": "https://www.instagram.com/p/DVEC5FfE_g8/",
       "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/640049922_18044750570738639_7711419078190309663_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=kfrDG7gB2CEQ7kNvwFb5AFF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6dta4RtYiXwV1lVW_kc38QWOn1nwTbe2KV3dgN2ti6Ag&oe=6A00B79F&_nc_sid=8b3546"
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.71878-15/639762631_4312018135754206_1002770943409642136_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=BxfMMCkkEE4Q7kNvwGQHiN5&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5L7mwh4KBKLalUmyLSuoC7z4TXpLI2OOh4RtgkQtV_Aw&oe=6A00F31A&_nc_sid=8b3546"
       ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/640049922_18044750570738639_7711419078190309663_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=kfrDG7gB2CEQ7kNvwFb5AFF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6dta4RtYiXwV1lVW_kc38QWOn1nwTbe2KV3dgN2ti6Ag&oe=6A00B79F&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/640049922_18044750570738639_7711419078190309663_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=kfrDG7gB2CEQ7kNvwFb5AFF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6dta4RtYiXwV1lVW_kc38QWOn1nwTbe2KV3dgN2ti6Ag&oe=6A00B79F&_nc_sid=8b3546",
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.71878-15/639762631_4312018135754206_1002770943409642136_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=BxfMMCkkEE4Q7kNvwGQHiN5&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5L7mwh4KBKLalUmyLSuoC7z4TXpLI2OOh4RtgkQtV_Aw&oe=6A00F31A&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.71878-15/639762631_4312018135754206_1002770943409642136_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=BxfMMCkkEE4Q7kNvwGQHiN5&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5L7mwh4KBKLalUmyLSuoC7z4TXpLI2OOh4RtgkQtV_Aw&oe=6A00F31A&_nc_sid=8b3546",
       "used_vision": true,
       "social_source": {
         "platform": "instagram",
-        "post_url": "https://www.instagram.com/p/DVLCOqVk4BQ/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/640049922_18044750570738639_7711419078190309663_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=kfrDG7gB2CEQ7kNvwFb5AFF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6dta4RtYiXwV1lVW_kc38QWOn1nwTbe2KV3dgN2ti6Ag&oe=6A00B79F&_nc_sid=8b3546",
-        "caption": "#upkisan #agritech #makeinindia #laserlandleveller #Haryanafarmers",
-        "posted_at": "2026-02-25T07:26:49.000Z",
-        "likes": 24,
-        "views": 171
+        "post_url": "https://www.instagram.com/p/DVEC5FfE_g8/",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.71878-15/639762631_4312018135754206_1002770943409642136_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=BxfMMCkkEE4Q7kNvwGQHiN5&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5L7mwh4KBKLalUmyLSuoC7z4TXpLI2OOh4RtgkQtV_Aw&oe=6A00F31A&_nc_sid=8b3546",
+        "caption": "#agritech  #laserlandleveller  #Haryanafarmers #upkisan #adhunikkrishi\n\n@connectagrosolutions\n\nInterested in the laser leveler? Contact 9999539583.",
+        "posted_at": "2026-02-22T14:26:17.000Z",
+        "likes": 13,
+        "views": 979
       }
     },
     {
-      "fingerprint": "e71af786e877",
-      "raw_name": "Fully Automatic Perfume Pump tube fitting machine",
-      "clean_name": "Fully Automatic Perfume Pump tube fitting machine",
-      "product_category": "Industrial Machine",
-      "product_sub_type": null,
-      "top_level_domain": null,
-      "industry_segment": null,
-      "description": "This fully automatic machine is designed for fitting perfume pump tubes, capable of producing up to 90 pieces per minute. Its compact design optimizes output while minimizing the required shop floor space.",
-      "seo_title": "Fully Automatic Perfume Pump tube fitting machine",
-      "alt_text": "Fully Automatic Perfume Pump tube fitting machine",
-      "tags": [
-        "perfume",
-        "diptube",
-        "automation",
-        "spm",
-        "s3",
-        "perfumepump",
-        "assembly",
-        "machine",
-        "industry",
-        "pump",
-        "makeinindia",
-        "madeinindia",
-        "vocalforlocal"
-      ],
-      "price_single": null,
-      "price_text": null,
-      "currency": "INR",
-      "specifications": {
-        "Output": "upto 90 pieces per minute",
-        "Design": "Compact",
-        "Feeder": "Vibratory Bowl Feeder to align pumps in correct orientation and minimise human effort",
-        "Tube Length": "Adjustable",
-        "Interface": "HMI to show and set production count",
-        "Automation": "PLC based automation"
-      },
-      "b2b_attributes": {},
-      "classification_confidence": 1,
-      "extraction_confidence": 0.65,
-      "source": "youtube",
-      "sources": [
-        "youtube"
-      ],
-      "source_url": "https://www.youtube.com/watch?v=qyLhRL0M24o",
-      "photo_urls": [
-        "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg"
-      ],
-      "primary_photo_url": "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg",
-      "media_url": "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg",
-      "used_vision": true,
-      "social_source": {
-        "platform": "youtube",
-        "post_url": "https://www.youtube.com/watch?v=qyLhRL0M24o",
-        "thumbnail_url": "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg",
-        "caption": "A Fully Automatic Perfume Pump tube fitting machine designed to output upto 90 pieces per minute. A compact design ensures maximum output with minimum space on your shopfloor. \n\nMain Features:\n• Vibratory Bowl Feeder to align pumps in correct orientation and minimise human effort \n• Adjustable tube length\n• HMI to show and set production count\n• PLC based automation\n \n#perfume #diptube #automation #spm #s3 #perfumepump #assembly #machine #industry #pump #makeinindia #madeinindia #vocalforlocal",
-        "posted_at": "2024-07-04T07:22:27.000Z",
-        "likes": null,
-        "views": 191
-      }
-    },
-    {
-      "fingerprint": "1ce2ee4cf53c",
-      "raw_name": "S3T Laser Guided Land Leveller (Laser Samtal)",
-      "clean_name": "S3T Laser Guided Land Leveller (Laser Samtal)",
+      "fingerprint": "57dc3f827f12",
+      "raw_name": "S3 laser land leveller",
+      "clean_name": "S3 laser land leveller",
       "product_category": "Agricultural Machinery",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "The S3T Laser Guided Land Leveller is a precision land levelling equipment manufactured in India. It uses an electronically levelled rotating laser plane as a reference, along with a laser receiver, control box, and hydraulic system. This setup ensures the scraper blade edge remains parallel to a perfectly levelled laser plane for accurate land preparation.",
-      "seo_title": "S3T Laser Guided Land Leveller (Laser Samtal)",
-      "alt_text": "S3T Laser Guided Land Leveller (Laser Samtal)",
+      "description": "The S3 laser land leveller is an agricultural machine designed for precise land leveling. It now features a new dual-axis slope setting, which can be controlled conveniently via a mobile phone app, enhancing ease of use and accuracy for farmers.",
+      "seo_title": "S3 laser land leveller",
+      "alt_text": "S3 laser land leveller",
       "tags": [
-        "Laser Guided",
-        "Land Leveller",
-        "Agricultural Machinery",
-        "Made in India",
-        "Precision Farming",
-        "S3T",
-        "Laser Samtal"
+        "laser land leveller",
+        "agritech",
+        "app design",
+        "mobile app",
+        "computermanjha",
+        "computergodi",
+        "s3",
+        "farmech",
+        "make in india",
+        "made in india",
+        "digital india",
+        "land leveling",
+        "laser land leveling",
+        "agriculture",
+        "farmer",
+        "digital farming"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
       "specifications": {
-        "guidance_system": "Laser Guided",
-        "manufacturing_origin": "Made in India",
-        "components": "Laser receiver, control box, hydraulic system, scraper blade",
-        "laser_transmitter_model": "LSR 360",
-        "control_box_model": "S3 Technics Laser Samtal Control Box LSCB S. NO. 012106"
+        "Feature": "Dual axis slope setting via mobile phone app"
       },
       "b2b_attributes": {},
       "classification_confidence": 1,
       "extraction_confidence": 0.65,
-      "source": "youtube",
+      "source": "instagram",
       "sources": [
-        "youtube"
+        "instagram"
       ],
-      "source_url": "https://www.youtube.com/watch?v=zLtA3_OJudc",
+      "source_url": "https://www.instagram.com/p/DJCQAcahwnx/",
       "photo_urls": [
-        "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg"
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=603b_mx2u_wQ7kNvwEfzghj&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Xoadv_Sj-IAR0w6gjm3aJ6yww-Y3CG7h4gyH4M9mhRA&oe=6A00EE3C&_nc_sid=8b3546"
       ],
-      "primary_photo_url": "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg",
-      "media_url": "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg",
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=603b_mx2u_wQ7kNvwEfzghj&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Xoadv_Sj-IAR0w6gjm3aJ6yww-Y3CG7h4gyH4M9mhRA&oe=6A00EE3C&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=603b_mx2u_wQ7kNvwEfzghj&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Xoadv_Sj-IAR0w6gjm3aJ6yww-Y3CG7h4gyH4M9mhRA&oe=6A00EE3C&_nc_sid=8b3546",
       "used_vision": true,
       "social_source": {
-        "platform": "youtube",
-        "post_url": "https://www.youtube.com/watch?v=zLtA3_OJudc",
-        "thumbnail_url": "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg",
-        "caption": "Presenting the S3T manufactured Laser Guided Land Leveller. Our equipment is made in India ensuring highest quality and seamless after sales support. Check out more details on our website www.s3technics.com\n\nLaser Land Leveller (also called Laser Samtal) is precision land levelling equipment. It utilizes an electronically levelled rotating laser plane as reference with laser receiver, control box and hydraulic system to maintain the scraper blade edge parallel to a perfectly levelled laser plane, thereby filling the tractor driven bucket with soil from high spots and releasing that soil to low spots of the field.\n\nLand Levelling has multiple benefits, the prime among them being reduced use of water and better yield of crop. A Laser guided land leveler ensures precision leveling  upto 4mm. \n\n#laserlandleveler #lasersamtal #laserleveller #laserleveler #computermanjha #laserlevel #agritech #agriculture #haryana #punjab #andhrapradesh \n\nAudio Credits: Zurna (Instrumental) by Sapajou | https://soundcloud.com/sapajoubeats\nCreative Commons Attribution 3.0 Unported License\nhttps://creativecommons.org/licenses/by/3.0/deed.en_US\nMusic promoted by https://www.chosic.com/free-music/all/",
-        "posted_at": "2023-02-11T09:50:40.000Z",
-        "likes": 20,
-        "views": 1411
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DJCQAcahwnx/",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=603b_mx2u_wQ7kNvwEfzghj&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Xoadv_Sj-IAR0w6gjm3aJ6yww-Y3CG7h4gyH4M9mhRA&oe=6A00EE3C&_nc_sid=8b3546",
+        "caption": "For the first time ever! Dual axis slope setting via mobile phone app. Only with S3 laser land leveller. \nContact us on 9999539583 for more information. \n.\n.\n.\n.\n.\n#laserlandleveller #agritech #appdesign #mobileapp #computermanjha #laserlandleveller #computergodi #s3 #farmech #makeinindia #madeinindia #digitalindia #landleveling #laserlandleveling #agriculture #farmer #digitalfarming",
+        "posted_at": "2025-04-29T15:22:43.000Z",
+        "likes": 25,
+        "views": 120
       }
     },
     {
-      "fingerprint": "c1ee0c295917",
-      "raw_name": "Automatic Machine for Moulding and Assembly of Lamp Bases",
-      "clean_name": "Automatic Machine for Moulding and Assembly of Lamp Bases",
-      "product_category": "Industrial Automation Machine",
+      "fingerprint": "8e5f5053d4e3",
+      "raw_name": "Fully automatic machine for moulding and assembly of lamp bases",
+      "clean_name": "Fully automatic machine for moulding and assembly of lamp bases",
+      "product_category": "Manufacturing Automation Machine",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "A fully automatic machine designed for the moulding and assembly of lamp bases. It features 60 stations, individual heaters, and 100% component presence checking, ensuring high-quality output and fault rejection.",
-      "seo_title": "Automatic Machine for Moulding and Assembly of Lamp Bases",
-      "alt_text": "Automatic Machine for Moulding and Assembly of Lamp Bases",
+      "description": "This fully automatic industrial machine is designed for the moulding and assembly of lamp bases. It features 60 stations, individual heaters with fault indication, and performs 100% component presence checking before moulding. The machine also includes rejection of faulty manufactured pieces and is operated via PLC & HMI.",
+      "seo_title": "Fully automatic machine for moulding and assembly of lamp bases",
+      "alt_text": "Fully automatic machine for moulding and assembly of lamp bases",
       "tags": [
         "assembly",
         "manufacturing",
@@ -871,10 +823,10 @@
       "specifications": {
         "Stations": "60",
         "Rejection of faulty manufactured pieces": "Yes",
-        "Individual Heaters for each station": "Yes, with fault indication",
-        "Component presence checking before moulding": "100%",
+        "Individual Heaters": "Yes, for each station with fault indication",
+        "Component presence checking": "100% before moulding",
         "Output": "35-40 pcs / minute",
-        "Machine operation": "PLC & HMI"
+        "Control System": "PLC & HMI"
       },
       "b2b_attributes": {},
       "classification_confidence": 1,
@@ -908,7 +860,7 @@
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "The S3 Laser Transmitter LST 600 is an agricultural laser levelling device, presented with a new seasonal look. It features mobile app control for precise land levelling, displaying X and Y slope percentages. This product is proudly Made in India.",
+      "description": "This is the S3 Laser Transmitter LST 600, an agricultural laser levelling device, showcasing its new design for the season. It features mobile app control for precise land levelling and is manufactured in India.",
       "seo_title": "S3 Laser Transmitter LST 600",
       "alt_text": "S3 Laser Transmitter LST 600",
       "tags": [
@@ -924,14 +876,14 @@
       "price_text": null,
       "currency": "INR",
       "specifications": {
-        "Model": "LST 600",
-        "Control Method": "Mobile App",
-        "Function": "Laser Land Levelling",
-        "Manufacturing Origin": "India",
-        "Type": "Rotary Laser"
+        "model": "LST 600",
+        "brand": "S3 Technics",
+        "features": "Mobile App Control, Rotary Laser, Laser Land Levelling",
+        "origin": "Made in India",
+        "app_control_parameters": "X-axis slope, Y-axis slope"
       },
       "b2b_attributes": {},
-      "classification_confidence": 0.95,
+      "classification_confidence": 1,
       "extraction_confidence": 0.65,
       "source": "instagram",
       "sources": [
@@ -939,15 +891,15 @@
       ],
       "source_url": "https://www.instagram.com/p/DTY0bw-E4h3/",
       "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=ROYX3z4rXz0Q7kNvwFtGq1n&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af72pNLgCgxXsIg9btLUlV03LWYKHZNI8ys4NVfT0TUKPQ&oe=6A00AFC5&_nc_sid=8b3546"
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=ROYX3z4rXz0Q7kNvwEaHt3j&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af5lpcv6nWJP8HQe2gjv-n-FvKYgIXGb7rJaYkS_jFggqQ&oe=6A00E805&_nc_sid=8b3546"
       ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=ROYX3z4rXz0Q7kNvwFtGq1n&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af72pNLgCgxXsIg9btLUlV03LWYKHZNI8ys4NVfT0TUKPQ&oe=6A00AFC5&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=ROYX3z4rXz0Q7kNvwFtGq1n&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af72pNLgCgxXsIg9btLUlV03LWYKHZNI8ys4NVfT0TUKPQ&oe=6A00AFC5&_nc_sid=8b3546",
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=ROYX3z4rXz0Q7kNvwEaHt3j&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af5lpcv6nWJP8HQe2gjv-n-FvKYgIXGb7rJaYkS_jFggqQ&oe=6A00E805&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=ROYX3z4rXz0Q7kNvwEaHt3j&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af5lpcv6nWJP8HQe2gjv-n-FvKYgIXGb7rJaYkS_jFggqQ&oe=6A00E805&_nc_sid=8b3546",
       "used_vision": true,
       "social_source": {
         "platform": "instagram",
         "post_url": "https://www.instagram.com/p/DTY0bw-E4h3/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=ROYX3z4rXz0Q7kNvwFtGq1n&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af72pNLgCgxXsIg9btLUlV03LWYKHZNI8ys4NVfT0TUKPQ&oe=6A00AFC5&_nc_sid=8b3546",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=ROYX3z4rXz0Q7kNvwEaHt3j&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af5lpcv6nWJP8HQe2gjv-n-FvKYgIXGb7rJaYkS_jFggqQ&oe=6A00E805&_nc_sid=8b3546",
         "caption": "New look for the S3 Laser Transmitter this season! \n.\n.\n.\n.\n.\n.\n.\n.\n.\n{laser leveller, agritech, farm mechanization, made in india, make in india, laser land leveller, rotary laser}",
         "posted_at": "2026-01-11T22:51:08.000Z",
         "likes": 14,
@@ -955,136 +907,21 @@
       }
     },
     {
-      "fingerprint": "9d9db1bf9bc7",
-      "raw_name": "New Laser Transmitter",
-      "clean_name": "New Laser Transmitter",
-      "product_category": "Agritech Device",
-      "product_sub_type": null,
-      "top_level_domain": null,
-      "industry_segment": null,
-      "description": "Launching this season, this new and stylish laser transmitter provides an accurate laser plane with stability. It features a mobile app for convenient slope setting.",
-      "seo_title": "New Laser Transmitter",
-      "alt_text": "New Laser Transmitter",
-      "tags": [
-        "s3system",
-        "Laser Transmitter",
-        "laser land leveler",
-        "agritech",
-        "made in india",
-        "make in india"
-      ],
-      "price_single": null,
-      "price_text": null,
-      "currency": "INR",
-      "specifications": {
-        "Control Method": "Mobile app for slope setting",
-        "Functionality": "Provides accurate laser plane",
-        "Design": "Stylish",
-        "Stability": "High",
-        "Model": "S3 Technic Laser Radial Transmitter"
-      },
-      "b2b_attributes": {},
-      "classification_confidence": 1,
-      "extraction_confidence": 0.65,
-      "source": "instagram",
-      "sources": [
-        "instagram"
-      ],
-      "source_url": "https://www.instagram.com/p/DTfBbr6k75n/",
-      "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=AA4G40Qr5y8Q7kNvwHP-1hS&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af4a7GmeJT_5kxuZpG1roa6Gf2H7nPBJ5Bn_xsCWJ2HG0A&oe=6A00BBB9&_nc_sid=8b3546"
-      ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=AA4G40Qr5y8Q7kNvwHP-1hS&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af4a7GmeJT_5kxuZpG1roa6Gf2H7nPBJ5Bn_xsCWJ2HG0A&oe=6A00BBB9&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=AA4G40Qr5y8Q7kNvwHP-1hS&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af4a7GmeJT_5kxuZpG1roa6Gf2H7nPBJ5Bn_xsCWJ2HG0A&oe=6A00BBB9&_nc_sid=8b3546",
-      "used_vision": true,
-      "social_source": {
-        "platform": "instagram",
-        "post_url": "https://www.instagram.com/p/DTfBbr6k75n/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=AA4G40Qr5y8Q7kNvwHP-1hS&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af4a7GmeJT_5kxuZpG1roa6Gf2H7nPBJ5Bn_xsCWJ2HG0A&oe=6A00BBB9&_nc_sid=8b3546",
-        "caption": "Launching this season. Ugrade your laser transmitter to the new and stylish one!\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#s3system\n[Laser Transmitter, laser land leveler, agritech, made in india, make in india]",
-        "posted_at": "2026-01-14T08:40:09.000Z",
-        "likes": 20,
-        "views": null
-      }
-    },
-    {
-      "fingerprint": "57dc3f827f12",
-      "raw_name": "S3 laser land leveller",
-      "clean_name": "S3 laser land leveller",
-      "product_category": "Agricultural Machinery",
-      "product_sub_type": null,
-      "top_level_domain": null,
-      "industry_segment": null,
-      "description": "The S3 laser land leveller is an advanced agricultural machine designed for precise land leveling. It introduces a new feature allowing dual-axis slope setting directly via a mobile phone app, enhancing control and efficiency for farmers.",
-      "seo_title": "S3 laser land leveller",
-      "alt_text": "S3 laser land leveller",
-      "tags": [
-        "laserlandleveller",
-        "agritech",
-        "appdesign",
-        "mobileapp",
-        "computermanjha",
-        "computergodi",
-        "s3",
-        "farmech",
-        "makeinindia",
-        "madeinindia",
-        "digitalindia",
-        "landleveling",
-        "laserlandleveling",
-        "agriculture",
-        "farmer",
-        "digitalfarming"
-      ],
-      "price_single": null,
-      "price_text": null,
-      "currency": "INR",
-      "specifications": {
-        "Model": "S3",
-        "Slope setting": "Dual axis",
-        "Control method": "Mobile phone app"
-      },
-      "b2b_attributes": {},
-      "classification_confidence": 1,
-      "extraction_confidence": 0.65,
-      "source": "instagram",
-      "sources": [
-        "instagram"
-      ],
-      "source_url": "https://www.instagram.com/p/DJCQAcahwnx/",
-      "photo_urls": [
-        "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=603b_mx2u_wQ7kNvwHwrw4R&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6VMRhKM9njWW7rgOcZf1RoTynAjP-GumkkrVSZcUUegQ&oe=6A00B5FC&_nc_sid=8b3546"
-      ],
-      "primary_photo_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=603b_mx2u_wQ7kNvwHwrw4R&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6VMRhKM9njWW7rgOcZf1RoTynAjP-GumkkrVSZcUUegQ&oe=6A00B5FC&_nc_sid=8b3546",
-      "media_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=603b_mx2u_wQ7kNvwHwrw4R&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6VMRhKM9njWW7rgOcZf1RoTynAjP-GumkkrVSZcUUegQ&oe=6A00B5FC&_nc_sid=8b3546",
-      "used_vision": true,
-      "social_source": {
-        "platform": "instagram",
-        "post_url": "https://www.instagram.com/p/DJCQAcahwnx/",
-        "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=603b_mx2u_wQ7kNvwHwrw4R&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6VMRhKM9njWW7rgOcZf1RoTynAjP-GumkkrVSZcUUegQ&oe=6A00B5FC&_nc_sid=8b3546",
-        "caption": "For the first time ever! Dual axis slope setting via mobile phone app. Only with S3 laser land leveller. \nContact us on 9999539583 for more information. \n.\n.\n.\n.\n.\n#laserlandleveller #agritech #appdesign #mobileapp #computermanjha #laserlandleveller #computergodi #s3 #farmech #makeinindia #madeinindia #digitalindia #landleveling #laserlandleveling #agriculture #farmer #digitalfarming",
-        "posted_at": "2025-04-29T15:22:43.000Z",
-        "likes": 25,
-        "views": 120
-      }
-    },
-    {
-      "fingerprint": "e2d1778153b0",
-      "raw_name": "Wire Winding Machine",
-      "clean_name": "Wire Winding Machine",
+      "fingerprint": "c2c667099328",
+      "raw_name": "Industrial Wire Winding Machine",
+      "clean_name": "Industrial Wire Winding Machine",
       "product_category": "Industrial Machinery",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "An industrial machine designed for winding or coiling wire, likely copper, onto large spools. The machine appears robust, featuring a motor and a winding mechanism, operating in a factory environment.",
-      "seo_title": "Wire Winding Machine",
-      "alt_text": "Wire Winding Machine",
+      "description": "This robust industrial machine is designed for winding large quantities of wire, likely copper, onto spools. It features a powerful motor and a sturdy frame, indicating its use in heavy-duty manufacturing or processing environments.",
+      "seo_title": "Industrial Wire Winding Machine",
+      "alt_text": "Industrial Wire Winding Machine",
       "tags": [
-        "wire winding",
-        "industrial equipment",
-        "manufacturing",
-        "copper wire",
-        "S3 Technics"
+        "Industrial Machine",
+        "Wire Winding",
+        "Manufacturing Equipment",
+        "Heavy Duty"
       ],
       "price_single": null,
       "price_text": null,
@@ -1115,72 +952,122 @@
       }
     },
     {
-      "fingerprint": "d1cd2b3692bb",
-      "raw_name": "Specialized Industrial Manufacturing Machine",
-      "clean_name": "Specialized Industrial Manufacturing Machine",
-      "product_category": "Industrial Manufacturing Equipment",
+      "fingerprint": "35e9cbc56e66",
+      "raw_name": "Industrial Punch Press Machine",
+      "clean_name": "Industrial Punch Press Machine",
+      "product_category": "Industrial Machinery",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "A robust industrial machine featuring intricate metal components, pneumatic cylinders, and specialized tooling, likely used for precision manufacturing processes such as bending, cutting, or forming materials. Its sturdy construction and detailed mechanisms suggest application in heavy-duty production environments.",
-      "seo_title": "Specialized Industrial Manufacturing Machine",
-      "alt_text": "Specialized Industrial Manufacturing Machine",
+      "description": "A large, green industrial punch press or power press machine is shown in operation, actively producing small metal components that are collected in a blue bin below. The machine features a prominent spinning flywheel.",
+      "seo_title": "Industrial Punch Press Machine",
+      "alt_text": "Industrial Punch Press Machine",
       "tags": [
         "industrial machine",
-        "manufacturing",
-        "metal fabrication",
-        "automation",
-        "S3 Technics"
+        "punch press",
+        "power press",
+        "metalworking",
+        "manufacturing equipment"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
-      "specifications": {
-        "Type": "Industrial Machine",
-        "Key Components": "Pneumatic cylinders, metal guides, specialized tooling",
-        "Material": "Heavy-duty metal construction"
-      },
+      "specifications": {},
       "b2b_attributes": {},
-      "classification_confidence": 0.85,
+      "classification_confidence": 1,
       "extraction_confidence": 0.65,
       "source": "youtube",
       "sources": [
         "youtube"
       ],
-      "source_url": "https://www.youtube.com/watch?v=J26OsZvHaww",
+      "source_url": "https://www.youtube.com/watch?v=kS5Dpal4-KM",
       "photo_urls": [
-        "https://i.ytimg.com/vi/J26OsZvHaww/maxresdefault.jpg"
+        "https://i.ytimg.com/vi/kS5Dpal4-KM/maxresdefault.jpg"
       ],
-      "primary_photo_url": "https://i.ytimg.com/vi/J26OsZvHaww/maxresdefault.jpg",
-      "media_url": "https://i.ytimg.com/vi/J26OsZvHaww/maxresdefault.jpg",
+      "primary_photo_url": "https://i.ytimg.com/vi/kS5Dpal4-KM/maxresdefault.jpg",
+      "media_url": "https://i.ytimg.com/vi/kS5Dpal4-KM/maxresdefault.jpg",
       "used_vision": true,
       "social_source": {
         "platform": "youtube",
-        "post_url": "https://www.youtube.com/watch?v=J26OsZvHaww",
-        "thumbnail_url": "https://i.ytimg.com/vi/J26OsZvHaww/maxresdefault.jpg",
+        "post_url": "https://www.youtube.com/watch?v=kS5Dpal4-KM",
+        "thumbnail_url": "https://i.ytimg.com/vi/kS5Dpal4-KM/maxresdefault.jpg",
         "caption": "Reach out to S3 Technics for more information:\n\nWebsite: https://www.s3technics.com\nEmail: s3technics@gmail.com\nPhone: +91 120 4253320\nAddress: F-118, Sector 8, NOIDA, Uttar Pradesh\nLinkedIn:   / s3-technics  ",
-        "posted_at": "2020-07-01T13:57:16.000Z",
-        "likes": 15,
-        "views": 1282
+        "posted_at": "2020-07-01T14:16:41.000Z",
+        "likes": 4,
+        "views": 818
       }
     },
     {
-      "fingerprint": "bf91ea768b40",
-      "raw_name": "Fully Automated Aerosol Pump and Tube Assembly Machine",
-      "clean_name": "Fully Automated Aerosol Pump and Tube Assembly Machine",
+      "fingerprint": "c3591f7ece0a",
+      "raw_name": "Laser Transmitter",
+      "clean_name": "Laser Transmitter",
+      "product_category": "Agritech Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This new and stylish Laser Transmitter from S3 Technic provides an accurate laser plane with enhanced stability. It features a mobile app for convenient slope setting, allowing users to precisely control X and Y axis percentages.",
+      "seo_title": "Laser Transmitter",
+      "alt_text": "Laser Transmitter",
+      "tags": [
+        "s3system",
+        "Laser Transmitter",
+        "laser land leveler",
+        "agritech",
+        "made in india",
+        "make in india"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Brand": "S3 Technic",
+        "Type": "Laser Transmitter",
+        "Key Feature": "Mobile app for slope setting",
+        "Performance": "Accurate laser plane, Stability",
+        "Design": "Stylish",
+        "Color": "Red and White"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DTfBbr6k75n/",
+      "photo_urls": [
+        "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=AA4G40Qr5y8Q7kNvwHLzyig&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af6CqKP5etYHWBe24909CLe0Ox9OQVyWHVKPv6bxwXRnjQ&oe=6A00F3F9&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=AA4G40Qr5y8Q7kNvwHLzyig&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af6CqKP5etYHWBe24909CLe0Ox9OQVyWHVKPv6bxwXRnjQ&oe=6A00F3F9&_nc_sid=8b3546",
+      "media_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=AA4G40Qr5y8Q7kNvwHLzyig&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af6CqKP5etYHWBe24909CLe0Ox9OQVyWHVKPv6bxwXRnjQ&oe=6A00F3F9&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DTfBbr6k75n/",
+        "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=AA4G40Qr5y8Q7kNvwHLzyig&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af6CqKP5etYHWBe24909CLe0Ox9OQVyWHVKPv6bxwXRnjQ&oe=6A00F3F9&_nc_sid=8b3546",
+        "caption": "Launching this season. Ugrade your laser transmitter to the new and stylish one!\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#s3system\n[Laser Transmitter, laser land leveler, agritech, made in india, make in india]",
+        "posted_at": "2026-01-14T08:40:09.000Z",
+        "likes": 20,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "2bc738c49161",
+      "raw_name": "Automated Aerosol Pump and Tube Assembly Machine",
+      "clean_name": "Automated Aerosol Pump and Tube Assembly Machine",
       "product_category": "Industrial Automation Equipment",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "This is a fully automated machine designed to assemble aerosol pumps and their compatible tubes. It requires minimal user input, only for filling the vibratory feeder with aerosol pumps and keeping the tube roll in the designated area. The entire assembly process is automated, including the vibratory feeder aligning pumps uniformly to prevent incorrect assembly.",
-      "seo_title": "Fully Automated Aerosol Pump and Tube Assembly Machine",
-      "alt_text": "Fully Automated Aerosol Pump and Tube Assembly Machine",
+      "description": "This fully automated machine is designed to assemble aerosol pumps and their compatible tubes. It minimizes user intervention, requiring only the filling of the vibratory feeder with pumps and placing the tube roll. The entire assembly process, including uniform pump alignment, is automated to ensure correct assembly.",
+      "seo_title": "Automated Aerosol Pump and Tube Assembly Machine",
+      "alt_text": "Automated Aerosol Pump and Tube Assembly Machine",
       "tags": [
         "automation",
         "assembly machine",
         "aerosol pump",
         "tube assembly",
-        "industrial machinery",
+        "manufacturing",
         "S3 Technics"
       ],
       "price_single": null,
@@ -1188,9 +1075,9 @@
       "currency": "INR",
       "specifications": {
         "Automation Level": "Fully Automated",
-        "User Input Required": "Fill vibratory feeder with aerosol pumps, keep tube roll in designated area",
-        "Assembly Process": "Fully automated, including vibratory feeder aligning pumps",
-        "Error Prevention": "Designed to avoid incorrect assembly"
+        "User Inputs": "Fill vibratory feeder with aerosol pumps, keep tube roll in designated area",
+        "Function": "Assemble aerosol pump and compatible tube",
+        "Alignment": "Vibratory feeder aligns pumps uniformly"
       },
       "b2b_attributes": {},
       "classification_confidence": 1,
@@ -1217,48 +1104,121 @@
       }
     },
     {
-      "fingerprint": "af9962ee1228",
-      "raw_name": "S3 Laser Leveller / Computer Manjha",
-      "clean_name": "S3 Laser Leveller / Computer Manjha",
-      "product_category": "Agricultural Machinery",
+      "fingerprint": "e71af786e877",
+      "raw_name": "Fully Automatic Perfume Pump tube fitting machine",
+      "clean_name": "Fully Automatic Perfume Pump tube fitting machine",
+      "product_category": "Industrial Assembly Machine",
       "product_sub_type": null,
       "top_level_domain": null,
       "industry_segment": null,
-      "description": "This post showcases the S3 Laser Leveller, also known as Computer Manjha, by S3 Technics. This agricultural machinery is designed for precision land leveling and is being exhibited at the Maghi Mela in Muktsar, Punjab.",
-      "seo_title": "S3 Laser Leveller / Computer Manjha",
-      "alt_text": "S3 Laser Leveller / Computer Manjha",
+      "description": "This is a compact, fully automatic machine designed for fitting tubes into perfume pumps. It features a vibratory bowl feeder for precise pump alignment, adjustable tube length, and HMI/PLC-based automation for efficient production control. It can produce up to 90 pieces per minute, optimizing space on the shop floor.",
+      "seo_title": "Fully Automatic Perfume Pump tube fitting machine",
+      "alt_text": "Fully Automatic Perfume Pump tube fitting machine",
       "tags": [
-        "laser",
-        "laserleveller",
-        "computermanjha",
-        "landleveling"
+        "perfume",
+        "diptube",
+        "automation",
+        "spm",
+        "s3",
+        "perfumepump",
+        "assembly",
+        "machine",
+        "industry",
+        "pump",
+        "makeinindia",
+        "madeinindia",
+        "vocalforlocal"
       ],
       "price_single": null,
       "price_text": null,
       "currency": "INR",
-      "specifications": {},
+      "specifications": {
+        "Output": "upto 90 pieces per minute",
+        "Design": "Compact design",
+        "Feeder Type": "Vibratory Bowl Feeder",
+        "Tube Length": "Adjustable",
+        "Control Interface": "HMI to show and set production count",
+        "Automation Type": "PLC based automation"
+      },
       "b2b_attributes": {},
-      "classification_confidence": 0.95,
+      "classification_confidence": 1,
       "extraction_confidence": 0.65,
       "source": "youtube",
       "sources": [
         "youtube"
       ],
-      "source_url": "https://www.youtube.com/shorts/eiyfSOeKOkQ",
+      "source_url": "https://www.youtube.com/watch?v=qyLhRL0M24o",
       "photo_urls": [
-        "https://i.ytimg.com/vi/eiyfSOeKOkQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBKKEowDw==&rs=AOn4CLBaGATrA7b-7eCDGc9Md7WfgWSs1w"
+        "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg"
       ],
-      "primary_photo_url": "https://i.ytimg.com/vi/eiyfSOeKOkQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBKKEowDw==&rs=AOn4CLBaGATrA7b-7eCDGc9Md7WfgWSs1w",
-      "media_url": "https://i.ytimg.com/vi/eiyfSOeKOkQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBKKEowDw==&rs=AOn4CLBaGATrA7b-7eCDGc9Md7WfgWSs1w",
+      "primary_photo_url": "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg",
+      "media_url": "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg",
       "used_vision": true,
       "social_source": {
         "platform": "youtube",
-        "post_url": "https://www.youtube.com/shorts/eiyfSOeKOkQ",
-        "thumbnail_url": "https://i.ytimg.com/vi/eiyfSOeKOkQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBKKEowDw==&rs=AOn4CLBaGATrA7b-7eCDGc9Md7WfgWSs1w",
-        "caption": "S3 at Maghi Mela, Muktsar! #maghimela #laser #laserleveller #computermanjha #landleveling #punjab",
-        "posted_at": "2025-01-13T07:02:01.000Z",
-        "likes": 12,
-        "views": 343
+        "post_url": "https://www.youtube.com/watch?v=qyLhRL0M24o",
+        "thumbnail_url": "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg",
+        "caption": "A Fully Automatic Perfume Pump tube fitting machine designed to output upto 90 pieces per minute. A compact design ensures maximum output with minimum space on your shopfloor. \n\nMain Features:\n• Vibratory Bowl Feeder to align pumps in correct orientation and minimise human effort \n• Adjustable tube length\n• HMI to show and set production count\n• PLC based automation\n \n#perfume #diptube #automation #spm #s3 #perfumepump #assembly #machine #industry #pump #makeinindia #madeinindia #vocalforlocal",
+        "posted_at": "2024-07-04T07:22:27.000Z",
+        "likes": null,
+        "views": 191
+      }
+    },
+    {
+      "fingerprint": "1ce2ee4cf53c",
+      "raw_name": "S3T Laser Guided Land Leveller (Laser Samtal)",
+      "clean_name": "S3T Laser Guided Land Leveller (Laser Samtal)",
+      "product_category": "Agricultural Machinery",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The S3T Laser Guided Land Leveller, also known as Laser Samtal, is a precision land levelling equipment. It utilizes an electronically levelled rotating laser plane as a reference, integrating a laser receiver, control box, and hydraulic system. This setup ensures the scraper blade edge remains parallel to a perfectly levelled laser plane for optimal land preparation.",
+      "seo_title": "S3T Laser Guided Land Leveller (Laser Samtal)",
+      "alt_text": "S3T Laser Guided Land Leveller (Laser Samtal)",
+      "tags": [
+        "Laser Guided Land Leveller",
+        "Laser Samtal",
+        "Agricultural machinery",
+        "Farm equipment",
+        "Land levelling",
+        "Precision agriculture",
+        "Made in India",
+        "S3T",
+        "S3 Technics"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Manufacturer": "S3T / S3 Technics",
+        "Made In": "India",
+        "Laser Transmitter Model": "LSR 360",
+        "Control Box Model": "S3 TECHNICS LASER SAMTAL",
+        "Control Box Serial No.": "LCSB S. NO. 012106",
+        "Key Components": "Laser receiver, control box, hydraulic system, scraper blade"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=zLtA3_OJudc",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg",
+      "media_url": "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=zLtA3_OJudc",
+        "thumbnail_url": "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg",
+        "caption": "Presenting the S3T manufactured Laser Guided Land Leveller. Our equipment is made in India ensuring highest quality and seamless after sales support. Check out more details on our website www.s3technics.com\n\nLaser Land Leveller (also called Laser Samtal) is precision land levelling equipment. It utilizes an electronically levelled rotating laser plane as reference with laser receiver, control box and hydraulic system to maintain the scraper blade edge parallel to a perfectly levelled laser plane, thereby filling the tractor driven bucket with soil from high spots and releasing that soil to low spots of the field.\n\nLand Levelling has multiple benefits, the prime among them being reduced use of water and better yield of crop. A Laser guided land leveler ensures precision leveling  upto 4mm. \n\n#laserlandleveler #lasersamtal #laserleveller #laserleveler #computermanjha #laserlevel #agritech #agriculture #haryana #punjab #andhrapradesh \n\nAudio Credits: Zurna (Instrumental) by Sapajou | https://soundcloud.com/sapajoubeats\nCreative Commons Attribution 3.0 Unported License\nhttps://creativecommons.org/licenses/by/3.0/deed.en_US\nMusic promoted by https://www.chosic.com/free-music/all/",
+        "posted_at": "2023-02-11T09:50:40.000Z",
+        "likes": 20,
+        "views": 1411
       }
     }
   ],
@@ -1268,38 +1228,38 @@
       "author": "Sripriya Singh",
       "rating": 5,
       "text": "efficient machine building and prompt after sales service for assembly machines and laser land leveller for agricultural purposes. High class technology adopted for design of laser guided  land levellers",
-      "original_lang": "en",
-      "date": "2019-01-30T07:43:08.466Z",
+      "original_lang": null,
+      "date": "2019-01-30T07:43:08Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "harsh kanojia",
       "rating": 5,
       "text": "Extremely satisfied with he service, we have had a relationship of over 5 years with s3 technics.always available on call, prompt response and quality services. Highly recommended.",
-      "original_lang": "en",
-      "date": "2021-04-30T18:05:17.155Z",
+      "original_lang": null,
+      "date": "2019-01-30T08:50:21Z",
       "likes": 0,
       "is_local_guide": true,
-      "owner_response": "Thank you sir."
+      "owner_response": null
     },
     {
       "author": "Max Yoo",
       "rating": 5,
       "text": "Amazing quality of equipment and services, their website is also outstandingly visible and crisp",
-      "original_lang": "en",
-      "date": "2019-05-31T02:21:26.875Z",
+      "original_lang": null,
+      "date": "2019-05-31T02:21:26Z",
       "likes": 1,
-      "is_local_guide": false,
-      "owner_response": "Thanks a lot for your kind review."
+      "is_local_guide": true,
+      "owner_response": null
     },
     {
       "author": "Jagdeep Singh",
       "rating": 5,
       "text": "Great Quality and prompt after sales support.",
-      "original_lang": "en",
-      "date": "2019-01-30T07:41:43.414Z",
+      "original_lang": null,
+      "date": "2019-01-30T07:41:43Z",
       "likes": 2,
       "is_local_guide": false,
       "owner_response": null
@@ -1308,20 +1268,20 @@
       "author": "anuj rana",
       "rating": 1,
       "text": "👍",
-      "original_lang": "en",
-      "date": "2021-05-19T16:01:11.657Z",
+      "original_lang": null,
+      "date": "2021-04-30T16:20:17Z",
       "likes": 0,
-      "is_local_guide": false,
-      "owner_response": "Dear Anuj!\nIt is unfortunate to see your review after 2 years of tireless service from our side, despite accidental damages from your end. As iterated before, we will be unable to serve rowdy customers.\nHave a pleasant day ahead and stay safe :)"
+      "is_local_guide": true,
+      "owner_response": null
     },
     {
       "author": "Prithviraj Oberoi",
       "rating": 5,
       "text": null,
       "original_lang": null,
-      "date": "2026-03-17T17:30:11.931Z",
+      "date": "2026-03-17T17:30:11Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
@@ -1329,9 +1289,9 @@
       "rating": 5,
       "text": null,
       "original_lang": null,
-      "date": "2025-12-20T09:33:03.058Z",
+      "date": "2025-12-20T09:33:03Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
@@ -1339,47 +1299,7 @@
       "rating": 5,
       "text": null,
       "original_lang": null,
-      "date": "2022-05-26T16:00:37.207Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": "Thank you 🙏"
-    },
-    {
-      "author": "KN Status Channel",
-      "rating": 1,
-      "text": null,
-      "original_lang": null,
-      "date": "2021-05-18T15:30:26.989Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": "Dear Reviewer,\nPlease let us know how can we help you!"
-    },
-    {
-      "author": "Sheetal Sharma",
-      "rating": 4,
-      "text": null,
-      "original_lang": null,
-      "date": "2020-08-26T12:58:51.929Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Priya Singh",
-      "rating": 5,
-      "text": null,
-      "original_lang": null,
-      "date": "2020-02-02T11:06:21.595Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Ibrahim Shabbir",
-      "rating": 5,
-      "text": null,
-      "original_lang": null,
-      "date": "2019-01-30T07:45:56.836Z",
+      "date": "2022-05-26T16:00:37Z",
       "likes": 0,
       "is_local_guide": true,
       "owner_response": null
@@ -1397,16 +1317,47 @@
     ],
     "reviews_url": "https://www.google.com/maps?cid=2651922506181066274"
   },
-  "overall_confidence": 0.36,
+  "overall_confidence": 0.37,
   "social_profiles": [
     {
       "platform": "facebook",
       "url": "https://facebook.com/s3technics",
-      "profile_pic_url": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/647118962_958498043417141_8748224132156128767_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=VFiy1-GfSWkQ7kNvwFpudoE&_nc_oc=AdpL0npRfE7PouSHx3i1zAeDPeFTNHh3j3hAmKMgF5CcfqgRJ2VLPeEIOqUF2riVTbk&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=22uJF8rB5lpDVgIcw1INtA&_nc_ss=72289&oh=00_Af78FkODZa3Fx_UQ7yJ2DFc_7Uncuz9n-cHFbm6MNlrubQ&oe=6A00E209",
-      "banner_url": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/486418851_682808797652735_6370634866654469448_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2a1932&_nc_ohc=eNLDoZSFbPQQ7kNvwFZMLNO&_nc_oc=AdqJWWkw_G1EvqvgHPT0Yk6PbNBEITMFYdUbnbTIXN6R-yqFR8r8mz1bqLsvelczX4s&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=pTOT9RgMD6Py2Mj0JiwzBg&_nc_ss=72289&oh=00_Af67d2AVVjJd5didVwk6Sn6j4M59UEu-jjCLsFd-gPLSLA&oe=6A00B449",
+      "profile_pic_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/647118962_958498043417141_8748224132156128767_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=VFiy1-GfSWkQ7kNvwFDynmB&_nc_oc=AdorxrobIF50qc9yruQfBhD14KjUE6UNXaRBX36IW4Vvpa07aQeaS_whI7IUWa3t_8g&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=SH_9FGGTvH1EmCEunHGyZQ&_nc_ss=72289&oh=00_Af4cY53vkSRmH0R1--IjUMcbyaz2kTABLD47FicksXqqFw&oe=6A00E209",
+      "banner_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/486418851_682808797652735_6370634866654469448_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2a1932&_nc_ohc=eNLDoZSFbPQQ7kNvwHv-3wR&_nc_oc=Ado3SZ-SPCC0Qu-A7Fk3VOQemR-aE371ESizRFmob8EgLdpKxNTFunbP5fYOV_7j6f4&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=fSPQ17P_mgAOwktpCoG5Mw&_nc_ss=72289&oh=00_Af5OOLzW7cEAmhz_KiJAAifiWLbCsCCWCdUozq1XjdF6Uw&oe=6A00EC89",
       "bio": "We are manufacturers of Special Purpose Machines and Laser Land Levellers with over 20 years of experience. We have also set up a production line to manufacture commutators for Mixer & Grinders to promote the vision of Make in India!",
       "followers_count": 216,
-      "posts": [],
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/s3technics/posts/pfbid02731qxpi8LeMz2fM36P1UoaGmdXYqRrB7yESuFNsRDRx6mA3G2GwbcbHHHdn1ceMpl",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=985562634044015&set=a.176199384980348",
+          "caption": "A new tech in the market - Bluetooth Laser Transmitter controlled by your phone.\n#techinnovation #agriculture #laserlandleveler #s3technics #farmer",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1775701083
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/2204430197028128/",
+          "thumbnail_url": "https://www.facebook.com/reel/2204430197028128/",
+          "caption": "#punjabagriculturaluniversity  #agritech #madeinindia #LaserLevel #agriculture",
+          "likes": 5,
+          "comments": null,
+          "views": null,
+          "posted_at": 1775243853
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/922275940518153/",
+          "thumbnail_url": "https://www.facebook.com/reel/922275940518153/",
+          "caption": "#agritech #laserlandleveller #madeinindia #agriculture #computergodi",
+          "likes": 2,
+          "comments": null,
+          "views": null,
+          "posted_at": 1775243512
+        }
+      ],
       "contacts_from_posts": [],
       "extra_profile": {
         "phone": "+91 88510 36472",
@@ -1419,17 +1370,17 @@
     {
       "platform": "instagram",
       "url": "https://instagram.com/s3technics",
-      "profile_pic_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-19/615969106_18040120700738639_2886384208933388536_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=PV5EO6w_1nUQ7kNvwHPcp-Z&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4kWHbSRf4VyOqkpkDeN10qPsLfEu1fDN27FgPRDP2-7Q&oe=6A00B1C1&_nc_sid=8b3546",
+      "profile_pic_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-19/615969106_18040120700738639_2886384208933388536_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=PV5EO6w_1nUQ7kNvwFXyeiF&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6v8u1-6s48dt6IqDgd1o7RSU1u389YPwiHr04VWyWjoA&oe=6A00EA01&_nc_sid=8b3546",
       "banner_url": null,
       "bio": "Manufacturers of Agricultural Laser Land Levellers, Commutators, Special purpose machines, Assembly Machines, Test Benches etc.",
-      "followers_count": 282,
+      "followers_count": 283,
       "following_count": 43,
       "posts_count": 36,
       "posts": [
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DXZLapkkxix/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=Hj_xhfo0rr0Q7kNvwERRQiP&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7fQjvaOn18sxxuSoGjnDQqzsSe148gGWpmcSLzsiBHmQ&oe=6A00CEAF&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/672971731_18052159103738639_2877235476577290629_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=Hj_xhfo0rr0Q7kNvwEGBpkf&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6UVDmyFydoxOWtQ0T9o03IYRd9Ddpvlx-1OL0Lnk9mrA&oe=6A00CEAF&_nc_sid=8b3546",
           "caption": "Happy customer for 8 years!\n#kisanlife👳‍♂️🌾किसान🌾 #laserlevel #s3technics #madeinindia",
           "likes": 25,
           "comments": 3,
@@ -1439,17 +1390,17 @@
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DW6GmqhjY-q/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=z5yUq2HefC8Q7kNvwG0lV0r&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7EumoUpErqwFm07dQyPRCPZqaE8FHdp5Rzm4Jjn9-hQw&oe=6A00B773&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/662530247_18050629949738639_2500806924437249001_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=z5yUq2HefC8Q7kNvwE9yUjO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5q1mkIvdXfVde2X8r672yCw-OGudSkOH3ZNTDyrTPbaA&oe=6A00EFB3&_nc_sid=8b3546",
           "caption": "#agritech #laserlandleveler #kisan #rotavator",
           "likes": 18,
           "comments": 2,
-          "views": 135,
+          "views": 136,
           "posted_at": "2026-04-09T10:40:02.000Z"
         },
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DW5NPnak0zH/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=7OsotuKMwqkQ7kNvwHHDcZN&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af5m8QoaPFs09NFYR5vPhTZ52ziO83LdKVVahZg3qi9rtA&oe=6A00BA7B&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/670172479_18050590283738639_684004786377036030_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=7OsotuKMwqkQ7kNvwGKO_ch&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg3MTE4MzYwMjQyMDIzOTU1OQ%3D%3D.3-ccb7-5&oh=00_Af7iQgHmJ2S__NDcYlhNpkdHW78PRsTmcHjpWNyu2WLIkA&oe=6A00F2BB&_nc_sid=8b3546",
           "caption": "A new tech in the market - Bluetooth Laser Transmitter controlled by your phone.\n#techinnovation #agriculture #laserlandleveler #s3technics #farmer",
           "likes": 15,
           "comments": 1,
@@ -1459,27 +1410,27 @@
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DWrk78hk-i4/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=_fsIZKu1FpgQ7kNvwFzc5hr&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6WbVD_ChjzZ0ekH80T3vRhF4VmunU128OYtpb2h4qdWw&oe=6A00BBBB&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/661666309_18050640173738639_6706732277217587862_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=_fsIZKu1FpgQ7kNvwFCSYOH&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5C0rrlc1KNlUQa9AWtf2KzZ9tykvdi73_O7ycB6YPtEg&oe=6A00F3FB&_nc_sid=8b3546",
           "caption": "#punjabagriculturaluniversity  #agritech #madeinindia",
           "likes": 44,
           "comments": 1,
-          "views": 227,
+          "views": 228,
           "posted_at": "2026-04-03T19:17:21.000Z"
         },
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DWrkEgeEypP/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=w6JkBBsTG0gQ7kNvwGlnOuF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7SyWFj7dOGN9n-XwjJm8dVGrdj1MbnFOMCoa3VFmc2Og&oe=6A00D5CE&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/658441893_18049949531738639_1461713969830137699_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=w6JkBBsTG0gQ7kNvwFmngc1&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NTm6UcNbSQq2SdPvcguvuO0Uz9gLcnrg7mZwYGxbbow&oe=6A00D5CE&_nc_sid=8b3546",
           "caption": "#agritech #laserlandleveller #madeinindia #agriculture #computergodi",
           "likes": 19,
           "comments": 1,
-          "views": 171,
+          "views": 172,
           "posted_at": "2026-04-03T19:11:38.000Z"
         },
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DVt5vTfEzyP/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=MItah4q8RGoQ7kNvwGbzDGc&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af4WKW5aYe0eXC5KywZDp_vemdi_mMhfrtZQpc9g3_szoA&oe=6A00C9A5&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/649229994_18046458692738639_5187357498533663536_n.heic?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=MItah4q8RGoQ7kNvwGtnuVm&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=Mzg0OTk4NzE5NTg2MDYzMDY3MQ%3D%3D.3-ccb7-5&oh=00_Af6RqosMe4P5cr4-9WElyeJrysAN7ErjoiGVVSkyZtTDjg&oe=6A0101E5&_nc_sid=8b3546",
           "caption": "12 colors of @pentonicdrivenbydesign , 12 colors of S3 Laser Levellers! \nGet in touch to get your favourite color.\n.\n.\n.\n.\n.\n.\n.\n[Laser land leveller, laser leveller, agritech, farm technology, make in India, made in India]\n#computermanjha",
           "likes": 20,
           "comments": 1,
@@ -1489,7 +1440,7 @@
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DVLCOqVk4BQ/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/640049922_18044750570738639_7711419078190309663_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=kfrDG7gB2CEQ7kNvwFb5AFF&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6dta4RtYiXwV1lVW_kc38QWOn1nwTbe2KV3dgN2ti6Ag&oe=6A00B79F&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/640049922_18044750570738639_7711419078190309663_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=kfrDG7gB2CEQ7kNvwHyBiU5&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7GjxfYwlE_2--liXS2PoIZ28AOzjZcvHHBHTbwyJ4aqQ&oe=6A00EFDF&_nc_sid=8b3546",
           "caption": "#upkisan #agritech #makeinindia #laserlandleveller #Haryanafarmers",
           "likes": 24,
           "comments": 0,
@@ -1499,7 +1450,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DVEZAtjk1Q-/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=TTh8kTWQaKkQ7kNvwEzhPq8&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af7PwIh8AmwCZi1cQw0OAnNz3JC8oPxqSKhrXIK-RF9o2A&oe=6A00E23A&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/639916146_18044469329738639_6819292694540540624_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=TTh8kTWQaKkQ7kNvwEJfOdO&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgzODMwMjc4MjUwNDUyMjgxNA%3D%3D.3-ccb7-5&oh=00_Af69MxPSCyzv8hWX6Pabp0L9c1M0JAAQ8zXPlph_GZDFuQ&oe=6A00E23A&_nc_sid=8b3546",
           "caption": "S3 Technic laser leveler - simply the best in class!",
           "likes": 18,
           "comments": 1,
@@ -1509,7 +1460,7 @@
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DVEC5FfE_g8/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.71878-15/639762631_4312018135754206_1002770943409642136_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=BxfMMCkkEE4Q7kNvwHQu0lL&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vA101LOUDNhzrn9Jd23jF-5mF91loq90YuxYSKeaTbw&oe=6A00BADA&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.71878-15/639762631_4312018135754206_1002770943409642136_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=BxfMMCkkEE4Q7kNvwGQHiN5&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5L7mwh4KBKLalUmyLSuoC7z4TXpLI2OOh4RtgkQtV_Aw&oe=6A00F31A&_nc_sid=8b3546",
           "caption": "#agritech  #laserlandleveller  #Haryanafarmers #upkisan #adhunikkrishi\n\n@connectagrosolutions\n\nInterested in the laser leveler? Contact 9999539583.",
           "likes": 13,
           "comments": 28,
@@ -1519,7 +1470,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DTfBbr6k75n/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=AA4G40Qr5y8Q7kNvwHP-1hS&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af4a7GmeJT_5kxuZpG1roa6Gf2H7nPBJ5Bn_xsCWJ2HG0A&oe=6A00BBB9&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/616346281_18040075598738639_7185288288570618844_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=AA4G40Qr5y8Q7kNvwHLzyig&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwOTc3MDExMDQwNDc3MTQzMQ%3D%3D.3-ccb7-5&oh=00_Af6CqKP5etYHWBe24909CLe0Ox9OQVyWHVKPv6bxwXRnjQ&oe=6A00F3F9&_nc_sid=8b3546",
           "caption": "Launching this season. Ugrade your laser transmitter to the new and stylish one!\n.\n.\n.\n.\n.\n.\n.\n.\n.\n#s3system\n[Laser Transmitter, laser land leveler, agritech, made in india, make in india]",
           "likes": 20,
           "comments": 1,
@@ -1529,7 +1480,7 @@
         {
           "type": "post",
           "post_url": "https://www.instagram.com/p/DTY0bw-E4h3/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=ROYX3z4rXz0Q7kNvwFtGq1n&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af72pNLgCgxXsIg9btLUlV03LWYKHZNI8ys4NVfT0TUKPQ&oe=6A00AFC5&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.82787-15/615824943_18039827909738639_1435085460047235222_n.heic?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=ROYX3z4rXz0Q7kNvwEaHt3j&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzgwODAyNDA5MTM2NzI3ODcxMQ%3D%3D.3-ccb7-5&oh=00_Af5lpcv6nWJP8HQe2gjv-n-FvKYgIXGb7rJaYkS_jFggqQ&oe=6A00E805&_nc_sid=8b3546",
           "caption": "New look for the S3 Laser Transmitter this season! \n.\n.\n.\n.\n.\n.\n.\n.\n.\n{laser leveller, agritech, farm mechanization, made in india, make in india, laser land leveller, rotary laser}",
           "likes": 14,
           "comments": 0,
@@ -1539,7 +1490,7 @@
         {
           "type": "video",
           "post_url": "https://www.instagram.com/p/DJCQAcahwnx/",
-          "thumbnail_url": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGju71q6YtOSfQYAlwVuQ3HjFgjQUW7O60nWCRFRKlGXSGnb6QpEoQvEbkd30hcds3Cc7eqoFvHoHnMt0EoOo8-&_nc_ohc=603b_mx2u_wQ7kNvwHwrw4R&_nc_gid=626hvgNZ6f0kFHY48AwroA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6VMRhKM9njWW7rgOcZf1RoTynAjP-GumkkrVSZcUUegQ&oe=6A00B5FC&_nc_sid=8b3546",
+          "thumbnail_url": "https://instagram.frkh1-1.fna.fbcdn.net/v/t51.2885-15/493740328_18010354430738639_5192890755818022373_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.frkh1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gFTXFq6gDYFPPGIFg7qm1xKV-vBkGljpFFzs-Og40wL5O0FfAiBo51ddrsYsP87DbY&_nc_ohc=603b_mx2u_wQ7kNvwEfzghj&_nc_gid=6-Z0JnlHUK6USnOLOw5mWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Xoadv_Sj-IAR0w6gjm3aJ6yww-Y3CG7h4gyH4M9mhRA&oe=6A00EE3C&_nc_sid=8b3546",
           "caption": "For the first time ever! Dual axis slope setting via mobile phone app. Only with S3 laser land leveller. \nContact us on 9999539583 for more information. \n.\n.\n.\n.\n.\n#laserlandleveller #agritech #appdesign #mobileapp #computermanjha #laserlandleveller #computergodi #s3 #farmech #makeinindia #madeinindia #digitalindia #landleveling #laserlandleveling #agriculture #farmer #digitalfarming",
           "likes": 25,
           "comments": 16,
@@ -1566,20 +1517,20 @@
     {
       "platform": "youtube",
       "url": "https://youtube.com/channel/UCuqtQ7Wl_LgO63BSEQxDAUA",
-      "profile_pic_url": "https://yt3.googleusercontent.com/ytc/AIdro_n6NPHw-0raIVgyhnWwaseJEfQr0TS_6wIBEIx9ZiPRIQ=s68-c-k-c0x00ffffff-no-rj",
+      "profile_pic_url": "https://yt3.googleusercontent.com/ytc/AIdro_n6NPHw-0raIVgyhnWwaseJEfQr0TS_6wIBEIx9ZiPRIQ=s160-c-k-c0x00ffffff-no-rj",
       "banner_url": null,
       "bio": "S3 Technics is a manufacturing start up created by two engineers from IIT Delhi and BITS Pilani. With over 20 years of experience in the field of engineering and manufacturing, we specialize in building special purpose automation machines and Laser land leveler (an electronic leveling machine for agricultural and construction purposes).\nWe have recently set a production unit for indigenous manufacturing of commutators which at present are largely being imported from China. \nOur Youtube channel will be dedicated to give our customers a view of our expertise and our past/present projects.",
       "followers_count": 105,
       "posts": [
         {
           "type": "video",
-          "post_url": "https://www.youtube.com/watch?v=J26OsZvHaww",
-          "thumbnail_url": "https://i.ytimg.com/vi/J26OsZvHaww/maxresdefault.jpg",
-          "caption": "Reach out to S3 Technics for more information:\n\nWebsite: https://www.s3technics.com\nEmail: s3technics@gmail.com\nPhone: +91 120 4253320\nAddress: F-118, Sector 8, NOIDA, Uttar Pradesh\nLinkedIn:   / s3-technics  ",
-          "likes": 15,
-          "comments": 1,
-          "views": 1282,
-          "posted_at": "2020-07-01T13:57:16.000Z"
+          "post_url": "https://www.youtube.com/shorts/eiyfSOeKOkQ",
+          "thumbnail_url": "https://i.ytimg.com/vi/eiyfSOeKOkQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBKKEowDw==&rs=AOn4CLBaGATrA7b-7eCDGc9Md7WfgWSs1w",
+          "caption": "S3 at Maghi Mela, Muktsar! #maghimela #laser #laserleveller #computermanjha #landleveling #punjab",
+          "likes": 12,
+          "comments": 0,
+          "views": 343,
+          "posted_at": "2025-01-13T07:02:01.000Z"
         },
         {
           "type": "video",
@@ -1593,23 +1544,13 @@
         },
         {
           "type": "video",
-          "post_url": "https://www.youtube.com/watch?v=qyLhRL0M24o",
-          "thumbnail_url": "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg",
-          "caption": "A Fully Automatic Perfume Pump tube fitting machine designed to output upto 90 pieces per minute. A compact design ensures maximum output with minimum space on your shopfloor. \n\nMain Features:\n• Vibratory Bowl Feeder to align pumps in correct orientation and minimise human effort \n• Adjustable tube length\n• HMI to show and set production count\n• PLC based automation\n \n#perfume #diptube #automation #spm #s3 #perfumepump #assembly #machine #industry #pump #makeinindia #madeinindia #vocalforlocal",
-          "likes": 0,
-          "comments": 2,
-          "views": 191,
-          "posted_at": "2024-07-04T07:22:27.000Z"
-        },
-        {
-          "type": "video",
-          "post_url": "https://www.youtube.com/watch?v=zLtA3_OJudc",
-          "thumbnail_url": "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg",
-          "caption": "Presenting the S3T manufactured Laser Guided Land Leveller. Our equipment is made in India ensuring highest quality and seamless after sales support. Check out more details on our website www.s3technics.com\n\nLaser Land Leveller (also called Laser Samtal) is precision land levelling equipment. It utilizes an electronically levelled rotating laser plane as reference with laser receiver, control box and hydraulic system to maintain the scraper blade edge parallel to a perfectly levelled laser plane, thereby filling the tractor driven bucket with soil from high spots and releasing that soil to low spots of the field.\n\nLand Levelling has multiple benefits, the prime among them being reduced use of water and better yield of crop. A Laser guided land leveler ensures precision leveling  upto 4mm. \n\n#laserlandleveler #lasersamtal #laserleveller #laserleveler #computermanjha #laserlevel #agritech #agriculture #haryana #punjab #andhrapradesh \n\nAudio Credits: Zurna (Instrumental) by Sapajou | https://soundcloud.com/sapajoubeats\nCreative Commons Attribution 3.0 Unported License\nhttps://creativecommons.org/licenses/by/3.0/deed.en_US\nMusic promoted by https://www.chosic.com/free-music/all/",
-          "likes": 20,
-          "comments": 2,
-          "views": 1411,
-          "posted_at": "2023-02-11T09:50:40.000Z"
+          "post_url": "https://www.youtube.com/shorts/AhgGt3emfjI",
+          "thumbnail_url": "https://i.ytimg.com/vi/AhgGt3emfjI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYYCgALgA4oCDAgAEAEYWCBlKFcwDw==&rs=AOn4CLDWhwb9ePXSR2AJQnjBEfqTG98QqQ",
+          "caption": "Fully automatic machine for powder coating a particular type of jig as per our client's specifications.\nThe machine offers options to specify the number of dips and dip timings to cater to different models.\n\nReach out to S3 Technics for more information:\n\nWebsite: https://www.s3technics.com\nEmail: s3technics@gmail.com\nLinkedIn:   / s3-technics  ",
+          "likes": 8,
+          "comments": 1,
+          "views": 215,
+          "posted_at": "2020-03-27T09:21:26.000Z"
         },
         {
           "type": "video",
@@ -1623,23 +1564,13 @@
         },
         {
           "type": "video",
-          "post_url": "https://www.youtube.com/shorts/AhgGt3emfjI",
-          "thumbnail_url": "https://i.ytimg.com/vi/AhgGt3emfjI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AYYCgALgA4oCDAgAEAEYWCBlKFcwDw==&rs=AOn4CLDWhwb9ePXSR2AJQnjBEfqTG98QqQ",
-          "caption": "Fully automatic machine for powder coating a particular type of jig as per our client's specifications.\nThe machine offers options to specify the number of dips and dip timings to cater to different models.\n\nReach out to S3 Technics for more information:\n\nWebsite: https://www.s3technics.com\nEmail: s3technics@gmail.com\nLinkedIn:   / s3-technics  ",
-          "likes": 8,
-          "comments": 1,
-          "views": 215,
-          "posted_at": "2020-03-27T09:21:26.000Z"
-        },
-        {
-          "type": "video",
-          "post_url": "https://www.youtube.com/shorts/eiyfSOeKOkQ",
-          "thumbnail_url": "https://i.ytimg.com/vi/eiyfSOeKOkQ/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBKKEowDw==&rs=AOn4CLBaGATrA7b-7eCDGc9Md7WfgWSs1w",
-          "caption": "S3 at Maghi Mela, Muktsar! #maghimela #laser #laserleveller #computermanjha #landleveling #punjab",
-          "likes": 12,
+          "post_url": "https://www.youtube.com/watch?v=kS5Dpal4-KM",
+          "thumbnail_url": "https://i.ytimg.com/vi/kS5Dpal4-KM/maxresdefault.jpg",
+          "caption": "Reach out to S3 Technics for more information:\n\nWebsite: https://www.s3technics.com\nEmail: s3technics@gmail.com\nPhone: +91 120 4253320\nAddress: F-118, Sector 8, NOIDA, Uttar Pradesh\nLinkedIn:   / s3-technics  ",
+          "likes": 4,
           "comments": 0,
-          "views": 343,
-          "posted_at": "2025-01-13T07:02:01.000Z"
+          "views": 818,
+          "posted_at": "2020-07-01T14:16:41.000Z"
         },
         {
           "type": "video",
@@ -1653,6 +1584,16 @@
         },
         {
           "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=J26OsZvHaww",
+          "thumbnail_url": "https://i.ytimg.com/vi/J26OsZvHaww/maxresdefault.jpg",
+          "caption": "Reach out to S3 Technics for more information:\n\nWebsite: https://www.s3technics.com\nEmail: s3technics@gmail.com\nPhone: +91 120 4253320\nAddress: F-118, Sector 8, NOIDA, Uttar Pradesh\nLinkedIn:   / s3-technics  ",
+          "likes": 15,
+          "comments": 1,
+          "views": 1282,
+          "posted_at": "2020-07-01T13:57:16.000Z"
+        },
+        {
+          "type": "video",
           "post_url": "https://www.youtube.com/watch?v=GoE0Up0Vl-w",
           "thumbnail_url": "https://i.ytimg.com/vi/GoE0Up0Vl-w/hqdefault.jpg",
           "caption": "A fully automated machine to assemble the aerosol pump and it's compatible tube. \nThe only user inputs required are to fill up the vibratory feeder with the aerosol pumps and keep the tube roll in the designated area. The entire process of assembly is fully automated including the vibratory feeder aligning the pumps in a uniformed manner to avoid any incorrect assembly. \nWatch the video for a complete look!\n\nReach out to S3 Technics for more information:\n\nWebsite: https://www.s3technics.com\nEmail: s3technics@gmail.com\nLinkedIn:   / s3-technics  \n\n#perfume #diptube #perfumes #assembly #perfumepump #pump #manufacturing",
@@ -1663,6 +1604,26 @@
         },
         {
           "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=zLtA3_OJudc",
+          "thumbnail_url": "https://i.ytimg.com/vi/zLtA3_OJudc/maxresdefault.jpg",
+          "caption": "Presenting the S3T manufactured Laser Guided Land Leveller. Our equipment is made in India ensuring highest quality and seamless after sales support. Check out more details on our website www.s3technics.com\n\nLaser Land Leveller (also called Laser Samtal) is precision land levelling equipment. It utilizes an electronically levelled rotating laser plane as reference with laser receiver, control box and hydraulic system to maintain the scraper blade edge parallel to a perfectly levelled laser plane, thereby filling the tractor driven bucket with soil from high spots and releasing that soil to low spots of the field.\n\nLand Levelling has multiple benefits, the prime among them being reduced use of water and better yield of crop. A Laser guided land leveler ensures precision leveling  upto 4mm. \n\n#laserlandleveler #lasersamtal #laserleveller #laserleveler #computermanjha #laserlevel #agritech #agriculture #haryana #punjab #andhrapradesh \n\nAudio Credits: Zurna (Instrumental) by Sapajou | https://soundcloud.com/sapajoubeats\nCreative Commons Attribution 3.0 Unported License\nhttps://creativecommons.org/licenses/by/3.0/deed.en_US\nMusic promoted by https://www.chosic.com/free-music/all/",
+          "likes": 20,
+          "comments": 2,
+          "views": 1411,
+          "posted_at": "2023-02-11T09:50:40.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=qyLhRL0M24o",
+          "thumbnail_url": "https://i.ytimg.com/vi/qyLhRL0M24o/hqdefault.jpg",
+          "caption": "A Fully Automatic Perfume Pump tube fitting machine designed to output upto 90 pieces per minute. A compact design ensures maximum output with minimum space on your shopfloor. \n\nMain Features:\n• Vibratory Bowl Feeder to align pumps in correct orientation and minimise human effort \n• Adjustable tube length\n• HMI to show and set production count\n• PLC based automation\n \n#perfume #diptube #automation #spm #s3 #perfumepump #assembly #machine #industry #pump #makeinindia #madeinindia #vocalforlocal",
+          "likes": 0,
+          "comments": 2,
+          "views": 191,
+          "posted_at": "2024-07-04T07:22:27.000Z"
+        },
+        {
+          "type": "video",
           "post_url": "https://www.youtube.com/shorts/7iU3rqeY9F0",
           "thumbnail_url": "https://i.ytimg.com/vi/7iU3rqeY9F0/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYWiBaKFowDw==&rs=AOn4CLBxJXYSLtrnaxnRUFn3DnkhGM2Apg",
           "caption": "8 September 2025",
@@ -1670,24 +1631,14 @@
           "comments": 0,
           "views": 510,
           "posted_at": "2025-09-08T11:32:39.000Z"
-        },
-        {
-          "type": "video",
-          "post_url": "https://www.youtube.com/watch?v=kS5Dpal4-KM",
-          "thumbnail_url": "https://i.ytimg.com/vi/kS5Dpal4-KM/maxresdefault.jpg",
-          "caption": "Reach out to S3 Technics for more information:\n\nWebsite: https://www.s3technics.com\nEmail: s3technics@gmail.com\nPhone: +91 120 4253320\nAddress: F-118, Sector 8, NOIDA, Uttar Pradesh\nLinkedIn:   / s3-technics  ",
-          "likes": 4,
-          "comments": 0,
-          "views": 818,
-          "posted_at": "2020-07-01T14:16:41.000Z"
         }
       ],
       "contacts_from_posts": [
         {
           "type": "email",
           "value": "s3technics@gmail.com",
-          "date": "2020-07-01T13:57:16.000Z",
-          "post_url": "https://www.youtube.com/watch?v=J26OsZvHaww"
+          "date": "2020-03-27T09:21:26.000Z",
+          "post_url": "https://www.youtube.com/shorts/AhgGt3emfjI"
         }
       ],
       "extra_profile": {
@@ -1719,19 +1670,17 @@
     }
   ],
   "pipeline_summary": {
-    "run_started_at": "2026-05-06T07:59:29.208Z",
-    "duration_seconds": 129,
+    "run_started_at": "2026-05-06T10:10:29.872Z",
+    "duration_seconds": 120,
     "agents_in_order": [
-      "CompanyEnricher",
-      "Agent03/Product",
-      "Agent05/EnrichDedup"
+      "CompanyEnricher"
     ],
     "agent_call_counts": {
       "Agent02/Orchestrator": 1,
-      "Agent03/Product": 1,
+      "Agent03/Product": 0,
       "Agent03a/Category": 0,
       "Agent04/Media": 0,
-      "Agent05/EnrichDedup": 1,
+      "Agent05/EnrichDedup": 0,
       "Agent07/Social": 1,
       "CompanyEnricher": 1,
       "Agent06/Reflection": 0
@@ -1740,20 +1689,20 @@
       "plan_execution": {
         "recommended_agents": [
           "company",
-          "sign3",
-          "product",
-          "dedup",
-          "social_enrichment",
-          "catalog"
+          "sign3_enrichment",
+          "await_social_enrichment",
+          "write_to_catalog"
         ],
         "skip_agents": [
+          "product",
+          "dedup",
           "reviews"
         ],
         "quality_target": 0.75,
-        "reasoning": "The seller has a company profile and social media links. No raw products are provided, so product enrichment will be minimal. Reviews agent is skipped as no reviews API URL is present. Sign3 verification is crucial."
+        "reasoning": "The seller has a good company profile, but no raw products are provided. Therefore, product-related agents (product, dedup) and media agent (which runs inside product agent) will be skipped. Reviews agent is skipped due to no reviews API URL. The focus will be on enriching the company profile and validating the phone number."
       },
       "evaluate_product_output": {
-        "decision": "proceed",
+        "decision": null,
         "avg_confidence": null,
         "retry_triggered": false
       }
@@ -1761,7 +1710,7 @@
     "products": {
       "raw_input": 0,
       "enriched": 0,
-      "catalog_items": 18,
+      "catalog_items": 17,
       "rejected": 0,
       "with_vision": 0,
       "vision_skipped": 0
@@ -1775,10 +1724,10 @@
         "linkedin",
         "twitter"
       ],
-      "posts_collected": 23,
-      "social_products_extracted": 18
+      "posts_collected": 26,
+      "social_products_extracted": 17
     },
-    "overall_confidence": 0.36
+    "overall_confidence": 0.37
   },
-  "_saved_at": "2026-05-06T08:01:38.207Z"
+  "_saved_at": "2026-05-06T10:12:30.261Z"
 }
