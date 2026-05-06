@@ -62,13 +62,34 @@ function collectProductSourceEntries(product: CatalogProduct) {
     addEntry(tile.key, tile.label);
   }
 
+  const KNOWN_PLATFORMS = new Set([
+    "youtube",
+    "instagram",
+    "facebook",
+    "linkedin",
+    "twitter",
+    "x",
+    "whatsapp",
+  ]);
   for (const link of product.sourceLinks || []) {
-    const linkKey = link.platform
-      ? normalizeSourceKey(link.platform)
-      : "website";
-    const linkLabel = link.platform
-      ? normalizeSourceLabel(link.platform)
-      : "Website";
+    let linkKey = "";
+    let linkLabel = "";
+    if (link.platform) {
+      linkKey = normalizeSourceKey(link.platform);
+      linkLabel = normalizeSourceLabel(link.platform);
+    } else if (link.label) {
+      const cand = normalizeSourceKey(link.label);
+      if (KNOWN_PLATFORMS.has(cand)) {
+        linkKey = cand;
+        linkLabel = normalizeSourceLabel(cand);
+      } else {
+        linkKey = "website";
+        linkLabel = "Website";
+      }
+    } else {
+      linkKey = "website";
+      linkLabel = "Website";
+    }
     addEntry(linkKey, linkLabel);
   }
 
