@@ -1,8 +1,17 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useState, useRef } from "react";
 import { createPortal } from "react-dom";
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
-import { ArrowRight, BookDashedIcon, BookOpenText, Building2, Hash, Search, Store } from "lucide-react";
+import {
+  ArrowRight,
+  BookDashedIcon,
+  BookOpenText,
+  Building2,
+  Hash,
+  Search,
+  Store,
+} from "lucide-react";
 import { motion } from "framer-motion";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -57,6 +66,23 @@ const Dashboard = () => {
       catalog.sellerName.toLowerCase().includes(query)
     );
   });
+
+  // clamp selectedIndex when results change
+  useEffect(() => {
+    const len = Math.min(filteredCatalogs.length, 8);
+    if (len === 0) {
+      setSelectedIndex(-1);
+      return;
+    }
+    if (selectedIndex >= len) setSelectedIndex(len - 1);
+  }, [filteredCatalogs.length]);
+
+  // scroll selected suggestion into view
+  useEffect(() => {
+    if (selectedIndex < 0) return;
+    const el = document.getElementById(`suggestion-${selectedIndex}`);
+    if (el) el.scrollIntoView({ block: "nearest" });
+  }, [selectedIndex]);
 
   function SuggestionsPortal({ children }: { children: React.ReactNode }) {
     if (typeof document === "undefined") return null;
@@ -173,6 +199,7 @@ const Dashboard = () => {
                           {filteredCatalogs.slice(0, 8).map((catalog, idx) => (
                             <div
                               key={catalog.id}
+                              id={`suggestion-${idx}`}
                               role="option"
                               aria-selected={selectedIndex === idx}
                             >
