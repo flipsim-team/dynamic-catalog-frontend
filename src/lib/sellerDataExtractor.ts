@@ -372,14 +372,41 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const ratingCount = Number(unwrapValue(cp.rating_count, 0) || 0);
   const description = String(unwrapValue(cp.description, "") || "");
   const fieldSources = {
-    phone: phoneEntries[0]?.sources || [],
-    email: emailEntries[0]?.sources || [],
+    phone: Array.from(
+      new Map(
+        phoneEntries
+          .flatMap((entry) => entry.sources)
+          .map((source) => [source.key, source]),
+      ).values(),
+    ),
+    email: Array.from(
+      new Map(
+        emailEntries
+          .flatMap((entry) => entry.sources)
+          .map((source) => [source.key, source]),
+      ).values(),
+    ),
     website: toSourceMetaList(unwrapSources(cp.website)),
     address: toSourceMetaList(unwrapSources(cp.address)),
     city: toSourceMetaList(unwrapSources(cp.city)),
     rating: toSourceMetaList(unwrapSources(cp.rating_value)),
     businessType: toSourceMetaList(unwrapSources(cp.business_type)),
   };
+
+  // Ensure special sign3 evidence is reflected in contact sources when present
+  const addSourceIfMissing = (arr: SourceMeta[], key: string) => {
+    if (!arr.some((s) => s.key === key))
+      arr.push({ key, label: sourceLabelFor(key) });
+  };
+  if (cp?.sign3_verified_phone) addSourceIfMissing(fieldSources.phone, "sign3");
+  if (cp?.sign3_verified_email) addSourceIfMissing(fieldSources.email, "sign3");
+  if (cp?.sign3_verified) {
+    // if broadly verified, ensure sign3 appears in common contact fields
+    addSourceIfMissing(fieldSources.phone, "sign3");
+    addSourceIfMissing(fieldSources.email, "sign3");
+    addSourceIfMissing(fieldSources.address, "sign3");
+    addSourceIfMissing(fieldSources.city, "sign3");
+  }
 
   // Build authoritative social profile list (one per platform)
   const profilesByPlatform: Record<string, SocialProfile> = {};
