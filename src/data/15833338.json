@@ -1,0 +1,546 @@
+{
+  "seller_id": 15833338,
+  "company_profile": {
+    "name": {
+      "value": "Dress Circle",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "Dress Circle is a premier home goods store in Ahmedabad, offering a curated selection of stylish and high-quality items to enhance any living space. With a strong focus on design and customer satisfaction, they provide everything needed to create a beautiful and comfortable home environment.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Ahmedabad",
+      "sources": [
+        "google",
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "G2, shapath 4, opposite karnavati club, SG Highway",
+      "sources": [
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "380015",
+      "sources": [
+        "google",
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "http://www.dresscircle.co.in",
+      "sources": [
+        "facebook",
+        "google",
+        "instagram",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Home goods store",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 4.8,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 43,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "9358397184767650217",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://dresscircle.co.in/wp-content/uploads/2016/12/LOGO4.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/Insidedresscircle",
+      "sources": [
+        "facebook",
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "https://www.instagram.com/insidedresscircle",
+      "sources": [
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "9537415151",
+        "sources": [
+          "google"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "insidedresscircle@gmail.com",
+        "sources": [
+          "facebook",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/Insidedresscircle",
+        "sources": [
+          "facebook",
+          "google",
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.instagram.com/insidedresscircle",
+        "sources": [
+          "instagram"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "confidence": 0.9,
+    "sources": [
+      "google",
+      "facebook"
+    ],
+    "data_sources": [
+      "website"
+    ],
+    "reviews_url": "https://www.google.com/maps?cid=9358397184767650217"
+  },
+  "products": [],
+  "media_assets": [],
+  "catalog_items": [],
+  "rejected_items": [],
+  "reviews": [
+    {
+      "author": "Amit Dave",
+      "rating": 4,
+      "text": "Nice staff. Good varieties of laminates",
+      "original_lang": "en",
+      "date": "2026-01-31T13:59:16.730Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Dipen Vyas",
+      "rating": 5,
+      "text": "Best place for Laminates, High Gloss Acrylic, and many more wood related products. Vast varieties. Nice sales staff.",
+      "original_lang": "en",
+      "date": "2023-01-18T20:27:00.580Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": "Thanks a lot Mr. Vyas for such a great appreciation. Our company is constantly working towards upgrading our product range and providing our customers with good products and service. Thanks again"
+    },
+    {
+      "author": "Parekh Kunal201",
+      "rating": 5,
+      "text": "Nice place for furniture and laminate",
+      "original_lang": "en",
+      "date": "2019-05-11T14:33:42.221Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": "Thanks for the appreciation."
+    },
+    {
+      "author": "rutvija dani",
+      "rating": 1,
+      "text": "Worst experience! The attitude and way of communication is very arrogant. Though I purchased the material from the place, the way of addressing my query from the owner is very rude. Kindly work more on ur skills and be customer oriented!",
+      "original_lang": "en",
+      "date": "2018-03-27T11:51:38.551Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Smit Sanghvi",
+      "rating": 5,
+      "text": "The collections and various designs here are fabulously amazing.\nA one stop interior decor for your home solutions.",
+      "original_lang": "en",
+      "date": "2018-03-30T08:43:13.450Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Jaydev Dua",
+      "rating": 5,
+      "text": "Beautiful display of amazing interior products. Must visit if you are renovating or decorating your property.",
+      "original_lang": "en",
+      "date": "2020-07-18T12:04:51.970Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Vinay Nair",
+      "rating": 5,
+      "text": "The best place in the city with the widest variety to choose from to design ur dream home!!!",
+      "original_lang": "en",
+      "date": "2018-03-03T13:51:40.062Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Shashin Shah",
+      "rating": 5,
+      "text": "Good very good place with lots of options for surfaces and very co operative people",
+      "original_lang": "en",
+      "date": "2020-08-10T14:49:29.269Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Prakash Dave",
+      "rating": 5,
+      "text": "Excellent service\nAnd\nMore polite behaviour of dress circle persons",
+      "original_lang": "en",
+      "date": "2021-01-04T08:22:21.355Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Prajesh Hansalia",
+      "rating": 4,
+      "text": "Very good collection and well behaved staff",
+      "original_lang": "en",
+      "date": "2019-06-09T01:03:30.525Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Pranali Bhute",
+      "rating": 5,
+      "text": "It's good to give it a chance.👍",
+      "original_lang": "en",
+      "date": "2019-05-06T10:31:28.775Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Nirav & Anvi Shah",
+      "rating": 5,
+      "text": "Perfect place of Interior solutions",
+      "original_lang": "en",
+      "date": "2021-11-11T14:29:40.122Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Bobby Shah",
+      "rating": 5,
+      "text": "Excellent Services Excellent Products",
+      "original_lang": "en",
+      "date": "2024-03-02T03:27:50.837Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "nitesh kerai",
+      "rating": 5,
+      "text": "Wery nice",
+      "original_lang": "en",
+      "date": "2022-12-23T14:39:15.968Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Navya Dave",
+      "rating": 5,
+      "text": "One stop solution for interior",
+      "original_lang": "en",
+      "date": "2021-07-19T18:34:59.345Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "MEENU OJHA",
+      "rating": 5,
+      "text": "Good collection",
+      "original_lang": "en",
+      "date": "2023-01-03T14:23:15.412Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": "Thanks for appreciation."
+    },
+    {
+      "author": "Ravi kumar Gupta",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2026-05-01T12:43:56.010Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "JIGNESH SUTHAR",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-12-06T16:50:36.975Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "nihar jain",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-02-20T16:56:52.448Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "sanjeev bothra",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2024-09-02T15:41:54.472Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Mayur Prithani",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2023-04-15T13:17:01.977Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "mukesh thakkar",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2023-02-01T10:13:34.608Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Archit Tantia",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2023-01-30T09:31:07.123Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Sandeep agarwal",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2021-11-23T15:20:13.020Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Mayursinh Vaghela",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2021-10-18T09:30:12.138Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 4.8,
+    "no_of_ratings": 43,
+    "rating_comments": [
+      "Nice staff. Good varieties of laminates",
+      "Best place for Laminates, High Gloss Acrylic, and many more wood related products. Vast varieties. Nice sales staff.",
+      "Nice place for furniture and laminate",
+      "Worst experience! The attitude and way of communication is very arrogant. Though I purchased the material from the place, the way of addressing my query from the owner is very rude. Kindly work more on ur skills and be customer oriented!",
+      "The collections and various designs here are fabulously amazing.\nA one stop interior decor for your home solutions.",
+      "Beautiful display of amazing interior products. Must visit if you are renovating or decorating your property.",
+      "The best place in the city with the widest variety to choose from to design ur dream home!!!",
+      "Good very good place with lots of options for surfaces and very co operative people",
+      "Excellent service\nAnd\nMore polite behaviour of dress circle persons",
+      "Very good collection and well behaved staff"
+    ],
+    "reviews_url": "https://www.google.com/maps?cid=9358397184767650217"
+  },
+  "overall_confidence": 0.7,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/Insidedresscircle",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/Insidedresscircle/posts/pfbid02GnqK9KGfuEDL9bnFxKNr4VFvVkxCu6jJYJE8ABmGGtk6bRq51FdA5Nkrq56jAoY6l",
+          "thumbnail_url": "https://www.facebook.com/Insidedresscircle/posts/pfbid02GnqK9KGfuEDL9bnFxKNr4VFvVkxCu6jJYJE8ABmGGtk6bRq51FdA5Nkrq56jAoY6l",
+          "caption": "Some materials look good.\nSome materials earn trust over time.\n\nIntroducing Sand Dollar by Dress Circle.\nA laminate designed to stay beautiful through everyday life.\n\nFrom warm kitchens to lived-in spaces, it is crafted to handle moisture, heat, touch, time and the quiet chaos of daily living with ease.\n\nBecause true luxury is not delicate.\nIt lasts.\n\n#DressCircle #DecorSurfaces #LaminateDesign #InteriorDesignIndia #ModernInteriors\n\ndecorative laminates, kitchen laminates, textured laminates India, grey laminate finish, modern kitchen interiors, luxury laminates, interior surface design, laminate sheets India, durable laminates, waterproof laminates, premium interiors, modular kitchen surfaces, contemporary laminates, Dress Circle laminates, Sand Dollar laminate",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1778132545
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/Insidedresscircle/posts/pfbid035RCmXymm7iB5qTLXx2kcrCXQBAnnespSw6xpKCvpAnyWj54hov6QhHfgHS6c5zvHl",
+          "thumbnail_url": "https://www.facebook.com/Insidedresscircle/posts/pfbid035RCmXymm7iB5qTLXx2kcrCXQBAnnespSw6xpKCvpAnyWj54hov6QhHfgHS6c5zvHl",
+          "caption": "Beauty lives in the details.\nAnd the right laminate brings every detail to life.\n\nDress Circle laminates are crafted for spaces that demand both aesthetics and performance.\nClean textures. Seamless application. Effortless impact.\n\nScratch resistant. Waterproof. Bendable. Termite proof. Direct to wall.\nBuilt to last. Designed to impress.\n\nBecause great design is not loud. It is precise.\n\n#DressCircle #LaminateDesign #DecorSurfaces #InteriorDesignIndia #ModernInteriors\n\n(laminates India, decorative laminates, wall laminates, interior laminates, textured laminate sheets, laminate wall finish, waterproof laminates, scratch resistant laminates, termite proof laminates, bendable laminates, luxury laminates India, Dress Circle laminates, interior surface solutions, modern wall finishes)",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777959512
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/Insidedresscircle/posts/pfbid0Uc8R9WmihAtwnupoBPZWSdd3D3UgNeWsupUiDxD98kMAHxt8fefgLwUhmi5gxAF4l",
+          "thumbnail_url": "https://www.facebook.com/Insidedresscircle/posts/pfbid0Uc8R9WmihAtwnupoBPZWSdd3D3UgNeWsupUiDxD98kMAHxt8fefgLwUhmi5gxAF4l",
+          "caption": "Natural feel. Engineered strength.\n\nOur Thermo Extruded Polymer Sheets bring together the warmth of natural aesthetics with the resilience of advanced materials.\n\nFrom kitchens to high-usage spaces, they deliver a clean, modern finish that lasts - without compromising on design.\n\n✔ Durable core\n✔ Moisture resistant\n✔ Low maintenance\n✔ Seamless modern finish\n\nInspired by nature. Built for real life.\n\nDress Circle. @insidedresscircle",
+          "likes": 0,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777526909
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "address": null,
+        "city": null
+      }
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-07T08:00:15.087Z",
+    "duration_seconds": 45,
+    "agents_in_order": [],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 0,
+      "Agent03a/Category": 0,
+      "Agent04/Media": 0,
+      "Agent05/EnrichDedup": 0,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 0,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "sign3",
+          "social_enrichment",
+          "catalog"
+        ],
+        "skip_agents": [
+          "product",
+          "dedup",
+          "reviews",
+          "media"
+        ],
+        "quality_target": 0.9,
+        "reasoning": "There are 0 raw products, so product and dedup agents are skipped. Reviews agent is skipped as no reviews_api_url is present. Media agent is skipped as it runs within the product agent. Company agent, Sign3 enrichment, and social enrichment are essential for a complete company profile and validation before writing to catalog."
+      },
+      "evaluate_product_output": {
+        "decision": null,
+        "avg_confidence": null,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 0,
+      "enriched": 0,
+      "catalog_items": 0,
+      "rejected": 0,
+      "with_vision": 0,
+      "vision_skipped": 0
+    },
+    "social": {
+      "urls_detected": 2,
+      "platforms_scraped": [
+        "facebook"
+      ],
+      "posts_collected": 3,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.7
+  },
+  "_saved_at": "2026-05-07T08:00:59.898Z"
+}

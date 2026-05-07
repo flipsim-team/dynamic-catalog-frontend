@@ -1,0 +1,2673 @@
+{
+  "seller_id": 6415432,
+  "company_profile": {
+    "name": {
+      "value": "Rajkamal Overseas ( Factory )",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "Rajkamal Overseas (Factory) is a distinguished handicraft exporter based in Moradabad, renowned for its exquisite range of decorative items. Specializing in finely crafted copper items, lanterns, candle holders, and decorative lamps, they bring traditional artistry to global markets.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Moradabad",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "Prabhat Market, Ram Ganga Bridge, Katghar",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "244001",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://www.indiamart.com/",
+      "sources": [
+        "facebook",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Handicraft exporter",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gst_number": {
+      "value": "09AALFR6987L1Z3",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 4,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 14,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "6145036660116252312",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://hm.imimg.com/template-mdc/busy_indiamart_logo.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://5.imimg.com/data5/OJ/NS/MY-6415432/2392-17-w-5x5x2-25-in-250x250.jpg",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/IndiaMART",
+      "sources": [
+        "facebook",
+        "google",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "https://www.instagram.com/indiamart",
+      "sources": [
+        "instagram",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "youtube": {
+      "value": "https://youtube.com/@indiamart",
+      "sources": [
+        "facebook",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "linkedin": {
+      "value": "https://in.linkedin.com/in/rajkamal-overseas-76835232",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "twitter": {
+      "value": "https://twitter.com/IndiaMART",
+      "sources": [
+        "google",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "9696969696",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "marketing@indiamart.com",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/IndiaMART",
+        "sources": [
+          "facebook",
+          "google",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.instagram.com/indiamart",
+        "sources": [
+          "instagram",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://youtube.com/@indiamart",
+        "sources": [
+          "facebook",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://in.linkedin.com/in/rajkamal-overseas-76835232",
+        "sources": [
+          "google"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://twitter.com/IndiaMART",
+        "sources": [
+          "google",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "confidence": 0.6,
+    "sources": [
+      "google",
+      "facebook",
+      "linkedin"
+    ],
+    "data_sources": [
+      "website"
+    ],
+    "reviews_api_url": "https://api.scrapingdog.com/google_maps/reviews?api_key=69859b2025968963c82b2349&data_id=0x390afcb7194cff17:0x55478e48d9fb6698",
+    "reviews_url": "https://www.google.com/maps?cid=6145036660116252312"
+  },
+  "products": [
+    {
+      "raw_name": "Lanterns",
+      "clean_name": "Lanterns",
+      "fingerprint": "1a07e56b3e1b",
+      "top_level_domain": "Home Decor & Furnishing",
+      "industry_segment": "Decorative Lighting & Accent",
+      "product_category": "Lantern",
+      "product_sub_type": "Decorative Lantern",
+      "buyer_persona": "A consumer or retailer looking for decorative lighting fixtures or accent pieces for home, garden, or event decor.",
+      "description": "Lanterns is a decorative lantern offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or retailer looking for decorative lighting fixtures or accent pieces for home, garden, or event decor.",
+      "seo_title": "Lanterns Decorative Lantern | Catalog Listing",
+      "tags": [
+        "Lanterns",
+        "Home Decor & Furnishings",
+        "Decorative Lighting & Accents",
+        "Lantern",
+        "Decorative Lantern"
+      ],
+      "alt_text": "Lanterns from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://5.imimg.com/data5/MF/BX/MY-6415432/metal-wire-lantern-250x250.jpg",
+        "source_url": "https://www.indiamart.com/lanterns.html"
+      },
+      "specifications": {
+        "category": "Lantern",
+        "sub_type": "Decorative Lantern",
+        "image_url": "https://5.imimg.com/data5/MF/BX/MY-6415432/metal-wire-lantern-250x250.jpg",
+        "source_url": "https://www.indiamart.com/lanterns.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/MF/BX/MY-6415432/metal-wire-lantern-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/MF/BX/MY-6415432/metal-wire-lantern-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/lanterns.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Candle Holders",
+      "clean_name": "Candle Holders",
+      "fingerprint": "5c377846422c",
+      "top_level_domain": "Home & Decor",
+      "industry_segment": "Decorative Home Accent",
+      "product_category": "Candle Holder",
+      "product_sub_type": "Decorative Candle Holder",
+      "buyer_persona": "A consumer or retailer looking for decorative items to enhance home ambiance or for gifting purposes.",
+      "description": "Candle Holders is a decorative candle holder offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or retailer looking for decorative items to enhance home ambiance or for gifting purposes.",
+      "seo_title": "Candle Holders Decorative Candle Holder | Catalog Listing",
+      "tags": [
+        "Candle Holders",
+        "Home & Decor",
+        "Decorative Home Accents",
+        "Candle Holder",
+        "Decorative Candle Holder"
+      ],
+      "alt_text": "Candle Holders from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://5.imimg.com/data5/RI/XE/MY-6415432/aluminium-candle-holder-250x250.jpg",
+        "source_url": "https://www.indiamart.com/candle-holders.html"
+      },
+      "specifications": {
+        "category": "Candle Holder",
+        "sub_type": "Decorative Candle Holder",
+        "image_url": "https://5.imimg.com/data5/RI/XE/MY-6415432/aluminium-candle-holder-250x250.jpg",
+        "source_url": "https://www.indiamart.com/candle-holders.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/RI/XE/MY-6415432/aluminium-candle-holder-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/RI/XE/MY-6415432/aluminium-candle-holder-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/candle-holders.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Decorative Lamps",
+      "clean_name": "Decorative Lamps",
+      "fingerprint": "e0287eebd30c",
+      "top_level_domain": "Home & Living",
+      "industry_segment": "Decorative Lighting",
+      "product_category": "Lamp",
+      "product_sub_type": "Decorative Lamp",
+      "buyer_persona": "A consumer or interior designer looking for aesthetic lighting fixtures to enhance home or commercial decor.",
+      "description": "Decorative Lamps is a decorative lamp offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or interior designer looking for aesthetic lighting fixtures to enhance home or commercial decor.",
+      "seo_title": "Decorative Lamps Decorative Lamp | Catalog Listing",
+      "tags": [
+        "Decorative Lamps",
+        "Home & Living",
+        "Decorative Lighting",
+        "Lamp",
+        "Decorative Lamp"
+      ],
+      "alt_text": "Decorative Lamps from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://5.imimg.com/data5/DL/HB/MY-6415432/wire-lamp-250x250.jpg",
+        "source_url": "https://www.indiamart.com/decorative-lamps.html"
+      },
+      "specifications": {
+        "category": "Lamp",
+        "sub_type": "Decorative Lamp",
+        "image_url": "https://5.imimg.com/data5/DL/HB/MY-6415432/wire-lamp-250x250.jpg",
+        "source_url": "https://www.indiamart.com/decorative-lamps.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/DL/HB/MY-6415432/wire-lamp-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/DL/HB/MY-6415432/wire-lamp-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/decorative-lamps.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Wooden Bowl",
+      "clean_name": "Wooden Bowl",
+      "fingerprint": "2d8faadd6dea",
+      "top_level_domain": "Home & Decor",
+      "industry_segment": "Tableware & Serveware",
+      "product_category": "Bowl",
+      "product_sub_type": "Wooden Bowl",
+      "buyer_persona": "A consumer or retailer looking for decorative or functional wooden serveware and home decor items.",
+      "description": "Wooden Bowl is a wooden bowl offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or retailer looking for decorative or functional wooden serveware and home decor items.",
+      "seo_title": "Wooden Bowl Wooden Bowl | Catalog Listing",
+      "tags": [
+        "Wooden Bowl",
+        "Home & Decor",
+        "Tableware & Serveware",
+        "Bowl"
+      ],
+      "alt_text": "Wooden Bowl from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://5.imimg.com/data5/OJ/NS/MY-6415432/2392-17-w-5x5x2-25-in-250x250.jpg",
+        "source_url": "https://www.indiamart.com/wooden-bowl.html"
+      },
+      "specifications": {
+        "category": "Bowl",
+        "sub_type": "Wooden Bowl",
+        "image_url": "https://5.imimg.com/data5/OJ/NS/MY-6415432/2392-17-w-5x5x2-25-in-250x250.jpg",
+        "source_url": "https://www.indiamart.com/wooden-bowl.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/OJ/NS/MY-6415432/2392-17-w-5x5x2-25-in-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/OJ/NS/MY-6415432/2392-17-w-5x5x2-25-in-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/wooden-bowl.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Jewelry Boxes",
+      "clean_name": "Jewelry Boxes",
+      "fingerprint": "cc9455786c9b",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Personal Accessories Storage",
+      "product_category": "Jewelry Box",
+      "product_sub_type": "Decorative Jewelry Box",
+      "buyer_persona": "A consumer looking for an item to store or display jewelry, often with an aesthetic or gift-giving purpose.",
+      "description": "Jewelry Boxes is a decorative jewelry box offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer looking for an item to store or display jewelry, often with an aesthetic or gift-giving purpose.",
+      "seo_title": "Jewelry Boxes Decorative Jewelry Box | Catalog Listing",
+      "tags": [
+        "Jewelry Boxes",
+        "Consumer Goods",
+        "Personal Accessories Storage",
+        "Jewelry Box",
+        "Decorative Jewelry Box"
+      ],
+      "alt_text": "Jewelry Boxes from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://5.imimg.com/data5/CO/CL/MY-6415432/01077208-s-1-jewellery-box-500x500-250x250.jpg",
+        "source_url": "https://www.indiamart.com/jewelry-boxes.html"
+      },
+      "specifications": {
+        "category": "Jewelry Box",
+        "sub_type": "Decorative Jewelry Box",
+        "image_url": "https://5.imimg.com/data5/CO/CL/MY-6415432/01077208-s-1-jewellery-box-500x500-250x250.jpg",
+        "source_url": "https://www.indiamart.com/jewelry-boxes.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/CO/CL/MY-6415432/01077208-s-1-jewellery-box-500x500-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/CO/CL/MY-6415432/01077208-s-1-jewellery-box-500x500-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/jewelry-boxes.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Brick Making Machines",
+      "clean_name": "Brick Making Machines",
+      "fingerprint": "77a5c1829839",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Construction & Building Material Machinery",
+      "product_category": "Brick Making Machine",
+      "product_sub_type": "Brick Making Machine",
+      "buyer_persona": "Construction companies, building material manufacturers, or entrepreneurs starting a brick production business, to produce bricks efficiently.",
+      "description": "Brick Making Machines is a brick making machine offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: Construction companies, building material manufacturers, or entrepreneurs starting a brick production business, to produce bricks efficiently.",
+      "seo_title": "Brick Making Machines Brick Making Machine | Catalog Listing",
+      "tags": [
+        "Brick Making Machines",
+        "Industrial Equipment",
+        "Construction & Building Material Machinery",
+        "Brick Making Machine"
+      ],
+      "alt_text": "Brick Making Machines from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/brick-making-machines.html"
+      },
+      "specifications": {
+        "category": "Brick Making Machine",
+        "sub_type": "Brick Making Machine",
+        "image_url": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/brick-making-machines.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/brick-making-machines.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "TMT Bars",
+      "clean_name": "TMT Bars",
+      "fingerprint": "6e56c97b1438",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Building Material",
+      "product_category": "Steel Bar",
+      "product_sub_type": "Tmt Steel Bar",
+      "buyer_persona": "A procurement manager, civil engineer, or construction contractor sourcing reinforcement steel for building and infrastructure projects.",
+      "description": "TMT Bars is a tmt steel bar offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A procurement manager, civil engineer, or construction contractor sourcing reinforcement steel for building and infrastructure projects.",
+      "seo_title": "TMT Bars TMT Steel Bar | Catalog Listing",
+      "tags": [
+        "TMT Bars",
+        "Construction & Infrastructure",
+        "Building Materials",
+        "Steel Bar",
+        "TMT Steel Bar"
+      ],
+      "alt_text": "TMT Bars from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://3.imimg.com/data3/KS/JQ/GLADMIN-2475/tmt-bars-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/tmt-bars.html"
+      },
+      "specifications": {
+        "category": "Steel Bar",
+        "sub_type": "Tmt Steel Bar",
+        "image_url": "https://3.imimg.com/data3/KS/JQ/GLADMIN-2475/tmt-bars-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/tmt-bars.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/KS/JQ/GLADMIN-2475/tmt-bars-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/KS/JQ/GLADMIN-2475/tmt-bars-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/tmt-bars.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Seller's business type 'Handicraft exporter' is inconsistent with 'TMT Bars' product classification."
+      ],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Plywoods",
+      "clean_name": "Plywoods",
+      "fingerprint": "dee1ec27e836",
+      "top_level_domain": "Construction & Building Material",
+      "industry_segment": "Wood & Timber Product",
+      "product_category": "Plywood",
+      "product_sub_type": "Wood Plywood Panel",
+      "buyer_persona": "A carpenter, furniture manufacturer, construction contractor, or handicraft maker looking for wood panels for structural or decorative purposes.",
+      "description": "Plywoods is a wood plywood panel offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A carpenter, furniture manufacturer, construction contractor, or handicraft maker looking for wood panels for structural or decorative purposes.",
+      "seo_title": "Plywoods Wood Plywood Panel | Catalog Listing",
+      "tags": [
+        "Plywoods",
+        "Construction & Building Materials",
+        "Wood & Timber Products",
+        "Plywood",
+        "Wood Plywood Panel"
+      ],
+      "alt_text": "Plywoods from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://5.imimg.com/data5/QO/YD/GLADMIN-2/plywoods-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/engineeredboards.html"
+      },
+      "specifications": {
+        "category": "Plywood",
+        "sub_type": "Wood Plywood Panel",
+        "image_url": "https://5.imimg.com/data5/QO/YD/GLADMIN-2/plywoods-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/engineeredboards.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/QO/YD/GLADMIN-2/plywoods-125x125.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/QO/YD/GLADMIN-2/plywoods-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/engineeredboards.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Excavator",
+      "clean_name": "Excavator",
+      "fingerprint": "6bfacf3c9f27",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Toys & Hobby",
+      "product_category": "Model Vehicle",
+      "product_sub_type": "Model Excavator",
+      "buyer_persona": "A consumer looking for a toy, collectible, or decorative item resembling an excavator.",
+      "description": "Excavator is a model excavator offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer looking for a toy, collectible, or decorative item resembling an excavator.",
+      "seo_title": "Excavator Model Excavator | Catalog Listing",
+      "tags": [
+        "Excavator",
+        "Consumer Goods",
+        "Toys & Hobbies",
+        "Model Vehicle",
+        "Model Excavator"
+      ],
+      "alt_text": "Excavator from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://3.imimg.com/data3/JE/DA/MY-2/hydraulic-excavator-500x500-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/excavator.html"
+      },
+      "specifications": {
+        "category": "Model Vehicle",
+        "sub_type": "Model Excavator",
+        "image_url": "https://3.imimg.com/data3/JE/DA/MY-2/hydraulic-excavator-500x500-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/excavator.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/JE/DA/MY-2/hydraulic-excavator-500x500-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/JE/DA/MY-2/hydraulic-excavator-500x500-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/excavator.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Emulsion Paints",
+      "clean_name": "Emulsion Paints",
+      "fingerprint": "14f0b740a1a6",
+      "top_level_domain": "Chemicals & Material",
+      "industry_segment": "Coatings & Adhesive",
+      "product_category": "Emulsion Paint",
+      "product_sub_type": "Water-based Emulsion Paint",
+      "buyer_persona": "A consumer or professional buyer looking for a specific type of paint for interior or exterior surface coating.",
+      "description": "Emulsion Paints is a water-based emulsion paint offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or professional buyer looking for a specific type of paint for interior or exterior surface coating.",
+      "seo_title": "Emulsion Paints Water-Based Emulsion Paint | Catalog Listing",
+      "tags": [
+        "Emulsion Paints",
+        "Chemicals & Materials",
+        "Coatings & Adhesives",
+        "Emulsion Paint",
+        "Water-Based Emulsion Paint"
+      ],
+      "alt_text": "Emulsion Paints from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://3.imimg.com/data3/VG/QG/GLADMIN-27799/emulsion-paints-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/emulsion-paints.html"
+      },
+      "specifications": {
+        "category": "Emulsion Paint",
+        "sub_type": "Water-based Emulsion Paint",
+        "image_url": "https://3.imimg.com/data3/VG/QG/GLADMIN-27799/emulsion-paints-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/emulsion-paints.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/VG/QG/GLADMIN-27799/emulsion-paints-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/VG/QG/GLADMIN-27799/emulsion-paints-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/emulsion-paints.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Wooden Door",
+      "clean_name": "Wooden Door",
+      "fingerprint": "132d16b6a52c",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Building Materials & Component",
+      "product_category": "Door",
+      "product_sub_type": "Wooden Door",
+      "buyer_persona": "A buyer looking for a door for construction or renovation, potentially with a preference for wooden materials or specific design elements.",
+      "description": "Wooden Door is a wooden door offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A buyer looking for a door for construction or renovation, potentially with a preference for wooden materials or specific design elements.",
+      "seo_title": "Wooden Door Wooden Door | Catalog Listing",
+      "tags": [
+        "Wooden Door",
+        "Construction & Infrastructure",
+        "Building Materials & Components",
+        "Door"
+      ],
+      "alt_text": "Wooden Door from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://3.imimg.com/data3/UT/PB/GLADMIN-12558/wood-door-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/wood-door.html"
+      },
+      "specifications": {
+        "category": "Door",
+        "sub_type": "Wooden Door",
+        "image_url": "https://3.imimg.com/data3/UT/PB/GLADMIN-12558/wood-door-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/wood-door.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/UT/PB/GLADMIN-12558/wood-door-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/UT/PB/GLADMIN-12558/wood-door-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/wood-door.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "PVC Pipes",
+      "clean_name": "PVC Pipes",
+      "fingerprint": "2408360bc06e",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Plumbing & Piping System",
+      "product_category": "Pipe",
+      "product_sub_type": "Pvc Pipe",
+      "buyer_persona": "Construction companies, plumbers, hardware stores, or individuals purchasing for plumbing, drainage, or irrigation systems.",
+      "description": "PVC Pipes is a pvc pipe offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: Construction companies, plumbers, hardware stores, or individuals purchasing for plumbing, drainage, or irrigation systems.",
+      "seo_title": "PVC Pipes PVC Pipe | Catalog Listing",
+      "tags": [
+        "PVC Pipes",
+        "Construction & Infrastructure",
+        "Plumbing & Piping Systems",
+        "Pipe",
+        "PVC Pipe"
+      ],
+      "alt_text": "PVC Pipes from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://3.imimg.com/data3/VN/LA/GLADMIN-2047/pvc-pipes-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/pvc-pipes.html"
+      },
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Pvc Pipe",
+        "image_url": "https://3.imimg.com/data3/VN/LA/GLADMIN-2047/pvc-pipes-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/pvc-pipes.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/VN/LA/GLADMIN-2047/pvc-pipes-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/VN/LA/GLADMIN-2047/pvc-pipes-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/pvc-pipes.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Building Brick",
+      "clean_name": "Building Brick",
+      "fingerprint": "db1f0dd2dec2",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Decorative & Handicraft Item",
+      "product_category": "Decorative Brick",
+      "product_sub_type": "Miniature Building Brick",
+      "buyer_persona": "A hobbyist, crafter, or decorator looking for miniature or decorative elements for projects, dioramas, or home decor.",
+      "description": "Building Brick is a miniature building brick offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A hobbyist, crafter, or decorator looking for miniature or decorative elements for projects, dioramas, or home decor.",
+      "seo_title": "Building Brick Miniature Building Brick | Catalog Listing",
+      "tags": [
+        "Building Brick",
+        "Consumer Goods",
+        "Decorative & Handicraft Items",
+        "Decorative Brick",
+        "Miniature Building Brick"
+      ],
+      "alt_text": "Building Brick from Rajkamal Overseas ( Factory )",
+      "domain_attributes": {
+        "image_url": "https://3.imimg.com/data3/YD/WE/GLADMIN-23639/building-brick-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/building-brick.html"
+      },
+      "specifications": {
+        "category": "Decorative Brick",
+        "sub_type": "Miniature Building Brick",
+        "image_url": "https://3.imimg.com/data3/YD/WE/GLADMIN-23639/building-brick-125x125.jpg",
+        "source_url": "https://dir.indiamart.com/impcat/building-brick.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/YD/WE/GLADMIN-23639/building-brick-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/YD/WE/GLADMIN-23639/building-brick-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/building-brick.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "1a07e56b3e1b",
+      "product_name": "Lanterns",
+      "url": "https://5.imimg.com/data5/MF/BX/MY-6415432/metal-wire-lantern-250x250.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.95,
+      "visual_features": {
+        "product_type_confirmed": "lanterns",
+        "shape_visible": "geometric, multi-faceted, tapering",
+        "color_appearance": "dark metal (black/dark grey)",
+        "clarity_appearance": null,
+        "size_impression": "one larger, one smaller (relative sizes)",
+        "setting_or_mounting": "freestanding, with hanging loop",
+        "metal_visible": "dark metal",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Two lanterns of different sizes, intricate wirework, small feet at base, hanging loop at top."
+      },
+      "visual_description": "The image displays two decorative lanterns of differing sizes, crafted from dark metal wire. Both lanterns feature a geometric, multi-faceted design that tapers upwards, resembling an inverted truncated pyramid or cone with intricate triangular and polygonal patterns. They are presented against a plain, light-colored background, suggesting a studio product shot.",
+      "media_alt_text": "Two dark metal wire lanterns, one larger and one smaller, with intricate geometric designs, on a plain light background.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:58:55.839Z"
+    },
+    {
+      "fingerprint": "5c377846422c",
+      "product_name": "Candle Holders",
+      "url": "https://5.imimg.com/data5/RI/XE/MY-6415432/aluminium-candle-holder-250x250.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "candle holders",
+        "shape_visible": "tapered, cylindrical, round base",
+        "color_appearance": "silver-toned, metallic grey",
+        "clarity_appearance": null,
+        "size_impression": "a set of three varying in height (small, medium, large relative to each other)",
+        "setting_or_mounting": null,
+        "metal_visible": "silver-toned metal",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "set of three, ribbed/fluted design on stems"
+      },
+      "visual_description": "The image displays a set of three metallic candle holders of varying heights, presented against a plain white background. Each candle holder features a round base, a slender, tapered stem with a ribbed or fluted design, and a cup-shaped top designed to hold a candle. The metal appears to be silver-toned with a brushed or matte finish, suggesting a quality, durable construction.",
+      "media_alt_text": "Set of three silver-toned metallic candle holders of varying heights, featuring ribbed stems and round bases, on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:58:56.061Z"
+    },
+    {
+      "fingerprint": "e0287eebd30c",
+      "product_name": "Decorative Lamps",
+      "url": "https://5.imimg.com/data5/DL/HB/MY-6415432/wire-lamp-250x250.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.95,
+      "visual_features": {
+        "product_type_confirmed": "pendant lamp fixture",
+        "shape_visible": "conical cage (shade), dome (canopy)",
+        "color_appearance": "copper-toned metal, black cord",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": "pendant style fixture",
+        "metal_visible": "copper-toned metal",
+        "certification_label_visible": false,
+        "presentation": "rustic/outdoor setting, laid on wood",
+        "additional_visual_notes": "industrial style, wire cage design"
+      },
+      "visual_description": "The image displays a decorative pendant lamp fixture featuring a copper-toned metal wire cage shade and a matching dome-shaped ceiling rose/canopy. A black electrical cord connects the components, appearing coiled next to the canopy. The product is presented on a rustic surface composed of rough wooden planks and earthy ground, suggesting an outdoor or natural setting.",
+      "media_alt_text": "Copper-toned wire cage pendant lamp fixture with black cord and matching canopy, displayed on a rustic wooden surface.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:58:55.827Z"
+    },
+    {
+      "fingerprint": "2d8faadd6dea",
+      "product_name": "Wooden Bowl",
+      "url": "https://5.imimg.com/data5/OJ/NS/MY-6415432/2392-17-w-5x5x2-25-in-250x250.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.95,
+      "visual_features": {
+        "product_type_confirmed": "wooden bowl",
+        "shape_visible": "tapered, slightly irregular round opening",
+        "color_appearance": "white exterior, natural light brown wood interior",
+        "clarity_appearance": null,
+        "size_impression": "small to medium",
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "two-tone design, natural wood grain visible inside"
+      },
+      "visual_description": "The image displays a single, two-tone wooden bowl presented against a plain white background. The bowl features a smooth, matte white exterior that tapers inwards towards the base, while its interior reveals the natural light brown wood grain. The rim of the bowl is also natural wood, showing a slight irregularity in its circular shape, indicating a handcrafted or organic aesthetic. The overall quality appears good, with clean lines and a simple, modern presentation.",
+      "media_alt_text": "A two-tone wooden bowl with a matte white exterior and a natural light brown wood interior, presented on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:03.572Z"
+    },
+    {
+      "fingerprint": "cc9455786c9b",
+      "product_name": "Jewelry Boxes",
+      "url": "https://5.imimg.com/data5/CO/CL/MY-6415432/01077208-s-1-jewellery-box-500x500-250x250.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.95,
+      "visual_features": {
+        "product_type_confirmed": "jewelry box",
+        "shape_visible": "rectangular",
+        "color_appearance": "clear (glass), dark-toned (metal frame)",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "dark-toned metal",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "glass panels, hinged lid, empty interior"
+      },
+      "visual_description": "The image displays a rectangular jewelry box made of clear glass panels with a dark-toned metal frame, presented on a plain white background. The box features a hinged lid that is open, revealing the empty interior. The overall appearance suggests a simple, modern design suitable for displaying jewelry or small items.",
+      "media_alt_text": "Rectangular clear glass jewelry box with a dark metal frame and an open hinged lid, on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:02.047Z"
+    },
+    {
+      "fingerprint": "77a5c1829839",
+      "product_name": "Brick Making Machines",
+      "url": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Industrial brick-making machine",
+        "shape_visible": null,
+        "color_appearance": "Predominantly blue and grey",
+        "clarity_appearance": null,
+        "size_impression": "Large industrial scale",
+        "setting_or_mounting": null,
+        "metal_visible": "Industrial metal components",
+        "certification_label_visible": false,
+        "presentation": "White background studio",
+        "additional_visual_notes": "Complex assembly with hydraulic unit, hoses, and electrical controls."
+      },
+      "visual_description": "The image displays a large, complex piece of industrial machinery, likely a brick-making machine, composed of a main frame and a separate hydraulic power unit. The machine is predominantly blue and grey, with various metal components, hoses, and electrical boxes visible. It is presented against a plain white background, suggesting a studio product shot.",
+      "media_alt_text": "Blue and grey industrial brick-making machine with a separate hydraulic power unit, presented on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:07.170Z"
+    },
+    {
+      "fingerprint": "6e56c97b1438",
+      "product_name": "TMT Bars",
+      "url": "https://3.imimg.com/data3/KS/JQ/GLADMIN-2475/tmt-bars-125x125.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "steel reinforcement bars (TMT bars)",
+        "shape_visible": "cylindrical",
+        "color_appearance": "dark grey / blue-grey, metallic",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "steel",
+        "certification_label_visible": false,
+        "presentation": "stacked, close-up, industrial setting implied",
+        "additional_visual_notes": "ribbed texture visible on the bars"
+      },
+      "visual_description": "The image shows a close-up, angled view of numerous dark grey, cylindrical steel reinforcement bars (TMT bars) stacked together. Each bar features a distinct ribbed texture along its length, indicating its purpose for enhanced grip in construction. The background is out of focus, suggesting a large quantity of these bars in an industrial setting.",
+      "media_alt_text": "Close-up of a stack of dark grey, ribbed steel reinforcement bars (TMT bars) in an industrial setting.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:17.903Z"
+    },
+    {
+      "fingerprint": "dee1ec27e836",
+      "product_name": "Plywoods",
+      "url": "https://5.imimg.com/data5/QO/YD/GLADMIN-2/plywoods-125x125.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Plywood sheets",
+        "shape_visible": "Rectangular",
+        "color_appearance": "Light reddish-brown, natural wood color",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "Stacked in a simple setting",
+        "additional_visual_notes": "Visible wood grain, multiple sheets stacked"
+      },
+      "visual_description": "The image displays a stack of multiple rectangular plywood sheets, fanned out slightly to show their individual surfaces and edges. The plywood has a light reddish-brown, natural wood color with visible wood grain patterns. The background is indistinct, suggesting a simple studio or warehouse setting.",
+      "media_alt_text": "Close-up of a stack of light reddish-brown rectangular plywood sheets, fanned out to show their wood grain.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:14.862Z"
+    },
+    {
+      "fingerprint": "6bfacf3c9f27",
+      "product_name": "Excavator",
+      "url": "https://3.imimg.com/data3/JE/DA/MY-2/hydraulic-excavator-500x500-125x125.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Model excavator",
+        "shape_visible": "Complex machinery shape",
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "White background studio",
+        "additional_visual_notes": "Detailed model or toy excavator, predominantly yellow with black and grey components."
+      },
+      "visual_description": "The image displays a detailed model excavator, predominantly yellow with black and grey accents, positioned against a clean white background. The excavator features a tracked base, a cabin with dark windows, a long articulated boom, and a large black digging bucket. The product appears to be a high-quality replica or toy, presented in a standard studio product shot style.",
+      "media_alt_text": "A detailed yellow and black model excavator with a digging bucket, presented on a clean white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:18.148Z"
+    },
+    {
+      "fingerprint": "14f0b740a1a6",
+      "product_name": "Emulsion Paints",
+      "url": "https://3.imimg.com/data3/VG/QG/GLADMIN-27799/emulsion-paints-125x125.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "paint bucket",
+        "shape_visible": "cylindrical",
+        "color_appearance": "white bucket, blue lid, blue, green, black, and brown label elements with white text",
+        "clarity_appearance": null,
+        "size_impression": "medium to large (likely 5-10 liters)",
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Text 'Flat', 'High quality emulsion', 'Acrylic emulsion' visible on the label. A stylized logo is also visible on the blue section of the label."
+      },
+      "visual_description": "The image displays a white cylindrical bucket with a blue lid, likely containing paint. The bucket features a label with a blue geometric design on the left, a green and black section below it, and a brown section on the right with white text that reads \"Flat,\" \"High quality emulsion,\" and \"Acrylic emulsion.\" The product is presented against a plain white background, indicating a studio shot.",
+      "media_alt_text": "A white cylindrical paint bucket with a blue lid, featuring a label with blue, green, and brown sections and text 'Flat' and 'High quality emulsion'.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:15.981Z"
+    },
+    {
+      "fingerprint": "132d16b6a52c",
+      "product_name": "Wooden Door",
+      "url": "https://3.imimg.com/data3/UT/PB/GLADMIN-12558/wood-door-125x125.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 0.95,
+      "visual_features": {
+        "product_type_confirmed": "Wooden door",
+        "shape_visible": "Arched top, rectangular body",
+        "color_appearance": "Light brown, natural wood grain",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "Dark metal (handle)",
+        "certification_label_visible": false,
+        "presentation": "White background studio",
+        "additional_visual_notes": "Paneled design, three rectangular glass inserts, vertical handle"
+      },
+      "visual_description": "The image displays a light-colored wooden door with an arched top and a rectangular body, presented against a plain white background. The door features a paneled design with multiple rectangular sections, including three clear glass inserts at the top. A dark, vertical handle is visible on the right side of the door.",
+      "media_alt_text": "Arched top wooden door with light natural wood grain, paneled design, three glass inserts, and a dark vertical handle.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:15.621Z"
+    },
+    {
+      "fingerprint": "2408360bc06e",
+      "product_name": "PVC Pipes",
+      "url": "https://3.imimg.com/data3/VN/LA/GLADMIN-2047/pvc-pipes-125x125.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "pipes",
+        "shape_visible": "cylindrical",
+        "color_appearance": "light gray",
+        "clarity_appearance": null,
+        "size_impression": "varying diameters (small to medium-large)",
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "multiple pipes of different diameters"
+      },
+      "visual_description": "The image displays four light gray cylindrical pipes of varying diameters, arranged diagonally against a plain white background. The pipes appear to be made of a smooth, matte material, with their hollow ends visible, indicating their tubular nature. The presentation is clean and focused solely on the product.",
+      "media_alt_text": "Four light gray cylindrical pipes of different diameters are arranged diagonally against a plain white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:24.730Z"
+    },
+    {
+      "fingerprint": "db1f0dd2dec2",
+      "product_name": "Building Brick",
+      "url": "https://3.imimg.com/data3/YD/WE/GLADMIN-23639/building-brick-125x125.jpg",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "building brick",
+        "shape_visible": "rectangular prism",
+        "color_appearance": "reddish-brown",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "three circular holes on top surface"
+      },
+      "visual_description": "The image displays a single, rectangular building brick with a reddish-brown hue and a slightly textured surface. Three evenly spaced, circular holes are visible along the top face of the brick. It is presented in a clean, studio-style shot against a plain white background.",
+      "media_alt_text": "Reddish-brown building brick with three circular holes on its top surface, presented against a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-07T07:59:26.264Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "Lanterns",
+      "fingerprint": "1a07e56b3e1b",
+      "top_level_domain": "Home Decor & Furnishing",
+      "industry_segment": "Decorative Lighting & Accent",
+      "product_category": "Lantern",
+      "product_sub_type": "Decorative Lantern",
+      "buyer_persona": "A consumer or retailer looking for decorative lighting fixtures or accent pieces for home, garden, or event decor.",
+      "seo_title": "Lanterns Decorative Lantern | Catalog Listing",
+      "tags": [
+        "Lanterns",
+        "Home Decor & Furnishings",
+        "Decorative Lighting & Accents",
+        "Lantern",
+        "Decorative Lantern"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/MF/BX/MY-6415432/metal-wire-lantern-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/MF/BX/MY-6415432/metal-wire-lantern-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/lanterns.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Lanterns is a decorative lantern offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or retailer looking for decorative lighting fixtures or accent pieces for home, garden, or event decor. The image displays two decorative lanterns of differing sizes, crafted from dark metal wire. Both lanterns feature a geometric, multi-faceted design that tapers upwards, resembling an inverted truncated pyramid or cone with intricate triangular and polygonal patterns. They are presented against a plain, light-colored background, suggesting a studio product shot.",
+      "specifications": {
+        "category": "Lantern",
+        "sub_type": "Decorative Lantern",
+        "visual_shape": "geometric, multi-faceted, tapering",
+        "visual_color": "dark metal (black/dark grey)",
+        "visual_size": "one larger, one smaller (relative sizes)",
+        "setting": "freestanding, with hanging loop",
+        "visual_metal": "dark metal",
+        "presentation": "white background studio",
+        "visual_product_type": "lanterns",
+        "visual_notes": "Two lanterns of different sizes, intricate wirework, small feet at base, hanging loop at top."
+      },
+      "alt_text": "Two dark metal wire lanterns, one larger and one smaller, with intricate geometric designs, on a plain light background.",
+      "used_vision": true,
+      "media_url": "https://5.imimg.com/data5/MF/BX/MY-6415432/metal-wire-lantern-250x250.jpg"
+    },
+    {
+      "clean_name": "Candle Holders",
+      "fingerprint": "5c377846422c",
+      "top_level_domain": "Home & Decor",
+      "industry_segment": "Decorative Home Accent",
+      "product_category": "Candle Holder",
+      "product_sub_type": "Decorative Candle Holder",
+      "buyer_persona": "A consumer or retailer looking for decorative items to enhance home ambiance or for gifting purposes.",
+      "seo_title": "Candle Holders Decorative Candle Holder | Catalog Listing",
+      "tags": [
+        "Candle Holders",
+        "Home & Decor",
+        "Decorative Home Accents",
+        "Candle Holder",
+        "Decorative Candle Holder"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/RI/XE/MY-6415432/aluminium-candle-holder-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/RI/XE/MY-6415432/aluminium-candle-holder-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/candle-holders.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Candle Holders is a decorative candle holder offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or retailer looking for decorative items to enhance home ambiance or for gifting purposes. The image displays a set of three metallic candle holders of varying heights, presented against a plain white background. Each candle holder features a round base, a slender, tapered stem with a ribbed or fluted design, and a cup-shaped top designed to hold a candle. The metal appears to be silver-toned with a brushed or matte finish, suggesting a quality, durable construction.",
+      "specifications": {
+        "category": "Candle Holder",
+        "sub_type": "Decorative Candle Holder",
+        "visual_shape": "tapered, cylindrical, round base",
+        "visual_color": "silver-toned, metallic grey",
+        "visual_size": "a set of three varying in height (small, medium, large relative to each other)",
+        "visual_metal": "silver-toned metal",
+        "presentation": "white background studio",
+        "visual_product_type": "candle holders",
+        "visual_notes": "set of three, ribbed/fluted design on stems"
+      },
+      "alt_text": "Set of three silver-toned metallic candle holders of varying heights, featuring ribbed stems and round bases, on a white background.",
+      "used_vision": true,
+      "media_url": "https://5.imimg.com/data5/RI/XE/MY-6415432/aluminium-candle-holder-250x250.jpg"
+    },
+    {
+      "clean_name": "Decorative Lamps",
+      "fingerprint": "e0287eebd30c",
+      "top_level_domain": "Home & Living",
+      "industry_segment": "Decorative Lighting",
+      "product_category": "Lamp",
+      "product_sub_type": "Decorative Lamp",
+      "buyer_persona": "A consumer or interior designer looking for aesthetic lighting fixtures to enhance home or commercial decor.",
+      "seo_title": "Decorative Lamps Decorative Lamp | Catalog Listing",
+      "tags": [
+        "Decorative Lamps",
+        "Home & Living",
+        "Decorative Lighting",
+        "Lamp",
+        "Decorative Lamp"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/DL/HB/MY-6415432/wire-lamp-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/DL/HB/MY-6415432/wire-lamp-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/decorative-lamps.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Decorative Lamps is a decorative lamp offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or interior designer looking for aesthetic lighting fixtures to enhance home or commercial decor. The image displays a decorative pendant lamp fixture featuring a copper-toned metal wire cage shade and a matching dome-shaped ceiling rose/canopy. A black electrical cord connects the components, appearing coiled next to the canopy. The product is presented on a rustic surface composed of rough wooden planks and earthy ground, suggesting an outdoor or natural setting.",
+      "specifications": {
+        "category": "Lamp",
+        "sub_type": "Decorative Lamp",
+        "visual_shape": "conical cage (shade), dome (canopy)",
+        "visual_color": "copper-toned metal, black cord",
+        "visual_size": "medium",
+        "setting": "pendant style fixture",
+        "visual_metal": "copper-toned metal",
+        "presentation": "rustic/outdoor setting, laid on wood",
+        "visual_product_type": "pendant lamp fixture",
+        "visual_notes": "industrial style, wire cage design"
+      },
+      "alt_text": "Copper-toned wire cage pendant lamp fixture with black cord and matching canopy, displayed on a rustic wooden surface.",
+      "used_vision": true,
+      "media_url": "https://5.imimg.com/data5/DL/HB/MY-6415432/wire-lamp-250x250.jpg"
+    },
+    {
+      "clean_name": "Wooden Bowl",
+      "fingerprint": "2d8faadd6dea",
+      "top_level_domain": "Home & Decor",
+      "industry_segment": "Tableware & Serveware",
+      "product_category": "Bowl",
+      "product_sub_type": "Wooden Bowl",
+      "buyer_persona": "A consumer or retailer looking for decorative or functional wooden serveware and home decor items.",
+      "seo_title": "Wooden Bowl Wooden Bowl | Catalog Listing",
+      "tags": [
+        "Wooden Bowl",
+        "Home & Decor",
+        "Tableware & Serveware",
+        "Bowl"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/OJ/NS/MY-6415432/2392-17-w-5x5x2-25-in-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/OJ/NS/MY-6415432/2392-17-w-5x5x2-25-in-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/wooden-bowl.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Wooden Bowl is a wooden bowl offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or retailer looking for decorative or functional wooden serveware and home decor items. The image displays a single, two-tone wooden bowl presented against a plain white background. The bowl features a smooth, matte white exterior that tapers inwards towards the base, while its interior reveals the natural light brown wood grain. The rim of the bowl is also natural wood, showing a slight irregularity in its circular shape, indicating a handcrafted or organic aesthetic. The overall quality appears good, with clean lines and a simple, modern presentation.",
+      "specifications": {
+        "category": "Bowl",
+        "sub_type": "Wooden Bowl",
+        "visual_shape": "tapered, slightly irregular round opening",
+        "visual_color": "white exterior, natural light brown wood interior",
+        "visual_size": "small to medium",
+        "presentation": "white background studio",
+        "visual_product_type": "wooden bowl",
+        "visual_notes": "two-tone design, natural wood grain visible inside"
+      },
+      "alt_text": "A two-tone wooden bowl with a matte white exterior and a natural light brown wood interior, presented on a white background.",
+      "used_vision": true,
+      "media_url": "https://5.imimg.com/data5/OJ/NS/MY-6415432/2392-17-w-5x5x2-25-in-250x250.jpg"
+    },
+    {
+      "clean_name": "Jewelry Boxes",
+      "fingerprint": "cc9455786c9b",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Personal Accessories Storage",
+      "product_category": "Jewelry Box",
+      "product_sub_type": "Decorative Jewelry Box",
+      "buyer_persona": "A consumer looking for an item to store or display jewelry, often with an aesthetic or gift-giving purpose.",
+      "seo_title": "Jewelry Boxes Decorative Jewelry Box | Catalog Listing",
+      "tags": [
+        "Jewelry Boxes",
+        "Consumer Goods",
+        "Personal Accessories Storage",
+        "Jewelry Box",
+        "Decorative Jewelry Box"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/CO/CL/MY-6415432/01077208-s-1-jewellery-box-500x500-250x250.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/CO/CL/MY-6415432/01077208-s-1-jewellery-box-500x500-250x250.jpg"
+      ],
+      "source_url": "https://www.indiamart.com/jewelry-boxes.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Jewelry Boxes is a decorative jewelry box offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer looking for an item to store or display jewelry, often with an aesthetic or gift-giving purpose. The image displays a rectangular jewelry box made of clear glass panels with a dark-toned metal frame, presented on a plain white background. The box features a hinged lid that is open, revealing the empty interior. The overall appearance suggests a simple, modern design suitable for displaying jewelry or small items.",
+      "specifications": {
+        "category": "Jewelry Box",
+        "sub_type": "Decorative Jewelry Box",
+        "visual_shape": "rectangular",
+        "visual_color": "clear (glass), dark-toned (metal frame)",
+        "visual_metal": "dark-toned metal",
+        "presentation": "white background studio",
+        "visual_product_type": "jewelry box",
+        "visual_notes": "glass panels, hinged lid, empty interior"
+      },
+      "alt_text": "Rectangular clear glass jewelry box with a dark metal frame and an open hinged lid, on a white background.",
+      "used_vision": true,
+      "media_url": "https://5.imimg.com/data5/CO/CL/MY-6415432/01077208-s-1-jewellery-box-500x500-250x250.jpg"
+    },
+    {
+      "clean_name": "Brick Making Machines",
+      "fingerprint": "77a5c1829839",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Construction & Building Material Machinery",
+      "product_category": "Brick Making Machine",
+      "product_sub_type": "Brick Making Machine",
+      "buyer_persona": "Construction companies, building material manufacturers, or entrepreneurs starting a brick production business, to produce bricks efficiently.",
+      "seo_title": "Brick Making Machines Brick Making Machine | Catalog Listing",
+      "tags": [
+        "Brick Making Machines",
+        "Industrial Equipment",
+        "Construction & Building Material Machinery",
+        "Brick Making Machine"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/brick-making-machines.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Brick Making Machines is a brick making machine offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: Construction companies, building material manufacturers, or entrepreneurs starting a brick production business, to produce bricks efficiently. The image displays a large, complex piece of industrial machinery, likely a brick-making machine, composed of a main frame and a separate hydraulic power unit. The machine is predominantly blue and grey, with various metal components, hoses, and electrical boxes visible. It is presented against a plain white background, suggesting a studio product shot.",
+      "specifications": {
+        "category": "Brick Making Machine",
+        "sub_type": "Brick Making Machine",
+        "visual_color": "Predominantly blue and grey",
+        "visual_size": "Large industrial scale",
+        "visual_metal": "Industrial metal components",
+        "presentation": "White background studio",
+        "visual_product_type": "Industrial brick-making machine",
+        "visual_notes": "Complex assembly with hydraulic unit, hoses, and electrical controls."
+      },
+      "alt_text": "Blue and grey industrial brick-making machine with a separate hydraulic power unit, presented on a white background.",
+      "used_vision": true,
+      "media_url": "https://3.imimg.com/data3/RS/UH/GLADMIN-5385/brick-making-machines-125x125.jpg"
+    },
+    {
+      "clean_name": "TMT Bars",
+      "fingerprint": "6e56c97b1438",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Building Material",
+      "product_category": "Steel Bar",
+      "product_sub_type": "Tmt Steel Bar",
+      "buyer_persona": "A procurement manager, civil engineer, or construction contractor sourcing reinforcement steel for building and infrastructure projects.",
+      "seo_title": "TMT Bars TMT Steel Bar | Catalog Listing",
+      "tags": [
+        "TMT Bars",
+        "Construction & Infrastructure",
+        "Building Materials",
+        "Steel Bar",
+        "TMT Steel Bar"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/KS/JQ/GLADMIN-2475/tmt-bars-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/KS/JQ/GLADMIN-2475/tmt-bars-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/tmt-bars.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Seller's business type 'Handicraft exporter' is inconsistent with 'TMT Bars' product classification."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "TMT Bars is a tmt steel bar offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A procurement manager, civil engineer, or construction contractor sourcing reinforcement steel for building and infrastructure projects. The image shows a close-up, angled view of numerous dark grey, cylindrical steel reinforcement bars (TMT bars) stacked together. Each bar features a distinct ribbed texture along its length, indicating its purpose for enhanced grip in construction. The background is out of focus, suggesting a large quantity of these bars in an industrial setting.",
+      "specifications": {
+        "category": "Steel Bar",
+        "sub_type": "Tmt Steel Bar",
+        "visual_shape": "cylindrical",
+        "visual_color": "dark grey / blue-grey, metallic",
+        "visual_metal": "steel",
+        "presentation": "stacked, close-up, industrial setting implied",
+        "visual_product_type": "steel reinforcement bars (TMT bars)",
+        "visual_notes": "ribbed texture visible on the bars"
+      },
+      "alt_text": "Close-up of a stack of dark grey, ribbed steel reinforcement bars (TMT bars) in an industrial setting.",
+      "used_vision": true,
+      "media_url": "https://3.imimg.com/data3/KS/JQ/GLADMIN-2475/tmt-bars-125x125.jpg"
+    },
+    {
+      "clean_name": "Plywoods",
+      "fingerprint": "dee1ec27e836",
+      "top_level_domain": "Construction & Building Material",
+      "industry_segment": "Wood & Timber Product",
+      "product_category": "Plywood",
+      "product_sub_type": "Wood Plywood Panel",
+      "buyer_persona": "A carpenter, furniture manufacturer, construction contractor, or handicraft maker looking for wood panels for structural or decorative purposes.",
+      "seo_title": "Plywoods Wood Plywood Panel | Catalog Listing",
+      "tags": [
+        "Plywoods",
+        "Construction & Building Materials",
+        "Wood & Timber Products",
+        "Plywood",
+        "Wood Plywood Panel"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://5.imimg.com/data5/QO/YD/GLADMIN-2/plywoods-125x125.jpg",
+      "photo_urls": [
+        "https://5.imimg.com/data5/QO/YD/GLADMIN-2/plywoods-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/engineeredboards.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Plywoods is a wood plywood panel offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A carpenter, furniture manufacturer, construction contractor, or handicraft maker looking for wood panels for structural or decorative purposes. The image displays a stack of multiple rectangular plywood sheets, fanned out slightly to show their individual surfaces and edges. The plywood has a light reddish-brown, natural wood color with visible wood grain patterns. The background is indistinct, suggesting a simple studio or warehouse setting.",
+      "specifications": {
+        "category": "Plywood",
+        "sub_type": "Wood Plywood Panel",
+        "visual_shape": "Rectangular",
+        "visual_color": "Light reddish-brown, natural wood color",
+        "presentation": "Stacked in a simple setting",
+        "visual_product_type": "Plywood sheets",
+        "visual_notes": "Visible wood grain, multiple sheets stacked"
+      },
+      "alt_text": "Close-up of a stack of light reddish-brown rectangular plywood sheets, fanned out to show their wood grain.",
+      "used_vision": true,
+      "media_url": "https://5.imimg.com/data5/QO/YD/GLADMIN-2/plywoods-125x125.jpg"
+    },
+    {
+      "clean_name": "Excavator",
+      "fingerprint": "6bfacf3c9f27",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Toys & Hobby",
+      "product_category": "Model Vehicle",
+      "product_sub_type": "Model Excavator",
+      "buyer_persona": "A consumer looking for a toy, collectible, or decorative item resembling an excavator.",
+      "seo_title": "Excavator Model Excavator | Catalog Listing",
+      "tags": [
+        "Excavator",
+        "Consumer Goods",
+        "Toys & Hobbies",
+        "Model Vehicle",
+        "Model Excavator"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/JE/DA/MY-2/hydraulic-excavator-500x500-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/JE/DA/MY-2/hydraulic-excavator-500x500-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/excavator.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Excavator is a model excavator offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer looking for a toy, collectible, or decorative item resembling an excavator. The image displays a detailed model excavator, predominantly yellow with black and grey accents, positioned against a clean white background. The excavator features a tracked base, a cabin with dark windows, a long articulated boom, and a large black digging bucket. The product appears to be a high-quality replica or toy, presented in a standard studio product shot style.",
+      "specifications": {
+        "category": "Model Vehicle",
+        "sub_type": "Model Excavator",
+        "visual_shape": "Complex machinery shape",
+        "presentation": "White background studio",
+        "visual_product_type": "Model excavator",
+        "visual_notes": "Detailed model or toy excavator, predominantly yellow with black and grey components."
+      },
+      "alt_text": "A detailed yellow and black model excavator with a digging bucket, presented on a clean white background.",
+      "used_vision": true,
+      "media_url": "https://3.imimg.com/data3/JE/DA/MY-2/hydraulic-excavator-500x500-125x125.jpg"
+    },
+    {
+      "clean_name": "Emulsion Paints",
+      "fingerprint": "14f0b740a1a6",
+      "top_level_domain": "Chemicals & Material",
+      "industry_segment": "Coatings & Adhesive",
+      "product_category": "Emulsion Paint",
+      "product_sub_type": "Water-based Emulsion Paint",
+      "buyer_persona": "A consumer or professional buyer looking for a specific type of paint for interior or exterior surface coating.",
+      "seo_title": "Emulsion Paints Water-Based Emulsion Paint | Catalog Listing",
+      "tags": [
+        "Emulsion Paints",
+        "Chemicals & Materials",
+        "Coatings & Adhesives",
+        "Emulsion Paint",
+        "Water-Based Emulsion Paint"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/VG/QG/GLADMIN-27799/emulsion-paints-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/VG/QG/GLADMIN-27799/emulsion-paints-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/emulsion-paints.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Emulsion Paints is a water-based emulsion paint offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or professional buyer looking for a specific type of paint for interior or exterior surface coating. The image displays a white cylindrical bucket with a blue lid, likely containing paint. The bucket features a label with a blue geometric design on the left, a green and black section below it, and a brown section on the right with white text that reads \"Flat,\" \"High quality emulsion,\" and \"Acrylic emulsion.\" The product is presented against a plain white background, indicating a studio shot.",
+      "specifications": {
+        "category": "Emulsion Paint",
+        "sub_type": "Water-based Emulsion Paint",
+        "visual_shape": "cylindrical",
+        "visual_color": "white bucket, blue lid, blue, green, black, and brown label elements with white text",
+        "visual_size": "medium to large (likely 5-10 liters)",
+        "presentation": "white background studio",
+        "visual_product_type": "paint bucket",
+        "visual_notes": "Text 'Flat', 'High quality emulsion', 'Acrylic emulsion' visible on the label. A stylized logo is also visible on the blue section of the label."
+      },
+      "alt_text": "A white cylindrical paint bucket with a blue lid, featuring a label with blue, green, and brown sections and text 'Flat' and 'High quality emulsion'.",
+      "used_vision": true,
+      "media_url": "https://3.imimg.com/data3/VG/QG/GLADMIN-27799/emulsion-paints-125x125.jpg"
+    },
+    {
+      "clean_name": "Wooden Door",
+      "fingerprint": "132d16b6a52c",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Building Materials & Component",
+      "product_category": "Door",
+      "product_sub_type": "Wooden Door",
+      "buyer_persona": "A buyer looking for a door for construction or renovation, potentially with a preference for wooden materials or specific design elements.",
+      "seo_title": "Wooden Door Wooden Door | Catalog Listing",
+      "tags": [
+        "Wooden Door",
+        "Construction & Infrastructure",
+        "Building Materials & Components",
+        "Door"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/UT/PB/GLADMIN-12558/wood-door-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/UT/PB/GLADMIN-12558/wood-door-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/wood-door.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Wooden Door is a wooden door offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A buyer looking for a door for construction or renovation, potentially with a preference for wooden materials or specific design elements. The image displays a light-colored wooden door with an arched top and a rectangular body, presented against a plain white background. The door features a paneled design with multiple rectangular sections, including three clear glass inserts at the top. A dark, vertical handle is visible on the right side of the door.",
+      "specifications": {
+        "category": "Door",
+        "sub_type": "Wooden Door",
+        "visual_shape": "Arched top, rectangular body",
+        "visual_color": "Light brown, natural wood grain",
+        "visual_metal": "Dark metal (handle)",
+        "presentation": "White background studio",
+        "visual_product_type": "Wooden door",
+        "visual_notes": "Paneled design, three rectangular glass inserts, vertical handle"
+      },
+      "alt_text": "Arched top wooden door with light natural wood grain, paneled design, three glass inserts, and a dark vertical handle.",
+      "used_vision": true,
+      "media_url": "https://3.imimg.com/data3/UT/PB/GLADMIN-12558/wood-door-125x125.jpg"
+    },
+    {
+      "clean_name": "PVC Pipes",
+      "fingerprint": "2408360bc06e",
+      "top_level_domain": "Construction & Infrastructure",
+      "industry_segment": "Plumbing & Piping System",
+      "product_category": "Pipe",
+      "product_sub_type": "Pvc Pipe",
+      "buyer_persona": "Construction companies, plumbers, hardware stores, or individuals purchasing for plumbing, drainage, or irrigation systems.",
+      "seo_title": "PVC Pipes PVC Pipe | Catalog Listing",
+      "tags": [
+        "PVC Pipes",
+        "Construction & Infrastructure",
+        "Plumbing & Piping Systems",
+        "Pipe",
+        "PVC Pipe"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/VN/LA/GLADMIN-2047/pvc-pipes-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/VN/LA/GLADMIN-2047/pvc-pipes-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/pvc-pipes.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "PVC Pipes is a pvc pipe offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: Construction companies, plumbers, hardware stores, or individuals purchasing for plumbing, drainage, or irrigation systems. The image displays four light gray cylindrical pipes of varying diameters, arranged diagonally against a plain white background. The pipes appear to be made of a smooth, matte material, with their hollow ends visible, indicating their tubular nature. The presentation is clean and focused solely on the product.",
+      "specifications": {
+        "category": "Pipe",
+        "sub_type": "Pvc Pipe",
+        "visual_shape": "cylindrical",
+        "visual_color": "light gray",
+        "visual_size": "varying diameters (small to medium-large)",
+        "presentation": "white background studio",
+        "visual_product_type": "pipes",
+        "visual_notes": "multiple pipes of different diameters"
+      },
+      "alt_text": "Four light gray cylindrical pipes of different diameters are arranged diagonally against a plain white background.",
+      "used_vision": true,
+      "media_url": "https://3.imimg.com/data3/VN/LA/GLADMIN-2047/pvc-pipes-125x125.jpg"
+    },
+    {
+      "clean_name": "Building Brick",
+      "fingerprint": "db1f0dd2dec2",
+      "top_level_domain": "Consumer Good",
+      "industry_segment": "Decorative & Handicraft Item",
+      "product_category": "Decorative Brick",
+      "product_sub_type": "Miniature Building Brick",
+      "buyer_persona": "A hobbyist, crafter, or decorator looking for miniature or decorative elements for projects, dioramas, or home decor.",
+      "seo_title": "Building Brick Miniature Building Brick | Catalog Listing",
+      "tags": [
+        "Building Brick",
+        "Consumer Goods",
+        "Decorative & Handicraft Items",
+        "Decorative Brick",
+        "Miniature Building Brick"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://3.imimg.com/data3/YD/WE/GLADMIN-23639/building-brick-125x125.jpg",
+      "photo_urls": [
+        "https://3.imimg.com/data3/YD/WE/GLADMIN-23639/building-brick-125x125.jpg"
+      ],
+      "source_url": "https://dir.indiamart.com/impcat/building-brick.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Building Brick is a miniature building brick offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A hobbyist, crafter, or decorator looking for miniature or decorative elements for projects, dioramas, or home decor. The image displays a single, rectangular building brick with a reddish-brown hue and a slightly textured surface. Three evenly spaced, circular holes are visible along the top face of the brick. It is presented in a clean, studio-style shot against a plain white background.",
+      "specifications": {
+        "category": "Decorative Brick",
+        "sub_type": "Miniature Building Brick",
+        "visual_shape": "rectangular prism",
+        "visual_color": "reddish-brown",
+        "presentation": "white background studio",
+        "visual_product_type": "building brick",
+        "visual_notes": "three circular holes on top surface"
+      },
+      "alt_text": "Reddish-brown building brick with three circular holes on its top surface, presented against a white background.",
+      "used_vision": true,
+      "media_url": "https://3.imimg.com/data3/YD/WE/GLADMIN-23639/building-brick-125x125.jpg"
+    }
+  ],
+  "rejected_items": [
+    {
+      "product_name": "Copper Items",
+      "raw_name": "Copper Items",
+      "fingerprint": "9555d4df7369",
+      "primary_photo_url": "https://5.imimg.com/data5/OO/NG/MY-6415432/skc-115-17-7x7x7-50-cm-0-050-price-rs-55-250x250.jpg",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Copperware\" but image clearly shows \"pot / vase\"",
+      "product_agent": {
+        "clean_name": "Copper Items",
+        "category": "Copperware",
+        "sub_type": "Assorted Copperware",
+        "top_level_domain": "Home & Lifestyle",
+        "industry_segment": "Handicrafts & Decor",
+        "classification_confidence": 0.85,
+        "description": "Copper Items is a assorted copperware offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A retailer or consumer looking for decorative or utilitarian items made of copper, often for home decor, kitchen use, or gifting, sourced from handicraft regions.",
+        "tags": [
+          "Copper Items",
+          "Home & Lifestyle",
+          "Handicrafts & Decor",
+          "Copperware",
+          "Assorted Copperware"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "pot / vase",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a single, small, highly polished copper pot or vase with a reddish-brown metallic sheen. It features a rounded body, a distinct ribbed mid-section, and a flared rim. The item is presented against a plain light grey background, highlighting its reflective surface.",
+        "confidence": 0.95,
+        "shape_visible": "rounded body with a flared rim and ribbed mid-section",
+        "color_appearance": "reddish-brown metallic (copper-like)",
+        "size_impression": "small",
+        "setting_or_mounting": null,
+        "additional_notes": "highly reflective surface"
+      },
+      "rejected_at": "2026-05-07T07:59:51.685Z"
+    },
+    {
+      "product_name": "Decorative Item",
+      "raw_name": "Decorative Item",
+      "fingerprint": "932aad3e9087",
+      "primary_photo_url": "https://5.imimg.com/data5/RO/QC/MY-6415432/ka-0877-500x500-250x250.jpg",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Decorative Object\" but image clearly shows \"glass jars / containers\"",
+      "product_agent": {
+        "clean_name": "Decorative Item",
+        "category": "Decorative Object",
+        "sub_type": "Handcrafted Decorative Object",
+        "top_level_domain": "Home & Decor",
+        "industry_segment": "Handicrafts & Artisanal Product",
+        "classification_confidence": 0.85,
+        "description": "Decorative Item is a handcrafted decorative object offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or retailer looking for unique, handcrafted items to enhance home aesthetics or for gifting.",
+        "tags": [
+          "Decorative Item",
+          "Home & Decor",
+          "Handicrafts & Artisanal Products",
+          "Decorative Object",
+          "Handcrafted Decorative Object"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "glass jars / containers",
+        "scene_type": "product_image",
+        "visual_description": "Two clear glass jars are presented against a plain white background. The larger jar on the left contains white granular material, while the smaller jar on the right holds dark grey granular material. Both jars have a simple cylindrical shape with a slightly rolled rim, and embossed text is partially visible on their sides, including 'LAB' and 'SALT'.",
+        "confidence": 0.9,
+        "shape_visible": "cylindrical",
+        "color_appearance": "clear glass, white granular, dark grey granular",
+        "size_impression": "small to medium",
+        "setting_or_mounting": null,
+        "additional_notes": "Two jars, one larger than the other, containing granular material. Embossed text 'LAB' and 'SALT' visible on the jars."
+      },
+      "rejected_at": "2026-05-07T07:59:51.686Z"
+    },
+    {
+      "product_name": "Wall Decor",
+      "raw_name": "Wall Decor",
+      "fingerprint": "bce1c1fbdf1f",
+      "primary_photo_url": "https://5.imimg.com/data5/QY/XI/MY-6415432/recycled-coat-rack-250x250.jpg",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Wall Decor\" but image clearly shows \"wall-mounted coat rack / hook board\"",
+      "product_agent": {
+        "clean_name": "Wall Decor",
+        "category": "Wall Decor",
+        "sub_type": "Decorative Wall Hanging",
+        "top_level_domain": "Consumer Good",
+        "industry_segment": "Home Furnishings & Decor",
+        "classification_confidence": 0.95,
+        "description": "Wall Decor is a decorative wall hanging offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A consumer or interior designer looking to purchase decorative items to enhance the aesthetic appeal of a wall in a home or commercial space.",
+        "tags": [
+          "Wall Decor",
+          "Consumer Goods",
+          "Home Furnishings & Decor",
+          "Decorative Wall Hanging"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "wall-mounted coat rack / hook board",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a rustic wall-mounted coat rack featuring a rectangular wooden plank with a distressed, dark brown finish. Five simple, silver-colored metal hooks are evenly spaced and attached to the wooden board. The product is presented against a plain white background, highlighting its design and texture.",
+        "confidence": 1,
+        "shape_visible": "rectangular board, curved hooks",
+        "color_appearance": "dark brown wood, silver-colored metal hooks",
+        "size_impression": "medium",
+        "setting_or_mounting": "wall-mounted rack",
+        "additional_notes": "rustic wood texture, five metal hooks"
+      },
+      "rejected_at": "2026-05-07T07:59:51.687Z"
+    },
+    {
+      "product_name": "Passenger Lifts",
+      "raw_name": "Passenger Lifts",
+      "fingerprint": "3c646469f129",
+      "primary_photo_url": "https://3.imimg.com/data3/OI/XL/GLADMIN-34562/passenger-lifts-125x125.jpg",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Passenger Lift\" but image clearly shows \"elevator door\"",
+      "product_agent": {
+        "clean_name": "Passenger Lifts",
+        "category": "Passenger Lift",
+        "sub_type": "Vertical Transportation System",
+        "top_level_domain": "Construction & Infrastructure",
+        "industry_segment": "Building Equipment & System",
+        "classification_confidence": 0.8,
+        "description": "Passenger Lifts is a vertical transportation system offered by Rajkamal Overseas ( Factory ) based in Moradabad. Suitable for: A construction company, building developer, or facility manager looking to install or replace vertical transportation systems in residential, commercial, or public buildings.",
+        "tags": [
+          "Passenger Lifts",
+          "Construction & Infrastructure",
+          "Building Equipment & Systems",
+          "Passenger Lift",
+          "Vertical Transportation System"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "elevator door",
+        "scene_type": "product_image",
+        "visual_description": "The image displays the front view of a modern passenger lift door. The doors are made of polished metallic material, likely stainless steel, reflecting some light. The elevator is set within a simple, light grey or greenish-grey textured wall structure, giving the impression of an elevator shaft or a mock-up installation. A control panel with buttons is visible on the right side of the door frame.",
+        "confidence": 1,
+        "shape_visible": null,
+        "color_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "Control panel with multiple buttons and an emergency stop button visible on the right side of the door frame."
+      },
+      "rejected_at": "2026-05-07T07:59:51.688Z"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "saurabh bashera",
+      "rating": 5,
+      "text": "One of the best exporter of Indian wooden handicrafts in Moradabad",
+      "original_lang": "en",
+      "date": "2022-11-08T06:21:02.908Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Ravi Kumar",
+      "rating": 3,
+      "text": "Export house at prabhat market",
+      "original_lang": "en",
+      "date": "2023-01-01T11:42:35.739Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Dhruv Pandey",
+      "rating": 3,
+      "text": "Lots of hard workers work there",
+      "original_lang": "en",
+      "date": "2022-03-12T13:38:38.604Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Rajkamal Readymade Garments",
+      "rating": 5,
+      "text": "ok",
+      "original_lang": "en",
+      "date": "2019-03-15T20:39:25.399Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Dipanshu Sagar",
+      "rating": 5,
+      "text": "Nice",
+      "original_lang": "en",
+      "date": "2021-03-08T13:37:06.813Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "ABHISHEK ARVIND",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-11-15T15:19:59.849Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Vinay Gupta",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2024-06-10T09:09:59.513Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "PUSHPENDRA Pandey",
+      "rating": 4,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-05-12T15:53:42.693Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Vishal Chauhan",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2021-11-07T14:26:26.145Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Neha Daksh",
+      "rating": 4,
+      "text": null,
+      "original_lang": null,
+      "date": "2020-11-19T05:20:34.185Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Mudassir Ansari",
+      "rating": 3,
+      "text": null,
+      "original_lang": null,
+      "date": "2020-10-11T12:18:23.147Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Rahul Ojha",
+      "rating": 3,
+      "text": null,
+      "original_lang": null,
+      "date": "2020-09-07T14:58:55.221Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "shakeel wood craft",
+      "rating": 2,
+      "text": null,
+      "original_lang": null,
+      "date": "2019-07-05T04:43:24.616Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Mohd Mudassir",
+      "rating": 4,
+      "text": null,
+      "original_lang": null,
+      "date": "2018-10-29T03:33:46.909Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 4,
+    "no_of_ratings": 14,
+    "rating_comments": [
+      "One of the best exporter of Indian wooden handicrafts in Moradabad",
+      "Export house at prabhat market",
+      "Lots of hard workers work there",
+      "ok",
+      "Nice"
+    ],
+    "reviews_url": "https://www.google.com/maps?cid=6145036660116252312"
+  },
+  "overall_confidence": 0.86,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/IndiaMART",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/IndiaMART/posts/pfbid02tDJ2TuLxPYizmsRjMRptQzX44AFZ3HvKUhdHoMNQ9KCHJiERqAMfFCPohpzmKMXVl",
+          "thumbnail_url": "https://www.facebook.com/IndiaMART/posts/pfbid02tDJ2TuLxPYizmsRjMRptQzX44AFZ3HvKUhdHoMNQ9KCHJiERqAMfFCPohpzmKMXVl",
+          "caption": "For the ones who make life easier,\nbrighter and fuller every single day.\n\n#MothersDay\n\n#IndiaMART #KaamYahinBantaHai #Festive",
+          "likes": 5,
+          "comments": null,
+          "views": null,
+          "posted_at": 1778074514
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1476152064247857/",
+          "thumbnail_url": "https://www.facebook.com/reel/1476152064247857/",
+          "caption": "This is your sign to source the gala in style.\n\nUpload the look on IndiaMART Lens \nand connect with verified suppliers instantly.\n\nVisit lens.indiamart.com\nKyuki, Kaam Yahin Banta Hai\n\n#IndiaMART #KaamYahinBantaHai #MetGala",
+          "likes": 0,
+          "comments": 1,
+          "views": null,
+          "posted_at": 1777992847
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/1293233139692785/",
+          "thumbnail_url": "https://www.facebook.com/reel/1293233139692785/",
+          "caption": "When she means business all day, everyday!\n\nIf you're ready to scale your business, take the next step with us.\nVisit indiamart.com or WhatsApp us at 9696969696.\n\nIndiaMART, Kaam Yahin Banta Hai.\n\n#IndiaMART #KaamYahinBantaHai #Trend",
+          "likes": 12,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777901294
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "9696969696",
+          "date": 1777901294,
+          "post_url": "https://www.facebook.com/reel/1293233139692785/"
+        }
+      ],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "address": null,
+        "city": null
+      }
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://in.linkedin.com/in/rajkamal-overseas-76835232",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/IndiaMART",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "Twitter/X public scraping not available — requires authenticated Apify actor (paid)"
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-07T07:57:15.695Z",
+    "duration_seconds": 156,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup",
+      "ReviewsFetcher"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 17,
+      "Agent04/Media": 13,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "reviews",
+          "social_enrichment",
+          "sign3_enrichment",
+          "catalog"
+        ],
+        "skip_agents": [],
+        "quality_target": 0.85,
+        "reasoning": "Company profile is mostly complete with a good initial confidence. There are 100 raw products, but will process up to 20. A reviews API URL is present, so run reviews agent. Phones list is empty, so Sign3 will be called after social enrichment if new phones are found."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": 0.9,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 17,
+      "enriched": 17,
+      "catalog_items": 13,
+      "rejected": 4,
+      "with_vision": 13,
+      "vision_skipped": 0
+    },
+    "social": {
+      "urls_detected": 5,
+      "platforms_scraped": [
+        "facebook",
+        "linkedin",
+        "twitter"
+      ],
+      "posts_collected": 3,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.86
+  },
+  "_saved_at": "2026-05-07T07:59:51.691Z"
+}
