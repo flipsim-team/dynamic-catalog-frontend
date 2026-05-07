@@ -16,7 +16,13 @@ const DEFAULT_NAV_LINKS = [
   { key: "contact", label: "Contact", href: "#contact" },
 ];
 
-export default function NavBar({ data }: { data: SellerData }) {
+export default function NavBar({
+  data,
+  galleryVisible = false,
+}: {
+  data: SellerData;
+  galleryVisible?: boolean;
+}) {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [activeSection, setActiveSection] = useState("overview");
@@ -39,9 +45,8 @@ export default function NavBar({ data }: { data: SellerData }) {
       case "products":
         return Boolean((data as any).showcasedItems > 0);
       case "gallery":
-        return Boolean(
-          Array.isArray(data.galleryImages) && data.galleryImages.length > 0,
-        );
+        // only show gallery link if the gallery section is actually visible
+        return Boolean(galleryVisible);
       case "social":
         return Boolean(
           Array.isArray((data as any).socialProfiles) &&

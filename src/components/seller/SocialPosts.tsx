@@ -458,7 +458,9 @@ export default function SocialPosts({ data }: { data: SellerData }) {
                   {activePlatform === "instagram" ? (
                     <Instagram className="w-6 h-6 text-primary" />
                   ) : (
-                    <Youtube className="w-6 h-6 text-primary" />
+                    // platform wise
+                    activePlatform ==="youtube"?
+                     <Youtube className="w-6 h-6 text-primary" /> : activePlatform === "facebook" ? <Facebook className="w-6 h-6 text-primary" /> : activePlatform === "linkedin" ? <Linkedin className="w-6 h-6 text-primary" /> : <Twitter className="w-6 h-6 text-primary" />
                   )}
                 </div>
               )}

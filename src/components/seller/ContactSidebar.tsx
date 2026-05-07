@@ -158,11 +158,8 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
   const hasSocialLinks = socialPlatforms.some((platform) =>
     Boolean(socialAvailability[platform]?.url),
   );
-  const hasMap = Boolean(data.googleLocation || data.fullAddress || data.city);
-  const mapQuery = data.fullAddress || data.city || "";
-  const mapEmbedSrc = mapQuery
-    ? `https://www.google.com/maps?q=${encodeURIComponent(mapQuery)}&output=embed`
-    : "";
+  const hasMap = Boolean(data.googleMapsEmbedUrl);
+  const mapEmbedSrc = data.googleMapsEmbedUrl || "";
   const hasContactDetails =
     visiblePhoneEntries.length > 0 ||
     visibleEmailEntries.length > 0 ||

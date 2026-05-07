@@ -69,10 +69,7 @@ export default function AboutSection({ data }: { data: SellerData }) {
   const hasBusinessMeta = Boolean(
     data.businessType || data.products.length > 0 || data.categories.length > 0,
   );
-  const mapQuery = data.fullAddress || data.city || "";
-  const mapEmbedSrc = mapQuery
-    ? `https://www.google.com/maps?q=${encodeURIComponent(mapQuery)}&output=embed`
-    : "";
+  const mapEmbedSrc = data.googleMapsEmbedUrl || "";
   const hasMap = Boolean(mapEmbedSrc);
   const hasSocialPresence = sortedSocial.length > 0;
   const hasAnyAboutData =

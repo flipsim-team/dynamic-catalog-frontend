@@ -1,4 +1,4 @@
-import { useState, useCallback, useMemo, useRef } from "react";
+import { useState, useCallback, useMemo, useRef, useEffect } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import {
@@ -45,7 +45,13 @@ function LazyImage({
   );
 }
 
-export default function MediaGallery({ data }: { data: SellerData }) {
+export default function MediaGallery({
+  data,
+  onVisibilityChange,
+}: {
+  data: SellerData;
+  onVisibilityChange?: (visible: boolean) => void;
+}) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.05 });
   const sectionRef = useRef<HTMLElement>(null);
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
@@ -64,6 +70,13 @@ export default function MediaGallery({ data }: { data: SellerData }) {
       data.socialProfiles.find((p) => p.platform === "youtube")?.posts || [],
     [data.socialProfiles],
   );
+
+  useEffect(() => {
+    if (typeof onVisibilityChange === "function") {
+      onVisibilityChange(Boolean(visibleImages.length || ytPosts.length));
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [visibleImages.length, ytPosts.length]);
 
   if (!visibleImages.length && !ytPosts.length) return null;
 

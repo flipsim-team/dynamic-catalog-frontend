@@ -46,6 +46,7 @@ export interface ReviewItem {
   date: string;
   sourceKey: string;
   sourceLabel: string;
+  sourceUrl?: string;
 }
 
 export interface SocialPost {
@@ -256,6 +257,117 @@ function normalizeUrlKey(url: string): string {
   }
 }
 
+function extractGoogleMapsReference(input: string): {
+  cid: string;
+  dataId: string;
+  hasGoogleMapsUrl: boolean;
+} {
+  const value = String(input || "").trim();
+  if (!value) return { cid: "", dataId: "", hasGoogleMapsUrl: false };
+
+  const cidMatch = value.match(/[?&]cid=(\d+)/i) || value.match(/cid:(\d+)/i);
+  const dataIdMatch = value.match(/[?&]data_id=([^&]+)/i);
+
+  return {
+    cid: cidMatch?.[1] || "",
+    dataId: dataIdMatch?.[1] ? decodeURIComponent(dataIdMatch[1]) : "",
+    hasGoogleMapsUrl: /google\.com\/maps/i.test(value),
+  };
+}
+
+function buildGoogleMapsUrls(input: {
+  googleLocation: string;
+  gmbLudocid: string;
+  reviewsUrl: string;
+  fullAddress: string;
+  city: string;
+  sellerName: string;
+}): { mapUrl: string; embedUrl: string; source: string } {
+  const directUrl = String(input.googleLocation || "").trim();
+  if (directUrl) {
+    const directReference = extractGoogleMapsReference(directUrl);
+    if (directUrl.includes("output=embed")) {
+      return {
+        mapUrl: directUrl,
+        embedUrl: directUrl,
+        source: "google_location",
+      };
+    }
+    if (directReference.cid) {
+      const mapUrl = `https://www.google.com/maps?cid=${directReference.cid}`;
+      return {
+        mapUrl,
+        embedUrl: `${mapUrl}&output=embed`,
+        source: "google_location",
+      };
+    }
+    if (directReference.hasGoogleMapsUrl) {
+      const separator = directUrl.includes("?") ? "&" : "?";
+      return {
+        mapUrl: directUrl,
+        embedUrl: `${directUrl}${separator}output=embed`,
+        source: "google_location",
+      };
+    }
+    return {
+      mapUrl: directUrl,
+      embedUrl: directUrl,
+      source: "google_location",
+    };
+  }
+
+  const gmbReference = extractGoogleMapsReference(input.gmbLudocid);
+  if (gmbReference.cid) {
+    const mapUrl = `https://www.google.com/maps?cid=${gmbReference.cid}`;
+    return {
+      mapUrl,
+      embedUrl: `${mapUrl}&output=embed`,
+      source: "gmb_ludocid",
+    };
+  }
+
+  const reviewReference = extractGoogleMapsReference(input.reviewsUrl);
+  if (reviewReference.cid) {
+    const mapUrl = `https://www.google.com/maps?cid=${reviewReference.cid}`;
+    return {
+      mapUrl,
+      embedUrl: `${mapUrl}&output=embed`,
+      source: "reviews_url",
+    };
+  }
+
+  if (reviewReference.dataId) {
+    const query = [input.fullAddress, input.city, reviewReference.dataId]
+      .filter(Boolean)
+      .join(" ");
+    const resolvedQuery = query || reviewReference.dataId;
+    return {
+      mapUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(resolvedQuery)}`,
+      embedUrl: `https://www.google.com/maps?q=${encodeURIComponent(resolvedQuery)}&output=embed`,
+      source: "reviews_url",
+    };
+  }
+
+  const query = [input.fullAddress, input.city].filter(Boolean).join(", ");
+  if (query) {
+    return {
+      mapUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`,
+      embedUrl: `https://www.google.com/maps?q=${encodeURIComponent(query)}&output=embed`,
+      source: "address",
+    };
+  }
+
+  if (input.sellerName) {
+    return {
+      mapUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(input.sellerName)}`,
+      embedUrl: `https://www.google.com/maps?q=${encodeURIComponent(input.sellerName)}&output=embed`,
+      source: "seller_name",
+    };
+  }
+
+  return { mapUrl: "", embedUrl: "", source: "" };
+}
+
 function mergeSourceEntries(
   entries: Array<{ value: string; sources: SourceMeta[] }>,
 ): Array<{ value: string; sources: SourceMeta[] }> {
@@ -359,6 +471,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const website = String(unwrapValue(cp.website, "") || "");
   const businessType = String(unwrapValue(cp.business_type, "") || "");
   const googleLocation = String(unwrapValue(cp.google_location, "") || "");
+  const gmbLudocid = String(unwrapValue(cp.gmb_ludocid, "") || "");
   const rawRatingValue = unwrapValue<number | string | null>(
     cp.rating_value,
     null,
@@ -371,6 +484,22 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         : null;
   const ratingCount = Number(unwrapValue(cp.rating_count, 0) || 0);
   const description = String(unwrapValue(cp.description, "") || "");
+  const reviewsUrl = String(
+    unwrapValue(cp.reviews_url, "") ||
+      data.reviews_url ||
+      cp.reviews_api_url ||
+      data.reviews_api_url ||
+      data.reviews_summary?.reviews_url ||
+      "",
+  );
+  const resolvedMaps = buildGoogleMapsUrls({
+    googleLocation,
+    gmbLudocid,
+    reviewsUrl,
+    fullAddress,
+    city,
+    sellerName,
+  });
   const fieldSources = {
     phone: Array.from(
       new Map(
@@ -516,17 +645,8 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         sourceLinks.push(link);
       };
 
-      const sourceUrl = String(
-        c.source_url || c.specifications?.source_url || "",
-      );
-      if (sourceUrl) {
-        pushLink({
-          key: "catalog-source",
-          label: c.source ? String(c.source) : hostLabelFromUrl(sourceUrl),
-          url: sourceUrl,
-        });
-      }
-
+      // Collect social source URLs first to avoid duplicates with source_url
+      const socialSourceUrls = new Set<string>();
       for (const socialSource of Array.isArray(c.social_sources)
         ? c.social_sources
         : []) {
@@ -537,6 +657,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         ).toLowerCase() as SocialPlatform;
         const url = String(socialSource.post_url || socialSource.url || "");
         if (!url) continue;
+        socialSourceUrls.add(normalizeUrlKey(url));
         if (platform) {
           sourceTiles.push({ key: platform, label: platformLabel(platform) });
           pushLink({
@@ -548,6 +669,18 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         } else {
           pushLink({ key: `source-${url}`, label: hostLabelFromUrl(url), url });
         }
+      }
+
+      // Only add source_url if it's not already in social_sources
+      const sourceUrl = String(
+        c.source_url || c.specifications?.source_url || "",
+      );
+      if (sourceUrl && !socialSourceUrls.has(normalizeUrlKey(sourceUrl))) {
+        pushLink({
+          key: "catalog-source",
+          label: c.source ? String(c.source) : hostLabelFromUrl(sourceUrl),
+          url: sourceUrl,
+        });
       }
 
       const seenTile = new Set<string>();
@@ -633,10 +766,8 @@ export function extractSellerDataFromRaw(rawData: unknown) {
 
   // Reviews summary
   const rs = data.reviews_summary || {};
-  const defaultReviewSource =
-    cp.reviews_api_url && String(cp.reviews_api_url).includes("google_maps")
-      ? "google"
-      : "website";
+  // Force reviews to be treated as Google-sourced.
+  // Extract any available reviews URL from common fields so the UI can link back.
   const reviewSourceMap: Record<string, number> = {};
   const reviewsSummary = {
     totalRating: rs.total_rating ?? ratingValue ?? null,
@@ -645,13 +776,8 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     sourceBreakdown: {} as Record<string, number>,
   };
   const individualReviews: ReviewItem[] = (data.reviews || []).map((r: any) => {
-    const sourceKey = String(
-      r.source ||
-        r.platform ||
-        r.review_source ||
-        defaultReviewSource ||
-        "unknown",
-    ).toLowerCase();
+    // Hardcode source to google for all reviews/ratings
+    const sourceKey = "google";
     reviewSourceMap[sourceKey] = (reviewSourceMap[sourceKey] || 0) + 1;
     return {
       author: r.author || r.name || "Anonymous",
@@ -660,9 +786,13 @@ export function extractSellerDataFromRaw(rawData: unknown) {
       date: r.date || r.posted_at || "",
       sourceKey,
       sourceLabel: sourceLabelFor(sourceKey),
+      sourceUrl: reviewsUrl || undefined,
     };
   });
-  reviewsSummary.sourceBreakdown = reviewSourceMap;
+  // Make breakdown only reflect Google as the source
+  if (reviewSourceMap.google)
+    reviewsSummary.sourceBreakdown = { google: reviewSourceMap.google };
+  else reviewsSummary.sourceBreakdown = {};
 
   // Product counts (showcased vs total)
   const totalProducts = data.products?.length || products.length;
@@ -772,7 +902,10 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     fullAddress,
     city,
     website,
-    googleLocation,
+    googleLocation: resolvedMaps.mapUrl,
+    googleMapsUrl: resolvedMaps.mapUrl,
+    googleMapsEmbedUrl: resolvedMaps.embedUrl,
+    googleMapsSource: resolvedMaps.source,
     ratingValue,
     ratingCount,
     avatarUrl,
@@ -787,6 +920,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     galleryImages,
     reviewsSummary,
     individualReviews,
+    reviewsUrl,
     fieldSources,
     trustBadges,
     topFollowers,

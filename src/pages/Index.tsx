@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Link, useParams } from "react-router-dom";
@@ -33,6 +34,17 @@ const Index = () => {
 
     return null;
   }, [rawSellerData]);
+
+  const galleryHasData = Boolean(
+    data &&
+    (data.galleryImages.length > 0 ||
+      data.socialProfiles.some(
+        (profile) => profile.platform === "youtube" && profile.posts.length > 0,
+      )),
+  );
+
+  const [gallerySectionVisible, setGallerySectionVisible] =
+    useState<boolean>(galleryHasData);
 
   useEffect(() => {
     let active = true;
@@ -172,11 +184,6 @@ const Index = () => {
     data.socialProfiles.length > 0,
   );
   const productsHasData = data.products.length > 0;
-  const galleryHasData =
-    data.galleryImages.length > 0 ||
-    data.socialProfiles.some(
-      (profile) => profile.platform === "youtube" && profile.posts.length > 0,
-    );
   const socialHasData = data.socialProfiles.some(
     (profile) => profile.posts.length > 0,
   );
@@ -237,11 +244,16 @@ const Index = () => {
             transition={{ duration: 0.65, ease: [0.22, 1, 0.36, 1] }}
             className="min-h-screen"
           >
-            <NavBar data={data} />
+            <NavBar data={data} galleryVisible={gallerySectionVisible} />
             <HeroSection data={data} />
             {aboutHasData && <AboutSection data={data} />}
             {productsHasData && <ProductCatalog data={data} />}
-            {galleryHasData && <MediaGallery data={data} />}
+            {galleryHasData && (
+              <MediaGallery
+                data={data}
+                onVisibilityChange={setGallerySectionVisible}
+              />
+            )}
             {socialHasData && <SocialPosts data={data} />}
             {reviewsHasData && <ReviewsSection data={data} />}
             {contactHasData && <ContactSidebar data={data} />}
