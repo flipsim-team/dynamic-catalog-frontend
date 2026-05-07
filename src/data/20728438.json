@@ -1,0 +1,2464 @@
+{
+  "seller_id": 20728438,
+  "company_profile": {
+    "name": {
+      "value": "IR INTERNATIONAL",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "IR INTERNATIONAL operates as a corporate office specializing in industrial components. They provide high-quality steel wire reinforced hoses, including models like DN125 (5\") with various flange types, designed for demanding applications with specific working and burst pressure ratings. Their offerings also include materials conforming to GRADE ST 52 standards.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "Hyderabad",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "Nava Durga Bhavanam, BK Enclave",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "500049",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://irintl.in",
+      "sources": [
+        "google",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Corporate office",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 4.7,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 27,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "13674109850860259351",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "http://www.irintl.in/images/logo.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "9000833389",
+        "sources": [
+          "google"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "ir_international@hotmail.com",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "confidence": 0.8,
+    "sources": [
+      "google"
+    ],
+    "data_sources": [
+      "website"
+    ]
+  },
+  "products": [
+    {
+      "raw_name": "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking Pressure :85Burst Pressure (Bar) :200,Length (MM) :3,000 - 6,000",
+      "clean_name": "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking Pressure :85Burst Pressure (Bar) :200,Length (MM) :3,000 - 6,000",
+      "fingerprint": "cea7fe284575",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Conveyance",
+      "product_category": "Industrial Hose",
+      "product_sub_type": "Steel Wire Reinforced Industrial Hose",
+      "buyer_persona": "Procurement managers or engineers in industrial plants, construction, or mining sectors who need to specify hoses for fluid transfer under specific pressure and dimension requirements.",
+      "description": "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking Pressure :85Burst Pressure (Bar) :200,Length (MM) :3,000 - 6,000 is a steel wire reinforced industrial hose offered by IR INTERNATIONAL based in Hyderabad. Suitable for: Procurement managers or engineers in industrial plants, construction, or mining sectors who need to specify hoses for fluid transfer under specific pressure and dimension requirements.",
+      "seo_title": "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking ",
+      "tags": [
+        "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking Pressure :85Burst Pressure (Bar) :200,Length (MM) :3,000 - 6,000",
+        "Industrial Equipment",
+        "Fluid Handling & Conveyance",
+        "Industrial Hose",
+        "Steel Wire Reinforced Industrial Hose"
+      ],
+      "alt_text": "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking Pressure :85Burst Pressure (Bar) :200,Length (MM) :3,00",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/end hose.png",
+        "source_url": "http://www.irintl.in/ir images/end hose.png"
+      },
+      "specifications": {
+        "category": "Industrial Hose",
+        "sub_type": "Steel Wire Reinforced Industrial Hose",
+        "image_url": "http://www.irintl.in/ir images/end hose.png",
+        "source_url": "http://www.irintl.in/ir images/end hose.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/end hose.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/end hose.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/end hose.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE",
+      "clean_name": "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE",
+      "fingerprint": "d1f323828a5b",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Piping & Fitting",
+      "product_category": "Pipe Reducer",
+      "product_sub_type": "Seamless Pipe Reducer",
+      "buyer_persona": "A procurement manager or engineer in the construction or industrial sector, looking for specific pipe reducers for fluid conveyance systems or machinery like concrete pumps.",
+      "description": "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE is a seamless pipe reducer offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer in the construction or industrial sector, looking for specific pipe reducers for fluid conveyance systems or machinery like concrete pumps.",
+      "seo_title": "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE Seamless Pipe Red",
+      "tags": [
+        "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE",
+        "Industrial Equipment",
+        "Industrial Piping & Fittings",
+        "Pipe Reducer",
+        "Seamless Pipe Reducer"
+      ],
+      "alt_text": "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/reducer.png",
+        "source_url": "http://www.irintl.in/ir images/reducer.png"
+      },
+      "specifications": {
+        "category": "Pipe Reducer",
+        "sub_type": "Seamless Pipe Reducer",
+        "image_url": "http://www.irintl.in/ir images/reducer.png",
+        "source_url": "http://www.irintl.in/ir images/reducer.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/reducer.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/reducer.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/reducer.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Schwing Type Clamp",
+      "clean_name": "Schwing Type Clamp",
+      "fingerprint": "b8766cd4f5d8",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Construction Machinery Part",
+      "product_category": "Clamp",
+      "product_sub_type": "Concrete Pump Clamp",
+      "buyer_persona": "A procurement manager or maintenance supervisor at a construction company or concrete pumping service provider, purchasing replacement parts for concrete pumping equipment.",
+      "description": "Schwing Type Clamp is a concrete pump clamp offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or maintenance supervisor at a construction company or concrete pumping service provider, purchasing replacement parts for concrete pumping equipment.",
+      "seo_title": "Schwing Type Clamp Concrete Pump Clamp | Catalog Listing",
+      "tags": [
+        "Schwing Type Clamp",
+        "Industrial Equipment",
+        "Construction Machinery Parts",
+        "Clamp",
+        "Concrete Pump Clamp"
+      ],
+      "alt_text": "Schwing Type Clamp from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/clamps1.png",
+        "source_url": "http://www.irintl.in/ir images/clamps1.png"
+      },
+      "specifications": {
+        "category": "Clamp",
+        "sub_type": "Concrete Pump Clamp",
+        "image_url": "http://www.irintl.in/ir images/clamps1.png",
+        "source_url": "http://www.irintl.in/ir images/clamps1.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/clamps1.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/clamps1.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/clamps1.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "For PUTZ MEISTER PUMP",
+      "clean_name": "For PUTZ MEISTER PUMP",
+      "fingerprint": "0ae5775821a2",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Construction & Heavy Machinery",
+      "product_category": "Pump Part",
+      "product_sub_type": "Concrete Pump Part",
+      "buyer_persona": "A procurement manager or maintenance engineer in the construction industry looking for spare parts or accessories for Putzmeister concrete pumps.",
+      "description": "For PUTZ MEISTER PUMP is a concrete pump part offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or maintenance engineer in the construction industry looking for spare parts or accessories for Putzmeister concrete pumps.",
+      "seo_title": "For PUTZ MEISTER PUMP Concrete Pump Part | Catalog Listing",
+      "tags": [
+        "For PUTZ MEISTER PUMP",
+        "Industrial Equipment",
+        "Construction & Heavy Machinery",
+        "Pump Part",
+        "Concrete Pump Part"
+      ],
+      "alt_text": "For PUTZ MEISTER PUMP from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/wear2.png",
+        "source_url": "http://www.irintl.in/ir images/wear2.png"
+      },
+      "specifications": {
+        "category": "Pump Part",
+        "sub_type": "Concrete Pump Part",
+        "image_url": "http://www.irintl.in/ir images/wear2.png",
+        "source_url": "http://www.irintl.in/ir images/wear2.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/wear2.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/wear2.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/wear2.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.8,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "CLAMP COUPLING",
+      "clean_name": "CLAMP COUPLING",
+      "fingerprint": "df5e4198eabc",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Mechanical Power Transmission",
+      "product_category": "Coupling",
+      "product_sub_type": "Clamp Coupling",
+      "buyer_persona": "A procurement manager or engineer sourcing components for industrial machinery, power transmission systems, or general mechanical applications.",
+      "description": "CLAMP COUPLING is a clamp coupling offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer sourcing components for industrial machinery, power transmission systems, or general mechanical applications.",
+      "seo_title": "CLAMP COUPLING Clamp Coupling | Catalog Listing",
+      "tags": [
+        "CLAMP COUPLING",
+        "Industrial Equipment",
+        "Mechanical Power Transmission",
+        "Coupling",
+        "Clamp Coupling"
+      ],
+      "alt_text": "CLAMP COUPLING from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/spare4.png",
+        "source_url": "http://www.irintl.in/ir images/spare4.png"
+      },
+      "specifications": {
+        "category": "Coupling",
+        "sub_type": "Clamp Coupling",
+        "image_url": "http://www.irintl.in/ir images/spare4.png",
+        "source_url": "http://www.irintl.in/ir images/spare4.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spare4.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spare4.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spare4.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "PISTON",
+      "clean_name": "PISTON",
+      "fingerprint": "c55075030c42",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Mechanical Component",
+      "product_category": "Piston",
+      "product_sub_type": "Engine Piston",
+      "buyer_persona": "A procurement manager or mechanic sourcing replacement parts for engines or machinery.",
+      "description": "PISTON is a engine piston offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or mechanic sourcing replacement parts for engines or machinery.",
+      "seo_title": "PISTON Engine Piston | Catalog Listing",
+      "tags": [
+        "PISTON",
+        "Industrial Equipment",
+        "Mechanical Components",
+        "Piston",
+        "Engine Piston"
+      ],
+      "alt_text": "PISTON from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/spar1.png",
+        "source_url": "http://www.irintl.in/ir images/spar1.png"
+      },
+      "specifications": {
+        "category": "Piston",
+        "sub_type": "Engine Piston",
+        "image_url": "http://www.irintl.in/ir images/spar1.png",
+        "source_url": "http://www.irintl.in/ir images/spar1.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar1.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar1.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar1.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "AGITATOR MOTOR",
+      "clean_name": "AGITATOR MOTOR",
+      "fingerprint": "334f9da5ad89",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Motors & Drive",
+      "product_category": "Agitator Motor",
+      "product_sub_type": "Industrial Agitator Motor",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, chemical, food processing, or water treatment industries looking for a motor to drive mixing or stirring equipment.",
+      "description": "AGITATOR MOTOR is a industrial agitator motor offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer in manufacturing, chemical, food processing, or water treatment industries looking for a motor to drive mixing or stirring equipment.",
+      "seo_title": "AGITATOR MOTOR Industrial Agitator Motor | Catalog Listing",
+      "tags": [
+        "AGITATOR MOTOR",
+        "Industrial Equipment",
+        "Industrial Motors & Drives",
+        "Agitator Motor",
+        "Industrial Agitator Motor"
+      ],
+      "alt_text": "AGITATOR MOTOR from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/spar5.png",
+        "source_url": "http://www.irintl.in/ir images/spar5.png"
+      },
+      "specifications": {
+        "category": "Agitator Motor",
+        "sub_type": "Industrial Agitator Motor",
+        "image_url": "http://www.irintl.in/ir images/spar5.png",
+        "source_url": "http://www.irintl.in/ir images/spar5.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar5.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar5.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar5.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "SLIDE",
+      "clean_name": "SLIDE",
+      "fingerprint": "9ba516e00475",
+      "top_level_domain": "Unclassified",
+      "industry_segment": "Unclassified",
+      "product_category": "Unclassified",
+      "product_sub_type": "Unclassified",
+      "buyer_persona": "A buyer seeking a product named 'SLIDE' would need more context to determine the specific item, as the name is highly ambiguous.",
+      "description": "SLIDE is a unclassified offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A buyer seeking a product named 'SLIDE' would need more context to determine the specific item, as the name is highly ambiguous.",
+      "seo_title": "SLIDE Unclassified | Catalog Listing",
+      "tags": [
+        "SLIDE",
+        "Unclassified"
+      ],
+      "alt_text": "SLIDE from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/spar6.png",
+        "source_url": "http://www.irintl.in/ir images/spar6.png"
+      },
+      "specifications": {
+        "category": "Unclassified",
+        "sub_type": "Unclassified",
+        "image_url": "http://www.irintl.in/ir images/spar6.png",
+        "source_url": "http://www.irintl.in/ir images/spar6.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar6.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar6.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar6.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.3,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name too generic for meaningful classification. Seller context used."
+      ],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "UPPPER HOSING SEAL KIT",
+      "clean_name": "UPPPER HOSING SEAL KIT",
+      "fingerprint": "b4694f8d9c23",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Power & Component",
+      "product_category": "Seal Kit",
+      "product_sub_type": "Hosing Seal Kit",
+      "buyer_persona": "A procurement manager or maintenance engineer in an industrial setting, purchasing replacement parts for fluid power systems or machinery.",
+      "description": "UPPPER HOSING SEAL KIT is a hosing seal kit offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or maintenance engineer in an industrial setting, purchasing replacement parts for fluid power systems or machinery.",
+      "seo_title": "UPPPER HOSING SEAL KIT Hosing Seal Kit | Catalog Listing",
+      "tags": [
+        "UPPPER HOSING SEAL KIT",
+        "Industrial Equipment",
+        "Fluid Power & Components",
+        "Seal Kit",
+        "Hosing Seal Kit"
+      ],
+      "alt_text": "UPPPER HOSING SEAL KIT from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/spar7.png",
+        "source_url": "http://www.irintl.in/ir images/spar7.png"
+      },
+      "specifications": {
+        "category": "Seal Kit",
+        "sub_type": "Hosing Seal Kit",
+        "image_url": "http://www.irintl.in/ir images/spar7.png",
+        "source_url": "http://www.irintl.in/ir images/spar7.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar7.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar7.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar7.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "ROD SEAL SET",
+      "clean_name": "ROD SEAL SET",
+      "fingerprint": "dcd43f30aa40",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Power & Hydraulics",
+      "product_category": "Rod Seal",
+      "product_sub_type": "Hydraulic Rod Seal Set",
+      "buyer_persona": "A procurement manager or maintenance engineer purchasing replacement seals for hydraulic or pneumatic cylinders in industrial machinery.",
+      "description": "ROD SEAL SET is a hydraulic rod seal set offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or maintenance engineer purchasing replacement seals for hydraulic or pneumatic cylinders in industrial machinery.",
+      "seo_title": "ROD SEAL SET Hydraulic Rod Seal Set | Catalog Listing",
+      "tags": [
+        "ROD SEAL SET",
+        "Industrial Equipment",
+        "Fluid Power & Hydraulics",
+        "Rod Seal",
+        "Hydraulic Rod Seal Set"
+      ],
+      "alt_text": "ROD SEAL SET from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/spar11.png",
+        "source_url": "http://www.irintl.in/ir images/spar11.png"
+      },
+      "specifications": {
+        "category": "Rod Seal",
+        "sub_type": "Hydraulic Rod Seal Set",
+        "image_url": "http://www.irintl.in/ir images/spar11.png",
+        "source_url": "http://www.irintl.in/ir images/spar11.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar11.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar11.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar11.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "SHAFT",
+      "clean_name": "SHAFT",
+      "fingerprint": "e745b49943da",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Mechanical Components & Part",
+      "product_category": "Shaft",
+      "product_sub_type": "Industrial Shaft",
+      "buyer_persona": "A procurement manager or engineer looking for a mechanical component for machinery, power transmission, or structural support.",
+      "description": "SHAFT is a industrial shaft offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer looking for a mechanical component for machinery, power transmission, or structural support.",
+      "seo_title": "SHAFT Industrial Shaft | Catalog Listing",
+      "tags": [
+        "SHAFT",
+        "Industrial Equipment",
+        "Mechanical Components & Parts",
+        "Shaft",
+        "Industrial Shaft"
+      ],
+      "alt_text": "SHAFT from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/spar15.png",
+        "source_url": "http://www.irintl.in/ir images/spar15.png"
+      },
+      "specifications": {
+        "category": "Shaft",
+        "sub_type": "Industrial Shaft",
+        "image_url": "http://www.irintl.in/ir images/spar15.png",
+        "source_url": "http://www.irintl.in/ir images/spar15.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar15.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar15.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar15.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.55,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name too generic for meaningful classification. Seller context used."
+      ],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "AGITATOR SHAFTS",
+      "clean_name": "AGITATOR SHAFTS",
+      "fingerprint": "ac6555090b82",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Process Equipment & Component",
+      "product_category": "Agitator Shaft",
+      "product_sub_type": "Industrial Agitator Shaft",
+      "buyer_persona": "Procurement managers or engineers in manufacturing plants (chemical, food, pharmaceutical, water treatment) who need replacement parts or components for mixing and agitation equipment.",
+      "description": "AGITATOR SHAFTS is a industrial agitator shaft offered by IR INTERNATIONAL based in Hyderabad. Suitable for: Procurement managers or engineers in manufacturing plants (chemical, food, pharmaceutical, water treatment) who need replacement parts or components for mixing and agitation equipment.",
+      "seo_title": "AGITATOR SHAFTS Industrial Agitator Shaft | Catalog Listing",
+      "tags": [
+        "AGITATOR SHAFTS",
+        "Industrial Equipment",
+        "Process Equipment & Components",
+        "Agitator Shaft",
+        "Industrial Agitator Shaft"
+      ],
+      "alt_text": "AGITATOR SHAFTS from IR INTERNATIONAL",
+      "domain_attributes": {
+        "image_url": "http://www.irintl.in/ir images/spar19.png",
+        "source_url": "http://www.irintl.in/ir images/spar19.png"
+      },
+      "specifications": {
+        "category": "Agitator Shaft",
+        "sub_type": "Industrial Agitator Shaft",
+        "image_url": "http://www.irintl.in/ir images/spar19.png",
+        "source_url": "http://www.irintl.in/ir images/spar19.png",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar19.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar19.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar19.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "cea7fe284575",
+      "product_name": "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking Pressure :85Burst Pressure (Bar) :200,Length (MM) :3,000 - 6,000",
+      "url": "http://www.irintl.in/ir images/end hose.png",
+      "scene_type": "product_image",
+      "media_confidence": 0.95,
+      "visual_features": {
+        "product_type_confirmed": "industrial hose",
+        "shape_visible": "cylindrical",
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "inset showing internal steel wire braiding, text 'GHAR' visible on the blue fitting"
+      },
+      "visual_description": "The image displays a black industrial hose with a blue end fitting, presented against a plain white background. An inset in the top left corner shows a cross-section of the hose, revealing a multi-layered internal structure with visible metallic braiding. The product appears sturdy and is clearly a functional industrial component.",
+      "media_alt_text": "Black industrial hose with a blue end fitting, shown against a white background, with an inset displaying its braided interior.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:30:34.091Z"
+    },
+    {
+      "fingerprint": "d1f323828a5b",
+      "product_name": "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE",
+      "url": "http://www.irintl.in/ir images/reducer.png",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "industrial pipes and pipe reducers",
+        "shape_visible": "cylindrical, tapered cylindrical",
+        "color_appearance": null,
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": null,
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Multiple items in red, yellow, blue, and green colors are visible, showcasing both straight and tapered forms."
+      },
+      "visual_description": "The image displays a collection of industrial pipes and reducers against a plain white background. On the left, a group of various colored pipes stands upright, including tall red, blue, and green cylindrical pipes, and shorter, wider yellow cylindrical pipes. To the right, two individual red components are shown: one is a tapered pipe reducer, wider at the bottom and narrower at the top, and the other is a straight cylindrical pipe.",
+      "media_alt_text": "A collection of industrial pipes and reducers in red, yellow, blue, and green, displayed against a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:30:36.365Z"
+    },
+    {
+      "fingerprint": "b8766cd4f5d8",
+      "product_name": "Schwing Type Clamp",
+      "url": "http://www.irintl.in/ir images/clamps1.png",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "industrial clamp",
+        "shape_visible": "circular band with an attached lever mechanism",
+        "color_appearance": "dark grey/black",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "dark grey/black metal (likely cast iron or steel)",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Product has 'IR' watermark on its surface."
+      },
+      "visual_description": "The image displays a dark grey or black industrial clamp, likely made of cast metal, against a pure white background. The clamp features a circular band with a hinged lever mechanism on one side, suggesting it's designed to secure or tighten around an object. The surface of the metal appears textured and unpolished, with a prominent 'IR' watermark visible on the top surface of the circular band.",
+      "media_alt_text": "Dark grey or black industrial clamp with a circular band and a lever mechanism, displayed on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:30:32.157Z"
+    },
+    {
+      "fingerprint": "0ae5775821a2",
+      "product_name": "For PUTZ MEISTER PUMP",
+      "url": "http://www.irintl.in/ir images/wear2.png",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Industrial pump components",
+        "shape_visible": "Irregular polygonal plate with two large circular cutouts, and a separate circular ring",
+        "color_appearance": "Red and silver-grey metallic",
+        "clarity_appearance": null,
+        "size_impression": "Medium to large industrial components",
+        "setting_or_mounting": null,
+        "metal_visible": "Silver/grey metal",
+        "certification_label_visible": false,
+        "presentation": "White background studio",
+        "additional_visual_notes": "Faint 'I.R. INTERNATIONAL' watermark visible on the background. The larger part has bolt holes."
+      },
+      "visual_description": "The image displays two metallic industrial components against a plain white background. The primary component is a red, irregularly shaped plate with two large circular openings, featuring a silver-grey metallic finish around the interior edges and bolt holes on its perimeter. Below it, a separate silver-grey metallic circular ring is presented, both items appearing robust and functional.",
+      "media_alt_text": "Two industrial pump components on a white background: a red plate with two large circular openings and a silver-grey metallic ring.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:30:47.495Z"
+    },
+    {
+      "fingerprint": "df5e4198eabc",
+      "product_name": "CLAMP COUPLING",
+      "url": "http://www.irintl.in/ir images/spare4.png",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "metal clamp component",
+        "shape_visible": "C-shape / open ring",
+        "color_appearance": "gray metallic",
+        "clarity_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "metal_visible": "silver-toned metal",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "A small white paper label is attached to the component. A 'IR INTERNATIONAL' watermark is present across the image."
+      },
+      "visual_description": "The image displays a single, C-shaped metal clamp or coupling component, presented against a plain white background. The component has a dull, silver-gray metallic finish, showing some texture and possibly minor wear. A small white paper label with illegible text is attached to one of its ends, and a faint 'IR INTERNATIONAL' watermark is visible across the image.",
+      "media_alt_text": "A C-shaped metal clamp or coupling component with a dull silver-gray finish and a small white label, on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:30:45.739Z"
+    },
+    {
+      "fingerprint": "c55075030c42",
+      "product_name": "PISTON",
+      "url": "http://www.irintl.in/ir images/spar1.png",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "pistons",
+        "shape_visible": "cylindrical with ribbed sides",
+        "color_appearance": "dull metallic grey/silver",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "grey metal alloy",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Watermark 'IR INTERNATIONAL' is visible across the image."
+      },
+      "visual_description": "The image displays two dull metallic, cylindrical objects, likely pistons, against a plain white background. Each object features multiple horizontal ribs or grooves along its side. The object on the right has a visible top surface with three circular indentations or holes.",
+      "media_alt_text": "Two dull metallic cylindrical pistons with ribbed sides, one showing three circular indentations on top, against a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:30:47.942Z"
+    },
+    {
+      "fingerprint": "334f9da5ad89",
+      "product_name": "AGITATOR MOTOR",
+      "url": "http://www.irintl.in/ir images/spar5.png",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "agitator motor",
+        "shape_visible": "cylindrical body with flanged top and splined shaft",
+        "color_appearance": "grey metallic",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "grey metal",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Watermark 'IR INTERNATIONAL' visible"
+      },
+      "visual_description": "The image displays a grey metallic agitator motor, presented against a plain white background. The motor has a cylindrical body, a flanged top with bolt holes, and a prominent splined shaft extending upwards. The surface appears to be cast metal, with some texture visible on the shaft and body, and a watermark 'IR INTERNATIONAL' is visible across the image.",
+      "media_alt_text": "Grey metallic agitator motor with a cylindrical body, flanged top, and splined shaft, on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:30:47.142Z"
+    },
+    {
+      "fingerprint": "9ba516e00475",
+      "product_name": "SLIDE",
+      "url": "http://www.irintl.in/ir images/spar6.png",
+      "scene_type": "company_interior",
+      "media_confidence": 0.6,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "IR INTERNATIONAL manufacturing facility",
+      "used_vision": false,
+      "classified_at": "2026-05-04T05:30:49.738Z"
+    },
+    {
+      "fingerprint": "b4694f8d9c23",
+      "product_name": "UPPPER HOSING SEAL KIT",
+      "url": "http://www.irintl.in/ir images/spar7.png",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Mechanical seal kit components",
+        "shape_visible": "Circular, ring-shaped",
+        "color_appearance": "Metallic silver, blue, black",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "metallic (silver-toned)",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "The items are clearly industrial components, not jewelry or gemstones. A faint 'IR INTERNATIONAL' watermark is visible."
+      },
+      "visual_description": "The image displays a set of various circular and ring-shaped components, likely parts of a seal kit, arranged horizontally on a plain white background. The kit includes metallic silver-toned rings, a prominent blue ring, and several black rubber or plastic O-rings. The items appear to be industrial or mechanical parts, not jewelry, and a faint 'IR INTERNATIONAL' watermark is visible across the image.",
+      "media_alt_text": "A kit of various circular and ring-shaped mechanical seals and components, including metallic, blue, and black rings, on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:30:58.786Z"
+    },
+    {
+      "fingerprint": "dcd43f30aa40",
+      "product_name": "ROD SEAL SET",
+      "url": "http://www.irintl.in/ir images/spar11.png",
+      "scene_type": "product_image",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": "mechanical seals and components",
+        "shape_visible": "circular, cylindrical",
+        "color_appearance": "dark brown, black, white, blue, metallic grey/gold",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": "loose components",
+        "metal_visible": "metallic (bronze/brass, steel/aluminum)",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Watermark 'I.R. INTERNATIONAL' visible across the image."
+      },
+      "visual_description": "The image displays a set of various mechanical components, primarily seals and rings, arranged horizontally on a plain white background. The components include several dark brown/bronze coiled rings, black rubber O-rings, white/translucent plastic or rubber rings, and one distinct blue rubber ring. Additionally, there are two small metallic components, one appearing like a threaded bolt or pin and another a small cylindrical cap.",
+      "media_alt_text": "A set of various mechanical seals and components, including dark brown coiled rings, black O-rings, white rings, and a blue ring, along with small metallic parts, all laid out on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:30:59.555Z"
+    },
+    {
+      "fingerprint": "e745b49943da",
+      "product_name": "SHAFT",
+      "url": "http://www.irintl.in/ir images/spar15.png",
+      "scene_type": "product_image",
+      "media_confidence": 0.9,
+      "visual_features": {
+        "product_type_confirmed": "shaft / elongated component",
+        "shape_visible": "elongated, cylindrical/prismatic body with a wider, flat, rectangular head",
+        "color_appearance": "light grey / off-white",
+        "clarity_appearance": null,
+        "size_impression": "medium to large",
+        "setting_or_mounting": null,
+        "metal_visible": "not visible",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Faint 'IR INTERNATIONAL' watermark visible diagonally across the product."
+      },
+      "visual_description": "The image displays a single, elongated object, likely a shaft or a similar component, against a plain white background. The object has a long, slender body that appears cylindrical or prismatic, topped with a wider, flat, rectangular head. Its color is a uniform light grey or off-white, with subtle shading indicating a solid, rigid material. A faint watermark of \"IR INTERNATIONAL\" is visible diagonally across the product.",
+      "media_alt_text": "A light grey elongated shaft with a wider, flat, rectangular head, presented against a plain white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:31:08.568Z"
+    },
+    {
+      "fingerprint": "ac6555090b82",
+      "product_name": "AGITATOR SHAFTS",
+      "url": "http://www.irintl.in/ir images/spar19.png",
+      "scene_type": "product_image",
+      "media_confidence": 1,
+      "visual_features": {
+        "product_type_confirmed": "Industrial metal shafts/posts",
+        "shape_visible": "Cylindrical upper section, cylindrical lower section, square base",
+        "color_appearance": "Shiny silver metallic, matte light blue-grey",
+        "clarity_appearance": null,
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "metal_visible": "Silver-colored metal, painted metal",
+        "certification_label_visible": false,
+        "presentation": "white background studio",
+        "additional_visual_notes": "Faint 'IR INTERNATIONAL' watermark visible across the image."
+      },
+      "visual_description": "The image displays two identical industrial components, likely shafts or posts, presented side-by-side against a plain white background. Each component features a shiny, reflective silver-colored cylindrical upper section and a matte, light blue-grey cylindrical lower section that widens into a square base. A faint 'IR INTERNATIONAL' watermark is visible across the image.",
+      "media_alt_text": "Two identical silver and light blue-grey industrial metal shafts with square bases on a white background.",
+      "used_vision": true,
+      "classified_at": "2026-05-04T05:31:10.859Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "clean_name": "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking Pressure :85Burst Pressure (Bar) :200,Length (MM) :3,000 - 6,000",
+      "fingerprint": "cea7fe284575",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Handling & Conveyance",
+      "product_category": "Industrial Hose",
+      "product_sub_type": "Steel Wire Reinforced Industrial Hose",
+      "buyer_persona": "Procurement managers or engineers in industrial plants, construction, or mining sectors who need to specify hoses for fluid transfer under specific pressure and dimension requirements.",
+      "seo_title": "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking ",
+      "tags": [
+        "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking Pressure :85Burst Pressure (Bar) :200,Length (MM) :3,000 - 6,000",
+        "Industrial Equipment",
+        "Fluid Handling & Conveyance",
+        "Industrial Hose",
+        "Steel Wire Reinforced Industrial Hose"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/end hose.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/end hose.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/end hose.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Model :DN125(5\")Flange (MM) :148Materials :4-Layers steel wireWorking Pressure :85Burst Pressure (Bar) :200,Length (MM) :3,000 - 6,000 is a steel wire reinforced industrial hose offered by IR INTERNATIONAL based in Hyderabad. Suitable for: Procurement managers or engineers in industrial plants, construction, or mining sectors who need to specify hoses for fluid transfer under specific pressure and dimension requirements. The image displays a black industrial hose with a blue end fitting, presented against a plain white background. An inset in the top left corner shows a cross-section of the hose, revealing a multi-layered internal structure with visible metallic braiding. The product appears sturdy and is clearly a functional industrial component.",
+      "specifications": {
+        "category": "Industrial Hose",
+        "sub_type": "Steel Wire Reinforced Industrial Hose",
+        "visual_shape": "cylindrical",
+        "presentation": "white background studio",
+        "visual_product_type": "industrial hose",
+        "visual_notes": "inset showing internal steel wire braiding, text 'GHAR' visible on the blue fitting"
+      },
+      "alt_text": "Black industrial hose with a blue end fitting, shown against a white background, with an inset displaying its braided interior.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/end hose.png"
+    },
+    {
+      "clean_name": "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE",
+      "fingerprint": "d1f323828a5b",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Piping & Fitting",
+      "product_category": "Pipe Reducer",
+      "product_sub_type": "Seamless Pipe Reducer",
+      "buyer_persona": "A procurement manager or engineer in the construction or industrial sector, looking for specific pipe reducers for fluid conveyance systems or machinery like concrete pumps.",
+      "seo_title": "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE Seamless Pipe Red",
+      "tags": [
+        "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE",
+        "Industrial Equipment",
+        "Industrial Piping & Fittings",
+        "Pipe Reducer",
+        "Seamless Pipe Reducer"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/reducer.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/reducer.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/reducer.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Seamless Reducer Pipes :125/150, 150/180 SCHWING USE is a seamless pipe reducer offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer in the construction or industrial sector, looking for specific pipe reducers for fluid conveyance systems or machinery like concrete pumps. The image displays a collection of industrial pipes and reducers against a plain white background. On the left, a group of various colored pipes stands upright, including tall red, blue, and green cylindrical pipes, and shorter, wider yellow cylindrical pipes. To the right, two individual red components are shown: one is a tapered pipe reducer, wider at the bottom and narrower at the top, and the other is a straight cylindrical pipe.",
+      "specifications": {
+        "category": "Pipe Reducer",
+        "sub_type": "Seamless Pipe Reducer",
+        "visual_shape": "cylindrical, tapered cylindrical",
+        "presentation": "white background studio",
+        "visual_product_type": "industrial pipes and pipe reducers",
+        "visual_notes": "Multiple items in red, yellow, blue, and green colors are visible, showcasing both straight and tapered forms."
+      },
+      "alt_text": "A collection of industrial pipes and reducers in red, yellow, blue, and green, displayed against a white background.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/reducer.png"
+    },
+    {
+      "clean_name": "Schwing Type Clamp",
+      "fingerprint": "b8766cd4f5d8",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Construction Machinery Part",
+      "product_category": "Clamp",
+      "product_sub_type": "Concrete Pump Clamp",
+      "buyer_persona": "A procurement manager or maintenance supervisor at a construction company or concrete pumping service provider, purchasing replacement parts for concrete pumping equipment.",
+      "seo_title": "Schwing Type Clamp Concrete Pump Clamp | Catalog Listing",
+      "tags": [
+        "Schwing Type Clamp",
+        "Industrial Equipment",
+        "Construction Machinery Parts",
+        "Clamp",
+        "Concrete Pump Clamp"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/clamps1.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/clamps1.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/clamps1.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Schwing Type Clamp is a concrete pump clamp offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or maintenance supervisor at a construction company or concrete pumping service provider, purchasing replacement parts for concrete pumping equipment. The image displays a dark grey or black industrial clamp, likely made of cast metal, against a pure white background. The clamp features a circular band with a hinged lever mechanism on one side, suggesting it's designed to secure or tighten around an object. The surface of the metal appears textured and unpolished, with a prominent 'IR' watermark visible on the top surface of the circular band.",
+      "specifications": {
+        "category": "Clamp",
+        "sub_type": "Concrete Pump Clamp",
+        "visual_shape": "circular band with an attached lever mechanism",
+        "visual_color": "dark grey/black",
+        "visual_metal": "dark grey/black metal (likely cast iron or steel)",
+        "presentation": "white background studio",
+        "visual_product_type": "industrial clamp",
+        "visual_notes": "Product has 'IR' watermark on its surface."
+      },
+      "alt_text": "Dark grey or black industrial clamp with a circular band and a lever mechanism, displayed on a white background.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/clamps1.png"
+    },
+    {
+      "clean_name": "For PUTZ MEISTER PUMP",
+      "fingerprint": "0ae5775821a2",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Construction & Heavy Machinery",
+      "product_category": "Pump Part",
+      "product_sub_type": "Concrete Pump Part",
+      "buyer_persona": "A procurement manager or maintenance engineer in the construction industry looking for spare parts or accessories for Putzmeister concrete pumps.",
+      "seo_title": "For PUTZ MEISTER PUMP Concrete Pump Part | Catalog Listing",
+      "tags": [
+        "For PUTZ MEISTER PUMP",
+        "Industrial Equipment",
+        "Construction & Heavy Machinery",
+        "Pump Part",
+        "Concrete Pump Part"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/wear2.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/wear2.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/wear2.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.8,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "For PUTZ MEISTER PUMP is a concrete pump part offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or maintenance engineer in the construction industry looking for spare parts or accessories for Putzmeister concrete pumps. The image displays two metallic industrial components against a plain white background. The primary component is a red, irregularly shaped plate with two large circular openings, featuring a silver-grey metallic finish around the interior edges and bolt holes on its perimeter. Below it, a separate silver-grey metallic circular ring is presented, both items appearing robust and functional.",
+      "specifications": {
+        "category": "Pump Part",
+        "sub_type": "Concrete Pump Part",
+        "visual_shape": "Irregular polygonal plate with two large circular cutouts, and a separate circular ring",
+        "visual_color": "Red and silver-grey metallic",
+        "visual_size": "Medium to large industrial components",
+        "visual_metal": "Silver/grey metal",
+        "presentation": "White background studio",
+        "visual_product_type": "Industrial pump components",
+        "visual_notes": "Faint 'I.R. INTERNATIONAL' watermark visible on the background. The larger part has bolt holes."
+      },
+      "alt_text": "Two industrial pump components on a white background: a red plate with two large circular openings and a silver-grey metallic ring.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/wear2.png"
+    },
+    {
+      "clean_name": "CLAMP COUPLING",
+      "fingerprint": "df5e4198eabc",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Mechanical Power Transmission",
+      "product_category": "Coupling",
+      "product_sub_type": "Clamp Coupling",
+      "buyer_persona": "A procurement manager or engineer sourcing components for industrial machinery, power transmission systems, or general mechanical applications.",
+      "seo_title": "CLAMP COUPLING Clamp Coupling | Catalog Listing",
+      "tags": [
+        "CLAMP COUPLING",
+        "Industrial Equipment",
+        "Mechanical Power Transmission",
+        "Coupling",
+        "Clamp Coupling"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spare4.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spare4.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spare4.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "CLAMP COUPLING is a clamp coupling offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer sourcing components for industrial machinery, power transmission systems, or general mechanical applications. The image displays a single, C-shaped metal clamp or coupling component, presented against a plain white background. The component has a dull, silver-gray metallic finish, showing some texture and possibly minor wear. A small white paper label with illegible text is attached to one of its ends, and a faint 'IR INTERNATIONAL' watermark is visible across the image.",
+      "specifications": {
+        "category": "Coupling",
+        "sub_type": "Clamp Coupling",
+        "visual_shape": "C-shape / open ring",
+        "visual_color": "gray metallic",
+        "visual_size": "medium",
+        "visual_metal": "silver-toned metal",
+        "presentation": "white background studio",
+        "visual_product_type": "metal clamp component",
+        "visual_notes": "A small white paper label is attached to the component. A 'IR INTERNATIONAL' watermark is present across the image."
+      },
+      "alt_text": "A C-shaped metal clamp or coupling component with a dull silver-gray finish and a small white label, on a white background.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/spare4.png"
+    },
+    {
+      "clean_name": "PISTON",
+      "fingerprint": "c55075030c42",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Mechanical Component",
+      "product_category": "Piston",
+      "product_sub_type": "Engine Piston",
+      "buyer_persona": "A procurement manager or mechanic sourcing replacement parts for engines or machinery.",
+      "seo_title": "PISTON Engine Piston | Catalog Listing",
+      "tags": [
+        "PISTON",
+        "Industrial Equipment",
+        "Mechanical Components",
+        "Piston",
+        "Engine Piston"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar1.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar1.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar1.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.85,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "PISTON is a engine piston offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or mechanic sourcing replacement parts for engines or machinery. The image displays two dull metallic, cylindrical objects, likely pistons, against a plain white background. Each object features multiple horizontal ribs or grooves along its side. The object on the right has a visible top surface with three circular indentations or holes.",
+      "specifications": {
+        "category": "Piston",
+        "sub_type": "Engine Piston",
+        "visual_shape": "cylindrical with ribbed sides",
+        "visual_color": "dull metallic grey/silver",
+        "visual_metal": "grey metal alloy",
+        "presentation": "white background studio",
+        "visual_product_type": "pistons",
+        "visual_notes": "Watermark 'IR INTERNATIONAL' is visible across the image."
+      },
+      "alt_text": "Two dull metallic cylindrical pistons with ribbed sides, one showing three circular indentations on top, against a white background.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/spar1.png"
+    },
+    {
+      "clean_name": "AGITATOR MOTOR",
+      "fingerprint": "334f9da5ad89",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Industrial Motors & Drive",
+      "product_category": "Agitator Motor",
+      "product_sub_type": "Industrial Agitator Motor",
+      "buyer_persona": "A procurement manager or engineer in manufacturing, chemical, food processing, or water treatment industries looking for a motor to drive mixing or stirring equipment.",
+      "seo_title": "AGITATOR MOTOR Industrial Agitator Motor | Catalog Listing",
+      "tags": [
+        "AGITATOR MOTOR",
+        "Industrial Equipment",
+        "Industrial Motors & Drives",
+        "Agitator Motor",
+        "Industrial Agitator Motor"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar5.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar5.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar5.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "AGITATOR MOTOR is a industrial agitator motor offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer in manufacturing, chemical, food processing, or water treatment industries looking for a motor to drive mixing or stirring equipment. The image displays a grey metallic agitator motor, presented against a plain white background. The motor has a cylindrical body, a flanged top with bolt holes, and a prominent splined shaft extending upwards. The surface appears to be cast metal, with some texture visible on the shaft and body, and a watermark 'IR INTERNATIONAL' is visible across the image.",
+      "specifications": {
+        "category": "Agitator Motor",
+        "sub_type": "Industrial Agitator Motor",
+        "visual_shape": "cylindrical body with flanged top and splined shaft",
+        "visual_color": "grey metallic",
+        "visual_metal": "grey metal",
+        "presentation": "white background studio",
+        "visual_product_type": "agitator motor",
+        "visual_notes": "Watermark 'IR INTERNATIONAL' visible"
+      },
+      "alt_text": "Grey metallic agitator motor with a cylindrical body, flanged top, and splined shaft, on a white background.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/spar5.png"
+    },
+    {
+      "clean_name": "SLIDE",
+      "fingerprint": "9ba516e00475",
+      "top_level_domain": "Unclassified",
+      "industry_segment": "Unclassified",
+      "product_category": "Unclassified",
+      "product_sub_type": "Unclassified",
+      "buyer_persona": "A buyer seeking a product named 'SLIDE' would need more context to determine the specific item, as the name is highly ambiguous.",
+      "seo_title": "SLIDE Unclassified | Catalog Listing",
+      "tags": [
+        "SLIDE",
+        "Unclassified"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar6.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar6.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar6.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.3,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name too generic for meaningful classification. Seller context used."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "SLIDE is a unclassified offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A buyer seeking a product named 'SLIDE' would need more context to determine the specific item, as the name is highly ambiguous.",
+      "specifications": {
+        "category": "Unclassified",
+        "sub_type": "Unclassified"
+      },
+      "alt_text": "IR INTERNATIONAL manufacturing facility",
+      "used_vision": false,
+      "media_url": "http://www.irintl.in/ir images/spar6.png"
+    },
+    {
+      "clean_name": "UPPPER HOSING SEAL KIT",
+      "fingerprint": "b4694f8d9c23",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Power & Component",
+      "product_category": "Seal Kit",
+      "product_sub_type": "Hosing Seal Kit",
+      "buyer_persona": "A procurement manager or maintenance engineer in an industrial setting, purchasing replacement parts for fluid power systems or machinery.",
+      "seo_title": "UPPPER HOSING SEAL KIT Hosing Seal Kit | Catalog Listing",
+      "tags": [
+        "UPPPER HOSING SEAL KIT",
+        "Industrial Equipment",
+        "Fluid Power & Components",
+        "Seal Kit",
+        "Hosing Seal Kit"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar7.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar7.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar7.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "UPPPER HOSING SEAL KIT is a hosing seal kit offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or maintenance engineer in an industrial setting, purchasing replacement parts for fluid power systems or machinery. The image displays a set of various circular and ring-shaped components, likely parts of a seal kit, arranged horizontally on a plain white background. The kit includes metallic silver-toned rings, a prominent blue ring, and several black rubber or plastic O-rings. The items appear to be industrial or mechanical parts, not jewelry, and a faint 'IR INTERNATIONAL' watermark is visible across the image.",
+      "specifications": {
+        "category": "Seal Kit",
+        "sub_type": "Hosing Seal Kit",
+        "visual_shape": "Circular, ring-shaped",
+        "visual_color": "Metallic silver, blue, black",
+        "visual_metal": "metallic (silver-toned)",
+        "presentation": "white background studio",
+        "visual_product_type": "Mechanical seal kit components",
+        "visual_notes": "The items are clearly industrial components, not jewelry or gemstones. A faint 'IR INTERNATIONAL' watermark is visible."
+      },
+      "alt_text": "A kit of various circular and ring-shaped mechanical seals and components, including metallic, blue, and black rings, on a white background.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/spar7.png"
+    },
+    {
+      "clean_name": "ROD SEAL SET",
+      "fingerprint": "dcd43f30aa40",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Fluid Power & Hydraulics",
+      "product_category": "Rod Seal",
+      "product_sub_type": "Hydraulic Rod Seal Set",
+      "buyer_persona": "A procurement manager or maintenance engineer purchasing replacement seals for hydraulic or pneumatic cylinders in industrial machinery.",
+      "seo_title": "ROD SEAL SET Hydraulic Rod Seal Set | Catalog Listing",
+      "tags": [
+        "ROD SEAL SET",
+        "Industrial Equipment",
+        "Fluid Power & Hydraulics",
+        "Rod Seal",
+        "Hydraulic Rod Seal Set"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar11.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar11.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar11.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "ROD SEAL SET is a hydraulic rod seal set offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or maintenance engineer purchasing replacement seals for hydraulic or pneumatic cylinders in industrial machinery. The image displays a set of various mechanical components, primarily seals and rings, arranged horizontally on a plain white background. The components include several dark brown/bronze coiled rings, black rubber O-rings, white/translucent plastic or rubber rings, and one distinct blue rubber ring. Additionally, there are two small metallic components, one appearing like a threaded bolt or pin and another a small cylindrical cap.",
+      "specifications": {
+        "category": "Rod Seal",
+        "sub_type": "Hydraulic Rod Seal Set",
+        "visual_shape": "circular, cylindrical",
+        "visual_color": "dark brown, black, white, blue, metallic grey/gold",
+        "setting": "loose components",
+        "visual_metal": "metallic (bronze/brass, steel/aluminum)",
+        "presentation": "white background studio",
+        "visual_product_type": "mechanical seals and components",
+        "visual_notes": "Watermark 'I.R. INTERNATIONAL' visible across the image."
+      },
+      "alt_text": "A set of various mechanical seals and components, including dark brown coiled rings, black O-rings, white rings, and a blue ring, along with small metallic parts, all laid out on a white background.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/spar11.png"
+    },
+    {
+      "clean_name": "SHAFT",
+      "fingerprint": "e745b49943da",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Mechanical Components & Part",
+      "product_category": "Shaft",
+      "product_sub_type": "Industrial Shaft",
+      "buyer_persona": "A procurement manager or engineer looking for a mechanical component for machinery, power transmission, or structural support.",
+      "seo_title": "SHAFT Industrial Shaft | Catalog Listing",
+      "tags": [
+        "SHAFT",
+        "Industrial Equipment",
+        "Mechanical Components & Parts",
+        "Shaft",
+        "Industrial Shaft"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar15.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar15.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar15.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.55,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name too generic for meaningful classification. Seller context used."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "SHAFT is a industrial shaft offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer looking for a mechanical component for machinery, power transmission, or structural support. The image displays a single, elongated object, likely a shaft or a similar component, against a plain white background. The object has a long, slender body that appears cylindrical or prismatic, topped with a wider, flat, rectangular head. Its color is a uniform light grey or off-white, with subtle shading indicating a solid, rigid material. A faint watermark of \"IR INTERNATIONAL\" is visible diagonally across the product.",
+      "specifications": {
+        "category": "Shaft",
+        "sub_type": "Industrial Shaft",
+        "visual_shape": "elongated, cylindrical/prismatic body with a wider, flat, rectangular head",
+        "visual_color": "light grey / off-white",
+        "visual_size": "medium to large",
+        "presentation": "white background studio",
+        "visual_product_type": "shaft / elongated component",
+        "visual_notes": "Faint 'IR INTERNATIONAL' watermark visible diagonally across the product."
+      },
+      "alt_text": "A light grey elongated shaft with a wider, flat, rectangular head, presented against a plain white background.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/spar15.png"
+    },
+    {
+      "clean_name": "AGITATOR SHAFTS",
+      "fingerprint": "ac6555090b82",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Process Equipment & Component",
+      "product_category": "Agitator Shaft",
+      "product_sub_type": "Industrial Agitator Shaft",
+      "buyer_persona": "Procurement managers or engineers in manufacturing plants (chemical, food, pharmaceutical, water treatment) who need replacement parts or components for mixing and agitation equipment.",
+      "seo_title": "AGITATOR SHAFTS Industrial Agitator Shaft | Catalog Listing",
+      "tags": [
+        "AGITATOR SHAFTS",
+        "Industrial Equipment",
+        "Process Equipment & Components",
+        "Agitator Shaft",
+        "Industrial Agitator Shaft"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar19.png",
+      "photo_urls": [
+        "http://www.irintl.in/ir images/spar19.png"
+      ],
+      "source_url": "http://www.irintl.in/ir images/spar19.png",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "AGITATOR SHAFTS is a industrial agitator shaft offered by IR INTERNATIONAL based in Hyderabad. Suitable for: Procurement managers or engineers in manufacturing plants (chemical, food, pharmaceutical, water treatment) who need replacement parts or components for mixing and agitation equipment. The image displays two identical industrial components, likely shafts or posts, presented side-by-side against a plain white background. Each component features a shiny, reflective silver-colored cylindrical upper section and a matte, light blue-grey cylindrical lower section that widens into a square base. A faint 'IR INTERNATIONAL' watermark is visible across the image.",
+      "specifications": {
+        "category": "Agitator Shaft",
+        "sub_type": "Industrial Agitator Shaft",
+        "visual_shape": "Cylindrical upper section, cylindrical lower section, square base",
+        "visual_color": "Shiny silver metallic, matte light blue-grey",
+        "visual_metal": "Silver-colored metal, painted metal",
+        "presentation": "white background studio",
+        "visual_product_type": "Industrial metal shafts/posts",
+        "visual_notes": "Faint 'IR INTERNATIONAL' watermark visible across the image."
+      },
+      "alt_text": "Two identical silver and light blue-grey industrial metal shafts with square bases on a white background.",
+      "used_vision": true,
+      "media_url": "http://www.irintl.in/ir images/spar19.png"
+    }
+  ],
+  "rejected_items": [
+    {
+      "product_name": "Model :3M DN125 (5\") with Normal Flange",
+      "raw_name": "Model :3M DN125 (5\") with Normal Flange",
+      "fingerprint": "0abc762d434a",
+      "primary_photo_url": "http://www.irintl.in/ir images/pipse.png",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Flange\" but image clearly shows \"cylindrical tubes or pipes\"",
+      "product_agent": {
+        "clean_name": "Model :3M DN125 (5\") with Normal Flange",
+        "category": "Flange",
+        "sub_type": "Normal Flange",
+        "top_level_domain": "Industrial Equipment",
+        "industry_segment": "Piping & Fluid Control",
+        "classification_confidence": 0.9,
+        "description": "Model :3M DN125 (5\") with Normal Flange is a normal flange offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer in the industrial sector, such as oil & gas, chemical processing, or water treatment, looking for components to connect piping systems.",
+        "tags": [
+          "Model :3M DN125 (5\") with Normal Flange",
+          "Industrial Equipment",
+          "Piping & Fluid Control",
+          "Flange",
+          "Normal Flange"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "cylindrical tubes or pipes",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a close-up of multiple brightly colored cylindrical tubes, arranged in an overlapping pattern. There are distinct groups of yellow, red, and blue tubes, each appearing hollow with visible openings. The surface of the tubes has a slightly textured or grainy appearance, and they are presented against a plain white background.",
+        "confidence": 0.9,
+        "shape_visible": "cylindrical, hollow",
+        "color_appearance": "bright yellow, red, and blue",
+        "size_impression": "medium",
+        "setting_or_mounting": null,
+        "additional_notes": "The tubes are arranged diagonally across the frame, with the ends facing the viewer. The texture on the surface suggests they might be made of plastic or a coated material."
+      },
+      "rejected_at": "2026-05-04T05:31:21.015Z"
+    },
+    {
+      "product_name": "GRADE ST 52",
+      "raw_name": "GRADE ST 52",
+      "fingerprint": "a49543b071f7",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar55.png",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Steel\" but image clearly shows \"Industrial pipes and pipe fittings (straight sections, elbows, couplings)\"",
+      "product_agent": {
+        "clean_name": "GRADE ST 52",
+        "category": "Steel",
+        "sub_type": "Structural Steel Grade St 52",
+        "top_level_domain": "Raw Material",
+        "industry_segment": "Metals & Alloy",
+        "classification_confidence": 0.8,
+        "description": "GRADE ST 52 is a structural steel grade st 52 offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer sourcing specific grades of steel for construction, manufacturing, or fabrication projects.",
+        "tags": [
+          "GRADE ST 52",
+          "Raw Materials",
+          "Metals & Alloys",
+          "Steel",
+          "Structural Steel Grade ST 52"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "Industrial pipes and pipe fittings (straight sections, elbows, couplings)",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a collection of industrial pipes and pipe fittings, presented against a plain white background. The items include straight pipe sections and curved elbow fittings, all appearing to be made of metal and coated in vibrant primary colors: red, blue, and yellow/orange. The quality appears functional and robust, typical for industrial components.",
+        "confidence": 1,
+        "shape_visible": "Cylindrical, curved (elbows), straight",
+        "color_appearance": "Red, blue, yellow, orange (coated)",
+        "size_impression": "Medium to large industrial components",
+        "setting_or_mounting": "Loose components",
+        "additional_notes": "Multiple watermarks of 'I.R. INTERNATIONAL' are visible across the image."
+      },
+      "rejected_at": "2026-05-04T05:31:21.016Z"
+    },
+    {
+      "product_name": "INTERMEDIATE RING",
+      "raw_name": "INTERMEDIATE RING",
+      "fingerprint": "cb10423c1c1c",
+      "primary_photo_url": "http://www.irintl.in/ir images/products1.png",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Ring\" but image clearly shows \"jewelry component / metal mounting\"",
+      "product_agent": {
+        "clean_name": "INTERMEDIATE RING",
+        "category": "Ring",
+        "sub_type": "Intermediate Ring",
+        "top_level_domain": "Industrial Equipment",
+        "industry_segment": "Mechanical Component",
+        "classification_confidence": 0.9,
+        "description": "INTERMEDIATE RING is a intermediate ring offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or engineer sourcing a specific mechanical component for assembly, repair, or manufacturing.",
+        "tags": [
+          "INTERMEDIATE RING",
+          "Industrial Equipment",
+          "Mechanical Components",
+          "Ring",
+          "Intermediate Ring"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "jewelry component / metal mounting",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a silver-toned metal jewelry component, featuring two connected circular or ring-like structures. The object has a somewhat industrial finish with visible texture or machining marks on its surface. It is presented against a plain white background, with a watermark of 'IR INTERNATIONAL' visible across the product.",
+        "confidence": 0.9,
+        "shape_visible": "two connected circular forms",
+        "color_appearance": null,
+        "size_impression": "medium",
+        "setting_or_mounting": "metal component / mounting",
+        "additional_notes": "watermark 'IR INTERNATIONAL' visible; surface shows texture/machining marks"
+      },
+      "rejected_at": "2026-05-04T05:31:21.017Z"
+    },
+    {
+      "product_name": "RAM",
+      "raw_name": "RAM",
+      "fingerprint": "2c05670a5009",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar10.png",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Memory Module\" but image clearly shows \"dark, ring-shaped industrial components\"",
+      "product_agent": {
+        "clean_name": "RAM",
+        "category": "Memory Module",
+        "sub_type": "Random Access Memory",
+        "top_level_domain": "Electronics & Electrical",
+        "industry_segment": "Computer Hardware",
+        "classification_confidence": 0.85,
+        "description": "RAM is a random access memory offered by IR INTERNATIONAL based in Hyderabad. Suitable for: An IT manager or procurement specialist purchasing computer components for office systems or data centers.",
+        "tags": [
+          "RAM",
+          "Electronics & Electrical",
+          "Computer Hardware",
+          "Memory Module",
+          "Random Access Memory"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "dark, ring-shaped industrial components",
+        "scene_type": "product_image",
+        "visual_description": "The image displays two identical dark grey or black ring-shaped objects, possibly made of rubber or plastic, presented against a plain white background. Each object has a slightly conical or flared profile and features a small white label with unreadable text affixed to its side. The items appear to be industrial components rather than jewelry or gemstones.",
+        "confidence": 0.9,
+        "shape_visible": "circular, slightly conical",
+        "color_appearance": "dark grey or black",
+        "size_impression": "medium",
+        "setting_or_mounting": "loose items",
+        "additional_notes": "two identical components, white labels with unreadable text on the side of each"
+      },
+      "rejected_at": "2026-05-04T05:31:21.018Z"
+    },
+    {
+      "product_name": "WEAR SLEEVE",
+      "raw_name": "WEAR SLEEVE",
+      "fingerprint": "910815eb66e4",
+      "primary_photo_url": "http://www.irintl.in/ir images/spar12.png",
+      "price_single": null,
+      "currency": "INR",
+      "rejection_rule": "product_type_mismatch",
+      "rejection_reason": "Product name/category indicates \"Wear Sleeve\" but image clearly shows \"metallic tapered sleeve/container\"",
+      "product_agent": {
+        "clean_name": "WEAR SLEEVE",
+        "category": "Wear Sleeve",
+        "sub_type": "Industrial Wear Sleeve",
+        "top_level_domain": "Industrial Equipment",
+        "industry_segment": "Mechanical Component",
+        "classification_confidence": 0.9,
+        "description": "WEAR SLEEVE is a industrial wear sleeve offered by IR INTERNATIONAL based in Hyderabad. Suitable for: A procurement manager or maintenance engineer looking for a protective component to reduce wear on shafts or other moving parts in industrial machinery.",
+        "tags": [
+          "WEAR SLEEVE",
+          "Industrial Equipment",
+          "Mechanical Components",
+          "Wear Sleeve",
+          "Industrial Wear Sleeve"
+        ]
+      },
+      "visual_agent": {
+        "product_type_confirmed": "metallic tapered sleeve/container",
+        "scene_type": "product_image",
+        "visual_description": "The image displays a silver-grey metallic wear sleeve, which is cylindrical with a slight taper, appearing wider at the top. The item has a dull, possibly brushed finish and is wrapped in a clear plastic film, showing some wrinkles and reflections. A white product label with black text, including 'IR INTERNATIONAL', is affixed to the side of the sleeve, all presented against a plain white background.",
+        "confidence": 0.9,
+        "shape_visible": "tapered cylindrical",
+        "color_appearance": "silver-grey",
+        "size_impression": null,
+        "setting_or_mounting": null,
+        "additional_notes": "Item is wrapped in clear plastic film; a product identification label with 'IR INTERNATIONAL' is visible on the side."
+      },
+      "rejected_at": "2026-05-04T05:31:21.018Z"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "raju bt",
+      "rating": 4,
+      "text": "Nice place for batching plant spares and pump spares gaddar response very good\nFrom\nMahalakshmi enterprise",
+      "original_lang": "en",
+      "date": "2021-09-21T06:52:51.947Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "assets99 infraprojects",
+      "rating": 5,
+      "text": "Available all properties like open plots ,villas , luxurious flats and budget flats also",
+      "original_lang": "en",
+      "date": "2022-07-30T12:58:55.799Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "venkataramarao ravirala",
+      "rating": 4,
+      "text": "Good service nd staff perfomens is super gaddar super",
+      "original_lang": "en",
+      "date": "2021-09-21T05:27:29.738Z",
+      "likes": 1,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Jangaiah Durgapuram",
+      "rating": 5,
+      "text": "Very good experience and excellent work and service by Mr Prakash",
+      "original_lang": "en",
+      "date": "2022-01-22T07:46:17.835Z",
+      "likes": 1,
+      "is_local_guide": false,
+      "owner_response": "thanks"
+    },
+    {
+      "author": "Narendhar reddy Manchala",
+      "rating": 5,
+      "text": "Spares sarvice super and gaddar response very nice 👍👍👍",
+      "original_lang": "en",
+      "date": "2021-09-21T05:39:37.077Z",
+      "likes": 2,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "bobba venkatesh",
+      "rating": 5,
+      "text": "Nice place for concrete pump spares & batching plant spares at low cost",
+      "original_lang": "en",
+      "date": "2019-08-30T13:15:32.175Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": "thanks"
+    },
+    {
+      "author": "Teja Telagamsetti",
+      "rating": 5,
+      "text": "Good service .Best price.",
+      "original_lang": "en",
+      "date": "2021-09-22T06:04:29.767Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "sathish chowdary",
+      "rating": 5,
+      "text": "Satisfied with work as persion prakash ,",
+      "original_lang": "en",
+      "date": "2022-01-27T05:32:33.523Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Khadar Basha",
+      "rating": 5,
+      "text": "Best price best quality  good",
+      "original_lang": "en",
+      "date": "2021-09-22T07:50:28.142Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Bhukya Raghu",
+      "rating": 5,
+      "text": "Perfect price,and quality products",
+      "original_lang": "en",
+      "date": "2022-01-21T07:22:35.032Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": "thanks"
+    },
+    {
+      "author": "Mohan V",
+      "rating": 4,
+      "text": "Good and friendly atmosphere",
+      "original_lang": "en",
+      "date": "2021-06-29T08:30:56.411Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": "THANK YOU SIR"
+    },
+    {
+      "author": "Shaligram Rajput",
+      "rating": 4,
+      "text": "nice quality",
+      "original_lang": "en",
+      "date": "2022-05-22T05:39:33.451Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Bhukya Vishnu",
+      "rating": 4,
+      "text": "Good service 👍 nice receive\nBest performance by gadder",
+      "original_lang": "en",
+      "date": "2026-04-11T08:25:33.590Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Sandip Chodhri",
+      "rating": 4,
+      "text": "Good service good response\nGood performance by gaddar ..",
+      "original_lang": "en",
+      "date": "2026-04-10T10:46:44.730Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Gade Sathish",
+      "rating": 5,
+      "text": "Good service 👍 good response\nGood performance by gaddar",
+      "original_lang": "en",
+      "date": "2026-04-10T09:47:53.916Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Malothh Rajkumar",
+      "rating": 4,
+      "text": "Good service best performance\nBy gaddar ..",
+      "original_lang": "en",
+      "date": "2026-04-10T07:59:05.866Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Bhukya Madhan",
+      "rating": 5,
+      "text": "Good service",
+      "original_lang": "en",
+      "date": "2026-04-10T07:50:30.849Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Maloth Ajay143",
+      "rating": 4,
+      "text": "Good service nice response\nGood performance by gaddar",
+      "original_lang": "en",
+      "date": "2026-04-10T07:44:52.694Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Naveen Katta",
+      "rating": 5,
+      "text": "Concrete Pump Spare & Batching Plate Spare & Boom Placer Spare Parts in Best Place \"IR INTERNATIONAL\"   Very Good Response From Mr Gaddar.",
+      "original_lang": "en",
+      "date": "2026-04-10T07:30:30.742Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Devender Singh Jadav",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2026-04-10T07:10:02.097Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Niggula Krishna",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2025-10-17T06:04:09.861Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Raparthi Saikiran",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-06-29T06:31:44.463Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": null
+    },
+    {
+      "author": "Shiva balak .P",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2022-01-25T08:33:32.290Z",
+      "likes": 0,
+      "is_local_guide": false,
+      "owner_response": "thanks"
+    },
+    {
+      "author": "sheik musthafa",
+      "rating": 5,
+      "text": null,
+      "original_lang": null,
+      "date": "2021-11-25T08:16:50.138Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": "thanks"
+    },
+    {
+      "author": "Lakshmanarao kaviti",
+      "rating": 4,
+      "text": null,
+      "original_lang": null,
+      "date": "2021-11-12T05:47:58.126Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 4.7,
+    "no_of_ratings": 27,
+    "rating_comments": [
+      "Nice place for batching plant spares and pump spares gaddar response very good\nFrom\nMahalakshmi enterprise",
+      "Available all properties like open plots ,villas , luxurious flats and budget flats also",
+      "Good service nd staff perfomens is super gaddar super",
+      "Very good experience and excellent work and service by Mr Prakash",
+      "Spares sarvice super and gaddar response very nice 👍👍👍",
+      "Nice place for concrete pump spares & batching plant spares at low cost",
+      "Good service .Best price.",
+      "Satisfied with work as persion prakash ,",
+      "Best price best quality  good",
+      "Perfect price,and quality products"
+    ]
+  },
+  "overall_confidence": 0.858,
+  "social_profiles": [],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-04T05:28:57.367Z",
+    "duration_seconds": 144,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 17,
+      "Agent04/Media": 12,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 0,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [
+          "reviews"
+        ],
+        "quality_target": 0.8,
+        "reasoning": "Seller has 47 raw products, will process up to 20. No reviews API URL. Company profile and product data need enrichment and classification. Media classification will happen within the product agent."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": 0.83,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 17,
+      "enriched": 17,
+      "catalog_items": 12,
+      "rejected": 5,
+      "with_vision": 11,
+      "vision_skipped": 1
+    },
+    "social": {
+      "urls_detected": 0,
+      "platforms_scraped": [],
+      "posts_collected": 0,
+      "social_products_extracted": 0
+    },
+    "overall_confidence": 0.858
+  },
+  "_saved_at": "2026-05-04T05:31:21.031Z"
+}

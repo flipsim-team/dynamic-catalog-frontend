@@ -1,0 +1,1965 @@
+{
+  "seller_id": 122137723,
+  "company_profile": {
+    "name": {
+      "value": "FANRA Heaters",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "FANRA Heaters is a dedicated supplier of high-quality heating equipment, serving customers from its base in Delhi. We provide reliable and efficient heating solutions designed to meet diverse residential and commercial requirements.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "New Delhi",
+      "sources": [
+        "facebook",
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "H.NO. 1041 GALI NO 08, near NEW MOON SCHOOL, New Seelampur, Chauhan Banger, Seelampur",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "110053",
+      "sources": [
+        "facebook",
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "http://fanraheaters.com",
+      "sources": [
+        "facebook",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Heating equipment supplier",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 5,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 4,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "7991279535912850887",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "bio": {
+      "value": "We are Manufacturer's & Supplier of all types of Industrial Heaters in Delhi.",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/476654280_1378764433537073_2135308112639990014_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=jSFbBkh4ptUQ7kNvwHzl3M1&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4pNbNDAndRIiycNHMUdYotnkf3KwgT6QjRfVzMTZkqlw&oe=6A02490A&_nc_sid=8b3546",
+      "sources": [
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://yt3.googleusercontent.com/_8PnWUH6chiKHVJkd2ILMu_elnJy_BKOgK4GpgGVMf4gVwt98Yp9YnJQzMwoyLhQvcrnqtfVgQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "sources": [
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/fanraheaters",
+      "sources": [
+        "facebook",
+        "google",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "https://www.instagram.com/fanra_heaters",
+      "sources": [
+        "instagram",
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "youtube": {
+      "value": "https://youtube.com/@fanraheaters",
+      "sources": [
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "twitter": {
+      "value": "https://twitter.com/adnankhanaki",
+      "sources": [
+        "youtube"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "9639718698",
+        "sources": [
+          "facebook",
+          "google",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "fanraheaters@gmail.com",
+        "sources": [
+          "facebook",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/fanraheaters",
+        "sources": [
+          "facebook",
+          "google",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.instagram.com/fanra_heaters",
+        "sources": [
+          "instagram",
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://youtube.com/@fanraheaters",
+        "sources": [
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://twitter.com/adnankhanaki",
+        "sources": [
+          "youtube"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "followers_facebook": 777,
+    "followers_instagram": 246,
+    "posts_count_instagram": 261,
+    "following_count_instagram": 175,
+    "followers_youtube": 41,
+    "confidence": 0.9,
+    "sources": [
+      "google",
+      "facebook",
+      "instagram",
+      "youtube"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 777
+      },
+      {
+        "platform": "instagram",
+        "followers": 246
+      },
+      {
+        "platform": "youtube",
+        "followers": 41
+      }
+    ],
+    "data_sources": [
+      "instagram",
+      "website",
+      "youtube"
+    ],
+    "reviews_url": "https://www.google.com/maps?cid=7991279535912850887"
+  },
+  "products": [],
+  "media_assets": [],
+  "catalog_items": [
+    {
+      "fingerprint": "4514c50a2792",
+      "raw_name": "FLEXIBLE TUBULAR HEATERS",
+      "clean_name": "FLEXIBLE TUBULAR HEATERS",
+      "product_category": "Heating Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A bundle of flexible tubular heaters, featuring a durable braided metal exterior and threaded ends for secure installation. These heaters are designed for various industrial applications.",
+      "seo_title": "FLEXIBLE TUBULAR HEATERS",
+      "alt_text": "FLEXIBLE TUBULAR HEATERS",
+      "tags": [
+        "FlexibleHeater",
+        "plasticmould",
+        "moulding",
+        "extrudermachine",
+        "ShoeManufacturing",
+        "chemicalindustry",
+        "industrialautomation",
+        "IndustrialEquipment"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Type": "Tubular Heater",
+        "Flexibility": "Flexible",
+        "Exterior_Material": "Braided Metal",
+        "End_Connection": "Threaded"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DXuBwrxDAyH/",
+      "photo_urls": [
+        "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/685300808_1266521999010025_2903057307272430020_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=pW5Cl-vg3qAQ7kNvwGL2r6W&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af52Chwdgc2QXczhHdY43_180evcfU2Htck_yMuFGF_Org&oe=6A0265B0&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/685300808_1266521999010025_2903057307272430020_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=pW5Cl-vg3qAQ7kNvwGL2r6W&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af52Chwdgc2QXczhHdY43_180evcfU2Htck_yMuFGF_Org&oe=6A0265B0&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/685300808_1266521999010025_2903057307272430020_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=pW5Cl-vg3qAQ7kNvwGL2r6W&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af52Chwdgc2QXczhHdY43_180evcfU2Htck_yMuFGF_Org&oe=6A0265B0&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DXuBwrxDAyH/",
+        "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/685300808_1266521999010025_2903057307272430020_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=pW5Cl-vg3qAQ7kNvwGL2r6W&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af52Chwdgc2QXczhHdY43_180evcfU2Htck_yMuFGF_Org&oe=6A0265B0&_nc_sid=8b3546",
+        "caption": "FLEXIBLE TUBULAR HEATERS - CONTACT US. WA.ME/919639718698\n\n #FlexibleHeater #plasticmould #moulding #extrudermachine #ShoeManufacturing #chemicalindustry #industrialautomation #IndustrialEquipment",
+        "posted_at": "2026-04-29T14:37:15.000Z",
+        "likes": 1,
+        "views": 21
+      }
+    },
+    {
+      "fingerprint": "07f7f1ce77a6",
+      "raw_name": "Finned Tubular Heaters",
+      "clean_name": "Finned Tubular Heaters",
+      "product_category": "Heating Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A collection of finned tubular heaters, likely for industrial or commercial heating applications, designed for efficient heat transfer. The heaters are branded 'FANRA HEATERS' and feature mounting brackets and electrical terminals.",
+      "seo_title": "Finned Tubular Heaters",
+      "alt_text": "Finned Tubular Heaters",
+      "tags": [
+        "Finned Tubular Heaters",
+        "Heaters",
+        "Heating Elements",
+        "Industrial Heaters",
+        "FANRA Heaters",
+        "Tubular Heaters"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DXnobApgfJw/",
+      "photo_urls": [
+        "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/683554140_2422303198251980_2138082324872222796_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=8X4stsvjVzEQ7kNvwGdyUb-&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NDI1MDk4MTYxMzA0MDI0MA%3D%3D.3-ccb7-5&oh=00_Af5j_MvXr7atMD_vXwNTi-VGPehmvUvvJ4SihtBLbyetsA&oe=6A0248BA&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/683554140_2422303198251980_2138082324872222796_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=8X4stsvjVzEQ7kNvwGdyUb-&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NDI1MDk4MTYxMzA0MDI0MA%3D%3D.3-ccb7-5&oh=00_Af5j_MvXr7atMD_vXwNTi-VGPehmvUvvJ4SihtBLbyetsA&oe=6A0248BA&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/683554140_2422303198251980_2138082324872222796_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=8X4stsvjVzEQ7kNvwGdyUb-&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NDI1MDk4MTYxMzA0MDI0MA%3D%3D.3-ccb7-5&oh=00_Af5j_MvXr7atMD_vXwNTi-VGPehmvUvvJ4SihtBLbyetsA&oe=6A0248BA&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DXnobApgfJw/",
+        "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/683554140_2422303198251980_2138082324872222796_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=8X4stsvjVzEQ7kNvwGdyUb-&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NDI1MDk4MTYxMzA0MDI0MA%3D%3D.3-ccb7-5&oh=00_Af5j_MvXr7atMD_vXwNTi-VGPehmvUvvJ4SihtBLbyetsA&oe=6A0248BA&_nc_sid=8b3546",
+        "caption": "Finned Tubular Heaters - Please contact us for ordering information. Wa.me/919639718698",
+        "posted_at": "2026-04-27T03:00:22.000Z",
+        "likes": 1,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "a04fb5359b0f",
+      "raw_name": "STEEL FINNED STRIP HEATERS",
+      "clean_name": "STEEL FINNED STRIP HEATERS",
+      "product_category": "Industrial Heater",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A steel finned strip heater, characterized by its metallic construction and multiple fins designed to maximize heat dissipation. It features two electrical connectors at one end, indicating its function as an industrial heating element.",
+      "seo_title": "STEEL FINNED STRIP HEATERS",
+      "alt_text": "STEEL FINNED STRIP HEATERS",
+      "tags": [
+        "extrudermachine",
+        "ShoeManufacturing",
+        "FlexibleHeater",
+        "plasticmould",
+        "moulding",
+        "chemicalindustry",
+        "IndustrialEquipment",
+        "IndustrialAutomation",
+        "heaterinstallation",
+        "HeatExhaustion"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Material": "Steel",
+        "Type": "Finned Strip Heater",
+        "Connectors": "2 electrical connectors"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DX1EbrNFSIo/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/683728454_4539998739555609_284164969585732142_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=p8pynsvDLK0Q7kNvwGKvnEm&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af50O08EO_PDrKEePMgbG26-5QIikTcwBk76q4Wcf970xQ&oe=6A026C79&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/683728454_4539998739555609_284164969585732142_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=p8pynsvDLK0Q7kNvwGKvnEm&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af50O08EO_PDrKEePMgbG26-5QIikTcwBk76q4Wcf970xQ&oe=6A026C79&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/683728454_4539998739555609_284164969585732142_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=p8pynsvDLK0Q7kNvwGKvnEm&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af50O08EO_PDrKEePMgbG26-5QIikTcwBk76q4Wcf970xQ&oe=6A026C79&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DX1EbrNFSIo/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/683728454_4539998739555609_284164969585732142_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=p8pynsvDLK0Q7kNvwGKvnEm&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af50O08EO_PDrKEePMgbG26-5QIikTcwBk76q4Wcf970xQ&oe=6A026C79&_nc_sid=8b3546",
+        "caption": "STEEL FINNED STRIP HEATERS - CONTACT US FOR ORDER - WA.ME/919639718698\n\n #extrudermachine #ShoeManufacturing #FlexibleHeater #plasticmould #moulding #chemicalindustry #IndustrialEquipment #IndustrialAutomation #heaterinstallation #HeatExhaustion",
+        "posted_at": "2026-05-02T08:15:17.000Z",
+        "likes": 1,
+        "views": 43
+      }
+    },
+    {
+      "fingerprint": "f4fd1150c656",
+      "raw_name": "Finned Air Heater",
+      "clean_name": "Finned Air Heater",
+      "product_category": "Air Heater",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This product is a Finned Air Heater, featuring a large fan for air circulation and two prominent finned heating elements mounted within a sturdy metal frame. The unit is designed to efficiently heat and distribute air, with the brand 'FANRA HEATERS' visible on the device.",
+      "seo_title": "Finned Air Heater",
+      "alt_text": "Finned Air Heater",
+      "tags": [
+        "Finned Air Heater",
+        "Heating Equipment",
+        "Industrial Heater",
+        "Air Heater",
+        "FANRA HEATERS"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Type": "Finned Air Heater",
+        "Components": "Fan, Finned Heating Elements, Metal Frame",
+        "Brand": "FANRA HEATERS"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DX3OOh0AY0F/",
+      "photo_urls": [
+        "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/686746834_2427633904385576_6663445451482242812_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=KfFe2XQ0RF8Q7kNvwHZVLA6&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4ODYzOTM3NDI4NzUzOTQ2MQ%3D%3D.3-ccb7-5&oh=00_Af4F8TVdxF_QfrfJxoFDCm2-_ukx45eqFJ1UVc2YbIp57w&oe=6A02605D&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/686746834_2427633904385576_6663445451482242812_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=KfFe2XQ0RF8Q7kNvwHZVLA6&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4ODYzOTM3NDI4NzUzOTQ2MQ%3D%3D.3-ccb7-5&oh=00_Af4F8TVdxF_QfrfJxoFDCm2-_ukx45eqFJ1UVc2YbIp57w&oe=6A02605D&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/686746834_2427633904385576_6663445451482242812_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=KfFe2XQ0RF8Q7kNvwHZVLA6&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4ODYzOTM3NDI4NzUzOTQ2MQ%3D%3D.3-ccb7-5&oh=00_Af4F8TVdxF_QfrfJxoFDCm2-_ukx45eqFJ1UVc2YbIp57w&oe=6A02605D&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DX3OOh0AY0F/",
+        "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/686746834_2427633904385576_6663445451482242812_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=KfFe2XQ0RF8Q7kNvwHZVLA6&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4ODYzOTM3NDI4NzUzOTQ2MQ%3D%3D.3-ccb7-5&oh=00_Af4F8TVdxF_QfrfJxoFDCm2-_ukx45eqFJ1UVc2YbIp57w&oe=6A02605D&_nc_sid=8b3546",
+        "caption": "Finned Air Heaters - Contact us for ordering inquiries - wa.me/919639718698",
+        "posted_at": "2026-05-03T04:19:19.000Z",
+        "likes": 1,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "548b664a6d02",
+      "raw_name": "FANRA Heating Elements",
+      "clean_name": "FANRA Heating Elements",
+      "product_category": "Heating Element",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The post features multiple metallic, cylindrical heating elements, which are components of FANRA Heaters. The company is highlighted as ISO 9001:2015 certified, indicating adherence to quality standards.",
+      "seo_title": "FANRA Heating Elements",
+      "alt_text": "FANRA Heating Elements",
+      "tags": [
+        "Heaters",
+        "Heating Elements",
+        "Industrial Heating",
+        "FANRA",
+        "heaterinstallation"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Certification": "ISO 9001:2015 Certified",
+        "Type": "Cylindrical"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DXqyr0fkpVF/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/684305659_3880114325452445_2640733198497104894_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=QG7X9KPz1aEQ7kNvwEdAOo7&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af7FKL7D050-vBixJs1YEm3rqwSvPRlqIFDRa7y3soh41Q&oe=6A024AED&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/684305659_3880114325452445_2640733198497104894_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=QG7X9KPz1aEQ7kNvwEdAOo7&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af7FKL7D050-vBixJs1YEm3rqwSvPRlqIFDRa7y3soh41Q&oe=6A024AED&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/684305659_3880114325452445_2640733198497104894_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=QG7X9KPz1aEQ7kNvwEdAOo7&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af7FKL7D050-vBixJs1YEm3rqwSvPRlqIFDRa7y3soh41Q&oe=6A024AED&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DXqyr0fkpVF/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/684305659_3880114325452445_2640733198497104894_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=QG7X9KPz1aEQ7kNvwEdAOo7&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af7FKL7D050-vBixJs1YEm3rqwSvPRlqIFDRa7y3soh41Q&oe=6A024AED&_nc_sid=8b3546",
+        "caption": "FANRA HEATERS CONTACT US FOR ANY REQUIREMENT - WA.ME/919639718698\n #HeatExhaustion #heaterinstallation #",
+        "posted_at": "2026-04-28T08:27:49.000Z",
+        "likes": 1,
+        "views": 5
+      }
+    },
+    {
+      "fingerprint": "9c861c97e16b",
+      "raw_name": "Industrial Heating Elements",
+      "clean_name": "Industrial Heating Elements",
+      "product_category": "Heating Element",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The image displays a pile of metallic, rectangular heating elements, each featuring electrical wires connected at one end. These appear to be industrial-grade components, likely strip heaters, designed for various heating applications.",
+      "seo_title": "Industrial Heating Elements",
+      "alt_text": "Industrial Heating Elements",
+      "tags": [
+        "heating element",
+        "industrial heater",
+        "strip heater",
+        "heating equipment",
+        "electrical heater"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Material": "Metallic (likely steel or galvanized steel)",
+        "Form Factor": "Rectangular strip with mounting holes",
+        "Wiring": "Two-wire electrical connection"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DVm9SBLglKx/",
+      "photo_urls": [
+        "https://scontent-dfw5-2.cdninstagram.com/v/t15.5256-10/646356865_1978710476362555_3213960820243693061_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=vq-z4eLow4oQ7kNvwGe0b4K&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af5B70Aryu4b1D3xvUAmitwlSRzcxD5sn1sY_0iAH5aW7w&oe=6A02398D&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-2.cdninstagram.com/v/t15.5256-10/646356865_1978710476362555_3213960820243693061_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=vq-z4eLow4oQ7kNvwGe0b4K&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af5B70Aryu4b1D3xvUAmitwlSRzcxD5sn1sY_0iAH5aW7w&oe=6A02398D&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-2.cdninstagram.com/v/t15.5256-10/646356865_1978710476362555_3213960820243693061_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=vq-z4eLow4oQ7kNvwGe0b4K&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af5B70Aryu4b1D3xvUAmitwlSRzcxD5sn1sY_0iAH5aW7w&oe=6A02398D&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DVm9SBLglKx/",
+        "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t15.5256-10/646356865_1978710476362555_3213960820243693061_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=vq-z4eLow4oQ7kNvwGe0b4K&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af5B70Aryu4b1D3xvUAmitwlSRzcxD5sn1sY_0iAH5aW7w&oe=6A02398D&_nc_sid=8b3546",
+        "caption": null,
+        "posted_at": "2026-03-08T03:40:45.000Z",
+        "likes": 3,
+        "views": 14
+      }
+    },
+    {
+      "fingerprint": "ab9ffaab32df",
+      "raw_name": "FANRA Industrial Heating Elements",
+      "clean_name": "FANRA Industrial Heating Elements",
+      "product_category": "Industrial Heating Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A pile of robust industrial heating elements, featuring long tubular bodies and a sturdy base plate with multiple electrical connection points (nuts and bolts). These elements are designed for various industrial heating applications, with a variety of types available.",
+      "seo_title": "FANRA Industrial Heating Elements",
+      "alt_text": "FANRA Industrial Heating Elements",
+      "tags": [
+        "industrial heaters",
+        "heating elements",
+        "FANRA",
+        "heating equipment",
+        "supplier"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Type": "Tubular Heating Elements",
+        "Application": "Industrial",
+        "Brand": "FANRA"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DUnTHSpgQWK/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/631833240_2358439161305051_8532566789559184838_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=igpPt9TFd6sQ7kNvwFXVek1&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgzMDExNDA2MTk3OTMxMDI2Ng%3D%3D.3-ccb7-5&oh=00_Af68otDHNTrH7Ydo3M954Cl1a70se9RhSCil-3PSur99Ew&oe=6A024DB4&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/631833240_2358439161305051_8532566789559184838_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=igpPt9TFd6sQ7kNvwFXVek1&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgzMDExNDA2MTk3OTMxMDI2Ng%3D%3D.3-ccb7-5&oh=00_Af68otDHNTrH7Ydo3M954Cl1a70se9RhSCil-3PSur99Ew&oe=6A024DB4&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/631833240_2358439161305051_8532566789559184838_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=igpPt9TFd6sQ7kNvwFXVek1&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgzMDExNDA2MTk3OTMxMDI2Ng%3D%3D.3-ccb7-5&oh=00_Af68otDHNTrH7Ydo3M954Cl1a70se9RhSCil-3PSur99Ew&oe=6A024DB4&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DUnTHSpgQWK/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/631833240_2358439161305051_8532566789559184838_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=igpPt9TFd6sQ7kNvwFXVek1&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgzMDExNDA2MTk3OTMxMDI2Ng%3D%3D.3-ccb7-5&oh=00_Af68otDHNTrH7Ydo3M954Cl1a70se9RhSCil-3PSur99Ew&oe=6A024DB4&_nc_sid=8b3546",
+        "caption": "All types industrial heaters available contact us +91963 971 8698",
+        "posted_at": "2026-02-11T10:19:59.000Z",
+        "likes": 2,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "ae1296fa5cda",
+      "raw_name": "Heating Elements / Industrial Heating Rods",
+      "clean_name": "Heating Elements / Industrial Heating Rods",
+      "product_category": "Heating Element",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Multiple cylindrical metal rods, individually wrapped in plastic, likely used as heating elements in various industrial or domestic heating applications. They appear to be new and ready for distribution.",
+      "seo_title": "Heating Elements / Industrial Heating Rods",
+      "alt_text": "Heating Elements / Industrial Heating Rods",
+      "tags": [
+        "Heating elements",
+        "Industrial heating",
+        "Metal rods",
+        "Heating components"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DVld7j9AcsV/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/648401057_2379585499190417_3441012787877224318_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=fsplwxLCtb0Q7kNvwFDQsFC&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg0NzYxMzA5MzA2MDM5Nzg0NQ%3D%3D.3-ccb7-5&oh=00_Af6L7Ycsu2kX7CY1DQEq2qLtWTvDW8qmEHzPWUD3zKDcwA&oe=6A0247C0&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/648401057_2379585499190417_3441012787877224318_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=fsplwxLCtb0Q7kNvwFDQsFC&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg0NzYxMzA5MzA2MDM5Nzg0NQ%3D%3D.3-ccb7-5&oh=00_Af6L7Ycsu2kX7CY1DQEq2qLtWTvDW8qmEHzPWUD3zKDcwA&oe=6A0247C0&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/648401057_2379585499190417_3441012787877224318_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=fsplwxLCtb0Q7kNvwFDQsFC&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg0NzYxMzA5MzA2MDM5Nzg0NQ%3D%3D.3-ccb7-5&oh=00_Af6L7Ycsu2kX7CY1DQEq2qLtWTvDW8qmEHzPWUD3zKDcwA&oe=6A0247C0&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DVld7j9AcsV/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/648401057_2379585499190417_3441012787877224318_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=fsplwxLCtb0Q7kNvwFDQsFC&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg0NzYxMzA5MzA2MDM5Nzg0NQ%3D%3D.3-ccb7-5&oh=00_Af6L7Ycsu2kX7CY1DQEq2qLtWTvDW8qmEHzPWUD3zKDcwA&oe=6A0247C0&_nc_sid=8b3546",
+        "caption": null,
+        "posted_at": "2026-03-07T13:47:25.000Z",
+        "likes": 2,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "364226aaac3a",
+      "raw_name": "Fanra Finned Air Heaters",
+      "clean_name": "Fanra Finned Air Heaters",
+      "product_category": "Heating Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A collection of Fanra brand finned air heaters, designed for efficient heating applications. These heaters are available in various sizes to suit different industrial and commercial needs.",
+      "seo_title": "Fanra Finned Air Heaters",
+      "alt_text": "Fanra Finned Air Heaters",
+      "tags": [
+        "Fanra Heaters",
+        "Finned Air Heaters",
+        "Heating Elements",
+        "Industrial Heaters"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Sizes": "All Sizes"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/0uvUS-6KIiM",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/0uvUS-6KIiM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLB4SwETzDp0sQVysN_AC1ArHlPl7w"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/0uvUS-6KIiM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLB4SwETzDp0sQVysN_AC1ArHlPl7w",
+      "media_url": "https://i.ytimg.com/vi/0uvUS-6KIiM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLB4SwETzDp0sQVysN_AC1ArHlPl7w",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/0uvUS-6KIiM",
+        "thumbnail_url": "https://i.ytimg.com/vi/0uvUS-6KIiM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLB4SwETzDp0sQVysN_AC1ArHlPl7w",
+        "caption": "Fanra Heaters Finned Air Heaters All Sizes",
+        "posted_at": "2026-05-03T03:27:30.000Z",
+        "likes": null,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "5bbeea4e40e1",
+      "raw_name": "Strip Heaters",
+      "clean_name": "Strip Heaters",
+      "product_category": "Heating Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "An elongated metallic heating element, likely made of stainless steel, featuring two visible electrical terminals. This robust heater is suitable for various industrial and commercial heating applications.",
+      "seo_title": "Strip Heaters",
+      "alt_text": "Strip Heaters",
+      "tags": [
+        "Strip Heater",
+        "Heating Element",
+        "Industrial Heater",
+        "FANRA Heaters"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "material": "Metallic (likely stainless steel)",
+        "terminals": "Two"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DPl888hDI4e/",
+      "photo_urls": [
+        "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/561317575_1159110549443630_8809415004895979476_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=gT0hxzQXOEcQ7kNvwHySsef&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af67ue4aDpuxmP0Fs6w1pTkMFrPA-_3beRkOkiUAzhkVAw&oe=6A026A1F&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/561317575_1159110549443630_8809415004895979476_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=gT0hxzQXOEcQ7kNvwHySsef&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af67ue4aDpuxmP0Fs6w1pTkMFrPA-_3beRkOkiUAzhkVAw&oe=6A026A1F&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/561317575_1159110549443630_8809415004895979476_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=gT0hxzQXOEcQ7kNvwHySsef&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af67ue4aDpuxmP0Fs6w1pTkMFrPA-_3beRkOkiUAzhkVAw&oe=6A026A1F&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DPl888hDI4e/",
+        "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/561317575_1159110549443630_8809415004895979476_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=gT0hxzQXOEcQ7kNvwHySsef&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af67ue4aDpuxmP0Fs6w1pTkMFrPA-_3beRkOkiUAzhkVAw&oe=6A026A1F&_nc_sid=8b3546",
+        "caption": "Strip Heaters - FANRA HEATERS - 9639718698",
+        "posted_at": "2025-10-09T15:10:10.000Z",
+        "likes": 3,
+        "views": 70
+      }
+    },
+    {
+      "fingerprint": "edf09d543514",
+      "raw_name": "Insulation Jacket for Ceramic Band Heaters",
+      "clean_name": "Insulation Jacket for Ceramic Band Heaters",
+      "product_category": "Heating Equipment Accessory",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "An insulation jacket designed for ceramic band heaters, aimed at reducing heat loss, improving heating efficiency, and lowering power consumption. It also enhances operator safety by keeping surface temperatures cooler. The jackets are grey, cylindrical covers with visible orange inner linings and velcro-style fasteners.",
+      "seo_title": "Insulation Jacket for Ceramic Band Heaters",
+      "alt_text": "Insulation Jacket for Ceramic Band Heaters",
+      "tags": [
+        "insulation jacket",
+        "ceramic band heater",
+        "heat loss reduction",
+        "energy efficiency",
+        "operator safety",
+        "heating equipment"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "application": "Ceramic band heaters",
+        "material_appearance": "Grey outer, orange inner lining",
+        "fastening_mechanism": "Velcro straps",
+        "benefits": "Reduces heat loss, improves heating efficiency, lowers power consumption, enhances operator safety (cooler surface temperatures)"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DT1kGgCgY0S/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/616953288_2341211796361121_7170048377497869231_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=UVT9hPotemYQ7kNvwFyb806&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgxNjExNTAyNjI5NzY5NTkwOQ%3D%3D.3-ccb7-5&oh=00_Af4wiyuUs_XdTsg4k2yvipp_oy6g6ODQYXsHadV8U92lbw&oe=6A0236C7&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/616953288_2341211796361121_7170048377497869231_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=UVT9hPotemYQ7kNvwFyb806&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgxNjExNTAyNjI5NzY5NTkwOQ%3D%3D.3-ccb7-5&oh=00_Af4wiyuUs_XdTsg4k2yvipp_oy6g6ODQYXsHadV8U92lbw&oe=6A0236C7&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/616953288_2341211796361121_7170048377497869231_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=UVT9hPotemYQ7kNvwFyb806&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgxNjExNTAyNjI5NzY5NTkwOQ%3D%3D.3-ccb7-5&oh=00_Af4wiyuUs_XdTsg4k2yvipp_oy6g6ODQYXsHadV8U92lbw&oe=6A0236C7&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DT1kGgCgY0S/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/616953288_2341211796361121_7170048377497869231_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=UVT9hPotemYQ7kNvwFyb806&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgxNjExNTAyNjI5NzY5NTkwOQ%3D%3D.3-ccb7-5&oh=00_Af4wiyuUs_XdTsg4k2yvipp_oy6g6ODQYXsHadV8U92lbw&oe=6A0236C7&_nc_sid=8b3546",
+        "caption": "An insulation jacket for ceramic band heaters reduces heat loss, improves heating efficiency, lowers power consumption, and enhances operator safety by keeping surface temperatures cooler.\n\nContact us - wa.me/919639718698",
+        "posted_at": "2026-01-23T02:46:24.000Z",
+        "likes": 1,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "52d84189f0fe",
+      "raw_name": "Strip Heater",
+      "clean_name": "Strip Heater",
+      "product_category": "Heating Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This is a metallic strip heater, likely used for various heating applications. It features two electrical terminals at the top and is offered in customized sizes by FANRA HEATERS.",
+      "seo_title": "Strip Heater",
+      "alt_text": "Strip Heater",
+      "tags": [
+        "Strip Heater",
+        "Customised Heater",
+        "FANRA Heaters",
+        "Heating Element",
+        "Industrial Heater"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Size": "Customised",
+        "Brand": "FANRA HEATERS"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/CSI2mgOAfWI",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/CSI2mgOAfWI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBgKEIwDw==&rs=AOn4CLCXmVE6qOE4ympHzvvygKqQl1yaEw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/CSI2mgOAfWI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBgKEIwDw==&rs=AOn4CLCXmVE6qOE4ympHzvvygKqQl1yaEw",
+      "media_url": "https://i.ytimg.com/vi/CSI2mgOAfWI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBgKEIwDw==&rs=AOn4CLCXmVE6qOE4ympHzvvygKqQl1yaEw",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/CSI2mgOAfWI",
+        "thumbnail_url": "https://i.ytimg.com/vi/CSI2mgOAfWI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBgKEIwDw==&rs=AOn4CLCXmVE6qOE4ympHzvvygKqQl1yaEw",
+        "caption": "Strip Heaters | All Size Customised | FANRA HEATERS",
+        "posted_at": "2024-08-01T16:16:24.000Z",
+        "likes": 3,
+        "views": 139
+      }
+    },
+    {
+      "fingerprint": "5be0ed0ed635",
+      "raw_name": "Fanra Heaters Industrial M Type Finned Tubular Heating Element",
+      "clean_name": "Fanra Heaters Industrial M Type Finned Tubular Heating Element",
+      "product_category": "Heating Element",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "M-Type Finned Tubular Heating Elements are specially designed for applications requiring efficient heat transfer and durability in challenging environments. These heating elements feature a metal sheath with high-grade fins attached to increase the surface area, enhancing heat transfer.",
+      "seo_title": "Fanra Heaters Industrial M Type Finned Tubular Heating Element",
+      "alt_text": "Fanra Heaters Industrial M Type Finned Tubular Heating Element",
+      "tags": [
+        "Industrial Heater",
+        "Heating Element",
+        "Finned Heater",
+        "M-Type Heater",
+        "Fanra Heaters"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Type": "M-Type Finned Tubular",
+        "Material": "Metal sheath with high-grade fins",
+        "Application": "Efficient heat transfer and durability in challenging environments"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/3wP0LyI8Tdg",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/3wP0LyI8Tdg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEwwDw==&rs=AOn4CLAjlTBQ1VtpFRPGIqeT9MdSVOy7aQ"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/3wP0LyI8Tdg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEwwDw==&rs=AOn4CLAjlTBQ1VtpFRPGIqeT9MdSVOy7aQ",
+      "media_url": "https://i.ytimg.com/vi/3wP0LyI8Tdg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEwwDw==&rs=AOn4CLAjlTBQ1VtpFRPGIqeT9MdSVOy7aQ",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/3wP0LyI8Tdg",
+        "thumbnail_url": "https://i.ytimg.com/vi/3wP0LyI8Tdg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEwwDw==&rs=AOn4CLAjlTBQ1VtpFRPGIqeT9MdSVOy7aQ",
+        "caption": "Fanra Heaters Industrial M Type Finned Tubular Heating Element\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nFanra Heaters Industrial M Type Finned Tubular Heating Element\nM-Type Finned Tubular Heating Elements are specially designed for applications requiring efficient heat transfer and durability in challenging environments. These heating elements feature a metal sheath with high-grade fins attached to increase the surface area, enhancing heat dissipation. The \"M-Type\" design refers to their unique shape, which provides uniform heating and better mechanical stability. These elements are typically used in air heating, drying ovens, and forced air heating systems, where rapid and consistent heat is essential. They are resistant to corrosion, have a long lifespan, and are available in various sizes and power ratings to meet specific industrial requirements.\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+        "posted_at": "2026-04-27T07:52:20.000Z",
+        "likes": 4,
+        "views": 1181
+      }
+    },
+    {
+      "fingerprint": "d230b1d33779",
+      "raw_name": "Fanra Heaters Finned Tubular Heaters",
+      "clean_name": "Fanra Heaters Finned Tubular Heaters",
+      "product_category": "Finned Tubular Heater",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "FANRA HEATERS manufactures Finned Tubular Heaters designed for applications requiring efficient heat transfer and high performance. These heaters are ideal for air, gas, and liquid heating in various industrial processes, providing enhanced heat dissipation.",
+      "seo_title": "Fanra Heaters Finned Tubular Heaters",
+      "alt_text": "Fanra Heaters Finned Tubular Heaters",
+      "tags": [
+        "Finned Tubular Heaters",
+        "Industrial Heaters",
+        "Heating Equipment",
+        "FANRA HEATERS",
+        "Air Heating",
+        "Gas Heating",
+        "Liquid Heating"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "sizes": "All Sizes",
+        "applications": "Air, Gas, and Liquid Heating",
+        "performance": "Efficient heat transfer, High performance, Enhanced heat dissipation"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/5tScLgRrqBA",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/5tScLgRrqBA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLAnJSBqrsCBI4VSbjpEqtcsnNQk-g"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/5tScLgRrqBA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLAnJSBqrsCBI4VSbjpEqtcsnNQk-g",
+      "media_url": "https://i.ytimg.com/vi/5tScLgRrqBA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLAnJSBqrsCBI4VSbjpEqtcsnNQk-g",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/5tScLgRrqBA",
+        "thumbnail_url": "https://i.ytimg.com/vi/5tScLgRrqBA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLAnJSBqrsCBI4VSbjpEqtcsnNQk-g",
+        "caption": "Fanra Heaters Finned Tubular Heaters All Sizes\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nFanra Heaters Finned Tubular Heaters All Sizes\nFinned Tubular Heaters by FANRA HEATERS\nFANRA HEATERS manufactures Finned Tubular Heaters designed for applications that require efficient heat transfer and high performance. These heaters are ideal for air, gas, and liquid heating in a variety of industrial processes, providing enhanced heat dissipation with the help of finned structures.\nTechnical Specifications\nMaterial:\nSheath: Stainless steel, Incoloy, or mild steel for durability and corrosion resistance.\nHeating Element: High-quality nickel-chromium (NiCr) resistance wire.\nVoltage: Available in 110V, 230V, and 415V; custom voltages upon request.\nWattage: Customizable from 0.5 kW to 25 kW.\nTemperature Range: Operates up to 650C (1202F), ideal for high-temperature applications.\nInsulation: Magnesium oxide (MgO) for high thermal conductivity and electrical insulation.\nLength: Custom lengths available from 100mm to 3000mm based on requirements.\nDiameter: Typically available in 8mm to 25mm, with custom sizes for specific applications.\nFins: Aluminum or copper fins designed to increase surface area for efficient heat transfer.\nMounting: Available in a variety of mounting options, including brackets, flanges, or threaded ends.\nKey Features\nEnhanced Heat Dissipation: The finned design increases the surface area for more effective heat transfer, making them suitable for heating air, liquids, and gases.\nCorrosion Resistant: Made from stainless steel or Incoloy, ensuring longevity even in corrosive environments.\nCustomizable Sizes: Available in various lengths, diameters, and wattages to meet specific heating needs.\nEnergy Efficient: Delivers efficient heating while minimizing energy consumption.\nVersatile Applications: Ideal for heating air, gases, and liquids in industrial heating, drying, and processing systems.\nApplications\nAir Heating: Used in industrial ovens, dryers, and air heaters.\nLiquid and Gas Heating: Suitable for water, oil, and gas heating systems.\nIndustrial Processes: Used in various manufacturing and processing industries that require consistent and reliable heat.\nHVAC Systems: Ideal for use in heating, ventilation, and air conditioning (HVAC) applications.\nFANRA HEATERS’ Finned Tubular Heaters provide reliable, high-performance heating solutions for a wide range of industrial applications. With customizable options and excellent durability, they ensure effective heat transfer and long-term efficiency. Contact us for more information on how these heaters can meet your industrial heating needs.\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+        "posted_at": "2026-04-27T07:51:06.000Z",
+        "likes": null,
+        "views": 7
+      }
+    },
+    {
+      "fingerprint": "1b7278e17848",
+      "raw_name": "FANRA HEATERS Defreezer Cartridge Heaters",
+      "clean_name": "FANRA HEATERS Defreezer Cartridge Heaters",
+      "product_category": "Heater",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "FANRA HEATERS Defreezer Cartridge Heaters are designed for efficient defrosting, featuring a 300W power output and a 1.5 MTR Teflon wire.",
+      "seo_title": "FANRA HEATERS Defreezer Cartridge Heaters",
+      "alt_text": "FANRA HEATERS Defreezer Cartridge Heaters",
+      "tags": [
+        "Defreezer Heater",
+        "Cartridge Heater",
+        "Defrosting",
+        "FANRA Heaters"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Power": "300W",
+        "Wire Type": "Teflon Wire",
+        "Wire Length": "1.5 MTR"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/63gX3ji-_l4",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/63gX3ji-_l4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLB4BK4ZQPI2Ord87EzlWer7JLyIHA"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/63gX3ji-_l4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLB4BK4ZQPI2Ord87EzlWer7JLyIHA",
+      "media_url": "https://i.ytimg.com/vi/63gX3ji-_l4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLB4BK4ZQPI2Ord87EzlWer7JLyIHA",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/63gX3ji-_l4",
+        "thumbnail_url": "https://i.ytimg.com/vi/63gX3ji-_l4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLB4BK4ZQPI2Ord87EzlWer7JLyIHA",
+        "caption": "FANRA HEATERS Defreezer Cartridge Heaters 300W with 1.5 MTR Teflon Wire for Efficient Defrosting",
+        "posted_at": "2024-10-20T17:41:39.000Z",
+        "likes": 8,
+        "views": 1005
+      }
+    },
+    {
+      "fingerprint": "0c47e1679cb1",
+      "raw_name": "Fanra Heaters Glass Heating Element",
+      "clean_name": "Fanra Heaters Glass Heating Element",
+      "product_category": "Heating Element",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "FANRA HEATERS manufactures high-quality Glass Tube Heaters designed for clean, efficient, and fast heating applications. These heaters use a special resistance coil enclosed inside a high-temperature resistant glass tube, providing safe and uniform infrared heat without direct contact.",
+      "seo_title": "Fanra Heaters Glass Heating Element",
+      "alt_text": "Fanra Heaters Glass Heating Element",
+      "tags": [
+        "Glass Heating Element",
+        "Glass Tube Heater",
+        "Infrared Heater",
+        "FANRA HEATERS",
+        "Heating Equipment"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Element Type": "Glass Tube Heater",
+        "Heating Method": "Infrared Heat",
+        "Material": "High-temperature resistant glass tube",
+        "Internal Component": "Special resistance coil",
+        "Application": "Clean, efficient, and fast heating"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=mMTR779Kj3M",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/mMTR779Kj3M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChRMA8=&rs=AOn4CLAdq6YIuV6t-L0wfXBYHh93kGpzJg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/mMTR779Kj3M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChRMA8=&rs=AOn4CLAdq6YIuV6t-L0wfXBYHh93kGpzJg",
+      "media_url": "https://i.ytimg.com/vi/mMTR779Kj3M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChRMA8=&rs=AOn4CLAdq6YIuV6t-L0wfXBYHh93kGpzJg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=mMTR779Kj3M",
+        "thumbnail_url": "https://i.ytimg.com/vi/mMTR779Kj3M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChRMA8=&rs=AOn4CLAdq6YIuV6t-L0wfXBYHh93kGpzJg",
+        "caption": "Fanra Heaters Glass Heating Element\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nFanra Heaters Glass Heating Element\nGlass Tube Heater – FANRA HEATERS\nFANRA HEATERS manufactures high-quality Glass Tube Heaters designed for clean, efficient, and fast heating applications. These heaters use a special resistance coil enclosed inside a high-temperature resistant glass tube, providing safe and uniform infrared heat without direct contact.\nKey Features:\nInstant heating with infrared radiation\nClean and odor-free operation\nCorrosion-resistant glass body\nUniform heat output\nEasy installation and replacement\nTechnical Specifications:\nWattage Range: 300W to 2000W (customizable)\nVoltage: 110V / 230V\nTube Material: Quartz / Hard Glass\nHeating Element: Nichrome wire\nLength: As per requirement\nUses:\nRoom heaters\nFood warming counters\nIndustrial drying processes\nPrinting and packaging machines\nMoisture removal applications\nWhy Choose FANRA HEATERS:\nCustom-built as per application requirements\nDurable and reliable performance\nCompetitive pricing\nFast delivery with quality assurance\nFANRA HEATERS’ Glass Tube Heaters are ideal for applications requiring quick, efficient, and contactless heating with consistent performance.\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+        "posted_at": "2026-04-27T07:46:17.000Z",
+        "likes": null,
+        "views": 3
+      }
+    },
+    {
+      "fingerprint": "82d7bca185eb",
+      "raw_name": "Glass Tube Heater",
+      "clean_name": "Glass Tube Heater",
+      "product_category": "Heating Equipment",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "FANRA HEATERS manufactures high-quality Glass Heaters designed for efficient, clean, and corrosion-resistant heating. Made using premium quartz/glass tubes, these heaters provide contamination-free heating for sensitive industrial and laboratory applications.",
+      "seo_title": "Glass Tube Heater",
+      "alt_text": "Glass Tube Heater",
+      "tags": [
+        "Glass Heater",
+        "Tube Heater",
+        "Industrial Heater",
+        "Laboratory Heater",
+        "FANRA HEATERS",
+        "Quartz Heater"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Material": "Quartz / Glass Tubes",
+        "Application": "Industrial and Laboratory",
+        "Key Features": "Efficient, Clean, Corrosion-Resistant, Contamination-Free Heating"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=Cif3seCNhdw",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/Cif3seCNhdw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihUMA8=&rs=AOn4CLDvpPIQKs3lR57aZPeAzx2veyZbaA"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/Cif3seCNhdw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihUMA8=&rs=AOn4CLDvpPIQKs3lR57aZPeAzx2veyZbaA",
+      "media_url": "https://i.ytimg.com/vi/Cif3seCNhdw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihUMA8=&rs=AOn4CLDvpPIQKs3lR57aZPeAzx2veyZbaA",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=Cif3seCNhdw",
+        "thumbnail_url": "https://i.ytimg.com/vi/Cif3seCNhdw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihUMA8=&rs=AOn4CLDvpPIQKs3lR57aZPeAzx2veyZbaA",
+        "caption": "Glass Tube Heater\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nGlass Heater\nGlass Heater – FANRA HEATERS\nFANRA HEATERS manufactures high-quality Glass Heaters designed for efficient, clean, and corrosion-resistant heating in industrial and laboratory applications. Made using premium quartz / glass tubes, these heaters provide contamination-free heating, making them ideal for sensitive processes involving chemicals and pure liquids.\nOur glass heaters ensure fast heat transfer, uniform temperature distribution, and excellent resistance to acids and corrosive solutions, delivering reliable performance even in harsh environments.\nKey Features:\nMade from high-quality quartz / glass material\nExcellent resistance to corrosive chemicals and acids\nClean and contamination-free heating\nFast heat-up with uniform heat distribution\nHigh thermal efficiency\nLong service life with low maintenance\nApplications:\nElectroplating tanks\nChemical processing industries\nLaboratory heating\nWater and liquid heating systems\nSurface treatment plants\nTechnical Highlights:\nTube Material: Quartz / Glass\nHeating Element: High-grade resistance wire\nTemperature Range: Up to 800–1000C (approx.)\nMounting: Vertical / Horizontal / Custom\nProtection: Optional PTFE guard\nFANRA HEATERS is a trusted manufacturer and supplier of glass heaters in India, providing durable and efficient heating solutions for industrial and chemical applications.\nSEO Keywords (for IndiaMART):\nGlass Heater, Quartz Heater India, Glass Tube Heater, Chemical Tank Heater, Electroplating Heater, Quartz Immersion Heater in, Acid Resistant Heater, Industrial Glass Heater, FANRA Heaters India\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+        "posted_at": "2026-04-27T07:47:04.000Z",
+        "likes": 2,
+        "views": 13
+      }
+    },
+    {
+      "fingerprint": "c6798b6bce5d",
+      "raw_name": "Brass Sealed Nozzle Heater",
+      "clean_name": "Brass Sealed Nozzle Heater",
+      "product_category": "Nozzle Heater",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Premium-quality Brass Sealed Nozzle Heaters manufactured by FANRA HEATERS, designed for precise and efficient heating in plastic injection moulding machines. They are engineered for nozzle heating applications, ensuring uniform temperature control and improved material flow during the process.",
+      "seo_title": "Brass Sealed Nozzle Heater",
+      "alt_text": "Brass Sealed Nozzle Heater",
+      "tags": [
+        "Brass Sealed Nozzle Heater",
+        "FANRA HEATERS",
+        "Heating equipment",
+        "Nozzle heating",
+        "Plastic injection moulding"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Material": "Brass",
+        "Type": "Sealed Nozzle Heater",
+        "Application": "Plastic injection moulding machines",
+        "Manufacturer": "FANRA HEATERS"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/xqsLxjnmwa4",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/xqsLxjnmwa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKFAwDw==&rs=AOn4CLDmzLQ-TSMXXMjPUcVtHxDZslAIug"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/xqsLxjnmwa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKFAwDw==&rs=AOn4CLDmzLQ-TSMXXMjPUcVtHxDZslAIug",
+      "media_url": "https://i.ytimg.com/vi/xqsLxjnmwa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKFAwDw==&rs=AOn4CLDmzLQ-TSMXXMjPUcVtHxDZslAIug",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/xqsLxjnmwa4",
+        "thumbnail_url": "https://i.ytimg.com/vi/xqsLxjnmwa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKFAwDw==&rs=AOn4CLDmzLQ-TSMXXMjPUcVtHxDZslAIug",
+        "caption": "Brass Sealed Nozzle Heater\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nBrass Sealed Nozzle Heater\nBrass Sealed Nozzle Heater – FANRA HEATERS\nFANRA HEATERS manufactures premium-quality Brass Sealed Nozzle Heaters designed for precise and efficient heating in plastic injection moulding machines. These heaters are specially engineered for nozzle heating applications, ensuring uniform temperature control and improved material flow during processing.\nConstructed with a robust brass body and sealed design, these heaters offer excellent heat transfer, high durability, and protection against moisture, plastic leakage, and external damage. Their compact construction makes them ideal for high-performance industrial environments requiring consistent heating.\nKey Features:\nDurable brass sealed construction\nUniform heat distribution for accurate temperature control\nResistant to moisture, leakage, and contamination\nHigh thermal efficiency with fast heat-up time\nLong service life with reliable performance\nCustom sizes, wattages, and voltages available\nApplications:\nPlastic injection moulding machines\nNozzle heating systems\nHot runner systems\nPackaging machinery\nPolymer processing industries\nTechnical Highlights:\nBody Material: Brass\nInsulation: Mica / Ceramic\nTemperature Range: Up to 350–400C (approx.)\nVoltage: 110V / 230V / 440V\nMounting: Clamp type with leads / terminal box\nFANRA HEATERS is a trusted manufacturer and supplier of nozzle heaters in India, offering high-performance and customized heating solutions for plastic processing industries.\nSEO Keywords (for IndiaMART):\nBrass Sealed Nozzle Heater, Nozzle Heater India, Injection Moulding Nozzle Heater, Brass Heater, Sealed Nozzle Heater, Industrial Nozzle Heater, Mica Nozzle Heater, Plastic Processing Heater, FANRA Heaters India\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+        "posted_at": "2026-04-27T08:29:18.000Z",
+        "likes": 7,
+        "views": 1871
+      }
+    },
+    {
+      "fingerprint": "34f3dcb17798",
+      "raw_name": "Mica Strip Heaters",
+      "clean_name": "Mica Strip Heaters",
+      "product_category": "Heater",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases Mica Strip Heaters. The accompanying image displays a metallic, L-shaped bracket, which appears to be a component or mounting accessory for heating equipment. The company's 'FANRA Heaters' logo and a contact number are prominently featured.",
+      "seo_title": "Mica Strip Heaters",
+      "alt_text": "Mica Strip Heaters",
+      "tags": [
+        "Mica Strip Heaters",
+        "Heating Equipment",
+        "Industrial Heaters",
+        "FANRA Heaters",
+        "Heater Component"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/gOzrl3xz6-E",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/gOzrl3xz6-E/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBgKFkwDw==&rs=AOn4CLAeSvXee63AWRneUg1-uVOycLbuMw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/gOzrl3xz6-E/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBgKFkwDw==&rs=AOn4CLAeSvXee63AWRneUg1-uVOycLbuMw",
+      "media_url": "https://i.ytimg.com/vi/gOzrl3xz6-E/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBgKFkwDw==&rs=AOn4CLAeSvXee63AWRneUg1-uVOycLbuMw",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/gOzrl3xz6-E",
+        "thumbnail_url": "https://i.ytimg.com/vi/gOzrl3xz6-E/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBgKFkwDw==&rs=AOn4CLAeSvXee63AWRneUg1-uVOycLbuMw",
+        "caption": "Mica Strip Heaters | FANRA HEATERS",
+        "posted_at": "2024-08-01T16:01:34.000Z",
+        "likes": 2,
+        "views": 247
+      }
+    },
+    {
+      "fingerprint": "174d8d73ee59",
+      "raw_name": "Fanra Heaters 18 KW Flange Immersion Heater With Box",
+      "clean_name": "Fanra Heaters 18 KW Flange Immersion Heater With Box",
+      "product_category": "Immersion Heater",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The flange immersion heater with box is a heavy-duty industrial heating solution designed for heating liquids such as water, oils, chemicals, or gases. It features multiple tubular heating elements mounted on a robust metal flange, typically made from corrosion-resistant materials like stainless steel.",
+      "seo_title": "Fanra Heaters 18 KW Flange Immersion Heater With Box",
+      "alt_text": "Fanra Heaters 18 KW Flange Immersion Heater With Box",
+      "tags": [
+        "Immersion Heater",
+        "Industrial Heater",
+        "Fanra Heaters",
+        "18 KW",
+        "Flange Heater",
+        "Heating Solution"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Power": "18 KW",
+        "Type": "Flange Immersion Heater With Box",
+        "Application": "heating liquids such as water, oils, chemicals, or gases",
+        "Material": "corrosion-resistant materials like stainless steel (for flange)"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/FtyimrfBYa4",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/FtyimrfBYa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYiBiKGIwDw==&rs=AOn4CLDZA_cS2I8YypQ8737Kx5jb0_nwpQ"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/FtyimrfBYa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYiBiKGIwDw==&rs=AOn4CLDZA_cS2I8YypQ8737Kx5jb0_nwpQ",
+      "media_url": "https://i.ytimg.com/vi/FtyimrfBYa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYiBiKGIwDw==&rs=AOn4CLDZA_cS2I8YypQ8737Kx5jb0_nwpQ",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/FtyimrfBYa4",
+        "thumbnail_url": "https://i.ytimg.com/vi/FtyimrfBYa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYiBiKGIwDw==&rs=AOn4CLDZA_cS2I8YypQ8737Kx5jb0_nwpQ",
+        "caption": "Fanra Heaters 18 KW Flange Immersion Heater With Box\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nFanra Heaters 18 KW Flange Immersion Heater With Box \nThe flange immersion heater with box is a heavy-duty industrial heating solution designed for heating liquids such as water, oils, chemicals, or gases. It features multiple tubular heating elements mounted on a robust metal flange, typically made from corrosion-resistant materials like stainless steel or brass. These elements are inserted directly into tanks or vessels, making them ideal for immersion applications.The heater comes equipped with a protective electrical connection box, which houses the wiring and terminals, ensuring safety and protection from external elements such as moisture, dust, and mechanical damage. The box is typically made from durable metal or weather-resistant materials, ensuring longevity and reliable performance in industrial environments.This type of heater is widely used in industries such as chemical processing, oil refining, food and beverage, and water treatment, providing efficient heat transfer and easy installation. The combination of the flange design and protective box ensures safe operation and ease of maintenance, making it a preferred choice for heating fluids in large-scale industrial processes.\n\nContact Details:\nAdnan Khan\n1\n1\nOld-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://e7d27.app.goo.gl/UPK7",
+        "posted_at": "2024-09-29T10:26:33.000Z",
+        "likes": 2,
+        "views": 216
+      }
+    },
+    {
+      "fingerprint": "36fb7457d7ed",
+      "raw_name": "Mica Chakri Heaters - OD 4 Inch - 230Volt, 250Watt",
+      "clean_name": "Mica Chakri Heaters - OD 4 Inch - 230Volt, 250Watt",
+      "product_category": "Heating Element",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Mica chakri heaters are specialized heating elements used in industrial applications for heating cylindrical surfaces such as pipes, tubes, and barrels. They feature a resistance heating element wound around a mica-insulated core, enclosed in a metal sheath with a spiral or helical configuration.",
+      "seo_title": "Mica Chakri Heaters - OD 4 Inch - 230Volt, 250Watt",
+      "alt_text": "Mica Chakri Heaters - OD 4 Inch - 230Volt, 250Watt",
+      "tags": [
+        "Mica heater",
+        "Chakri heater",
+        "Industrial heater",
+        "Heating element",
+        "Cylindrical heater"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Outer Diameter (OD)": "4 Inch",
+        "Voltage (caption)": "230Volt",
+        "Wattage (caption)": "250Watt",
+        "Series (image)": "35x35 series",
+        "Voltage (image)": "240V",
+        "Wattage (image)": "200W"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=WI2bIfzyxj8",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/WI2bIfzyxj8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBq43tiUWQqAcSi2AzTgSelU1yOmQ"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/WI2bIfzyxj8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBq43tiUWQqAcSi2AzTgSelU1yOmQ",
+      "media_url": "https://i.ytimg.com/vi/WI2bIfzyxj8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBq43tiUWQqAcSi2AzTgSelU1yOmQ",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=WI2bIfzyxj8",
+        "thumbnail_url": "https://i.ytimg.com/vi/WI2bIfzyxj8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBq43tiUWQqAcSi2AzTgSelU1yOmQ",
+        "caption": "Mica Chakri Heaters - OD 4 Inch - 230Volt, 250Watt\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nMica Chakri Heaters - OD 4 Inch - 230Volt, 250Watt\nMica chakri heaters are specialized heating elements used in industrial applications for heating cylindrical surfaces such as pipes, tubes, and barrels. They are designed with a resistance heating element wound around a mica-insulated core, enclosed in a metal sheath with a spiral or helical configuration. This spiral design allows for efficient and uniform heat distribution along the cylindrical surface being heated.\nMica chakri heaters are commonly used in plastic extrusion machines, packaging equipment, and other industrial processes requiring precise and consistent heating. They are known for their rapid heat-up times, high-temperature capabilities, and durability in harsh environments. These heaters are available in various sizes, wattages, and configurations to suit different heating requirements, making them a reliable choice for heating cylindrical objects in industrial settings.\n\nContact Details:\nAdnan Khan\nH.NO. 1041 GALI NO 08 CHAUHAN BANGER NEAR NEW MOON SCHOOL\n Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://e7d27.app.goo.gl/UPK7",
+        "posted_at": "2024-03-24T03:57:02.000Z",
+        "likes": null,
+        "views": 12
+      }
+    },
+    {
+      "fingerprint": "9d82993d8fea",
+      "raw_name": "Ceramic Finned Strip Heaters",
+      "clean_name": "Ceramic Finned Strip Heaters",
+      "product_category": "Heating Element",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This product is a metallic strip heater featuring numerous fins along its length, designed for efficient heat transfer. The caption specifies that it is ceramic finned, indicating the material used for the fins to enhance heating performance.",
+      "seo_title": "Ceramic Finned Strip Heaters",
+      "alt_text": "Ceramic Finned Strip Heaters",
+      "tags": [
+        "Heater",
+        "Strip Heater",
+        "Ceramic Heater",
+        "Finned Heater",
+        "Heating Element"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Type": "Strip Heater",
+        "Fins Material": "Ceramic"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/4ft79dQafKc",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/4ft79dQafKc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBdKE0wDw==&rs=AOn4CLD-3bW-x24gRMieCLsUf10cc_u5Rw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/4ft79dQafKc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBdKE0wDw==&rs=AOn4CLD-3bW-x24gRMieCLsUf10cc_u5Rw",
+      "media_url": "https://i.ytimg.com/vi/4ft79dQafKc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBdKE0wDw==&rs=AOn4CLD-3bW-x24gRMieCLsUf10cc_u5Rw",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/4ft79dQafKc",
+        "thumbnail_url": "https://i.ytimg.com/vi/4ft79dQafKc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBdKE0wDw==&rs=AOn4CLD-3bW-x24gRMieCLsUf10cc_u5Rw",
+        "caption": "Ceramic Finned Strip Heaters",
+        "posted_at": "2026-05-02T08:23:40.000Z",
+        "likes": null,
+        "views": 1101
+      }
+    },
+    {
+      "fingerprint": "9b4b6df3386c",
+      "raw_name": "Mica Nozzle Heater",
+      "clean_name": "Mica Nozzle Heater",
+      "product_category": "Heating Element",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Mica nozzle heaters are specialized heating elements designed to heat the nozzles of plastic injection molding machines and other equipment. They are constructed with a resistance heating wire wrapped around a mica-insulated core, which is then encased in a metal sheath. The compact design and precise construction allow for efficient heating.",
+      "seo_title": "Mica Nozzle Heater",
+      "alt_text": "Mica Nozzle Heater",
+      "tags": [
+        "Mica Nozzle Heater",
+        "Heating Element",
+        "Plastic Injection Molding",
+        "Industrial Heater",
+        "Nozzle Heater",
+        "35x35 series"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "series": "35x35",
+        "voltage": "240V",
+        "power": "200W"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=7DxhS2MmwnA",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/7DxhS2MmwnA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBfpW9eh0KjakPLwbtPB7M5CsD2YA"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/7DxhS2MmwnA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBfpW9eh0KjakPLwbtPB7M5CsD2YA",
+      "media_url": "https://i.ytimg.com/vi/7DxhS2MmwnA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBfpW9eh0KjakPLwbtPB7M5CsD2YA",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=7DxhS2MmwnA",
+        "thumbnail_url": "https://i.ytimg.com/vi/7DxhS2MmwnA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBfpW9eh0KjakPLwbtPB7M5CsD2YA",
+        "caption": "Mica Nozzle Heater\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nMica Nozzle Heater\nMica nozzle heaters are specialized heating elements designed to heat the nozzles of plastic injection molding machines and other equipment. They are constructed with a resistance heating wire wrapped around a mica-insulated core, which is then encased in a metal sheath. The compact design and precise construction of mica nozzle heaters allow for efficient and uniform heating of the nozzle, ensuring optimal performance in plastic processing applications.\nThese heaters are known for their fast heat-up times, high-temperature capabilities, and resistance to moisture and chemicals. They play a crucial role in maintaining consistent temperature profiles during injection molding processes, contributing to quality production and reduced downtime. Mica nozzle heaters come in various sizes and configurations to fit different nozzle diameters and heating requirements, making them a popular choice in the plastics industry.\n\nContact Details:\nAdnan Khan\nH.NO. 1041 GALI NO 08 CHAUHAN BANGER NEAR NEW MOON SCHOOL\n Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://e7d27.app.goo.gl/UPK7",
+        "posted_at": "2024-03-24T03:55:45.000Z",
+        "likes": 1,
+        "views": 127
+      }
+    },
+    {
+      "fingerprint": "16d05131a434",
+      "raw_name": "Finned Strip Heaters",
+      "clean_name": "Finned Strip Heaters",
+      "product_category": "Industrial Heater",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "These are industrial finned strip heaters offered by FANRA Heaters. They are described as good quality and available at low prices. The image displays multiple units of varying lengths and sizes.",
+      "seo_title": "Finned Strip Heaters",
+      "alt_text": "Finned Strip Heaters",
+      "tags": [
+        "Strip Heaters",
+        "Finned Strip Heaters",
+        "Industrial Heaters",
+        "Heaters"
+      ],
+      "price_single": null,
+      "price_text": "कम दामो पर",
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=a-2zNswMFpg",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/a-2zNswMFpg/maxresdefault.jpg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/a-2zNswMFpg/maxresdefault.jpg",
+      "media_url": "https://i.ytimg.com/vi/a-2zNswMFpg/maxresdefault.jpg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=a-2zNswMFpg",
+        "thumbnail_url": "https://i.ytimg.com/vi/a-2zNswMFpg/maxresdefault.jpg",
+        "caption": "FANRA HEATERS पर आने के लिए धन्यवाद। हम HEATERS के इस शेत्र मे पिछले 10 साल से ज़्यादा समय से काम कर रहे हैं। \n\n\n\nहम DELHI में रहते हैं। और हमारे HEATERS काफी अच्छे है वो भी कम दामो पर हम सभी तरह के HEATERS बनाते हैं।\n\n जैसे :-\n\nSTRIP HEATERS\nHIGH DENSITY HEATERS\nFINNED STRIP HEATERS\nCARTRIDGE HEATERS\nPENCIL HEATERS\nPANEL HEATERS\nCERAMIC HEATERS\nMICA BAND HEATERS\n\n\nअगर आप लोगों को किसी भी प्रकार के HEATERS की आवश्यकता होती हैं। तो आप हमसे इस Website के माध्यम से CALL या MESSAGE कर सकते हैं। \nMob. 8700464650\nEmail. fanraheaters@gmail.com\nWebsite. https://fanraheaters.blogspot.com\n\n#HEATERS #stripheaters #cartridgeheaters #finnnedstrip #ceramicheaters #micaheaters #gas #roomheaters #sipper #induction #party #trending #pipe #pipeheater #sunmica #flavour #comedy #funny #fun #room #home #industry #some #trend #sonu #mica #mirror",
+        "posted_at": "2021-10-29T09:56:20.000Z",
+        "likes": 3,
+        "views": 30
+      }
+    }
+  ],
+  "rejected_items": [],
+  "reviews": [
+    {
+      "author": "Iqra Naz",
+      "rating": 5,
+      "text": "I purchased heaters from this company and their heaters quality is very high in low price.\nI prefer everyone to buy heaters from here",
+      "original_lang": null,
+      "date": "2024-03-27T17:39:05Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": "Thanks for your suggestion "
+    },
+    {
+      "author": "Mohd Rashid",
+      "rating": 5,
+      "text": "I purchased heaters from fanra heaters from very long time there heaters quality is good and affordable price i suggest to everyone to purchase heaters from here.",
+      "original_lang": null,
+      "date": "2024-06-05T01:50:19Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": "Thanks for your suggestion "
+    },
+    {
+      "author": "Farhan Khan",
+      "rating": 5,
+      "text": "They are provided all types of industrial heaters in low price. I recommended everyone to buy heaters from these person. They are honest and hard working people......",
+      "original_lang": null,
+      "date": "2021-03-24T04:24:15Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": "Thanks for your expenses review."
+    },
+    {
+      "author": "Fazil Ahamd Khan",
+      "rating": 5,
+      "text": "Best quality product very cheapest price",
+      "original_lang": null,
+      "date": "2024-07-30T16:04:54Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 5,
+    "no_of_ratings": 4,
+    "rating_comments": [
+      "I purchased heaters from this company and their heaters quality is very high in low price.\nI prefer everyone to buy heaters from here",
+      "I purchased heaters from fanra heaters from very long time there heaters quality is good and affordable price i suggest to everyone to purchase heaters from here.",
+      "They are provided all types of industrial heaters in low price. I recommended everyone to buy heaters from these person. They are honest and hard working people......",
+      "Best quality product very cheapest price"
+    ],
+    "reviews_url": "https://www.google.com/maps?cid=7991279535912850887"
+  },
+  "overall_confidence": 0.38,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/fanraheaters",
+      "profile_pic_url": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/471569145_973131744837289_1167004446582134238_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=f907e8&_nc_ohc=d5HtqMxwqyYQ7kNvwG1z1_E&_nc_oc=Adpp9peiXvLb5QYiN9xFZdhJJUi9oZDGDIhukYkddDsglEUi7G-QjuASQdvCTtOvcGk&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=SzQKn8mPIRR7jVwMOvpOrg&_nc_ss=72289&oh=00_Af7nkPLAvguj5XyJgxDp8bghPiCCwmir5XI-w-KnLlV84w&oe=6A026720",
+      "banner_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/686399794_1351079940375799_7321410474657882661_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=2a1932&_nc_ohc=QWiiTGXmyrQQ7kNvwEdc0fX&_nc_oc=AdouqNIDAnMPKlpoQgRJ238_BxNtTjK2-fZqC3UXHDjRV9YelXr_H5qNe77zOoiMFVs&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=xlDFMmG3DWjarQKFLGpULw&_nc_ss=72289&oh=00_Af7syL3H8XxPUCuj-vRbr7I_86NJloyWKTS5a193Bbqr8Q&oe=6A026561",
+      "bio": "We are Manufacturer's & Supplier of all types of Industrial Heaters in Delhi.",
+      "followers_count": 777,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/fanraheaters/posts/pfbid02FwUG7i8YH4fFC8Rszx9cr8wBx2sYYxmofMDKVSkYfxSVscLkwu231mo9gubwFHD7l",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1353988086751651&set=a.224670136350124",
+          "caption": "Finned Air Heaters - Contact us for orders at 09639718698",
+          "likes": 3,
+          "comments": 1,
+          "views": null,
+          "posted_at": 1777782383
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/fanraheaters/posts/1659124815332796:1659124815332796",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=1351079933709133&set=a.224670133016791",
+          "caption": null,
+          "likes": 1,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777472580
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/reel/3080880238770786/",
+          "thumbnail_url": "https://www.facebook.com/reel/3080880238770786/",
+          "caption": "SEALER BRASS NOZZLE HEATERS - CONTACT US FOR ANY REQUIREMENT - WA.ME/919639718698\n\n #Nozzleheater #industrialheater #fanraheaters #ceramicband #micaheater #coilheater #tubularheater",
+          "likes": 7,
+          "comments": null,
+          "views": null,
+          "posted_at": 1777472222
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "9639718698",
+          "date": 1777782383,
+          "post_url": "https://www.facebook.com/fanraheaters/posts/pfbid02FwUG7i8YH4fFC8Rszx9cr8wBx2sYYxmofMDKVSkYfxSVscLkwu231mo9gubwFHD7l"
+        },
+        {
+          "type": "phone",
+          "value": "9196397186",
+          "date": 1777472222,
+          "post_url": "https://www.facebook.com/reel/3080880238770786/"
+        }
+      ],
+      "extra_profile": {
+        "phone": "+91 96397 18698",
+        "email": "fanraheaters@gmail.com",
+        "website": "http://fanraheaters.com/",
+        "address": "Jafrabad,Near New Moon School Seelampur, Delhi 110053, Delhi, India, 110053",
+        "city": null
+      }
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/fanra_heaters",
+      "profile_pic_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/476654280_1378764433537073_2135308112639990014_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=jSFbBkh4ptUQ7kNvwHzl3M1&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4pNbNDAndRIiycNHMUdYotnkf3KwgT6QjRfVzMTZkqlw&oe=6A02490A&_nc_sid=8b3546",
+      "banner_url": null,
+      "bio": "Hello Everyone, \nWe are Manufactures industrial heaters in low price our heaters are - Strip Heaters, Cartridges, Sealing Machine, Venus Heater etc.",
+      "followers_count": 246,
+      "following_count": 175,
+      "posts_count": 261,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DX3OOh0AY0F/",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/686746834_2427633904385576_6663445451482242812_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=KfFe2XQ0RF8Q7kNvwHZVLA6&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4ODYzOTM3NDI4NzUzOTQ2MQ%3D%3D.3-ccb7-5&oh=00_Af4F8TVdxF_QfrfJxoFDCm2-_ukx45eqFJ1UVc2YbIp57w&oe=6A02605D&_nc_sid=8b3546",
+          "caption": "Finned Air Heaters - Contact us for ordering inquiries - wa.me/919639718698",
+          "likes": 1,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2026-05-03T04:19:19.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DX1EbrNFSIo/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/683728454_4539998739555609_284164969585732142_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=p8pynsvDLK0Q7kNvwGKvnEm&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af50O08EO_PDrKEePMgbG26-5QIikTcwBk76q4Wcf970xQ&oe=6A026C79&_nc_sid=8b3546",
+          "caption": "STEEL FINNED STRIP HEATERS - CONTACT US FOR ORDER - WA.ME/919639718698\n\n #extrudermachine #ShoeManufacturing #FlexibleHeater #plasticmould #moulding #chemicalindustry #IndustrialEquipment #IndustrialAutomation #heaterinstallation #HeatExhaustion",
+          "likes": 1,
+          "comments": 0,
+          "views": 43,
+          "posted_at": "2026-05-02T08:15:17.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXuBwrxDAyH/",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/685300808_1266521999010025_2903057307272430020_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=pW5Cl-vg3qAQ7kNvwGL2r6W&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af52Chwdgc2QXczhHdY43_180evcfU2Htck_yMuFGF_Org&oe=6A0265B0&_nc_sid=8b3546",
+          "caption": "FLEXIBLE TUBULAR HEATERS - CONTACT US. WA.ME/919639718698\n\n #FlexibleHeater #plasticmould #moulding #extrudermachine #ShoeManufacturing #chemicalindustry #industrialautomation #IndustrialEquipment",
+          "likes": 1,
+          "comments": 0,
+          "views": 21,
+          "posted_at": "2026-04-29T14:37:15.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DXqyr0fkpVF/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t15.5256-10/684305659_3880114325452445_2640733198497104894_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=QG7X9KPz1aEQ7kNvwEdAOo7&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af7FKL7D050-vBixJs1YEm3rqwSvPRlqIFDRa7y3soh41Q&oe=6A024AED&_nc_sid=8b3546",
+          "caption": "FANRA HEATERS CONTACT US FOR ANY REQUIREMENT - WA.ME/919639718698\n #HeatExhaustion #heaterinstallation #",
+          "likes": 1,
+          "comments": 0,
+          "views": 5,
+          "posted_at": "2026-04-28T08:27:49.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DXnobApgfJw/",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/683554140_2422303198251980_2138082324872222796_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=8X4stsvjVzEQ7kNvwGdyUb-&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg4NDI1MDk4MTYxMzA0MDI0MA%3D%3D.3-ccb7-5&oh=00_Af5j_MvXr7atMD_vXwNTi-VGPehmvUvvJ4SihtBLbyetsA&oe=6A0248BA&_nc_sid=8b3546",
+          "caption": "Finned Tubular Heaters - Please contact us for ordering information. Wa.me/919639718698",
+          "likes": 1,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2026-04-27T03:00:22.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DVm9SBLglKx/",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t15.5256-10/646356865_1978710476362555_3213960820243693061_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=vq-z4eLow4oQ7kNvwGe0b4K&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af5B70Aryu4b1D3xvUAmitwlSRzcxD5sn1sY_0iAH5aW7w&oe=6A02398D&_nc_sid=8b3546",
+          "caption": null,
+          "likes": 3,
+          "comments": 0,
+          "views": 14,
+          "posted_at": "2026-03-08T03:40:45.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DVld7j9AcsV/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/648401057_2379585499190417_3441012787877224318_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=fsplwxLCtb0Q7kNvwFDQsFC&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzg0NzYxMzA5MzA2MDM5Nzg0NQ%3D%3D.3-ccb7-5&oh=00_Af6L7Ycsu2kX7CY1DQEq2qLtWTvDW8qmEHzPWUD3zKDcwA&oe=6A0247C0&_nc_sid=8b3546",
+          "caption": null,
+          "likes": 2,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2026-03-07T13:47:25.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DUnTHSpgQWK/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/631833240_2358439161305051_8532566789559184838_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=igpPt9TFd6sQ7kNvwFXVek1&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgzMDExNDA2MTk3OTMxMDI2Ng%3D%3D.3-ccb7-5&oh=00_Af68otDHNTrH7Ydo3M954Cl1a70se9RhSCil-3PSur99Ew&oe=6A024DB4&_nc_sid=8b3546",
+          "caption": "All types industrial heaters available contact us +91963 971 8698",
+          "likes": 2,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2026-02-11T10:19:59.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DT1kGgCgY0S/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t39.30808-6/616953288_2341211796361121_7170048377497869231_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=UVT9hPotemYQ7kNvwFyb806&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=MzgxNjExNTAyNjI5NzY5NTkwOQ%3D%3D.3-ccb7-5&oh=00_Af4wiyuUs_XdTsg4k2yvipp_oy6g6ODQYXsHadV8U92lbw&oe=6A0236C7&_nc_sid=8b3546",
+          "caption": "An insulation jacket for ceramic band heaters reduces heat loss, improves heating efficiency, lowers power consumption, and enhances operator safety by keeping surface temperatures cooler.\n\nContact us - wa.me/919639718698",
+          "likes": 1,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2026-01-23T02:46:24.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DSJenGCAdIs/",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/597843684_2308297916319176_3309774991943715901_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=OlD3uGmZITsQ7kNvwG_SJwU&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzc4NTY5MTU3MDQ5NDMzNjAxNQ%3D%3D.3-ccb7-5&oh=00_Af6-08udYaohgt4zmNeNInBHaGh0vsO_lWzZIG5IruKs4Q&oe=6A025C57&_nc_sid=8b3546",
+          "caption": "INSULATION JACKET SERVICE AVAILABLE - CONTACT US - 09639718698",
+          "likes": 0,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-12-12T03:20:26.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DQqe6QMge8L/",
+          "thumbnail_url": "https://scontent-dfw5-2.cdninstagram.com/v/t39.30808-6/575736427_2277631906052444_661228505207365008_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=bn1lwYS3TBUQ7kNvwGi0RK3&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&ig_cache_key=Mzc1ODk1Mjc4MzUwODc5NTE0Nw%3D%3D.3-ccb7-5&oh=00_Af40XEgp9bywpJsr0GqK6ojFXqtlYV5XSPUeoDXQ8Nqa1A&oe=6A023DA1&_nc_sid=8b3546",
+          "caption": null,
+          "likes": 1,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-11-05T05:55:13.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DPl888hDI4e/",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t15.5256-10/561317575_1159110549443630_8809415004895979476_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEaUFO8EgHMIjugQ2pPKbNYx-GusBEuDwUCUqOXl2bUStAjQJ2bUTmfx88OfUsXPVM&_nc_ohc=gT0hxzQXOEcQ7kNvwHySsef&_nc_gid=AR4RK49Y_V7un3gVN8eFaQ&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_Af67ue4aDpuxmP0Fs6w1pTkMFrPA-_3beRkOkiUAzhkVAw&oe=6A026A1F&_nc_sid=8b3546",
+          "caption": "Strip Heaters - FANRA HEATERS - 9639718698",
+          "likes": 3,
+          "comments": 0,
+          "views": 70,
+          "posted_at": "2025-10-09T15:10:10.000Z"
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "9196397186",
+          "date": "2026-05-03T04:19:19.000Z",
+          "post_url": "https://www.instagram.com/p/DX3OOh0AY0F/"
+        },
+        {
+          "type": "phone",
+          "value": "9639718698",
+          "date": "2025-12-12T03:20:26.000Z",
+          "post_url": "https://www.instagram.com/p/DSJenGCAdIs/"
+        }
+      ],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": "https://fanraheaters.blogspot.com/?m=0%3D1",
+        "address": null,
+        "city": null
+      }
+    },
+    {
+      "platform": "youtube",
+      "url": "https://youtube.com/@fanraheaters",
+      "profile_pic_url": "https://yt3.googleusercontent.com/3q1OsGdA9tlOoex0kJiDxJKoAtvsz2tO0K-qmiZKW22Zw2wsYbFTXqw6fiC9Lhwx2tjfK9cm=s68-c-k-c0x00ffffff-no-rj",
+      "banner_url": "https://yt3.googleusercontent.com/_8PnWUH6chiKHVJkd2ILMu_elnJy_BKOgK4GpgGVMf4gVwt98Yp9YnJQzMwoyLhQvcrnqtfVgQ=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+      "bio": "Welcome to FANRA HEATERS!\n\nWith over a decade of excellence, FANRA HEATERS has been a leader in the manufacturing and supply of high-quality industrial heaters, customized to meet our clients' specific needs. Established in 2010, our product range includes:\n\n- Cartridge Heaters\n- High-Density Cartridge Heaters\n- Strip Heaters\n- Finned Strip Heaters\n- Space Heaters\n- Porcelain Heaters\n- Titanium Heaters\n- Bobbin Heaters\n- Oil Immersion Heaters\n- Tubular Heaters\n- Finned Tubular Heaters\n- Mica Band Heaters\n- Mica Nozzle Heaters\n- Mica Chakri Heaters\n- Ceramic Band Heaters\n- Jalebi Heaters\n\nOur commitment to quality and customer satisfaction has made us a trusted name in the industry. We operate six days a week, including special Sunday hours until 1 PM, to ensure we are always available to meet your needs. Whether you're in the private sector or looking for industrial heating solutions.\n\nContact us today at fanraheaters@gmail.com or call us at +91-9639718698",
+      "followers_count": 41,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/0uvUS-6KIiM",
+          "thumbnail_url": "https://i.ytimg.com/vi/0uvUS-6KIiM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLB4SwETzDp0sQVysN_AC1ArHlPl7w",
+          "caption": "Fanra Heaters Finned Air Heaters All Sizes",
+          "likes": 0,
+          "comments": 0,
+          "views": 0,
+          "posted_at": "2026-05-03T03:27:30.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/aAH69VzM6Ts",
+          "thumbnail_url": "https://i.ytimg.com/vi/aAH69VzM6Ts/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBfKFUwDw==&rs=AOn4CLBd6OtwHlTUMvwfrj-1nmQ5EOH-RA",
+          "caption": "Flexible Tubular Heaters",
+          "likes": 0,
+          "comments": 0,
+          "views": 166,
+          "posted_at": "2026-04-29T14:31:03.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/3wP0LyI8Tdg",
+          "thumbnail_url": "https://i.ytimg.com/vi/3wP0LyI8Tdg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBZKEwwDw==&rs=AOn4CLAjlTBQ1VtpFRPGIqeT9MdSVOy7aQ",
+          "caption": "Fanra Heaters Industrial M Type Finned Tubular Heating Element\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nFanra Heaters Industrial M Type Finned Tubular Heating Element\nM-Type Finned Tubular Heating Elements are specially designed for applications requiring efficient heat transfer and durability in challenging environments. These heating elements feature a metal sheath with high-grade fins attached to increase the surface area, enhancing heat dissipation. The \"M-Type\" design refers to their unique shape, which provides uniform heating and better mechanical stability. These elements are typically used in air heating, drying ovens, and forced air heating systems, where rapid and consistent heat is essential. They are resistant to corrosion, have a long lifespan, and are available in various sizes and power ratings to meet specific industrial requirements.\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+          "likes": 4,
+          "comments": 0,
+          "views": 1181,
+          "posted_at": "2026-04-27T07:52:20.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/CSI2mgOAfWI",
+          "thumbnail_url": "https://i.ytimg.com/vi/CSI2mgOAfWI/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYciBgKEIwDw==&rs=AOn4CLCXmVE6qOE4ympHzvvygKqQl1yaEw",
+          "caption": "Strip Heaters | All Size Customised | FANRA HEATERS",
+          "likes": 3,
+          "comments": 0,
+          "views": 139,
+          "posted_at": "2024-08-01T16:16:24.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=mMTR779Kj3M",
+          "thumbnail_url": "https://i.ytimg.com/vi/mMTR779Kj3M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChRMA8=&rs=AOn4CLAdq6YIuV6t-L0wfXBYHh93kGpzJg",
+          "caption": "Fanra Heaters Glass Heating Element\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nFanra Heaters Glass Heating Element\nGlass Tube Heater – FANRA HEATERS\nFANRA HEATERS manufactures high-quality Glass Tube Heaters designed for clean, efficient, and fast heating applications. These heaters use a special resistance coil enclosed inside a high-temperature resistant glass tube, providing safe and uniform infrared heat without direct contact.\nKey Features:\nInstant heating with infrared radiation\nClean and odor-free operation\nCorrosion-resistant glass body\nUniform heat output\nEasy installation and replacement\nTechnical Specifications:\nWattage Range: 300W to 2000W (customizable)\nVoltage: 110V / 230V\nTube Material: Quartz / Hard Glass\nHeating Element: Nichrome wire\nLength: As per requirement\nUses:\nRoom heaters\nFood warming counters\nIndustrial drying processes\nPrinting and packaging machines\nMoisture removal applications\nWhy Choose FANRA HEATERS:\nCustom-built as per application requirements\nDurable and reliable performance\nCompetitive pricing\nFast delivery with quality assurance\nFANRA HEATERS’ Glass Tube Heaters are ideal for applications requiring quick, efficient, and contactless heating with consistent performance.\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+          "likes": 0,
+          "comments": 0,
+          "views": 3,
+          "posted_at": "2026-04-27T07:46:17.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/63gX3ji-_l4",
+          "thumbnail_url": "https://i.ytimg.com/vi/63gX3ji-_l4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLB4BK4ZQPI2Ord87EzlWer7JLyIHA",
+          "caption": "FANRA HEATERS Defreezer Cartridge Heaters 300W with 1.5 MTR Teflon Wire for Efficient Defrosting",
+          "likes": 8,
+          "comments": 0,
+          "views": 1005,
+          "posted_at": "2024-10-20T17:41:39.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/5tScLgRrqBA",
+          "thumbnail_url": "https://i.ytimg.com/vi/5tScLgRrqBA/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBRKEcwDw==&rs=AOn4CLAnJSBqrsCBI4VSbjpEqtcsnNQk-g",
+          "caption": "Fanra Heaters Finned Tubular Heaters All Sizes\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nFanra Heaters Finned Tubular Heaters All Sizes\nFinned Tubular Heaters by FANRA HEATERS\nFANRA HEATERS manufactures Finned Tubular Heaters designed for applications that require efficient heat transfer and high performance. These heaters are ideal for air, gas, and liquid heating in a variety of industrial processes, providing enhanced heat dissipation with the help of finned structures.\nTechnical Specifications\nMaterial:\nSheath: Stainless steel, Incoloy, or mild steel for durability and corrosion resistance.\nHeating Element: High-quality nickel-chromium (NiCr) resistance wire.\nVoltage: Available in 110V, 230V, and 415V; custom voltages upon request.\nWattage: Customizable from 0.5 kW to 25 kW.\nTemperature Range: Operates up to 650C (1202F), ideal for high-temperature applications.\nInsulation: Magnesium oxide (MgO) for high thermal conductivity and electrical insulation.\nLength: Custom lengths available from 100mm to 3000mm based on requirements.\nDiameter: Typically available in 8mm to 25mm, with custom sizes for specific applications.\nFins: Aluminum or copper fins designed to increase surface area for efficient heat transfer.\nMounting: Available in a variety of mounting options, including brackets, flanges, or threaded ends.\nKey Features\nEnhanced Heat Dissipation: The finned design increases the surface area for more effective heat transfer, making them suitable for heating air, liquids, and gases.\nCorrosion Resistant: Made from stainless steel or Incoloy, ensuring longevity even in corrosive environments.\nCustomizable Sizes: Available in various lengths, diameters, and wattages to meet specific heating needs.\nEnergy Efficient: Delivers efficient heating while minimizing energy consumption.\nVersatile Applications: Ideal for heating air, gases, and liquids in industrial heating, drying, and processing systems.\nApplications\nAir Heating: Used in industrial ovens, dryers, and air heaters.\nLiquid and Gas Heating: Suitable for water, oil, and gas heating systems.\nIndustrial Processes: Used in various manufacturing and processing industries that require consistent and reliable heat.\nHVAC Systems: Ideal for use in heating, ventilation, and air conditioning (HVAC) applications.\nFANRA HEATERS’ Finned Tubular Heaters provide reliable, high-performance heating solutions for a wide range of industrial applications. With customizable options and excellent durability, they ensure effective heat transfer and long-term efficiency. Contact us for more information on how these heaters can meet your industrial heating needs.\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+          "likes": 0,
+          "comments": 0,
+          "views": 7,
+          "posted_at": "2026-04-27T07:51:06.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/gOzrl3xz6-E",
+          "thumbnail_url": "https://i.ytimg.com/vi/gOzrl3xz6-E/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBgKFkwDw==&rs=AOn4CLAeSvXee63AWRneUg1-uVOycLbuMw",
+          "caption": "Mica Strip Heaters | FANRA HEATERS",
+          "likes": 2,
+          "comments": 0,
+          "views": 247,
+          "posted_at": "2024-08-01T16:01:34.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=Cif3seCNhdw",
+          "thumbnail_url": "https://i.ytimg.com/vi/Cif3seCNhdw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihUMA8=&rs=AOn4CLDvpPIQKs3lR57aZPeAzx2veyZbaA",
+          "caption": "Glass Tube Heater\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nGlass Heater\nGlass Heater – FANRA HEATERS\nFANRA HEATERS manufactures high-quality Glass Heaters designed for efficient, clean, and corrosion-resistant heating in industrial and laboratory applications. Made using premium quartz / glass tubes, these heaters provide contamination-free heating, making them ideal for sensitive processes involving chemicals and pure liquids.\nOur glass heaters ensure fast heat transfer, uniform temperature distribution, and excellent resistance to acids and corrosive solutions, delivering reliable performance even in harsh environments.\nKey Features:\nMade from high-quality quartz / glass material\nExcellent resistance to corrosive chemicals and acids\nClean and contamination-free heating\nFast heat-up with uniform heat distribution\nHigh thermal efficiency\nLong service life with low maintenance\nApplications:\nElectroplating tanks\nChemical processing industries\nLaboratory heating\nWater and liquid heating systems\nSurface treatment plants\nTechnical Highlights:\nTube Material: Quartz / Glass\nHeating Element: High-grade resistance wire\nTemperature Range: Up to 800–1000C (approx.)\nMounting: Vertical / Horizontal / Custom\nProtection: Optional PTFE guard\nFANRA HEATERS is a trusted manufacturer and supplier of glass heaters in India, providing durable and efficient heating solutions for industrial and chemical applications.\nSEO Keywords (for IndiaMART):\nGlass Heater, Quartz Heater India, Glass Tube Heater, Chemical Tank Heater, Electroplating Heater, Quartz Immersion Heater in, Acid Resistant Heater, Industrial Glass Heater, FANRA Heaters India\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+          "likes": 2,
+          "comments": 0,
+          "views": 13,
+          "posted_at": "2026-04-27T07:47:04.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/FtyimrfBYa4",
+          "thumbnail_url": "https://i.ytimg.com/vi/FtyimrfBYa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYYiBiKGIwDw==&rs=AOn4CLDZA_cS2I8YypQ8737Kx5jb0_nwpQ",
+          "caption": "Fanra Heaters 18 KW Flange Immersion Heater With Box\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nFanra Heaters 18 KW Flange Immersion Heater With Box \nThe flange immersion heater with box is a heavy-duty industrial heating solution designed for heating liquids such as water, oils, chemicals, or gases. It features multiple tubular heating elements mounted on a robust metal flange, typically made from corrosion-resistant materials like stainless steel or brass. These elements are inserted directly into tanks or vessels, making them ideal for immersion applications.The heater comes equipped with a protective electrical connection box, which houses the wiring and terminals, ensuring safety and protection from external elements such as moisture, dust, and mechanical damage. The box is typically made from durable metal or weather-resistant materials, ensuring longevity and reliable performance in industrial environments.This type of heater is widely used in industries such as chemical processing, oil refining, food and beverage, and water treatment, providing efficient heat transfer and easy installation. The combination of the flange design and protective box ensures safe operation and ease of maintenance, making it a preferred choice for heating fluids in large-scale industrial processes.\n\nContact Details:\nAdnan Khan\n1\n1\nOld-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://e7d27.app.goo.gl/UPK7",
+          "likes": 2,
+          "comments": 1,
+          "views": 216,
+          "posted_at": "2024-09-29T10:26:33.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=WI2bIfzyxj8",
+          "thumbnail_url": "https://i.ytimg.com/vi/WI2bIfzyxj8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBq43tiUWQqAcSi2AzTgSelU1yOmQ",
+          "caption": "Mica Chakri Heaters - OD 4 Inch - 230Volt, 250Watt\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nMica Chakri Heaters - OD 4 Inch - 230Volt, 250Watt\nMica chakri heaters are specialized heating elements used in industrial applications for heating cylindrical surfaces such as pipes, tubes, and barrels. They are designed with a resistance heating element wound around a mica-insulated core, enclosed in a metal sheath with a spiral or helical configuration. This spiral design allows for efficient and uniform heat distribution along the cylindrical surface being heated.\nMica chakri heaters are commonly used in plastic extrusion machines, packaging equipment, and other industrial processes requiring precise and consistent heating. They are known for their rapid heat-up times, high-temperature capabilities, and durability in harsh environments. These heaters are available in various sizes, wattages, and configurations to suit different heating requirements, making them a reliable choice for heating cylindrical objects in industrial settings.\n\nContact Details:\nAdnan Khan\nH.NO. 1041 GALI NO 08 CHAUHAN BANGER NEAR NEW MOON SCHOOL\n Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://e7d27.app.goo.gl/UPK7",
+          "likes": 0,
+          "comments": 0,
+          "views": 12,
+          "posted_at": "2024-03-24T03:57:02.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/xqsLxjnmwa4",
+          "thumbnail_url": "https://i.ytimg.com/vi/xqsLxjnmwa4/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBgKFAwDw==&rs=AOn4CLDmzLQ-TSMXXMjPUcVtHxDZslAIug",
+          "caption": "Brass Sealed Nozzle Heater\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nBrass Sealed Nozzle Heater\nBrass Sealed Nozzle Heater – FANRA HEATERS\nFANRA HEATERS manufactures premium-quality Brass Sealed Nozzle Heaters designed for precise and efficient heating in plastic injection moulding machines. These heaters are specially engineered for nozzle heating applications, ensuring uniform temperature control and improved material flow during processing.\nConstructed with a robust brass body and sealed design, these heaters offer excellent heat transfer, high durability, and protection against moisture, plastic leakage, and external damage. Their compact construction makes them ideal for high-performance industrial environments requiring consistent heating.\nKey Features:\nDurable brass sealed construction\nUniform heat distribution for accurate temperature control\nResistant to moisture, leakage, and contamination\nHigh thermal efficiency with fast heat-up time\nLong service life with reliable performance\nCustom sizes, wattages, and voltages available\nApplications:\nPlastic injection moulding machines\nNozzle heating systems\nHot runner systems\nPackaging machinery\nPolymer processing industries\nTechnical Highlights:\nBody Material: Brass\nInsulation: Mica / Ceramic\nTemperature Range: Up to 350–400C (approx.)\nVoltage: 110V / 230V / 440V\nMounting: Clamp type with leads / terminal box\nFANRA HEATERS is a trusted manufacturer and supplier of nozzle heaters in India, offering high-performance and customized heating solutions for plastic processing industries.\nSEO Keywords (for IndiaMART):\nBrass Sealed Nozzle Heater, Nozzle Heater India, Injection Moulding Nozzle Heater, Brass Heater, Sealed Nozzle Heater, Industrial Nozzle Heater, Mica Nozzle Heater, Plastic Processing Heater, FANRA Heaters India\n\nContact Details:\nAdnan Khan\n1\n Old-V-97 Gali No 22b.Kh No Vijay Park Mauj Pur\n Vijay Park Moujpur New Delhi\n Near Vijay Park\n New Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://IndiaMART.in/YT2APP",
+          "likes": 7,
+          "comments": 0,
+          "views": 1871,
+          "posted_at": "2026-04-27T08:29:18.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/4ft79dQafKc",
+          "thumbnail_url": "https://i.ytimg.com/vi/4ft79dQafKc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYZSBdKE0wDw==&rs=AOn4CLD-3bW-x24gRMieCLsUf10cc_u5Rw",
+          "caption": "Ceramic Finned Strip Heaters",
+          "likes": 0,
+          "comments": 0,
+          "views": 1101,
+          "posted_at": "2026-05-02T08:23:40.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=a-2zNswMFpg",
+          "thumbnail_url": "https://i.ytimg.com/vi/a-2zNswMFpg/maxresdefault.jpg",
+          "caption": "FANRA HEATERS पर आने के लिए धन्यवाद। हम HEATERS के इस शेत्र मे पिछले 10 साल से ज़्यादा समय से काम कर रहे हैं। \n\n\n\nहम DELHI में रहते हैं। और हमारे HEATERS काफी अच्छे है वो भी कम दामो पर हम सभी तरह के HEATERS बनाते हैं।\n\n जैसे :-\n\nSTRIP HEATERS\nHIGH DENSITY HEATERS\nFINNED STRIP HEATERS\nCARTRIDGE HEATERS\nPENCIL HEATERS\nPANEL HEATERS\nCERAMIC HEATERS\nMICA BAND HEATERS\n\n\nअगर आप लोगों को किसी भी प्रकार के HEATERS की आवश्यकता होती हैं। तो आप हमसे इस Website के माध्यम से CALL या MESSAGE कर सकते हैं। \nMob. 8700464650\nEmail. fanraheaters@gmail.com\nWebsite. https://fanraheaters.blogspot.com\n\n#HEATERS #stripheaters #cartridgeheaters #finnnedstrip #ceramicheaters #micaheaters #gas #roomheaters #sipper #induction #party #trending #pipe #pipeheater #sunmica #flavour #comedy #funny #fun #room #home #industry #some #trend #sonu #mica #mirror",
+          "likes": 3,
+          "comments": 0,
+          "views": 30,
+          "posted_at": "2021-10-29T09:56:20.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=7DxhS2MmwnA",
+          "thumbnail_url": "https://i.ytimg.com/vi/7DxhS2MmwnA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFwgWyhlMA8=&rs=AOn4CLBfpW9eh0KjakPLwbtPB7M5CsD2YA",
+          "caption": "Mica Nozzle Heater\n\nFor more details click the link below:\nhttps://www.indiamart.com/proddetail/...\n\nProduct Details:\nMica Nozzle Heater\nMica nozzle heaters are specialized heating elements designed to heat the nozzles of plastic injection molding machines and other equipment. They are constructed with a resistance heating wire wrapped around a mica-insulated core, which is then encased in a metal sheath. The compact design and precise construction of mica nozzle heaters allow for efficient and uniform heating of the nozzle, ensuring optimal performance in plastic processing applications.\nThese heaters are known for their fast heat-up times, high-temperature capabilities, and resistance to moisture and chemicals. They play a crucial role in maintaining consistent temperature profiles during injection molding processes, contributing to quality production and reduced downtime. Mica nozzle heaters come in various sizes and configurations to fit different nozzle diameters and heating requirements, making them a popular choice in the plastics industry.\n\nContact Details:\nAdnan Khan\nH.NO. 1041 GALI NO 08 CHAUHAN BANGER NEAR NEW MOON SCHOOL\n Delhi\n Delhi\n 110053\n\nDownload IndiaMart app now.\nClick here: https://e7d27.app.goo.gl/UPK7",
+          "likes": 1,
+          "comments": 1,
+          "views": 127,
+          "posted_at": "2024-03-24T03:55:45.000Z"
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "8700464650",
+          "date": "2021-10-29T09:56:20.000Z",
+          "post_url": "https://www.youtube.com/watch?v=a-2zNswMFpg"
+        },
+        {
+          "type": "email",
+          "value": "fanraheaters@gmail.com",
+          "date": "2021-10-29T09:56:20.000Z",
+          "post_url": "https://www.youtube.com/watch?v=a-2zNswMFpg"
+        }
+      ],
+      "extra_profile": {
+        "location": "India",
+        "links": [
+          "https://www.facebook.com/fanraheaters/",
+          "https://www.instagram.com/fanra_heaters/",
+          "https://in.pinterest.com/fanraheaters/",
+          "https://twitter.com/adnankhanaki",
+          "https://api.whatsapp.com/send?phone=9639718698"
+        ]
+      }
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/adnankhanaki",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "Twitter/X public scraping not available — requires authenticated Apify actor (paid)"
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-07T11:55:46.401Z",
+    "duration_seconds": 163,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 0,
+      "Agent04/Media": 0,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "product",
+          "dedup",
+          "catalog"
+        ],
+        "skip_agents": [
+          "reviews"
+        ],
+        "quality_target": 0.75,
+        "reasoning": "The seller has 0 raw products, so the product agent will need to generate products from the website. Company profile is rich. Reviews agent will be skipped as no reviews API URL is present. Sign3 enrichment will be performed."
+      },
+      "evaluate_product_output": {
+        "decision": "retry",
+        "avg_confidence": null,
+        "retry_triggered": true
+      }
+    },
+    "products": {
+      "raw_input": 0,
+      "enriched": 0,
+      "catalog_items": 24,
+      "rejected": 0,
+      "with_vision": 0,
+      "vision_skipped": 0
+    },
+    "social": {
+      "urls_detected": 4,
+      "platforms_scraped": [
+        "facebook",
+        "instagram",
+        "youtube",
+        "twitter"
+      ],
+      "posts_collected": 30,
+      "social_products_extracted": 24
+    },
+    "overall_confidence": 0.38
+  },
+  "_saved_at": "2026-05-07T11:58:29.693Z"
+}

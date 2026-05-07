@@ -1,4 +1,4 @@
-import defaultSellerRawData from "@/data/sellerData.json";
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
 export type SocialPlatform =
   | "instagram"
@@ -46,6 +46,7 @@ export interface ReviewItem {
   date: string;
   sourceKey: string;
   sourceLabel: string;
+  sourceUrl?: string;
 }
 
 export interface SocialPost {
@@ -241,6 +242,178 @@ function normalizeSocialUrlEntries(
   return out;
 }
 
+function normalizeUrlKey(url: string): string {
+  const trimmed = String(url || "").trim();
+  if (!trimmed) return "";
+  try {
+    const parsed = new URL(trimmed);
+    parsed.hash = "";
+    parsed.search = "";
+    parsed.hostname = parsed.hostname.toLowerCase();
+    parsed.protocol = parsed.protocol.toLowerCase();
+    return parsed.toString().replace(/\/$/, "");
+  } catch {
+    return trimmed.toLowerCase().replace(/\/$/, "");
+  }
+}
+
+function extractGoogleMapsReference(input: string): {
+  cid: string;
+  dataId: string;
+  hasGoogleMapsUrl: boolean;
+} {
+  const value = String(input || "").trim();
+  if (!value) return { cid: "", dataId: "", hasGoogleMapsUrl: false };
+
+  const cidMatch = value.match(/[?&]cid=(\d+)/i) || value.match(/cid:(\d+)/i);
+  const dataIdMatch = value.match(/[?&]data_id=([^&]+)/i);
+
+  return {
+    cid: cidMatch?.[1] || "",
+    dataId: dataIdMatch?.[1] ? decodeURIComponent(dataIdMatch[1]) : "",
+    hasGoogleMapsUrl: /google\.com\/maps/i.test(value),
+  };
+}
+
+function buildGoogleMapsUrls(input: {
+  googleLocation: string;
+  gmbLudocid: string;
+  reviewsUrl: string;
+  fullAddress: string;
+  city: string;
+  sellerName: string;
+}): { mapUrl: string; embedUrl: string; source: string } {
+  const directUrl = String(input.googleLocation || "").trim();
+  if (directUrl) {
+    const directReference = extractGoogleMapsReference(directUrl);
+    if (directUrl.includes("output=embed")) {
+      return {
+        mapUrl: directUrl,
+        embedUrl: directUrl,
+        source: "google_location",
+      };
+    }
+    if (directReference.cid) {
+      const mapUrl = `https://www.google.com/maps?cid=${directReference.cid}`;
+      return {
+        mapUrl,
+        embedUrl: `${mapUrl}&output=embed`,
+        source: "google_location",
+      };
+    }
+    if (directReference.hasGoogleMapsUrl) {
+      const separator = directUrl.includes("?") ? "&" : "?";
+      return {
+        mapUrl: directUrl,
+        embedUrl: `${directUrl}${separator}output=embed`,
+        source: "google_location",
+      };
+    }
+    return {
+      mapUrl: directUrl,
+      embedUrl: directUrl,
+      source: "google_location",
+    };
+  }
+
+  const gmbReference = extractGoogleMapsReference(input.gmbLudocid);
+  if (gmbReference.cid) {
+    const mapUrl = `https://www.google.com/maps?cid=${gmbReference.cid}`;
+    return {
+      mapUrl,
+      embedUrl: `${mapUrl}&output=embed`,
+      source: "gmb_ludocid",
+    };
+  }
+
+  const reviewReference = extractGoogleMapsReference(input.reviewsUrl);
+  if (reviewReference.cid) {
+    const mapUrl = `https://www.google.com/maps?cid=${reviewReference.cid}`;
+    return {
+      mapUrl,
+      embedUrl: `${mapUrl}&output=embed`,
+      source: "reviews_url",
+    };
+  }
+
+  if (reviewReference.dataId) {
+    const query = [input.fullAddress, input.city, reviewReference.dataId]
+      .filter(Boolean)
+      .join(" ");
+    const resolvedQuery = query || reviewReference.dataId;
+    return {
+      mapUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(resolvedQuery)}`,
+      embedUrl: `https://www.google.com/maps?q=${encodeURIComponent(resolvedQuery)}&output=embed`,
+      source: "reviews_url",
+    };
+  }
+
+  const query = [input.fullAddress, input.city].filter(Boolean).join(", ");
+  if (query) {
+    return {
+      mapUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`,
+      embedUrl: `https://www.google.com/maps?q=${encodeURIComponent(query)}&output=embed`,
+      source: "address",
+    };
+  }
+
+  if (input.sellerName) {
+    return {
+      mapUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(input.sellerName)}`,
+      embedUrl: `https://www.google.com/maps?q=${encodeURIComponent(input.sellerName)}&output=embed`,
+      source: "seller_name",
+    };
+  }
+
+  return { mapUrl: "", embedUrl: "", source: "" };
+}
+
+function mergeSourceEntries(
+  entries: Array<{ value: string; sources: SourceMeta[] }>,
+): Array<{ value: string; sources: SourceMeta[] }> {
+  const merged = new Map<string, { value: string; sources: SourceMeta[] }>();
+  for (const entry of entries) {
+    const key = normalizeUrlKey(entry.value);
+    if (!key) continue;
+    const existing = merged.get(key);
+    if (!existing) {
+      merged.set(key, {
+        value: entry.value,
+        sources: [...entry.sources],
+      });
+      continue;
+    }
+    const sourceMap = new Map(
+      existing.sources.map((source) => [source.key, source]),
+    );
+    for (const source of entry.sources) {
+      sourceMap.set(source.key, source);
+    }
+    const candidateValue =
+      entry.value.length > existing.value.length ? entry.value : existing.value;
+    merged.set(key, {
+      value: candidateValue,
+      sources: Array.from(sourceMap.values()),
+    });
+  }
+  return Array.from(merged.values());
+}
+
+function choosePreferredSocialEntries(
+  socialUrls: unknown[],
+  social: unknown,
+): Array<{ value: string; sources: SourceMeta[] }> {
+  const socialUrlEntries = normalizeSocialUrlEntries(socialUrls);
+  const socialEntries = normalizeSocialUrlEntries(
+    Array.isArray(social) ? social : [],
+  );
+  const preferred =
+    socialEntries.length > socialUrlEntries.length
+      ? socialEntries
+      : socialUrlEntries;
+  return mergeSourceEntries(preferred);
+}
+
 function classifyUrl(url: string): SocialPlatform | null {
   if (!url) return null;
   const u = url.toLowerCase();
@@ -298,6 +471,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const website = String(unwrapValue(cp.website, "") || "");
   const businessType = String(unwrapValue(cp.business_type, "") || "");
   const googleLocation = String(unwrapValue(cp.google_location, "") || "");
+  const gmbLudocid = String(unwrapValue(cp.gmb_ludocid, "") || "");
   const rawRatingValue = unwrapValue<number | string | null>(
     cp.rating_value,
     null,
@@ -310,15 +484,58 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         : null;
   const ratingCount = Number(unwrapValue(cp.rating_count, 0) || 0);
   const description = String(unwrapValue(cp.description, "") || "");
+  const reviewsUrl = String(
+    unwrapValue(cp.reviews_url, "") ||
+      data.reviews_url ||
+      cp.reviews_api_url ||
+      data.reviews_api_url ||
+      data.reviews_summary?.reviews_url ||
+      "",
+  );
+  const resolvedMaps = buildGoogleMapsUrls({
+    googleLocation,
+    gmbLudocid,
+    reviewsUrl,
+    fullAddress,
+    city,
+    sellerName,
+  });
   const fieldSources = {
-    phone: phoneEntries[0]?.sources || [],
-    email: emailEntries[0]?.sources || [],
+    phone: Array.from(
+      new Map(
+        phoneEntries
+          .flatMap((entry) => entry.sources)
+          .map((source) => [source.key, source]),
+      ).values(),
+    ),
+    email: Array.from(
+      new Map(
+        emailEntries
+          .flatMap((entry) => entry.sources)
+          .map((source) => [source.key, source]),
+      ).values(),
+    ),
     website: toSourceMetaList(unwrapSources(cp.website)),
     address: toSourceMetaList(unwrapSources(cp.address)),
     city: toSourceMetaList(unwrapSources(cp.city)),
     rating: toSourceMetaList(unwrapSources(cp.rating_value)),
     businessType: toSourceMetaList(unwrapSources(cp.business_type)),
   };
+
+  // Ensure special sign3 evidence is reflected in contact sources when present
+  const addSourceIfMissing = (arr: SourceMeta[], key: string) => {
+    if (!arr.some((s) => s.key === key))
+      arr.push({ key, label: sourceLabelFor(key) });
+  };
+  if (cp?.sign3_verified_phone) addSourceIfMissing(fieldSources.phone, "sign3");
+  if (cp?.sign3_verified_email) addSourceIfMissing(fieldSources.email, "sign3");
+  if (cp?.sign3_verified) {
+    // if broadly verified, ensure sign3 appears in common contact fields
+    addSourceIfMissing(fieldSources.phone, "sign3");
+    addSourceIfMissing(fieldSources.email, "sign3");
+    addSourceIfMissing(fieldSources.address, "sign3");
+    addSourceIfMissing(fieldSources.city, "sign3");
+  }
 
   // Build authoritative social profile list (one per platform)
   const profilesByPlatform: Record<string, SocialProfile> = {};
@@ -349,10 +566,10 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   }
 
   // Augment with social_urls (fallback for platforms missing in social_profiles)
-  const socialUrlEntries = normalizeSocialUrlEntries([
-    ...(cp.social_urls || []),
-    ...(data.social_urls || []),
-  ]);
+  const socialUrlEntries = choosePreferredSocialEntries(
+    [...(cp.social_urls || [])],
+    cp.social,
+  );
 
   // Include explicit platform URLs under company_profile (facebook, instagram, etc.)
   for (const platform of PLATFORMS) {
@@ -367,8 +584,9 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const dedupSocialUrls: Array<{ value: string; sources: SourceMeta[] }> = [];
   const seenSocialUrl = new Set<string>();
   for (const entry of socialUrlEntries) {
-    if (seenSocialUrl.has(entry.value)) continue;
-    seenSocialUrl.add(entry.value);
+    const key = normalizeUrlKey(entry.value);
+    if (seenSocialUrl.has(key)) continue;
+    seenSocialUrl.add(key);
     dedupSocialUrls.push(entry);
   }
 
@@ -400,7 +618,12 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const fb = profilesByPlatform.facebook;
   const ig = profilesByPlatform.instagram;
   const bannerUrl = yt?.bannerUrl || fb?.bannerUrl || "";
-  const avatarUrl = ig?.profilePic || yt?.profilePic || fb?.profilePic || "";
+  const avatarUrl =
+    data.company_profile?.logo_url ||
+    ig?.profilePic ||
+    yt?.profilePic ||
+    fb?.profilePic ||
+    "";
 
   // Tagline (used by hero/footer)
   const tagline = description || yt?.bio || ig?.bio || fb?.bio || "";
@@ -422,17 +645,8 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         sourceLinks.push(link);
       };
 
-      const sourceUrl = String(
-        c.source_url || c.specifications?.source_url || "",
-      );
-      if (sourceUrl) {
-        pushLink({
-          key: "catalog-source",
-          label: c.source ? String(c.source) : hostLabelFromUrl(sourceUrl),
-          url: sourceUrl,
-        });
-      }
-
+      // Collect social source URLs first to avoid duplicates with source_url
+      const socialSourceUrls = new Set<string>();
       for (const socialSource of Array.isArray(c.social_sources)
         ? c.social_sources
         : []) {
@@ -443,6 +657,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         ).toLowerCase() as SocialPlatform;
         const url = String(socialSource.post_url || socialSource.url || "");
         if (!url) continue;
+        socialSourceUrls.add(normalizeUrlKey(url));
         if (platform) {
           sourceTiles.push({ key: platform, label: platformLabel(platform) });
           pushLink({
@@ -456,6 +671,18 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         }
       }
 
+      // Only add source_url if it's not already in social_sources
+      const sourceUrl = String(
+        c.source_url || c.specifications?.source_url || "",
+      );
+      if (sourceUrl && !socialSourceUrls.has(normalizeUrlKey(sourceUrl))) {
+        pushLink({
+          key: "catalog-source",
+          label: c.source ? String(c.source) : hostLabelFromUrl(sourceUrl),
+          url: sourceUrl,
+        });
+      }
+
       const seenTile = new Set<string>();
       const dedupTiles = sourceTiles.filter((tile) => {
         const key = `${tile.key}:${tile.label}`;
@@ -466,7 +693,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
 
       const seenLink = new Set<string>();
       const dedupLinks = sourceLinks.filter((link) => {
-        const key = `${link.label}:${link.url}`;
+        const key = `${link.label}:${normalizeUrlKey(link.url)}`;
         if (seenLink.has(key)) return false;
         seenLink.add(key);
         return true;
@@ -499,7 +726,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         primaryPhoto: c.primary_photo_url || c.photo_urls?.[0] || "",
         photos: (c.photo_urls || []).filter(Boolean),
         inStock: c.in_stock !== false,
-        sourceUrl,
+        // sourceUrl,
         source: c.source || "",
         sourceTiles: dedupTiles,
         sourceLinks: dedupLinks,
@@ -520,26 +747,27 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const galleryImages: { url: string; source: string; caption?: string }[] = [];
   const seen = new Set<string>();
   const addImg = (url: string, source: string, caption?: string) => {
-    if (!url || seen.has(url)) return;
-    seen.add(url);
+    const key = normalizeUrlKey(url);
+    if (!key || seen.has(key)) return;
+    seen.add(key);
     galleryImages.push({ url, source, caption });
   };
   products.forEach((p) => {
-    addImg(p.primaryPhoto, "Catalog", p.name);
-    p.photos.forEach((ph) => addImg(ph, "Catalog", p.name));
+    addImg(p.primaryPhoto, (p.source || "Catalog").toUpperCase(), p.name);
+    p.photos.forEach((ph) =>
+      addImg(ph, (p.source || "Catalog").toUpperCase(), p.name),
+    );
   });
   (data.media_assets || []).forEach((m: any) =>
     addImg(m.url, "Catalog", m.product_name),
   );
-  ig?.posts.forEach((p) => addImg(p.thumbnailUrl, "Instagram", p.caption));
-  yt?.posts.forEach((p) => addImg(p.thumbnailUrl, "YouTube", p.caption));
+  ig?.posts.forEach((p) => addImg(p.thumbnailUrl, "INSTAGRAM", p.caption));
+  yt?.posts.forEach((p) => addImg(p.thumbnailUrl, "YOUTUBE", p.caption));
 
   // Reviews summary
   const rs = data.reviews_summary || {};
-  const defaultReviewSource =
-    cp.reviews_api_url && String(cp.reviews_api_url).includes("google_maps")
-      ? "google"
-      : "website";
+  // Force reviews to be treated as Google-sourced.
+  // Extract any available reviews URL from common fields so the UI can link back.
   const reviewSourceMap: Record<string, number> = {};
   const reviewsSummary = {
     totalRating: rs.total_rating ?? ratingValue ?? null,
@@ -548,13 +776,8 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     sourceBreakdown: {} as Record<string, number>,
   };
   const individualReviews: ReviewItem[] = (data.reviews || []).map((r: any) => {
-    const sourceKey = String(
-      r.source ||
-        r.platform ||
-        r.review_source ||
-        defaultReviewSource ||
-        "unknown",
-    ).toLowerCase();
+    // Hardcode source to google for all reviews/ratings
+    const sourceKey = "google";
     reviewSourceMap[sourceKey] = (reviewSourceMap[sourceKey] || 0) + 1;
     return {
       author: r.author || r.name || "Anonymous",
@@ -563,9 +786,13 @@ export function extractSellerDataFromRaw(rawData: unknown) {
       date: r.date || r.posted_at || "",
       sourceKey,
       sourceLabel: sourceLabelFor(sourceKey),
+      sourceUrl: reviewsUrl || undefined,
     };
   });
-  reviewsSummary.sourceBreakdown = reviewSourceMap;
+  // Make breakdown only reflect Google as the source
+  if (reviewSourceMap.google)
+    reviewsSummary.sourceBreakdown = { google: reviewSourceMap.google };
+  else reviewsSummary.sourceBreakdown = {};
 
   // Product counts (showcased vs total)
   const totalProducts = data.products?.length || products.length;
@@ -675,13 +902,17 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     fullAddress,
     city,
     website,
-    googleLocation,
+    googleLocation: resolvedMaps.mapUrl,
+    googleMapsUrl: resolvedMaps.mapUrl,
+    googleMapsEmbedUrl: resolvedMaps.embedUrl,
+    googleMapsSource: resolvedMaps.source,
     ratingValue,
     ratingCount,
     avatarUrl,
     bannerUrl,
     whatsappUrl,
     socialProfiles,
+    socialUrls: dedupSocialUrls,
     products,
     totalProducts,
     showcasedItems,
@@ -689,6 +920,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     galleryImages,
     reviewsSummary,
     individualReviews,
+    reviewsUrl,
     fieldSources,
     trustBadges,
     topFollowers,
@@ -710,7 +942,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   };
 }
 
-export function extractSellerData(rawData: unknown = defaultSellerRawData) {
+export function extractSellerData(rawData: unknown) {
   return extractSellerDataFromRaw(rawData);
 }
 

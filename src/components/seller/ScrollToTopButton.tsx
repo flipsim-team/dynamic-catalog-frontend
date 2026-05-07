@@ -26,7 +26,7 @@ export default function ScrollToTopButton() {
           exit={{ opacity: 0, y: 14, scale: 0.9 }}
           transition={{ duration: 0.28, ease: [0.22, 1, 0.36, 1] }}
           onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-          className="group fixed bottom-5 right-5 z-[90] h-12 w-12 rounded-full border border-primary/20 bg-primary/95 text-primary-foreground shadow-[0_16px_36px_-16px_hsl(var(--primary)/0.85)] backdrop-blur-md sm:bottom-7 sm:right-7"
+          className="group fixed bottom-5 right-5 z-[80] h-12 w-12 rounded-full border border-primary/20 bg-primary/95 text-primary-foreground shadow-[0_16px_36px_-16px_hsl(var(--primary)/0.85)] backdrop-blur-md sm:bottom-7 sm:right-7"
         >
           <motion.span
             aria-hidden

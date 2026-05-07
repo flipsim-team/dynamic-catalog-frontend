@@ -1,20 +1,28 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, Phone, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
-const NAV_LINKS = [
-  { label: "Overview", href: "#overview" },
-  { label: "About", href: "#about" },
-  { label: "Catalog", href: "#products" },
-  { label: "Gallery", href: "#gallery" },
-  { label: "Social", href: "#social" },
-  { label: "Ratings & Reviews", href: "#reviews" },
-  { label: "Contact", href: "#contact" },
+// Default nav link definitions; actual list is filtered per-seller data
+const DEFAULT_NAV_LINKS = [
+  { key: "overview", label: "Overview", href: "#overview" },
+  { key: "about", label: "About", href: "#about" },
+  { key: "products", label: "Catalog", href: "#products" },
+  { key: "gallery", label: "Gallery", href: "#gallery" },
+  { key: "social", label: "Social", href: "#social" },
+  { key: "reviews", label: "Ratings & Reviews", href: "#reviews" },
+  { key: "contact", label: "Contact", href: "#contact" },
 ];
 
-export default function NavBar({ data }: { data: SellerData }) {
+export default function NavBar({
+  data,
+  galleryVisible = false,
+}: {
+  data: SellerData;
+  galleryVisible?: boolean;
+}) {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [activeSection, setActiveSection] = useState("overview");
@@ -25,12 +33,42 @@ export default function NavBar({ data }: { data: SellerData }) {
     .join("")
     .slice(0, 2)
     .toUpperCase();
-  const showAvatar = Boolean(data.avatarUrl) && !avatarFailed;
+  const showAvatar = Boolean(data.avatarUrl?.value) && !avatarFailed;
+
+  // Build nav links dynamically based on which sections have data
+  const navLinks = DEFAULT_NAV_LINKS.filter((link) => {
+    switch (link.key) {
+      case "overview":
+        return true;
+      case "about":
+        return Boolean(data.description || data.businessType || data.tagline);
+      case "products":
+        return Boolean((data as any).showcasedItems > 0);
+      case "gallery":
+        // only show gallery link if the gallery section is actually visible
+        return Boolean(galleryVisible);
+      case "social":
+        return Boolean(
+          Array.isArray((data as any).socialProfiles) &&
+          (data as any).socialProfiles.length > 0,
+        );
+      case "reviews":
+        return Boolean(
+          (data as any).reviewsSummary?.noOfRatings > 0 ||
+          (Array.isArray((data as any).individualReviews) &&
+            (data as any).individualReviews.length > 0),
+        );
+      case "contact":
+        return Boolean(data.primaryPhone || data.email || data.fullAddress);
+      default:
+        return true;
+    }
+  });
 
   useEffect(() => {
     const onScroll = () => {
       setScrolled(window.scrollY > 20);
-      const sections = NAV_LINKS.map((l) => l.href.slice(1));
+      const sections = navLinks.map((l) => l.href.slice(1));
       for (let i = sections.length - 1; i >= 0; i--) {
         const el = document.getElementById(sections[i]);
         if (el && el.getBoundingClientRect().top <= 120) {
@@ -42,7 +80,7 @@ export default function NavBar({ data }: { data: SellerData }) {
     window.addEventListener("scroll", onScroll, { passive: true });
     onScroll();
     return () => window.removeEventListener("scroll", onScroll);
-  }, []);
+  }, [navLinks]);
 
   const contactHref = data.primaryPhone
     ? `tel:${data.primaryPhone}`
@@ -106,9 +144,9 @@ export default function NavBar({ data }: { data: SellerData }) {
             >
               {showAvatar ? (
                 <img
-                  src={data.avatarUrl}
+                  src={data.avatarUrl?.value}
                   alt={data.sellerName}
-                  className="h-full w-full object-cover"
+                  className="h-full w-full object-contain bg-white/50 p-px"
                   onError={() => setAvatarFailed(true)}
                 />
               ) : (
@@ -125,7 +163,7 @@ export default function NavBar({ data }: { data: SellerData }) {
           </a>
 
           <div className="hidden lg:flex items-center gap-1 bg-card/60 backdrop-blur-lg rounded-full p-1 border border-border/60 shadow-sm">
-            {NAV_LINKS.map((link) => (
+            {navLinks.map((link) => (
               <a
                 key={`${link.label}-${link.href}`}
                 href={link.href}
@@ -197,7 +235,7 @@ export default function NavBar({ data }: { data: SellerData }) {
             className="lg:hidden bg-card/98 backdrop-blur-2xl border-t border-border"
           >
             <div className="px-4 py-3 space-y-1">
-              {NAV_LINKS.map((link, i) => (
+              {navLinks.map((link, i) => (
                 <motion.a
                   key={`${link.label}-${link.href}`}
                   href={link.href}

@@ -1,4 +1,4 @@
-import { forwardRef } from "react";
+import { forwardRef, useState } from "react";
 import { motion } from "framer-motion";
 import {
   ExternalLink,
@@ -34,6 +34,24 @@ const PLATFORM_ICONS: Record<SocialPlatform, LucideIcon> = {
   whatsapp: ExternalLink,
 };
 
+function classifySocialUrl(url: string): SocialPlatform | null {
+  try {
+    const host = new URL(url).hostname.replace(/^www\./, "").toLowerCase();
+    if (host.includes("instagram.com")) return "instagram";
+    if (host.includes("facebook.com")) return "facebook";
+    if (host.includes("youtube.com") || host.includes("youtu.be"))
+      return "youtube";
+    if (host.includes("linkedin.com")) return "linkedin";
+    if (host.includes("twitter.com") || host.includes("x.com"))
+      return "twitter";
+    if (host.includes("wa.me") || host.includes("whatsapp.com"))
+      return "whatsapp";
+    return null;
+  } catch {
+    return null;
+  }
+}
+
 const Footer = forwardRef<HTMLElement, { data: SellerData }>(
   ({ data }, ref) => {
     const initials = data.sellerName
@@ -42,6 +60,8 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
       .join("")
       .slice(0, 2)
       .toUpperCase();
+    const [avatarFailed, setAvatarFailed] = useState(false);
+    const showAvatar = Boolean(data.avatarUrl?.value) && !avatarFailed;
     const getHref = (link: string) => {
       if (link === "Overview") return "#overview";
       if (link === "Categories") return "#products";
@@ -56,40 +76,22 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
       whatsapp: [],
       contactCta: [],
     };
-    const socialAvailability = data.socialAvailability || {
-      instagram: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "instagram")?.url ||
-          "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "instagram")
-          ?.posts?.length,
-      },
-      facebook: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "facebook")?.url || "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "facebook")
-          ?.posts?.length,
-      },
-      youtube: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "youtube")?.url || "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "youtube")
-          ?.posts?.length,
-      },
-      twitter: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "twitter")?.url || "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "twitter")
-          ?.posts?.length,
-      },
-      linkedin: {
-        url:
-          data.socialProfiles.find((p) => p.platform === "linkedin")?.url || "",
-        hasPosts: !!data.socialProfiles.find((p) => p.platform === "linkedin")
-          ?.posts?.length,
-      },
-      whatsapp: { url: data.whatsappUrl || "", hasPosts: !!data.whatsappUrl },
-    };
+    const socialUrlByPlatform = (platform: SocialPlatform) =>
+      data.socialUrls?.find(
+        (entry) => classifySocialUrl(entry.value) === platform,
+      )?.value || "";
+    const connectLinks = (
+      [
+        "instagram",
+        "youtube",
+        "facebook",
+        "linkedin",
+        "twitter",
+      ] as SocialPlatform[]
+    )
+      .map((platform) => ({ platform, url: socialUrlByPlatform(platform) }))
+      .filter((item) => Boolean(item.url));
+    const hasConnect = connectLinks.length > 0 || Boolean(data.website);
 
     return (
       <footer
@@ -99,13 +101,25 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-primary/40 to-transparent" />
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-10">
+          <div
+            className={`grid grid-cols-1 ${hasConnect ? "sm:grid-cols-3" : "sm:grid-cols-2"} gap-10`}
+          >
             <div>
               <div className="flex items-center gap-3 mb-4">
-                <div className="w-11 h-11 rounded-xl bg-primary flex items-center justify-center">
-                  <span className="font-bold text-sm text-primary-foreground">
-                    {initials}
-                  </span>
+                <div className="relative w-11 h-11 rounded-full overflow-hidden border border-white/10 bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 flex items-center justify-center shadow-lg">
+                  <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,hsl(var(--primary)/0.22),transparent_58%)]" />
+                  {showAvatar ? (
+                    <img
+                      src={data.avatarUrl?.value}
+                      alt={data.sellerName}
+                      className="relative z-10 h-full w-full object-contain p-1"
+                      onError={() => setAvatarFailed(true)}
+                    />
+                  ) : (
+                    <span className="relative z-10 font-bold text-sm text-white">
+                      {initials}
+                    </span>
+                  )}
                 </div>
                 <h3 className="font-bold text-xl">{data.sellerName}</h3>
               </div>
@@ -170,74 +184,56 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
               </div>
             </div>
 
-            <div>
-              <h4 className="font-semibold mb-4 opacity-70 text-sm uppercase tracking-wider">
-                Connect
-              </h4>
-              <div className="flex flex-wrap gap-2">
-                {(
-                  [
-                    "instagram",
-                    "youtube",
-                    "facebook",
-                    "linkedin",
-                    "twitter",
-                  ] as SocialPlatform[]
-                ).map((platform) => {
-                  const Icon = PLATFORM_ICONS[platform];
-                  if (!Icon) return null;
-                  const availability = socialAvailability[platform];
-                  const enabled = !!availability?.hasPosts;
+            {hasConnect && (
+              <div>
+                <h4 className="font-semibold mb-4 opacity-70 text-sm uppercase tracking-wider">
+                  Connect
+                </h4>
+                {connectLinks.length > 0 && (
+                  <div className="flex flex-wrap gap-2">
+                    {connectLinks.map(({ platform, url }) => {
+                      const Icon = PLATFORM_ICONS[platform];
+                      if (!Icon || !url) return null;
 
-                  if (enabled && availability.url) {
-                    return (
-                      <motion.a
-                        key={platform}
-                        href={availability.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        whileHover={{ y: -2, scale: 1.05 }}
-                        className="w-10 h-10 rounded-xl bg-background/10 hover:bg-background/20 flex items-center justify-center transition-colors"
-                        title={`${platform} available`}
-                      >
-                        <Icon className="w-4 h-4" />
-                      </motion.a>
-                    );
-                  }
-
-                  return (
-                    <motion.button
-                      key={platform}
-                      type="button"
-                      disabled
-                      className="w-10 h-10 rounded-xl border border-background/20 bg-background/5 flex items-center justify-center opacity-50 cursor-not-allowed"
-                      title={`${platform} unavailable`}
+                      return (
+                        <motion.a
+                          key={platform}
+                          href={url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          whileHover={{ y: -2, scale: 1.05 }}
+                          className="w-10 h-10 rounded-xl bg-background/10 hover:bg-background/20 flex items-center justify-center transition-colors"
+                          title={`${platform} available`}
+                        >
+                          <Icon className="w-4 h-4" />
+                        </motion.a>
+                      );
+                    })}
+                  </div>
+                )}
+                {data.website && (
+                  <div>
+                    <a
+                      href={data.website}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="mt-4 inline-flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
                     >
-                      <Icon className="w-4 h-4" />
-                    </motion.button>
-                  );
-                })}
+                      <ExternalLink className="w-3.5 h-3.5" />{" "}
+                      {data.website
+                        .replace(/https?:\/\//, "")
+                        .replace(/\/$/, "")}
+                    </a>
+                    {contactSources.website.length > 0 && (
+                      <p className="mt-1 text-[10px] opacity-50">
+                        Source:{" "}
+                        {contactSources.website.map((s) => s.label).join(", ")}
+                      </p>
+                    )}
+                  </div>
+                )}
               </div>
-              {data.website && (
-                <div>
-                  <a
-                    href={data.website}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mt-4 inline-flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
-                  >
-                    <ExternalLink className="w-3.5 h-3.5" />{" "}
-                    {data.website.replace(/https?:\/\//, "").replace(/\/$/, "")}
-                  </a>
-                  {contactSources.website.length > 0 && (
-                    <p className="mt-1 text-[10px] opacity-50">
-                      Source:{" "}
-                      {contactSources.website.map((s) => s.label).join(", ")}
-                    </p>
-                  )}
-                </div>
-              )}
-            </div>
+            )}
           </div>
 
           <div className="border-t border-background/10 mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">

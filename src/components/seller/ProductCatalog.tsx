@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { ShoppingBag, MessageCircle, Eye } from "lucide-react";
@@ -7,29 +7,228 @@ import ProductCard from "./ProductCard";
 import ProductDetailModal from "./ProductDetailModal";
 import type { SellerData, CatalogProduct } from "@/lib/sellerDataExtractor";
 
+function normalizeSourceLabel(source: string) {
+  const key = String(source || "")
+    .trim()
+    .toLowerCase();
+  if (key === "youtube") return "YouTube";
+  if (key === "instagram") return "Instagram";
+  if (key === "facebook") return "Facebook";
+  if (key === "linkedin") return "LinkedIn";
+  if (key === "twitter") return "Twitter/X";
+  if (key === "whatsapp") return "WhatsApp";
+  if (key === "website") return "Website";
+  return key ? key.charAt(0).toUpperCase() + key.slice(1) : "Source";
+}
+
+type SourceFilterOption = {
+  key: string;
+  label: string;
+  count: number;
+};
+
+function normalizeSourceKey(source: string) {
+  return String(source || "")
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, "_");
+}
+
+function isWebsiteSource(value: string) {
+  return normalizeSourceKey(value) === "website";
+}
+
+function collectProductSourceEntries(product: CatalogProduct) {
+  const entries: SourceFilterOption[] = [];
+  const addEntry = (key: string, label: string) => {
+    const normalizedKey = normalizeSourceKey(key);
+    const normalizedLabel = isWebsiteSource(normalizedKey)
+      ? "Website"
+      : String(label || "").trim();
+    if (!normalizedKey || !normalizedLabel) return;
+    entries.push({ key: normalizedKey, label: normalizedLabel, count: 1 });
+  };
+
+  const primarySource = String(product.source || "").trim();
+  if (primarySource) {
+    if (isWebsiteSource(primarySource)) {
+      addEntry("website", "Website");
+    } else {
+      addEntry(primarySource, normalizeSourceLabel(primarySource));
+    }
+  }
+
+  for (const tile of product.sourceTiles || []) {
+    addEntry(tile.key, tile.label);
+  }
+
+  const KNOWN_PLATFORMS = new Set([
+    "youtube",
+    "instagram",
+    "facebook",
+    "linkedin",
+    "twitter",
+    "x",
+    "whatsapp",
+  ]);
+  for (const link of product.sourceLinks || []) {
+    let linkKey = "";
+    let linkLabel = "";
+    if (link.platform) {
+      linkKey = normalizeSourceKey(link.platform);
+      linkLabel = normalizeSourceLabel(link.platform);
+    } else if (link.label) {
+      const cand = normalizeSourceKey(link.label);
+      if (KNOWN_PLATFORMS.has(cand)) {
+        linkKey = cand;
+        linkLabel = normalizeSourceLabel(cand);
+      } else {
+        linkKey = "website";
+        linkLabel = "Website";
+      }
+    } else {
+      linkKey = "website";
+      linkLabel = "Website";
+    }
+    addEntry(linkKey, linkLabel);
+  }
+
+  return entries;
+}
+
+function productMatchesSelectedSources(
+  product: CatalogProduct,
+  selectedSources: string[],
+) {
+  if (selectedSources.length === 0) return true;
+  const productSources = new Set(
+    collectProductSourceEntries(product).map((entry) => entry.key),
+  );
+  return selectedSources.some((source) => productSources.has(source));
+}
+
 export default function ProductCatalog({ data }: { data: SellerData }) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.04 });
   const [activeCat, setActiveCat] = useState<string>("All");
+  const [selectedSources, setSelectedSources] = useState<string[]>([]);
   const [selected, setSelected] = useState<CatalogProduct | null>(null);
   const [showNoImageProducts, setShowNoImageProducts] = useState(false);
+  const [brokenImageProductIds, setBrokenImageProductIds] = useState<
+    Set<string>
+  >(() => new Set());
+
+  const markImageUnavailable = useCallback((productId: string) => {
+    setBrokenImageProductIds((prev) => {
+      if (prev.has(productId)) return prev;
+      const next = new Set(prev);
+      next.add(productId);
+      return next;
+    });
+  }, []);
+
+  const toggleSource = useCallback((sourceKey: string) => {
+    const normalizedSource = normalizeSourceKey(sourceKey);
+    if (!normalizedSource) return;
+    setSelectedSources((current) =>
+      current.includes(normalizedSource)
+        ? current.filter((source) => source !== normalizedSource)
+        : [...current, normalizedSource],
+    );
+  }, []);
+
+  const clearSelectedSources = useCallback(() => {
+    setSelectedSources([]);
+  }, []);
+
+  const sourceFilters = useMemo<SourceFilterOption[]>(() => {
+    const counts = new Map<string, { label: string; count: number }>();
+
+    for (const product of data.products) {
+      const seenKeys = new Set<string>();
+      for (const entry of collectProductSourceEntries(product)) {
+        if (seenKeys.has(entry.key)) continue;
+        seenKeys.add(entry.key);
+
+        const existing = counts.get(entry.key);
+        if (existing) {
+          existing.count += 1;
+        } else {
+          counts.set(entry.key, { label: entry.label, count: 1 });
+        }
+      }
+    }
+
+    return Array.from(counts.entries())
+      .map(([key, value]) => ({
+        name: key,
+        key,
+        label: value.label,
+        count: value.count,
+      }))
+      .sort((a, b) => a.label.localeCompare(b.label));
+  }, [data.products]);
+
+  const sourceFilteredProducts = useMemo(() => {
+    if (selectedSources.length === 0) return data.products;
+    return data.products.filter((product) =>
+      productMatchesSelectedSources(product, selectedSources),
+    );
+  }, [data.products, selectedSources]);
+
+  const categoryCountMap = useMemo(() => {
+    const counts = new Map<string, number>();
+    for (const product of sourceFilteredProducts) {
+      counts.set(product.category, (counts.get(product.category) || 0) + 1);
+    }
+    return counts;
+  }, [sourceFilteredProducts]);
+
+  const categoryFilters = useMemo(
+    () =>
+      data.categories.map((category) => ({
+        ...category,
+        count: categoryCountMap.get(category.name) || 0,
+      })),
+    [categoryCountMap, data.categories],
+  );
 
   const filtered = useMemo(() => {
-    if (activeCat === "All") return data.products;
-    return data.products.filter((p) => p.category === activeCat);
-  }, [activeCat, data.products]);
+    return sourceFilteredProducts.filter((product) => {
+      return activeCat === "All" || product.category === activeCat;
+    });
+  }, [activeCat, sourceFilteredProducts]);
 
   const withImageProducts = useMemo(
-    () => filtered.filter((product) => Boolean(product.primaryPhoto)),
-    [filtered],
+    () =>
+      filtered.filter(
+        (product) =>
+          Boolean(product.primaryPhoto) &&
+          !brokenImageProductIds.has(product.id),
+      ),
+    [brokenImageProductIds, filtered],
   );
   const withoutImageProducts = useMemo(
-    () => filtered.filter((product) => !product.primaryPhoto),
-    [filtered],
+    () =>
+      filtered.filter(
+        (product) =>
+          !product.primaryPhoto || brokenImageProductIds.has(product.id),
+      ),
+    [brokenImageProductIds, filtered],
   );
+
+  const displayedProducts = useMemo(() => {
+    const arr = [...withImageProducts];
+    if (showNoImageProducts) arr.push(...withoutImageProducts);
+    return arr;
+  }, [withImageProducts, withoutImageProducts, showNoImageProducts]);
 
   useEffect(() => {
     setShowNoImageProducts(false);
   }, [activeCat]);
+
+  useEffect(() => {
+    setShowNoImageProducts(false);
+  }, [selectedSources]);
 
   if (!data.products.length) return null;
 
@@ -116,10 +315,14 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
           className="mb-8"
         >
           <CategoryFilterBar
-            categories={data.categories}
+            categories={categoryFilters}
+            sources={sourceFilters}
             active={activeCat}
             onChange={setActiveCat}
-            totalCount={data.products.length}
+            selectedSources={selectedSources}
+            onSourceToggle={toggleSource}
+            onClearSources={clearSelectedSources}
+            totalCount={sourceFilteredProducts.length}
           />
         </motion.div>
 
@@ -131,6 +334,7 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
               product={p}
               onOpen={() => setSelected(p)}
               enquireHref={enquireFor(p)}
+              onImageUnavailable={markImageUnavailable}
             />
           ))}
         </div>
@@ -174,6 +378,7 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
                     onOpen={() => setSelected(p)}
                     enquireHref={enquireFor(p)}
                     hideImageSection
+                    onImageUnavailable={markImageUnavailable}
                   />
                 ))}
               </div>
@@ -193,6 +398,38 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
         product={selected}
         onClose={() => setSelected(null)}
         enquireHref={selected ? enquireFor(selected) : ""}
+        onImageUnavailable={markImageUnavailable}
+        onPrev={
+          selected
+            ? () => {
+                const idx = displayedProducts.findIndex(
+                  (p) => p.id === selected.id,
+                );
+                if (idx !== -1 && displayedProducts.length > 0) {
+                  const prev =
+                    displayedProducts[
+                      (idx - 1 + displayedProducts.length) %
+                        displayedProducts.length
+                    ];
+                  setSelected(prev);
+                }
+              }
+            : undefined
+        }
+        onNext={
+          selected
+            ? () => {
+                const idx = displayedProducts.findIndex(
+                  (p) => p.id === selected.id,
+                );
+                if (idx !== -1 && displayedProducts.length > 0) {
+                  const next =
+                    displayedProducts[(idx + 1) % displayedProducts.length];
+                  setSelected(next);
+                }
+              }
+            : undefined
+        }
       />
     </section>
   );

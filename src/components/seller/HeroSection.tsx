@@ -91,9 +91,9 @@ export default function HeroSection({ data }: { data: SellerData }) {
               <div className="relative w-28 h-28 md:w-36 md:h-36 rounded-full border-4 border-white/40 overflow-hidden shadow-xl bg-primary/20 backdrop-blur-sm flex items-center justify-center transition-all duration-300 group-hover/avatar:border-primary/55 group-hover/avatar:shadow-[0_0_0_2px_rgba(255,255,255,0.1),0_0_14px_4px_hsl(var(--primary)/0.22)]">
                 {data.avatarUrl ? (
                   <img
-                    src={data.avatarUrl}
+                    src={data.avatarUrl?.value}
                     alt={data.sellerName}
-                    className="w-full h-full object-cover transition-transform duration-300 group-hover/avatar:scale-104"
+                    className="w-full h-full object-contain transition-transform duration-300 group-hover/avatar:scale-104 bg-white/50 p-px"
                     onError={(e) => {
                       (e.target as HTMLImageElement).style.display = "none";
                       (e.target as HTMLImageElement)
@@ -103,7 +103,7 @@ export default function HeroSection({ data }: { data: SellerData }) {
                   />
                 ) : null}
                 <span
-                  className={`fallback text-white font-bold text-3xl transition-transform duration-300 group-hover/avatar:scale-104 ${data.avatarUrl ? "hidden" : ""}`}
+                  className={`fallback text-white font-bold text-3xl transition-transform duration-300 group-hover/avatar:scale-104 ${data.avatarUrl?.value ? "hidden" : ""}`}
                 >
                   {initials}
                 </span>

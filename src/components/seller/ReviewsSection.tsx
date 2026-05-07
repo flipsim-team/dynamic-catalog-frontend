@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import { Star, StarHalf, ExternalLink, Info } from "lucide-react";
+import { Star, StarHalf, ExternalLink } from "lucide-react";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
 function StarRating({
@@ -45,7 +45,6 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
 
   const rating = data.reviewsSummary.totalRating;
   const count = data.reviewsSummary.noOfRatings;
-  const comments = data.reviewsSummary.ratingComments || [];
   const reviews = data.individualReviews || [];
   const sourceBreakdown = data.reviewsSummary.sourceBreakdown || {};
   const sourceOptions = useMemo(() => {
@@ -73,7 +72,8 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
       : sourceOptions.length > 1
         ? "Multiple"
         : "Public";
-  const hasIndividual = reviews.length > 0 || comments.length > 0;
+  const hasIndividual = reviews.length > 0;
+  const hasAggregate = rating != null;
   const filteredReviews = useMemo(() => {
     return reviews.filter((review) => {
       const starMatch =
@@ -83,9 +83,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
       return starMatch && sourceMatch;
     });
   }, [reviews, selectedSource, selectedStars]);
-  const visibleComments = selectedStars === "all" ? comments : [];
-  const hasFilteredResults =
-    filteredReviews.length > 0 || visibleComments.length > 0;
+  const hasFilteredResults = filteredReviews.length > 0;
   const starCounts = useMemo(() => {
     const counts: Record<number, number> = { 5: 0, 4: 0, 3: 0, 2: 0, 1: 0 };
     for (const review of reviews) {
@@ -183,7 +181,9 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
             </p>
           </div>
 
-          <div className="grid lg:grid-cols-[1.1fr_0.9fr] gap-6 lg:items-stretch">
+          <div
+            className={`grid ${hasAggregate && hasIndividual ? "lg:grid-cols-[1.1fr_0.9fr]" : "grid-cols-1"} gap-6 lg:items-stretch`}
+          >
             {/* Aggregate */}
             {rating != null && (
               <motion.div
@@ -275,7 +275,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                               : "bg-background text-foreground border-border hover:border-primary/40"
                           }`}
                         >
-                          All ({reviews.length + comments.length})
+                          All ({reviews.length})
                         </button>
                         {[5, 4, 3, 2, 1].map((star) => (
                           <button
@@ -329,17 +329,17 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
             )}
 
             {/* Individual reviews */}
-            <motion.div
-              initial={{ opacity: 0, scale: 0.95 }}
-              animate={inView ? { opacity: 1, scale: 1 } : {}}
-              transition={{ delay: 0.2, duration: 0.65 }}
-              className="rounded-[2rem] p-7 sm:p-8 bg-card border border-border shadow-sm flex flex-col h-[470px]"
-            >
-              <p className="text-xs uppercase tracking-[0.22em] text-muted-foreground font-bold mb-4">
-                Customer voices
-              </p>
+            {hasIndividual && (
+              <motion.div
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={inView ? { opacity: 1, scale: 1 } : {}}
+                transition={{ delay: 0.2, duration: 0.65 }}
+                className="rounded-[2rem] p-7 sm:p-8 bg-card border border-border shadow-sm flex flex-col h-[470px]"
+              >
+                <p className="text-xs uppercase tracking-[0.22em] text-muted-foreground font-bold mb-4">
+                  Customer voices
+                </p>
 
-              {hasIndividual ? (
                 <div
                   ref={voicesScrollRef}
                   className="space-y-4 overflow-y-auto flex-1 min-h-0 pr-1"
@@ -377,26 +377,6 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                       )}
                     </div>
                   ))}
-                  {visibleComments.map((c: unknown, i: number) => (
-                    <div
-                      key={`c${i}`}
-                      className="rounded-xl border border-border p-4 bg-muted/30"
-                    >
-                      <p className="text-sm text-muted-foreground leading-relaxed">
-                        {typeof c === "string"
-                          ? c
-                          : typeof c === "object" && c !== null
-                            ? String(
-                                (c as { text?: string; comment?: string })
-                                  .text ||
-                                  (c as { text?: string; comment?: string })
-                                    .comment ||
-                                  "",
-                              )
-                            : ""}
-                      </p>
-                    </div>
-                  ))}
                   {!hasFilteredResults && (
                     <div className="rounded-xl border border-dashed border-border p-6 text-center bg-muted/20">
                       <p className="font-semibold text-foreground text-sm">
@@ -409,31 +389,8 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
                     </div>
                   )}
                 </div>
-              ) : (
-                <div className="flex-1 flex flex-col items-center justify-center text-center py-10">
-                  <div className="w-14 h-14 rounded-full bg-muted flex items-center justify-center mb-4">
-                    <Info className="w-6 h-6 text-muted-foreground" />
-                  </div>
-                  <p className="font-semibold text-foreground">
-                    Individual reviews not available
-                  </p>
-                  <p className="text-sm text-muted-foreground mt-2 max-w-xs">
-                    Only the aggregate rating has been shared publicly. Visit
-                    source pages to read reviews.
-                  </p>
-                  {data.googleLocation && (
-                    <a
-                      href={data.googleLocation}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="mt-4 inline-flex items-center gap-1.5 rounded-full bg-primary text-primary-foreground px-4 py-2 text-xs font-semibold hover:-translate-y-0.5 transition-all duration-200"
-                    >
-                      Read on Google <ExternalLink className="w-3 h-3" />
-                    </a>
-                  )}
-                </div>
-              )}
-            </motion.div>
+              </motion.div>
+            )}
           </div>
         </motion.div>
       </div>
