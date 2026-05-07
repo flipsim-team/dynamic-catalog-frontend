@@ -1,0 +1,3874 @@
+{
+  "seller_id": 45085625,
+  "company_profile": {
+    "name": {
+      "value": "Keco Auto Industries",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "description": {
+      "value": "Keco Auto Industries is a New Delhi-based manufacturer specializing in a comprehensive range of automotive and heavy machinery parts. They produce essential components such as engine and brake parts, headlight assemblies, and various car accessories, alongside specialized suspension parts, including those for American vehicles.",
+      "sources": [
+        "llm_generated"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "city": {
+      "value": "New Delhi",
+      "sources": [
+        "google",
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "address": {
+      "value": "First Floor, 1/19, Nicholson Road, Kashmere Gate, New Delhi, New Delhi, Delhi, 110006",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "pincode": {
+      "value": "110006",
+      "sources": [
+        "google",
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "website": {
+      "value": "https://www.kecoautoindustries.com/",
+      "sources": [
+        "facebook",
+        "google",
+        "instagram",
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "business_type": {
+      "value": "Manufacturer",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gst_number": {
+      "value": "07AAJPK6396E1ZF",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_value": {
+      "value": 4.2,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "rating_count": {
+      "value": 12,
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "gmb_ludocid": {
+      "value": "1727214048121560085",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "bio": {
+      "value": "We, Keco Auto Industries, are an eminent organization engaged in supplying  Automotive Parts !",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "logo_url": {
+      "value": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/472211256_509857898174128_7282248768129018326_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=L9UAHUMg798Q7kNvwGAPYhe&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7CHuBR1qIcnQmxGEXXvrKr-6cAmk31O0uLoyff8DMSwA&oe=6A02460D&_nc_sid=8b3546",
+      "sources": [
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://3.imimg.com/data3/CS/MH/MY-101419/keco-auto-industries-logo-120x120.png",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "facebook": {
+      "value": "https://www.facebook.com/KECOAUTOINDUASTRIES/",
+      "sources": [
+        "facebook",
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "instagram": {
+      "value": "https://www.instagram.com/keco.auto.industries",
+      "sources": [
+        "facebook",
+        "instagram"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "linkedin": {
+      "value": "https://in.linkedin.com/company/keco-auto-industries",
+      "sources": [
+        "google"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "twitter": {
+      "value": "https://twitter.com/share?url=https://www.kecoautoindustries.com/&text=Keco Auto Industries",
+      "sources": [
+        "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "phones": [
+      {
+        "value": "8046041150",
+        "sources": [
+          "google"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "8588811510",
+        "sources": [
+          "facebook",
+          "instagram"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "info@kecoautoindustries.com",
+        "sources": [
+          "facebook"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "social_urls": [
+      {
+        "value": "https://www.facebook.com/KECOAUTOINDUASTRIES/",
+        "sources": [
+          "facebook",
+          "google"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://www.instagram.com/keco.auto.industries",
+        "sources": [
+          "facebook",
+          "instagram"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://in.linkedin.com/company/keco-auto-industries",
+        "sources": [
+          "google"
+        ],
+        "date": null,
+        "post_url": null
+      },
+      {
+        "value": "https://twitter.com/share?url=https://www.kecoautoindustries.com/&text=Keco Auto Industries",
+        "sources": [
+          "website"
+        ],
+        "date": null,
+        "post_url": null
+      }
+    ],
+    "followers_facebook": 57,
+    "followers_instagram": 391,
+    "posts_count_instagram": 77,
+    "following_count_instagram": 620,
+    "confidence": 0.9,
+    "sources": [
+      "google",
+      "facebook",
+      "linkedin",
+      "instagram"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 57
+      },
+      {
+        "platform": "instagram",
+        "followers": 391
+      }
+    ],
+    "data_sources": [
+      "instagram",
+      "website"
+    ],
+    "reviews_url": "https://www.google.com/maps?cid=1727214048121560085"
+  },
+  "products": [
+    {
+      "raw_name": "Heavy Machinery Parts - Engine",
+      "clean_name": "Heavy Machinery Parts - Engine",
+      "fingerprint": "f396ada511c1",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Heavy Machinery & Component",
+      "product_category": "Engine",
+      "product_sub_type": "Heavy Machinery Engine",
+      "buyer_persona": "A procurement manager or maintenance supervisor for construction, mining, or agricultural companies looking for replacement or new engines for their heavy machinery.",
+      "description": "Heavy Machinery Parts - Engine is a heavy machinery engine offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A procurement manager or maintenance supervisor for construction, mining, or agricultural companies looking for replacement or new engines for their heavy machinery.",
+      "seo_title": "Heavy Machinery Parts - Engine Heavy Machinery Engine | Catalog Listin",
+      "tags": [
+        "Heavy Machinery Parts - Engine",
+        "Industrial Equipment",
+        "Heavy Machinery & Components",
+        "Engine",
+        "Heavy Machinery Engine"
+      ],
+      "alt_text": "Heavy Machinery Parts - Engine from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/heavy-machinery-parts-engine.html"
+      },
+      "specifications": {
+        "category": "Engine",
+        "sub_type": "Heavy Machinery Engine",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/heavy-machinery-parts-engine.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/heavy-machinery-parts-engine.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Brake Parts",
+      "clean_name": "Brake Parts",
+      "fingerprint": "c63358a057e1",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Vehicle Components & Spare",
+      "product_category": "Brake Part",
+      "product_sub_type": "Vehicle Brake Component",
+      "buyer_persona": "Automotive repair shops, vehicle manufacturers, or parts distributors seeking components for braking systems.",
+      "description": "Brake Parts is a vehicle brake component offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: Automotive repair shops, vehicle manufacturers, or parts distributors seeking components for braking systems.",
+      "seo_title": "Brake Parts Vehicle Brake Component | Catalog Listing",
+      "tags": [
+        "Brake Parts",
+        "Automotive",
+        "Vehicle Components & Spares",
+        "Brake Part",
+        "Vehicle Brake Component"
+      ],
+      "alt_text": "Brake Parts from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/automotive-brake-parts.html"
+      },
+      "specifications": {
+        "category": "Brake Part",
+        "sub_type": "Vehicle Brake Component",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/automotive-brake-parts.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/automotive-brake-parts.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.8,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "American Vehicle's Suspension Link Bar",
+      "clean_name": "American Vehicle's Suspension Link Bar",
+      "fingerprint": "c1241d211bf6",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Vehicle Parts & Accessory",
+      "product_category": "Suspension Link Bar",
+      "product_sub_type": "American Vehicle Suspension Link Bar",
+      "buyer_persona": "A mechanic, auto repair shop, or vehicle owner looking for a replacement or upgrade suspension component for an American vehicle.",
+      "description": "American Vehicle's Suspension Link Bar is a american vehicle suspension link bar offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A mechanic, auto repair shop, or vehicle owner looking for a replacement or upgrade suspension component for an American vehicle.",
+      "seo_title": "American Vehicle's Suspension Link Bar American Vehicle Suspension Lin",
+      "tags": [
+        "American Vehicle's Suspension Link Bar",
+        "Automotive",
+        "Vehicle Parts & Accessories",
+        "Suspension Link Bar",
+        "American Vehicle Suspension Link Bar"
+      ],
+      "alt_text": "American Vehicle's Suspension Link Bar from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/american-vehicles-suspension-link-bar.html"
+      },
+      "specifications": {
+        "category": "Suspension Link Bar",
+        "sub_type": "American Vehicle Suspension Link Bar",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/american-vehicles-suspension-link-bar.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/american-vehicles-suspension-link-bar.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Headlight Assembly",
+      "clean_name": "Headlight Assembly",
+      "fingerprint": "ced1a0b3aca0",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Headlight",
+      "product_sub_type": "Headlight Assembly",
+      "buyer_persona": "A vehicle owner, mechanic, or auto parts retailer looking for a replacement or upgrade headlight assembly for a specific vehicle.",
+      "description": "Headlight Assembly is a headlight assembly offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A vehicle owner, mechanic, or auto parts retailer looking for a replacement or upgrade headlight assembly for a specific vehicle.",
+      "seo_title": "Headlight Assembly Headlight Assembly | Catalog Listing",
+      "tags": [
+        "Headlight Assembly",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Headlight"
+      ],
+      "alt_text": "Headlight Assembly from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/automotive-headlight-assembly.html"
+      },
+      "specifications": {
+        "category": "Headlight",
+        "sub_type": "Headlight Assembly",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/automotive-headlight-assembly.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/485279411_17942778557971689_2313823661207374854_n.webp?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=rv_bQO7alCgQ7kNvwHKZO6a&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU5MDE0MDY1Njg1OTMzNzY5Mw%3D%3D.3-ccb7-5&oh=00_Af5GEDSV5KxZ3PHPRAnQ00zNMdPZIMvwPscgVETLAQ0xow&oe=6A0242B6&_nc_sid=8b3546",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/485279411_17942778557971689_2313823661207374854_n.webp?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=rv_bQO7alCgQ7kNvwHKZO6a&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU5MDE0MDY1Njg1OTMzNzY5Mw%3D%3D.3-ccb7-5&oh=00_Af5GEDSV5KxZ3PHPRAnQ00zNMdPZIMvwPscgVETLAQ0xow&oe=6A0242B6&_nc_sid=8b3546"
+      ],
+      "source_url": "https://www.kecoautoindustries.com/automotive-headlight-assembly.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website",
+        "instagram"
+      ],
+      "social_sources": [
+        {
+          "platform": "instagram",
+          "post_url": "https://www.instagram.com/p/DHSvemNSY63/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/485279411_17942778557971689_2313823661207374854_n.webp?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=rv_bQO7alCgQ7kNvwHKZO6a&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU5MDE0MDY1Njg1OTMzNzY5Mw%3D%3D.3-ccb7-5&oh=00_Af5GEDSV5KxZ3PHPRAnQ00zNMdPZIMvwPscgVETLAQ0xow&oe=6A0242B6&_nc_sid=8b3546",
+          "caption": "Brezza top model led projector headlight available model. 2022. 2023 from @keco.auto.industries #sparepart #automotive #brezza #instapicture #insttagram #carsdaily #kashmeregate #headlights",
+          "posted_at": "2025-03-17T07:55:39.000Z",
+          "likes": 7,
+          "views": null
+        }
+      ]
+    },
+    {
+      "raw_name": "Car Accessories",
+      "clean_name": "Car Accessories",
+      "fingerprint": "d626b0e06893",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Accessory",
+      "product_category": "Car Accessory",
+      "product_sub_type": "General Car Accessory",
+      "buyer_persona": "A car owner or automotive retailer looking for items to customize, enhance, or maintain a vehicle.",
+      "description": "Car Accessories is a general car accessory offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A car owner or automotive retailer looking for items to customize, enhance, or maintain a vehicle.",
+      "seo_title": "Car Accessories General Car Accessory | Catalog Listing",
+      "tags": [
+        "Car Accessories",
+        "Automotive",
+        "Automotive Parts & Accessories",
+        "Car Accessory",
+        "General Car Accessory"
+      ],
+      "alt_text": "Car Accessories from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/car-accessories.html"
+      },
+      "specifications": {
+        "category": "Car Accessory",
+        "sub_type": "General Car Accessory",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/car-accessories.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/car-accessories.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Suspension Parts",
+      "clean_name": "Suspension Parts",
+      "fingerprint": "2fe6fa20d1e5",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Suspension Part",
+      "product_sub_type": "Vehicle Suspension Component",
+      "buyer_persona": "A procurement manager, auto mechanic, or vehicle owner looking for replacement or upgrade components for a vehicle's suspension system.",
+      "description": "Keco Auto Industries offers a comprehensive range of high-quality suspension parts designed for various vehicle makes and models, ensuring optimal ride comfort and handling performance. While specific pricing is available upon request, these essential components are readily available for immediate dispatch to meet your automotive repair and manufacturing needs. Ideal for auto mechanics, spare parts dealers, and vehicle owners, these parts are crucial for maintaining vehicle stability and safety. Manufactured with durable materials and precision engineering, our suspension parts provide long-lasting reliability and superior performance under diverse driving conditions.",
+      "seo_title": "Vehicle Suspension Parts — Durable & High-Performance | Buy Online",
+      "tags": [
+        "Suspension components",
+        "Automotive parts",
+        "Vehicle suspension",
+        "Shock absorbers",
+        "Control arms",
+        "Bushings",
+        "Springs",
+        "Car parts",
+        "Auto repair",
+        "Vehicle maintenance",
+        "Chassis parts",
+        "Automotive aftermarket"
+      ],
+      "alt_text": "Suspension Parts for vehicles by Keco Auto Industries, ensuring optimal ride comfort and handling.",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/automotive-suspension-parts.html"
+      },
+      "specifications": {
+        "category": "Suspension Part",
+        "sub_type": "Vehicle Suspension Component",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/automotive-suspension-parts.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8708",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/automotive-suspension-parts.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Car Petrol Injector",
+      "clean_name": "Car Petrol Injector",
+      "fingerprint": "67c47d1adfed",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Car Petrol Fuel Injector",
+      "buyer_persona": "A car owner, mechanic, or auto parts retailer looking for a replacement or upgrade fuel injector for a petrol-powered car.",
+      "description": "This Car Petrol Injector from Keco Auto Industries is engineered for precise fuel delivery, optimizing engine performance and fuel efficiency in petrol-powered cars. Priced at INR 1100, this essential component is available for immediate purchase, ensuring quick replacement for faulty or worn-out injectors. It is an ideal solution for car owners, mechanics, and auto parts retailers seeking reliable fuel system components. Built with high-grade materials, this injector guarantees consistent spray patterns and atomization, contributing to smoother engine operation and reduced emissions.",
+      "seo_title": "Car Petrol Injector — High-Performance Fuel Delivery | Buy Online",
+      "tags": [
+        "Petrol injector",
+        "Car fuel injector",
+        "Fuel system parts",
+        "Engine components",
+        "Automotive injector",
+        "Fuel efficiency",
+        "Petrol engine",
+        "Automotive parts",
+        "Replacement parts",
+        "Fuel atomization",
+        "Vehicle repair",
+        "Keco Auto Industries"
+      ],
+      "alt_text": "Car Petrol Injector by Keco Auto Industries, priced at INR 1100, for precise fuel delivery in petrol cars.",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "Fuel Type": "Petrol",
+        "Vehicle Type": "Car"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Car Petrol Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 1100,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Fuel Type": "Petrol",
+        "Vehicle Type": "Car"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8409",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": 1100,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Three Wheeler Fuel Injector",
+      "clean_name": "Three Wheeler Fuel Injector",
+      "fingerprint": "38140fa6bdd4",
+      "top_level_domain": "Automotive & Transportation",
+      "industry_segment": "Vehicle Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Three Wheeler Fuel Injector",
+      "buyer_persona": "A procurement manager for a three-wheeler manufacturing plant, a spare parts dealer, or a vehicle repair shop owner looking for replacement or upgrade fuel injectors.",
+      "description": "Keco Auto Industries presents a robust Three Wheeler Fuel Injector, designed for efficient and reliable fuel delivery in three-wheeled vehicles. Available at an affordable price of INR 270, this injector offers an economical solution for maintaining optimal engine performance. This product is perfect for three-wheeler repair shops, spare parts distributors, and fleet operators looking for dependable replacement parts. Manufactured to withstand demanding operational conditions, it ensures consistent fuel spray and contributes to the longevity and efficiency of the engine.",
+      "seo_title": "Three Wheeler Fuel Injector — Efficient & Reliable | Buy Online",
+      "tags": [
+        "Three wheeler parts",
+        "Fuel injector",
+        "Auto rickshaw parts",
+        "Engine components",
+        "Commercial vehicle parts",
+        "Fuel system",
+        "Automotive spares",
+        "Replacement injector",
+        "Three-wheeler engine",
+        "Keco Auto Industries",
+        "Vehicle maintenance",
+        "Cost-effective"
+      ],
+      "alt_text": "Three Wheeler Fuel Injector by Keco Auto Industries, priced at INR 270, for efficient fuel delivery.",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "Vehicle Type": "Three Wheeler"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Three Wheeler Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 270,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Vehicle Type": "Three Wheeler"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8409",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": 270,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Car Diesel Injector",
+      "clean_name": "Car Diesel Injector",
+      "fingerprint": "41f684edded8",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Car Diesel Fuel Injector",
+      "buyer_persona": "A mechanic, garage owner, or car owner looking for a replacement fuel injector for a diesel vehicle.",
+      "description": "This Car Diesel Injector from Keco Auto Industries delivers precise fuel atomization crucial for the efficient operation of diesel car engines. Priced at INR 3000, this high-quality injector is readily available to ensure optimal engine performance and reduced emissions for diesel vehicles. It is an essential component for mechanics, garage owners, and car owners seeking reliable and durable replacement parts for their diesel fuel systems. Engineered for longevity and consistent performance, this injector helps maintain engine power and fuel economy.",
+      "seo_title": "Car Diesel Injector — Precision Fuel Delivery for Diesel Cars | Buy Online",
+      "tags": [
+        "Diesel injector",
+        "Car fuel injector",
+        "Diesel engine parts",
+        "Fuel system components",
+        "Automotive diesel",
+        "Engine performance",
+        "Diesel vehicle parts",
+        "Replacement injector",
+        "Fuel atomization",
+        "Keco Auto Industries",
+        "Vehicle repair",
+        "Automotive spares"
+      ],
+      "alt_text": "Car Diesel Injector by Keco Auto Industries, priced at INR 3000, for precise fuel delivery in diesel cars.",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "Fuel Type": "Diesel",
+        "Vehicle Type": "Car"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Car Diesel Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 3000,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Fuel Type": "Diesel",
+        "Vehicle Type": "Car"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8409",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": 3000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Fuel injecter 15710M78L10 FOR ecco old/nm/ alto800/ super carry",
+      "clean_name": "Fuel Injector 15710M78L10 for Ecco, Alto 800, Super Carry",
+      "fingerprint": "69bcd024ca67",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Vehicle Fuel Injector",
+      "buyer_persona": "A mechanic, garage owner, or vehicle owner seeking a replacement fuel injector for specific vehicle models like Alto 800 or Super Carry.",
+      "description": "Keco Auto Industries offers the Fuel Injector 15710M78L10, specifically designed for Ecco (old/new models), Alto 800, and Super Carry vehicles, ensuring optimal engine performance and fuel efficiency. Available at INR 800, this OEM-compatible injector is ready for immediate purchase, providing a reliable replacement solution. This product is ideal for mechanics, spare parts retailers, and vehicle owners requiring a precise fit for these popular Maruti Suzuki models. Manufactured to stringent quality standards, it guarantees accurate fuel delivery and contributes to the smooth operation and longevity of your vehicle's engine.",
+      "seo_title": "Fuel Injector 15710M78L10 — Ecco, Alto 800, Super Carry | Buy Online",
+      "tags": [
+        "Fuel injector",
+        "15710M78L10",
+        "Maruti Ecco parts",
+        "Alto 800 parts",
+        "Super Carry parts",
+        "OEM compatible",
+        "Vehicle specific parts",
+        "Engine components",
+        "Fuel system",
+        "Automotive replacement",
+        "Keco Auto Industries",
+        "Car spares"
+      ],
+      "alt_text": "Fuel Injector 15710M78L10 by Keco Auto Industries for Ecco, Alto 800, Super Carry, priced at INR 800.",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "Part Number": "15710M78L10",
+        "Vehicle Model Compatibility": "Ecco, Alto 800, Super Carry"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Vehicle Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 800,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR",
+        "Part Number": "15710M78L10",
+        "Vehicle Model Compatibility": "Ecco, Alto 800, Super Carry"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8409",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": 800,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO",
+      "clean_name": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO",
+      "fingerprint": "f89fe32fdae2",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Vehicle Fuel Injector",
+      "buyer_persona": "A mechanic, garage owner, or vehicle owner looking for a replacement fuel injector for specific Suzuki models.",
+      "description": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO is a vehicle fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 1,000. Suitable for: A mechanic, garage owner, or vehicle owner looking for a replacement fuel injector for specific Suzuki models.",
+      "seo_title": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAIN",
+      "tags": [
+        "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Fuel Injector",
+        "Vehicle Fuel Injector"
+      ],
+      "alt_text": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO from Keco Auto Industrie",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Vehicle Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 1000,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 1000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name contains a common misspelling: 'injecter' instead of 'injector'."
+      ],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3",
+      "clean_name": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3",
+      "fingerprint": "aff3571bfe27",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Vehicle Fuel Injector",
+      "buyer_persona": "A mechanic, garage owner, or vehicle owner looking for a replacement fuel injector for specific Maruti models.",
+      "description": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3 is a vehicle fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 800. Suitable for: A mechanic, garage owner, or vehicle owner looking for a replacement fuel injector for specific Maruti models.",
+      "seo_title": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3 Veh",
+      "tags": [
+        "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Fuel Injector",
+        "Vehicle Fuel Injector"
+      ],
+      "alt_text": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3 from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Vehicle Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 800,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 800,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Truck Fuel Injector",
+      "clean_name": "Truck Fuel Injector",
+      "fingerprint": "0345b701086b",
+      "top_level_domain": "Automotive & Transportation",
+      "industry_segment": "Commercial Vehicle Part",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Truck Fuel Injector",
+      "buyer_persona": "A procurement manager or mechanic for a trucking company or fleet owner, looking for replacement or upgrade parts for truck engines.",
+      "description": "Truck Fuel Injector is a truck fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 4,500. Suitable for: A procurement manager or mechanic for a trucking company or fleet owner, looking for replacement or upgrade parts for truck engines.",
+      "seo_title": "Truck Fuel Injector Truck Fuel Injector | Catalog Listing",
+      "tags": [
+        "Truck Fuel Injector",
+        "Automotive & Transportation",
+        "Commercial Vehicle Parts",
+        "Fuel Injector"
+      ],
+      "alt_text": "Truck Fuel Injector from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Truck Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 4500,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 4500,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Bus Fuel Injector",
+      "clean_name": "Bus Fuel Injector",
+      "fingerprint": "954a90809bac",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Commercial Vehicle Part",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Bus Fuel Injector",
+      "buyer_persona": "A procurement manager or mechanic for a bus fleet or repair shop, seeking replacement or upgrade fuel injectors for commercial buses.",
+      "description": "Bus Fuel Injector is a bus fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 3,000. Suitable for: A procurement manager or mechanic for a bus fleet or repair shop, seeking replacement or upgrade fuel injectors for commercial buses.",
+      "seo_title": "Bus Fuel Injector Bus Fuel Injector | Catalog Listing",
+      "tags": [
+        "Bus Fuel Injector",
+        "Automotive",
+        "Commercial Vehicle Parts",
+        "Fuel Injector"
+      ],
+      "alt_text": "Bus Fuel Injector from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Bus Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 3000,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 3000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Tractor Fuel Injector",
+      "clean_name": "Tractor Fuel Injector",
+      "fingerprint": "28511f742d9a",
+      "top_level_domain": "Agricultural & Farming",
+      "industry_segment": "Agricultural Machinery Part",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Tractor Fuel Injector",
+      "buyer_persona": "A farmer, agricultural machinery repair shop, or parts dealer looking for a replacement fuel injector for a tractor engine.",
+      "description": "Tractor Fuel Injector is a tractor fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 1,470. Suitable for: A farmer, agricultural machinery repair shop, or parts dealer looking for a replacement fuel injector for a tractor engine.",
+      "seo_title": "Tractor Fuel Injector Tractor Fuel Injector | Catalog Listing",
+      "tags": [
+        "Tractor Fuel Injector",
+        "Agricultural & Farming",
+        "Agricultural Machinery Parts",
+        "Fuel Injector"
+      ],
+      "alt_text": "Tractor Fuel Injector from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Tractor Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 1470,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 1470,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Diesel Fuel Pump- KWID MOTAR (25412489-R)",
+      "clean_name": "Diesel Fuel Pump- KWID MOTAR (25412489-R)",
+      "fingerprint": "dad12ec8fe33",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Pump",
+      "product_sub_type": "Diesel Fuel Pump",
+      "buyer_persona": "A mechanic, garage owner, or vehicle owner looking for a replacement fuel pump for a specific diesel vehicle.",
+      "description": "Diesel Fuel Pump- KWID MOTAR (25412489-R) is a diesel fuel pump offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 500. Suitable for: A mechanic, garage owner, or vehicle owner looking for a replacement fuel pump for a specific diesel vehicle.",
+      "seo_title": "Diesel Fuel Pump- KWID MOTAR (25412489-R) Diesel Fuel Pump | Catalog L",
+      "tags": [
+        "Diesel Fuel Pump- KWID MOTAR (25412489-R)",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Fuel Pump",
+        "Diesel Fuel Pump"
+      ],
+      "alt_text": "Diesel Fuel Pump- KWID MOTAR (25412489-R) from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector"
+      },
+      "specifications": {
+        "category": "Fuel Pump",
+        "sub_type": "Diesel Fuel Pump",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 500,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 500,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "CNG Injector ALL CAR",
+      "clean_name": "CNG Injector ALL CAR",
+      "fingerprint": "1c90c486aa12",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Cng Fuel Injector",
+      "buyer_persona": "A garage owner, mechanic, or vehicle owner seeking a replacement or upgrade CNG injector for a car.",
+      "description": "CNG Injector ALL CAR is a cng fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 1,000. Suitable for: A garage owner, mechanic, or vehicle owner seeking a replacement or upgrade CNG injector for a car.",
+      "seo_title": "CNG Injector ALL CAR CNG Fuel Injector | Catalog Listing",
+      "tags": [
+        "CNG Injector ALL CAR",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Fuel Injector",
+        "CNG Fuel Injector"
+      ],
+      "alt_text": "CNG Injector ALL CAR from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector"
+      },
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Cng Fuel Injector",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+        "price_single": 1000,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 1000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Electrical Parts",
+      "clean_name": "Electrical Parts",
+      "fingerprint": "30c7ba44b59f",
+      "top_level_domain": "Electronics & Electrical",
+      "industry_segment": "Electrical Components & Spare",
+      "product_category": "Electrical Part",
+      "product_sub_type": "Generic Electrical Part",
+      "buyer_persona": "A procurement manager or engineer sourcing general electrical components for manufacturing, repair, or assembly.",
+      "description": "Electrical Parts is a generic electrical part offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A procurement manager or engineer sourcing general electrical components for manufacturing, repair, or assembly.",
+      "seo_title": "Electrical Parts Generic Electrical Part | Catalog Listing",
+      "tags": [
+        "Electrical Parts",
+        "Electronics & Electrical",
+        "Electrical Components & Spares",
+        "Electrical Part",
+        "Generic Electrical Part"
+      ],
+      "alt_text": "Electrical Parts from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/automotive-electrical-parts.html"
+      },
+      "specifications": {
+        "category": "Electrical Part",
+        "sub_type": "Generic Electrical Part",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/automotive-electrical-parts.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/automotive-electrical-parts.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.75,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name too generic for meaningful classification. Seller context used."
+      ],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Car Brake Pad",
+      "clean_name": "Car Brake Pad",
+      "fingerprint": "9546458c7825",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Brake Pad",
+      "product_sub_type": "Car Brake Pad",
+      "buyer_persona": "A vehicle owner or mechanic looking for replacement brake pads for a car.",
+      "description": "Car Brake Pad is a car brake pad offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A vehicle owner or mechanic looking for replacement brake pads for a car.",
+      "seo_title": "Car Brake Pad Car Brake Pad | Catalog Listing",
+      "tags": [
+        "Car Brake Pad",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Brake Pad"
+      ],
+      "alt_text": "Car Brake Pad from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/car-brake-pad.html"
+      },
+      "specifications": {
+        "category": "Brake Pad",
+        "sub_type": "Car Brake Pad",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/car-brake-pad.html",
+        "price_single": null,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/car-brake-pad.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    },
+    {
+      "raw_name": "Automotive Brake Major Kit",
+      "clean_name": "Automotive Brake Major Kit",
+      "fingerprint": "aaf91e5276ab",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Brake Kit",
+      "product_sub_type": "Automotive Brake Major Kit",
+      "buyer_persona": "An automotive repair shop, mechanic, or vehicle owner looking for a comprehensive kit to perform significant brake system maintenance or repair.",
+      "description": "Automotive Brake Major Kit is a automotive brake major kit offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 80. Suitable for: An automotive repair shop, mechanic, or vehicle owner looking for a comprehensive kit to perform significant brake system maintenance or repair.",
+      "seo_title": "Automotive Brake Major Kit Automotive Brake Major Kit | Catalog Listin",
+      "tags": [
+        "Automotive Brake Major Kit",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Brake Kit"
+      ],
+      "alt_text": "Automotive Brake Major Kit from Keco Auto Industries",
+      "domain_attributes": {
+        "source_url": "https://www.kecoautoindustries.com/automotive-brake-parts.html"
+      },
+      "specifications": {
+        "category": "Brake Kit",
+        "sub_type": "Automotive Brake Major Kit",
+        "image_url": null,
+        "source_url": "https://www.kecoautoindustries.com/automotive-brake-parts.html",
+        "price_single": 80,
+        "price_min": null,
+        "price_max": null,
+        "price_unit": null,
+        "currency": "INR"
+      },
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 80,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/automotive-brake-parts.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ]
+    }
+  ],
+  "media_assets": [
+    {
+      "fingerprint": "f396ada511c1",
+      "product_name": "Heavy Machinery Parts - Engine",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.386Z"
+    },
+    {
+      "fingerprint": "c63358a057e1",
+      "product_name": "Brake Parts",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.388Z"
+    },
+    {
+      "fingerprint": "c1241d211bf6",
+      "product_name": "American Vehicle's Suspension Link Bar",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.388Z"
+    },
+    {
+      "fingerprint": "ced1a0b3aca0",
+      "product_name": "Headlight Assembly",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.389Z"
+    },
+    {
+      "fingerprint": "d626b0e06893",
+      "product_name": "Car Accessories",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.390Z"
+    },
+    {
+      "fingerprint": "2fe6fa20d1e5",
+      "product_name": "Suspension Parts",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.391Z"
+    },
+    {
+      "fingerprint": "67c47d1adfed",
+      "product_name": "Car Petrol Injector",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.392Z"
+    },
+    {
+      "fingerprint": "38140fa6bdd4",
+      "product_name": "Three Wheeler Fuel Injector",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.393Z"
+    },
+    {
+      "fingerprint": "41f684edded8",
+      "product_name": "Car Diesel Injector",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.394Z"
+    },
+    {
+      "fingerprint": "69bcd024ca67",
+      "product_name": "Fuel Injector 15710M78L10 for Ecco, Alto 800, Super Carry",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.395Z"
+    },
+    {
+      "fingerprint": "f89fe32fdae2",
+      "product_name": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.395Z"
+    },
+    {
+      "fingerprint": "aff3571bfe27",
+      "product_name": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.397Z"
+    },
+    {
+      "fingerprint": "0345b701086b",
+      "product_name": "Truck Fuel Injector",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.398Z"
+    },
+    {
+      "fingerprint": "954a90809bac",
+      "product_name": "Bus Fuel Injector",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.399Z"
+    },
+    {
+      "fingerprint": "28511f742d9a",
+      "product_name": "Tractor Fuel Injector",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.400Z"
+    },
+    {
+      "fingerprint": "dad12ec8fe33",
+      "product_name": "Diesel Fuel Pump- KWID MOTAR (25412489-R)",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.402Z"
+    },
+    {
+      "fingerprint": "1c90c486aa12",
+      "product_name": "CNG Injector ALL CAR",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.404Z"
+    },
+    {
+      "fingerprint": "30c7ba44b59f",
+      "product_name": "Electrical Parts",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.404Z"
+    },
+    {
+      "fingerprint": "9546458c7825",
+      "product_name": "Car Brake Pad",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.405Z"
+    },
+    {
+      "fingerprint": "aaf91e5276ab",
+      "product_name": "Automotive Brake Major Kit",
+      "url": null,
+      "scene_type": "unknown",
+      "media_confidence": 0,
+      "visual_features": {},
+      "visual_description": "",
+      "media_alt_text": "",
+      "used_vision": false,
+      "classified_at": "2026-05-07T11:36:00.406Z"
+    }
+  ],
+  "catalog_items": [
+    {
+      "fingerprint": "66572adc8906",
+      "raw_name": "Ford Aspire Engine Mount",
+      "clean_name": "Ford Aspire Engine Mount",
+      "product_category": "Automotive Engine Part",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This product is an engine mount specifically designed for the Ford Aspire. It is a crucial automotive component that supports the engine and helps to absorb vibrations, contributing to a smoother driving experience and protecting other vehicle systems.",
+      "seo_title": "Ford Aspire Engine Mount",
+      "alt_text": "Ford Aspire Engine Mount",
+      "tags": [
+        "fordaspire",
+        "enginemount",
+        "automotivedesign",
+        "carparts",
+        "drautomobiles"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Vehicle Compatibility": "Ford Aspire",
+        "Part Type": "Engine Mount"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DMkOSWbvxLd/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/523296808_17957171978971689_1615421181779598671_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=3JFwPdpZoS4Q7kNvwHEuqzk&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY4NTEzMzIyODc4NTQ3MjIyMQ%3D%3D.3-ccb7-5&oh=00_Af5zzw-iGYhv3JmPGawNw0JPBztIVL5-GnXINJ_xt3Cpng&oe=6A024721&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/523296808_17957171978971689_1615421181779598671_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=3JFwPdpZoS4Q7kNvwHEuqzk&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY4NTEzMzIyODc4NTQ3MjIyMQ%3D%3D.3-ccb7-5&oh=00_Af5zzw-iGYhv3JmPGawNw0JPBztIVL5-GnXINJ_xt3Cpng&oe=6A024721&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/523296808_17957171978971689_1615421181779598671_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=3JFwPdpZoS4Q7kNvwHEuqzk&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY4NTEzMzIyODc4NTQ3MjIyMQ%3D%3D.3-ccb7-5&oh=00_Af5zzw-iGYhv3JmPGawNw0JPBztIVL5-GnXINJ_xt3Cpng&oe=6A024721&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DMkOSWbvxLd/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/523296808_17957171978971689_1615421181779598671_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=3JFwPdpZoS4Q7kNvwHEuqzk&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY4NTEzMzIyODc4NTQ3MjIyMQ%3D%3D.3-ccb7-5&oh=00_Af5zzw-iGYhv3JmPGawNw0JPBztIVL5-GnXINJ_xt3Cpng&oe=6A024721&_nc_sid=8b3546",
+        "caption": "#fordaspire #enginemount #automotivedesign #carparts #drautomobiles ........frod aspire engine mountig 💯",
+        "posted_at": "2025-07-26T09:28:55.000Z",
+        "likes": 3,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "e1918f1b589f",
+      "raw_name": "Honda Civic Petrol Rear Bush Kit",
+      "clean_name": "Honda Civic Petrol Rear Bush Kit",
+      "product_category": "Suspension Part",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Upgrade your Honda Civics' suspension with this high-quality petrol rear bush kit. It is designed for 2006-2012 Honda Civic models to improve stability and control, ensuring a smooth and comfortable ride.",
+      "seo_title": "Honda Civic Petrol Rear Bush Kit",
+      "alt_text": "Honda Civic Petrol Rear Bush Kit",
+      "tags": [
+        "hondacivic",
+        "autoparts",
+        "kashmirigate",
+        "populer",
+        "virałpost",
+        "transport",
+        "outlift"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Vehicle Model": "Honda Civic",
+        "Part Type": "Rear Bush Kit",
+        "Fuel Type": "Petrol",
+        "Model Year": "2006 - 2012"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DIBG6BXyH9g/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/487875535_17944667012971689_6069594330577851134_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=ibj5_DmbQlwQ7kNvwFlbJDF&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwMzE5MTU1MjM1NDU4MjM2OA%3D%3D.3-ccb7-5&oh=00_Af4SOfEEQqODWkyCfOeCmsidi1s1O3F7EDZ-M7_eGQa9ug&oe=6A0260E1&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/487875535_17944667012971689_6069594330577851134_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=ibj5_DmbQlwQ7kNvwFlbJDF&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwMzE5MTU1MjM1NDU4MjM2OA%3D%3D.3-ccb7-5&oh=00_Af4SOfEEQqODWkyCfOeCmsidi1s1O3F7EDZ-M7_eGQa9ug&oe=6A0260E1&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/487875535_17944667012971689_6069594330577851134_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=ibj5_DmbQlwQ7kNvwFlbJDF&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwMzE5MTU1MjM1NDU4MjM2OA%3D%3D.3-ccb7-5&oh=00_Af4SOfEEQqODWkyCfOeCmsidi1s1O3F7EDZ-M7_eGQa9ug&oe=6A0260E1&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DIBG6BXyH9g/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/487875535_17944667012971689_6069594330577851134_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=ibj5_DmbQlwQ7kNvwFlbJDF&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwMzE5MTU1MjM1NDU4MjM2OA%3D%3D.3-ccb7-5&oh=00_Af4SOfEEQqODWkyCfOeCmsidi1s1O3F7EDZ-M7_eGQa9ug&oe=6A0260E1&_nc_sid=8b3546",
+        "caption": "@keco.auto.industries Upgrade your Honda Civics' suspension with our high-quality petrol rear bush kit! \n\n🚗💨 Experience improved stability and control on the road, ensuring a smooth and comfortable ride. \n\n#hondacivic #autoparts #instagramtags #kashmirigate #populer #virałpost #transport #outlift",
+        "posted_at": "2025-04-04T08:05:26.000Z",
+        "likes": 4,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "e247ff2c1eb0",
+      "raw_name": "Honda City Type 5 Steering Rack With Motor",
+      "clean_name": "Honda City Type 5 Steering Rack With Motor",
+      "product_category": "Automotive Part",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases a new Honda City Type 5 Steering Rack with an integrated electric motor. It is an essential automotive spare part for the steering system, responsible for converting the steering wheel's rotation into the linear motion needed to turn the vehicle's wheels.",
+      "seo_title": "Honda City Type 5 Steering Rack With Motor",
+      "alt_text": "Honda City Type 5 Steering Rack With Motor",
+      "tags": [
+        "hondacity",
+        "automotives",
+        "steeringrack",
+        "spareparts"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Vehicle Model": "Honda City Type 5",
+        "Component Type": "Steering Rack With Motor"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DIgVg-LSAFS/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/491445564_17945928824971689_3857420173521364401_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=lNe6YxQB6zgQ7kNvwEiFfnY&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYxMTk4MTUxNTIwMDMwODkyOQ%3D%3D.3-ccb7-5&oh=00_Af6wrwthKYgaIckosNOuQB9BaV_3qG1rU4cwUBvgyifeqg&oe=6A0250CA&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/491445564_17945928824971689_3857420173521364401_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=lNe6YxQB6zgQ7kNvwEiFfnY&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYxMTk4MTUxNTIwMDMwODkyOQ%3D%3D.3-ccb7-5&oh=00_Af6wrwthKYgaIckosNOuQB9BaV_3qG1rU4cwUBvgyifeqg&oe=6A0250CA&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/491445564_17945928824971689_3857420173521364401_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=lNe6YxQB6zgQ7kNvwEiFfnY&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYxMTk4MTUxNTIwMDMwODkyOQ%3D%3D.3-ccb7-5&oh=00_Af6wrwthKYgaIckosNOuQB9BaV_3qG1rU4cwUBvgyifeqg&oe=6A0250CA&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DIgVg-LSAFS/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/491445564_17945928824971689_3857420173521364401_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=lNe6YxQB6zgQ7kNvwEiFfnY&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYxMTk4MTUxNTIwMDMwODkyOQ%3D%3D.3-ccb7-5&oh=00_Af6wrwthKYgaIckosNOuQB9BaV_3qG1rU4cwUBvgyifeqg&oe=6A0250CA&_nc_sid=8b3546",
+        "caption": "Honda City Type 5 Steering Rack With Motor @keco.auto.industries \n.\n.\n.\n.\n#hondacity #automotives #steeringrack #newdelhi #kashmirigate #populer #spareparts #jaipurcity",
+        "posted_at": "2025-04-16T11:09:33.000Z",
+        "likes": 7,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "080cca9ffa84",
+      "raw_name": "Automotive Filters and Spark Plugs",
+      "clean_name": "Automotive Filters and Spark Plugs",
+      "product_category": "Automotive Part",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases a range of automotive filters (including oil and air filters) and spark plugs from Keco Auto Industries. These are presented as 'performance parts' designed to elevate a vehicle's potential and are currently available for purchase.",
+      "seo_title": "Automotive Filters and Spark Plugs",
+      "alt_text": "Automotive Filters and Spark Plugs",
+      "tags": [
+        "kecoautoindustries",
+        "spareparts",
+        "filter",
+        "newdelhi",
+        "performance parts",
+        "auto parts"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DGvJFo4SW_T/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482509103_17941126049971689_6275434410325478034_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xV9B_li93hwQ7kNvwEgpcWW&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU4MDEyMDE5ODY5MjgyNzA5MQ%3D%3D.3-ccb7-5&oh=00_Af7pMRxnJWHxo8pPxsH3uw5GO8fbJm22byzrtaBsNo_6vA&oe=6A025F49&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482509103_17941126049971689_6275434410325478034_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xV9B_li93hwQ7kNvwEgpcWW&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU4MDEyMDE5ODY5MjgyNzA5MQ%3D%3D.3-ccb7-5&oh=00_Af7pMRxnJWHxo8pPxsH3uw5GO8fbJm22byzrtaBsNo_6vA&oe=6A025F49&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482509103_17941126049971689_6275434410325478034_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xV9B_li93hwQ7kNvwEgpcWW&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU4MDEyMDE5ODY5MjgyNzA5MQ%3D%3D.3-ccb7-5&oh=00_Af7pMRxnJWHxo8pPxsH3uw5GO8fbJm22byzrtaBsNo_6vA&oe=6A025F49&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DGvJFo4SW_T/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482509103_17941126049971689_6275434410325478034_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xV9B_li93hwQ7kNvwEgpcWW&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU4MDEyMDE5ODY5MjgyNzA5MQ%3D%3D.3-ccb7-5&oh=00_Af7pMRxnJWHxo8pPxsH3uw5GO8fbJm22byzrtaBsNo_6vA&oe=6A025F49&_nc_sid=8b3546",
+        "caption": "AVAILABLE NOW @keco.auto.industries \n\n#kecoautoindustries #instagram #popularpage #spareparts #filtar #newdelhi",
+        "posted_at": "2025-03-03T12:06:47.000Z",
+        "likes": 3,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "98ea3da50dc6",
+      "raw_name": "Automotive Coach Fan",
+      "clean_name": "Automotive Coach Fan",
+      "product_category": "Automotive Fans",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases premium quality automotive coach fans from KECO Auto Industries, branded as 'HI-SPEEDO PLUS'. These fans are designed for good air flow and efficient power usage, suitable for trucks, buses, and other heavy commercial vehicles (HCVs). They are available in 12V/24V DC and various sizes including 6'', 9'', and 12''.",
+      "seo_title": "Automotive Coach Fan",
+      "alt_text": "Automotive Coach Fan",
+      "tags": [
+        "fanair",
+        "hispeed",
+        "KECOAUTOINDUSTRIES",
+        "automotive",
+        "coach fan",
+        "12V",
+        "24V",
+        "trucks",
+        "buses",
+        "HCVs",
+        "airflow",
+        "power usage",
+        "wholesaler",
+        "traders",
+        "india",
+        "newdelhi"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Brand": "HI-SPEEDO PLUS",
+        "Voltage": "12V / 24V DC",
+        "Sizes": "6'', 9'', 12''",
+        "Compatibility": "Trucks, Buses, Other HCVs",
+        "Features": "Good air flow, Efficient power usage, Premium Quality"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DIL6CWFSPsY/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/488793503_17945103227971689_5614166885338639251_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=eEyUfssZv14Q7kNvwGfLXAo&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwNjIzMTE3NDQ4NzgwMDYwMA%3D%3D.3-ccb7-5&oh=00_Af4PKhtTL2DvL3Knrw9kOvqVc-Wf7ka5wvSQJiHfWLjRdg&oe=6A023FB0&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/488793503_17945103227971689_5614166885338639251_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=eEyUfssZv14Q7kNvwGfLXAo&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwNjIzMTE3NDQ4NzgwMDYwMA%3D%3D.3-ccb7-5&oh=00_Af4PKhtTL2DvL3Knrw9kOvqVc-Wf7ka5wvSQJiHfWLjRdg&oe=6A023FB0&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/488793503_17945103227971689_5614166885338639251_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=eEyUfssZv14Q7kNvwGfLXAo&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwNjIzMTE3NDQ4NzgwMDYwMA%3D%3D.3-ccb7-5&oh=00_Af4PKhtTL2DvL3Knrw9kOvqVc-Wf7ka5wvSQJiHfWLjRdg&oe=6A023FB0&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DIL6CWFSPsY/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/488793503_17945103227971689_5614166885338639251_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=eEyUfssZv14Q7kNvwGfLXAo&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwNjIzMTE3NDQ4NzgwMDYwMA%3D%3D.3-ccb7-5&oh=00_Af4PKhtTL2DvL3Knrw9kOvqVc-Wf7ka5wvSQJiHfWLjRdg&oe=6A023FB0&_nc_sid=8b3546",
+        "caption": "They are known for good air flow, and efficient power usage @keco.auto.industries \n\n#fanair #hispeed #KECOAUTOINSDUSTRIES\n#populer #wholesaler #tradinglifestyle #traders #instagram #foryoupage❤️😍 #india #kashmirigate #newdelhi #",
+        "posted_at": "2025-04-08T12:44:38.000Z",
+        "likes": 3,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "0c8e06f53a63",
+      "raw_name": "Shock Absorbers and Mounting Parts",
+      "clean_name": "Shock Absorbers and Mounting Parts",
+      "product_category": "Suspension Part",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Keco Auto Industries offers top-quality shock absorbers and related mounting components designed to provide a more comfortable and smooth driving experience. These essential automotive parts are available at unbeatable prices.",
+      "seo_title": "Shock Absorbers and Mounting Parts",
+      "alt_text": "Shock Absorbers and Mounting Parts",
+      "tags": [
+        "shockabsorbers",
+        "mounting",
+        "automotive",
+        "suspension",
+        "vehicle parts"
+      ],
+      "price_single": null,
+      "price_text": "unbeatable prices",
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DGpR2krywzv/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482088013_17940850235971689_6247427602632806329_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xnVurR9x2JcQ7kNvwGcLDZ0&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU3ODQ2OTg5NTk1NDQzNTMxMQ%3D%3D.3-ccb7-5&oh=00_Af7CaiWnT7WEHXMp78pZtl57XveIQxhclRHqdRDyU0aOhw&oe=6A025B0D&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482088013_17940850235971689_6247427602632806329_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xnVurR9x2JcQ7kNvwGcLDZ0&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU3ODQ2OTg5NTk1NDQzNTMxMQ%3D%3D.3-ccb7-5&oh=00_Af7CaiWnT7WEHXMp78pZtl57XveIQxhclRHqdRDyU0aOhw&oe=6A025B0D&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482088013_17940850235971689_6247427602632806329_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xnVurR9x2JcQ7kNvwGcLDZ0&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU3ODQ2OTg5NTk1NDQzNTMxMQ%3D%3D.3-ccb7-5&oh=00_Af7CaiWnT7WEHXMp78pZtl57XveIQxhclRHqdRDyU0aOhw&oe=6A025B0D&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DGpR2krywzv/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482088013_17940850235971689_6247427602632806329_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xnVurR9x2JcQ7kNvwGcLDZ0&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU3ODQ2OTg5NTk1NDQzNTMxMQ%3D%3D.3-ccb7-5&oh=00_Af7CaiWnT7WEHXMp78pZtl57XveIQxhclRHqdRDyU0aOhw&oe=6A025B0D&_nc_sid=8b3546",
+        "caption": "Your journey to a more comfortable drive starts now. We're excited for you to experience the benefits @keco.auto.industries \n\n#instagram #instagood #shockabsorbers #mounting #delhi #jaipur #noida #kashmeregate",
+        "posted_at": "2025-03-01T05:27:55.000Z",
+        "likes": 5,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "252e84fc5b92",
+      "raw_name": "Automotive Spare Parts",
+      "clean_name": "Automotive Spare Parts",
+      "product_category": "Automotive Part",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The post showcases a collection of automotive spare parts, specifically mentioning Tie Rod Ends, Master Cylinders, and Hand Brake Levers. The image displays multiple items, some packaged in BOSCH branded boxes, being prepared for shipment.",
+      "seo_title": "Automotive Spare Parts",
+      "alt_text": "Automotive Spare Parts",
+      "tags": [
+        "tie rod end",
+        "master cylinder",
+        "hand brake lever",
+        "automotive",
+        "wholesale",
+        "car spare parts",
+        "car parts",
+        "manufacturing",
+        "keco auto industries"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Brand": "BOSCH"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DGp94SGyHYE/",
+      "photo_urls": [
+        "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/482293081_1575931219779757_15785582569499852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=d3W_E43KRsYQ7kNvwGsuZNn&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5rrOvVYvuLm7SegWlzw0IB4bAQ9ZU7pLXhfpY_3lf9iQ&oe=6A0262CE&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/482293081_1575931219779757_15785582569499852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=d3W_E43KRsYQ7kNvwGsuZNn&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5rrOvVYvuLm7SegWlzw0IB4bAQ9ZU7pLXhfpY_3lf9iQ&oe=6A0262CE&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/482293081_1575931219779757_15785582569499852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=d3W_E43KRsYQ7kNvwGsuZNn&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5rrOvVYvuLm7SegWlzw0IB4bAQ9ZU7pLXhfpY_3lf9iQ&oe=6A0262CE&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DGp94SGyHYE/",
+        "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/482293081_1575931219779757_15785582569499852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=d3W_E43KRsYQ7kNvwGsuZNn&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5rrOvVYvuLm7SegWlzw0IB4bAQ9ZU7pLXhfpY_3lf9iQ&oe=6A0262CE&_nc_sid=8b3546",
+        "caption": "Tie Rod End + Master Cylinder + Hand break lever ✅ \nOrder Confirm Same day shipping 🙂 @keco.auto.industries \n.\n.\n.\n#kecoautoindustries #automotive #wholesale #newdelhi #manufacturing #kashmeregate #jaipur #amritsar #carspareparts #kashmirigatemarket #carparts",
+        "posted_at": "2025-03-01T11:55:01.000Z",
+        "likes": 10,
+        "views": 171
+      }
+    },
+    {
+      "fingerprint": "23c7147a21f9",
+      "raw_name": "Radiators and Oil Filters",
+      "clean_name": "Radiators and Oil Filters",
+      "product_category": "Automotive Part",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "This post showcases a variety of radiators and oil filters available from KECO Auto Industries. It encourages customers to contact them for orders.",
+      "seo_title": "Radiators and Oil Filters",
+      "alt_text": "Radiators and Oil Filters",
+      "tags": [
+        "automotive",
+        "carspareparts",
+        "radiators",
+        "oilfilters"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DFcLsXCSiuL/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/475741214_17937290126971689_3198956835161680166_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=S0khr6WBwCAQ7kNvwHHpYYc&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU1Njc2OTIzMjYxODkyNDkzOQ%3D%3D.3-ccb7-5&oh=00_Af7XI8iWVV0znoQAb-rCRxzHkZczPAB5PODY37lLo1i6Rg&oe=6A025FE7&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/475741214_17937290126971689_3198956835161680166_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=S0khr6WBwCAQ7kNvwHHpYYc&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU1Njc2OTIzMjYxODkyNDkzOQ%3D%3D.3-ccb7-5&oh=00_Af7XI8iWVV0znoQAb-rCRxzHkZczPAB5PODY37lLo1i6Rg&oe=6A025FE7&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/475741214_17937290126971689_3198956835161680166_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=S0khr6WBwCAQ7kNvwHHpYYc&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU1Njc2OTIzMjYxODkyNDkzOQ%3D%3D.3-ccb7-5&oh=00_Af7XI8iWVV0znoQAb-rCRxzHkZczPAB5PODY37lLo1i6Rg&oe=6A025FE7&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DFcLsXCSiuL/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/475741214_17937290126971689_3198956835161680166_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=S0khr6WBwCAQ7kNvwHHpYYc&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU1Njc2OTIzMjYxODkyNDkzOQ%3D%3D.3-ccb7-5&oh=00_Af7XI8iWVV0znoQAb-rCRxzHkZczPAB5PODY37lLo1i6Rg&oe=6A025FE7&_nc_sid=8b3546",
+        "caption": "contact us : 8588811510 \n@keco.auto.industries \n.\n.\n.\n#automotive #carspareparts #radiators #oilfilters #instagram #newdelhi #amritsar #kashmeregate #jaipur #noida #gurgaon",
+        "posted_at": "2025-01-30T06:52:35.000Z",
+        "likes": 2,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "22e65d3ca0db",
+      "raw_name": "Car Tail Light Assembly",
+      "clean_name": "Car Tail Light Assembly",
+      "product_category": "Automotive Lighting",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "A new car tail light assembly, featuring distinct red and clear sections for various lighting functions, designed for the rear of a vehicle. It includes a black mounting bracket.",
+      "seo_title": "Car Tail Light Assembly",
+      "alt_text": "Car Tail Light Assembly",
+      "tags": [
+        "automotive",
+        "carspareparts",
+        "india",
+        "kashmeregate"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {},
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DE7URLKSia_/",
+      "photo_urls": [
+        "https://scontent-dfw5-3.cdninstagram.com/v/t51.82787-15/652769692_17982660515798710_7874314570238224889_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=U58lYx7tM9UQ7kNvwFHfKS6&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU0NzUxODI2MzA1ODAxNTM2OQ%3D%3D.3-ccb7-5&oh=00_Af5Im-oXuglpbvoCO2rnqpori-sgVl6Lo8i3dl_Md_QCsg&oe=6A0242CA&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-3.cdninstagram.com/v/t51.82787-15/652769692_17982660515798710_7874314570238224889_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=U58lYx7tM9UQ7kNvwFHfKS6&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU0NzUxODI2MzA1ODAxNTM2OQ%3D%3D.3-ccb7-5&oh=00_Af5Im-oXuglpbvoCO2rnqpori-sgVl6Lo8i3dl_Md_QCsg&oe=6A0242CA&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-3.cdninstagram.com/v/t51.82787-15/652769692_17982660515798710_7874314570238224889_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=U58lYx7tM9UQ7kNvwFHfKS6&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU0NzUxODI2MzA1ODAxNTM2OQ%3D%3D.3-ccb7-5&oh=00_Af5Im-oXuglpbvoCO2rnqpori-sgVl6Lo8i3dl_Md_QCsg&oe=6A0242CA&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DE7URLKSia_/",
+        "thumbnail_url": "https://scontent-dfw5-3.cdninstagram.com/v/t51.82787-15/652769692_17982660515798710_7874314570238224889_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=U58lYx7tM9UQ7kNvwFHfKS6&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU0NzUxODI2MzA1ODAxNTM2OQ%3D%3D.3-ccb7-5&oh=00_Af5Im-oXuglpbvoCO2rnqpori-sgVl6Lo8i3dl_Md_QCsg&oe=6A0242CA&_nc_sid=8b3546",
+        "caption": "Complete Order Same Day Shipping @keco.auto.industries \n.\n.\n.\n#automotive #carspareparts #india #kashmeregate #outnow",
+        "posted_at": "2025-01-17T12:32:34.000Z",
+        "likes": 7,
+        "views": null
+      }
+    },
+    {
+      "fingerprint": "ac5edc9fd9da",
+      "raw_name": "Mahindra Filter Air Cleaner / Element Air Filter",
+      "clean_name": "Mahindra Filter Air Cleaner / Element Air Filter",
+      "product_category": "Automotive Part",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "The post showcases multiple units of Mahindra genuine spare parts, specifically 'Filter Air Cleaner' or 'Element Air Filter', packaged and ready for same-day shipping. The items are new and appear to be for wholesale distribution.",
+      "seo_title": "Mahindra Filter Air Cleaner / Element Air Filter",
+      "alt_text": "Mahindra Filter Air Cleaner / Element Air Filter",
+      "tags": [
+        "kecoautoindustries",
+        "wholesale",
+        "manufacturing",
+        "newdelhi",
+        "automotive",
+        "kashmirigatemarket",
+        "jaipur",
+        "Mahindra",
+        "spare parts",
+        "air filter",
+        "car parts"
+      ],
+      "price_single": 705,
+      "price_text": "MRP Rs. 705.00",
+      "currency": "INR",
+      "specifications": {
+        "PART NUMBER": "0304C728N",
+        "TYPE": "ELEMENT AIR FILTER",
+        "PRODUCT NAME": "FILTER AIR CLEANER",
+        "MRP": "Rs. 705.00",
+        "QTY": "1",
+        "Brand": "Mahindra"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "instagram",
+      "sources": [
+        "instagram"
+      ],
+      "source_url": "https://www.instagram.com/p/DEo-rZ6Pddl/",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/472987040_17934984158971689_4677289380077782910_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=41yLzY3XmFwQ7kNvwEVlM50&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af76jc-hmZ87QdfJCmzUjYSx-SLJ8krDjGlaZ7eL81OY0g&oe=6A024D87&_nc_sid=8b3546"
+      ],
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/472987040_17934984158971689_4677289380077782910_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=41yLzY3XmFwQ7kNvwEVlM50&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af76jc-hmZ87QdfJCmzUjYSx-SLJ8krDjGlaZ7eL81OY0g&oe=6A024D87&_nc_sid=8b3546",
+      "media_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/472987040_17934984158971689_4677289380077782910_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=41yLzY3XmFwQ7kNvwEVlM50&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af76jc-hmZ87QdfJCmzUjYSx-SLJ8krDjGlaZ7eL81OY0g&oe=6A024D87&_nc_sid=8b3546",
+      "used_vision": true,
+      "social_source": {
+        "platform": "instagram",
+        "post_url": "https://www.instagram.com/p/DEo-rZ6Pddl/",
+        "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/472987040_17934984158971689_4677289380077782910_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=41yLzY3XmFwQ7kNvwEVlM50&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af76jc-hmZ87QdfJCmzUjYSx-SLJ8krDjGlaZ7eL81OY0g&oe=6A024D87&_nc_sid=8b3546",
+        "caption": "Confirm Order ✅ Same day shipping @keco.auto.industries \n.\n.\n\n#kecoautoindustries #wholesale #manufacturing #newdelhi #automotive #kashmirigatemarket #jaipur",
+        "posted_at": "2025-01-10T09:39:33.000Z",
+        "likes": 10,
+        "views": 195
+      }
+    },
+    {
+      "clean_name": "Heavy Machinery Parts - Engine",
+      "fingerprint": "f396ada511c1",
+      "top_level_domain": "Industrial Equipment",
+      "industry_segment": "Heavy Machinery & Component",
+      "product_category": "Engine",
+      "product_sub_type": "Heavy Machinery Engine",
+      "buyer_persona": "A procurement manager or maintenance supervisor for construction, mining, or agricultural companies looking for replacement or new engines for their heavy machinery.",
+      "seo_title": "Heavy Machinery Parts - Engine Heavy Machinery Engine | Catalog Listin",
+      "tags": [
+        "Heavy Machinery Parts - Engine",
+        "Industrial Equipment",
+        "Heavy Machinery & Components",
+        "Engine",
+        "Heavy Machinery Engine"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/heavy-machinery-parts-engine.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Heavy Machinery Parts - Engine is a heavy machinery engine offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A procurement manager or maintenance supervisor for construction, mining, or agricultural companies looking for replacement or new engines for their heavy machinery.",
+      "specifications": {
+        "category": "Engine",
+        "sub_type": "Heavy Machinery Engine"
+      },
+      "alt_text": "Heavy Machinery Parts - Engine from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Brake Parts",
+      "fingerprint": "c63358a057e1",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Vehicle Components & Spare",
+      "product_category": "Brake Part",
+      "product_sub_type": "Vehicle Brake Component",
+      "buyer_persona": "Automotive repair shops, vehicle manufacturers, or parts distributors seeking components for braking systems.",
+      "seo_title": "Brake Parts Vehicle Brake Component | Catalog Listing",
+      "tags": [
+        "Brake Parts",
+        "Automotive",
+        "Vehicle Components & Spares",
+        "Brake Part",
+        "Vehicle Brake Component"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/automotive-brake-parts.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.8,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Brake Parts is a vehicle brake component offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: Automotive repair shops, vehicle manufacturers, or parts distributors seeking components for braking systems.",
+      "specifications": {
+        "category": "Brake Part",
+        "sub_type": "Vehicle Brake Component"
+      },
+      "alt_text": "Brake Parts from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "American Vehicle's Suspension Link Bar",
+      "fingerprint": "c1241d211bf6",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Vehicle Parts & Accessory",
+      "product_category": "Suspension Link Bar",
+      "product_sub_type": "American Vehicle Suspension Link Bar",
+      "buyer_persona": "A mechanic, auto repair shop, or vehicle owner looking for a replacement or upgrade suspension component for an American vehicle.",
+      "seo_title": "American Vehicle's Suspension Link Bar American Vehicle Suspension Lin",
+      "tags": [
+        "American Vehicle's Suspension Link Bar",
+        "Automotive",
+        "Vehicle Parts & Accessories",
+        "Suspension Link Bar",
+        "American Vehicle Suspension Link Bar"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/american-vehicles-suspension-link-bar.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.9,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "American Vehicle's Suspension Link Bar is a american vehicle suspension link bar offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A mechanic, auto repair shop, or vehicle owner looking for a replacement or upgrade suspension component for an American vehicle.",
+      "specifications": {
+        "category": "Suspension Link Bar",
+        "sub_type": "American Vehicle Suspension Link Bar"
+      },
+      "alt_text": "American Vehicle's Suspension Link Bar from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Headlight Assembly",
+      "fingerprint": "ced1a0b3aca0",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Headlight",
+      "product_sub_type": "Headlight Assembly",
+      "buyer_persona": "A vehicle owner, mechanic, or auto parts retailer looking for a replacement or upgrade headlight assembly for a specific vehicle.",
+      "seo_title": "Headlight Assembly Headlight Assembly | Catalog Listing",
+      "tags": [
+        "Headlight Assembly",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Headlight"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/485279411_17942778557971689_2313823661207374854_n.webp?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=rv_bQO7alCgQ7kNvwHKZO6a&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU5MDE0MDY1Njg1OTMzNzY5Mw%3D%3D.3-ccb7-5&oh=00_Af5GEDSV5KxZ3PHPRAnQ00zNMdPZIMvwPscgVETLAQ0xow&oe=6A0242B6&_nc_sid=8b3546",
+      "photo_urls": [
+        "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/485279411_17942778557971689_2313823661207374854_n.webp?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=rv_bQO7alCgQ7kNvwHKZO6a&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU5MDE0MDY1Njg1OTMzNzY5Mw%3D%3D.3-ccb7-5&oh=00_Af5GEDSV5KxZ3PHPRAnQ00zNMdPZIMvwPscgVETLAQ0xow&oe=6A0242B6&_nc_sid=8b3546"
+      ],
+      "source_url": "https://www.kecoautoindustries.com/automotive-headlight-assembly.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website",
+        "instagram"
+      ],
+      "social_sources": [
+        {
+          "platform": "instagram",
+          "post_url": "https://www.instagram.com/p/DHSvemNSY63/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/485279411_17942778557971689_2313823661207374854_n.webp?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=rv_bQO7alCgQ7kNvwHKZO6a&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU5MDE0MDY1Njg1OTMzNzY5Mw%3D%3D.3-ccb7-5&oh=00_Af5GEDSV5KxZ3PHPRAnQ00zNMdPZIMvwPscgVETLAQ0xow&oe=6A0242B6&_nc_sid=8b3546",
+          "caption": "Brezza top model led projector headlight available model. 2022. 2023 from @keco.auto.industries #sparepart #automotive #brezza #instapicture #insttagram #carsdaily #kashmeregate #headlights",
+          "posted_at": "2025-03-17T07:55:39.000Z",
+          "likes": 7,
+          "views": null
+        }
+      ],
+      "description": "Headlight Assembly is a headlight assembly offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A vehicle owner, mechanic, or auto parts retailer looking for a replacement or upgrade headlight assembly for a specific vehicle.",
+      "specifications": {
+        "category": "Headlight",
+        "sub_type": "Headlight Assembly"
+      },
+      "alt_text": "Headlight Assembly from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Car Accessories",
+      "fingerprint": "d626b0e06893",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Accessory",
+      "product_category": "Car Accessory",
+      "product_sub_type": "General Car Accessory",
+      "buyer_persona": "A car owner or automotive retailer looking for items to customize, enhance, or maintain a vehicle.",
+      "seo_title": "Car Accessories General Car Accessory | Catalog Listing",
+      "tags": [
+        "Car Accessories",
+        "Automotive",
+        "Automotive Parts & Accessories",
+        "Car Accessory",
+        "General Car Accessory"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/car-accessories.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Car Accessories is a general car accessory offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A car owner or automotive retailer looking for items to customize, enhance, or maintain a vehicle.",
+      "specifications": {
+        "category": "Car Accessory",
+        "sub_type": "General Car Accessory"
+      },
+      "alt_text": "Car Accessories from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Suspension Parts",
+      "fingerprint": "2fe6fa20d1e5",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Suspension Part",
+      "product_sub_type": "Vehicle Suspension Component",
+      "buyer_persona": "A procurement manager, auto mechanic, or vehicle owner looking for replacement or upgrade components for a vehicle's suspension system.",
+      "seo_title": "Vehicle Suspension Parts — Durable & High-Performance | Buy Online",
+      "tags": [
+        "Suspension components",
+        "Automotive parts",
+        "Vehicle suspension",
+        "Shock absorbers",
+        "Control arms",
+        "Bushings",
+        "Springs",
+        "Car parts",
+        "Auto repair",
+        "Vehicle maintenance",
+        "Chassis parts",
+        "Automotive aftermarket"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8708",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/automotive-suspension-parts.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Keco Auto Industries offers a comprehensive range of high-quality suspension parts designed for various vehicle makes and models, ensuring optimal ride comfort and handling performance. While specific pricing is available upon request, these essential components are readily available for immediate dispatch to meet your automotive repair and manufacturing needs. Ideal for auto mechanics, spare parts dealers, and vehicle owners, these parts are crucial for maintaining vehicle stability and safety. Manufactured with durable materials and precision engineering, our suspension parts provide long-lasting reliability and superior performance under diverse driving conditions.",
+      "specifications": {
+        "category": "Suspension Part",
+        "sub_type": "Vehicle Suspension Component"
+      },
+      "alt_text": "Suspension Parts for vehicles by Keco Auto Industries, ensuring optimal ride comfort and handling.",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Car Petrol Injector",
+      "fingerprint": "67c47d1adfed",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Car Petrol Fuel Injector",
+      "buyer_persona": "A car owner, mechanic, or auto parts retailer looking for a replacement or upgrade fuel injector for a petrol-powered car.",
+      "seo_title": "Car Petrol Injector — High-Performance Fuel Delivery | Buy Online",
+      "tags": [
+        "Petrol injector",
+        "Car fuel injector",
+        "Fuel system parts",
+        "Engine components",
+        "Automotive injector",
+        "Fuel efficiency",
+        "Petrol engine",
+        "Automotive parts",
+        "Replacement parts",
+        "Fuel atomization",
+        "Vehicle repair",
+        "Keco Auto Industries"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8409",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": 1100,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "This Car Petrol Injector from Keco Auto Industries is engineered for precise fuel delivery, optimizing engine performance and fuel efficiency in petrol-powered cars. Priced at INR 1100, this essential component is available for immediate purchase, ensuring quick replacement for faulty or worn-out injectors. It is an ideal solution for car owners, mechanics, and auto parts retailers seeking reliable fuel system components. Built with high-grade materials, this injector guarantees consistent spray patterns and atomization, contributing to smoother engine operation and reduced emissions.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Car Petrol Fuel Injector",
+        "Fuel Type": "Petrol",
+        "Vehicle Type": "Car"
+      },
+      "alt_text": "Car Petrol Injector by Keco Auto Industries, priced at INR 1100, for precise fuel delivery in petrol cars.",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Three Wheeler Fuel Injector",
+      "fingerprint": "38140fa6bdd4",
+      "top_level_domain": "Automotive & Transportation",
+      "industry_segment": "Vehicle Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Three Wheeler Fuel Injector",
+      "buyer_persona": "A procurement manager for a three-wheeler manufacturing plant, a spare parts dealer, or a vehicle repair shop owner looking for replacement or upgrade fuel injectors.",
+      "seo_title": "Three Wheeler Fuel Injector — Efficient & Reliable | Buy Online",
+      "tags": [
+        "Three wheeler parts",
+        "Fuel injector",
+        "Auto rickshaw parts",
+        "Engine components",
+        "Commercial vehicle parts",
+        "Fuel system",
+        "Automotive spares",
+        "Replacement injector",
+        "Three-wheeler engine",
+        "Keco Auto Industries",
+        "Vehicle maintenance",
+        "Cost-effective"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8409",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": 270,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Keco Auto Industries presents a robust Three Wheeler Fuel Injector, designed for efficient and reliable fuel delivery in three-wheeled vehicles. Available at an affordable price of INR 270, this injector offers an economical solution for maintaining optimal engine performance. This product is perfect for three-wheeler repair shops, spare parts distributors, and fleet operators looking for dependable replacement parts. Manufactured to withstand demanding operational conditions, it ensures consistent fuel spray and contributes to the longevity and efficiency of the engine.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Three Wheeler Fuel Injector",
+        "Vehicle Type": "Three Wheeler"
+      },
+      "alt_text": "Three Wheeler Fuel Injector by Keco Auto Industries, priced at INR 270, for efficient fuel delivery.",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Car Diesel Injector",
+      "fingerprint": "41f684edded8",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Car Diesel Fuel Injector",
+      "buyer_persona": "A mechanic, garage owner, or car owner looking for a replacement fuel injector for a diesel vehicle.",
+      "seo_title": "Car Diesel Injector — Precision Fuel Delivery for Diesel Cars | Buy Online",
+      "tags": [
+        "Diesel injector",
+        "Car fuel injector",
+        "Diesel engine parts",
+        "Fuel system components",
+        "Automotive diesel",
+        "Engine performance",
+        "Diesel vehicle parts",
+        "Replacement injector",
+        "Fuel atomization",
+        "Keco Auto Industries",
+        "Vehicle repair",
+        "Automotive spares"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8409",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": 3000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "This Car Diesel Injector from Keco Auto Industries delivers precise fuel atomization crucial for the efficient operation of diesel car engines. Priced at INR 3000, this high-quality injector is readily available to ensure optimal engine performance and reduced emissions for diesel vehicles. It is an essential component for mechanics, garage owners, and car owners seeking reliable and durable replacement parts for their diesel fuel systems. Engineered for longevity and consistent performance, this injector helps maintain engine power and fuel economy.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Car Diesel Fuel Injector",
+        "Fuel Type": "Diesel",
+        "Vehicle Type": "Car"
+      },
+      "alt_text": "Car Diesel Injector by Keco Auto Industries, priced at INR 3000, for precise fuel delivery in diesel cars.",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Fuel Injector 15710M78L10 for Ecco, Alto 800, Super Carry",
+      "fingerprint": "69bcd024ca67",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Vehicle Fuel Injector",
+      "buyer_persona": "A mechanic, garage owner, or vehicle owner seeking a replacement fuel injector for specific vehicle models like Alto 800 or Super Carry.",
+      "seo_title": "Fuel Injector 15710M78L10 — Ecco, Alto 800, Super Carry | Buy Online",
+      "tags": [
+        "Fuel injector",
+        "15710M78L10",
+        "Maruti Ecco parts",
+        "Alto 800 parts",
+        "Super Carry parts",
+        "OEM compatible",
+        "Vehicle specific parts",
+        "Engine components",
+        "Fuel system",
+        "Automotive replacement",
+        "Keco Auto Industries",
+        "Car spares"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": "8409",
+        "gst_percent": 18,
+        "country_of_origin": "India",
+        "brand": "Keco Auto Industries",
+        "certifications": []
+      },
+      "price_single": 800,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.75,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "raw_name": "Fuel injecter 15710M78L10 FOR ecco old/nm/ alto800/ super carry",
+      "description": "Keco Auto Industries offers the Fuel Injector 15710M78L10, specifically designed for Ecco (old/new models), Alto 800, and Super Carry vehicles, ensuring optimal engine performance and fuel efficiency. Available at INR 800, this OEM-compatible injector is ready for immediate purchase, providing a reliable replacement solution. This product is ideal for mechanics, spare parts retailers, and vehicle owners requiring a precise fit for these popular Maruti Suzuki models. Manufactured to stringent quality standards, it guarantees accurate fuel delivery and contributes to the smooth operation and longevity of your vehicle's engine.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Vehicle Fuel Injector",
+        "Part Number": "15710M78L10",
+        "Vehicle Model Compatibility": "Ecco, Alto 800, Super Carry"
+      },
+      "alt_text": "Fuel Injector 15710M78L10 by Keco Auto Industries for Ecco, Alto 800, Super Carry, priced at INR 800.",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO",
+      "fingerprint": "f89fe32fdae2",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Vehicle Fuel Injector",
+      "buyer_persona": "A mechanic, garage owner, or vehicle owner looking for a replacement fuel injector for specific Suzuki models.",
+      "seo_title": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAIN",
+      "tags": [
+        "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Fuel Injector",
+        "Vehicle Fuel Injector"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 1000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name contains a common misspelling: 'injecter' instead of 'injector'."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO is a vehicle fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 1,000. Suitable for: A mechanic, garage owner, or vehicle owner looking for a replacement fuel injector for specific Suzuki models.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Vehicle Fuel Injector"
+      },
+      "alt_text": "fuel injecter 15710M68K10 FOR / A-STAR/ ALTO-K10/ ERTIGA / RITZ/ STAINGREY/ SWIFT/WAGNOR ZEN ESTILIO from Keco Auto Industrie",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3",
+      "fingerprint": "aff3571bfe27",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Vehicle Fuel Injector",
+      "buyer_persona": "A mechanic, garage owner, or vehicle owner looking for a replacement fuel injector for specific Maruti models.",
+      "seo_title": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3 Veh",
+      "tags": [
+        "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Fuel Injector",
+        "Vehicle Fuel Injector"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 800,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3 is a vehicle fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 800. Suitable for: A mechanic, garage owner, or vehicle owner looking for a replacement fuel injector for specific Maruti models.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Vehicle Fuel Injector"
+      },
+      "alt_text": "Fuel Injector 15710m797do For Maruti 800, Type 3 & Omni Type,1,2,3 from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Truck Fuel Injector",
+      "fingerprint": "0345b701086b",
+      "top_level_domain": "Automotive & Transportation",
+      "industry_segment": "Commercial Vehicle Part",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Truck Fuel Injector",
+      "buyer_persona": "A procurement manager or mechanic for a trucking company or fleet owner, looking for replacement or upgrade parts for truck engines.",
+      "seo_title": "Truck Fuel Injector Truck Fuel Injector | Catalog Listing",
+      "tags": [
+        "Truck Fuel Injector",
+        "Automotive & Transportation",
+        "Commercial Vehicle Parts",
+        "Fuel Injector"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 4500,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Truck Fuel Injector is a truck fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 4,500. Suitable for: A procurement manager or mechanic for a trucking company or fleet owner, looking for replacement or upgrade parts for truck engines.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Truck Fuel Injector"
+      },
+      "alt_text": "Truck Fuel Injector from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Bus Fuel Injector",
+      "fingerprint": "954a90809bac",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Commercial Vehicle Part",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Bus Fuel Injector",
+      "buyer_persona": "A procurement manager or mechanic for a bus fleet or repair shop, seeking replacement or upgrade fuel injectors for commercial buses.",
+      "seo_title": "Bus Fuel Injector Bus Fuel Injector | Catalog Listing",
+      "tags": [
+        "Bus Fuel Injector",
+        "Automotive",
+        "Commercial Vehicle Parts",
+        "Fuel Injector"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 3000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Bus Fuel Injector is a bus fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 3,000. Suitable for: A procurement manager or mechanic for a bus fleet or repair shop, seeking replacement or upgrade fuel injectors for commercial buses.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Bus Fuel Injector"
+      },
+      "alt_text": "Bus Fuel Injector from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Tractor Fuel Injector",
+      "fingerprint": "28511f742d9a",
+      "top_level_domain": "Agricultural & Farming",
+      "industry_segment": "Agricultural Machinery Part",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Tractor Fuel Injector",
+      "buyer_persona": "A farmer, agricultural machinery repair shop, or parts dealer looking for a replacement fuel injector for a tractor engine.",
+      "seo_title": "Tractor Fuel Injector Tractor Fuel Injector | Catalog Listing",
+      "tags": [
+        "Tractor Fuel Injector",
+        "Agricultural & Farming",
+        "Agricultural Machinery Parts",
+        "Fuel Injector"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 1470,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Tractor Fuel Injector is a tractor fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 1,470. Suitable for: A farmer, agricultural machinery repair shop, or parts dealer looking for a replacement fuel injector for a tractor engine.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Tractor Fuel Injector"
+      },
+      "alt_text": "Tractor Fuel Injector from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Diesel Fuel Pump- KWID MOTAR (25412489-R)",
+      "fingerprint": "dad12ec8fe33",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Pump",
+      "product_sub_type": "Diesel Fuel Pump",
+      "buyer_persona": "A mechanic, garage owner, or vehicle owner looking for a replacement fuel pump for a specific diesel vehicle.",
+      "seo_title": "Diesel Fuel Pump- KWID MOTAR (25412489-R) Diesel Fuel Pump | Catalog L",
+      "tags": [
+        "Diesel Fuel Pump- KWID MOTAR (25412489-R)",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Fuel Pump",
+        "Diesel Fuel Pump"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 500,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Diesel Fuel Pump- KWID MOTAR (25412489-R) is a diesel fuel pump offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 500. Suitable for: A mechanic, garage owner, or vehicle owner looking for a replacement fuel pump for a specific diesel vehicle.",
+      "specifications": {
+        "category": "Fuel Pump",
+        "sub_type": "Diesel Fuel Pump"
+      },
+      "alt_text": "Diesel Fuel Pump- KWID MOTAR (25412489-R) from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "CNG Injector ALL CAR",
+      "fingerprint": "1c90c486aa12",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Fuel Injector",
+      "product_sub_type": "Cng Fuel Injector",
+      "buyer_persona": "A garage owner, mechanic, or vehicle owner seeking a replacement or upgrade CNG injector for a car.",
+      "seo_title": "CNG Injector ALL CAR CNG Fuel Injector | Catalog Listing",
+      "tags": [
+        "CNG Injector ALL CAR",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Fuel Injector",
+        "CNG Fuel Injector"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 1000,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/fuel-injector.html#car-petrol-injector",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "CNG Injector ALL CAR is a cng fuel injector offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 1,000. Suitable for: A garage owner, mechanic, or vehicle owner seeking a replacement or upgrade CNG injector for a car.",
+      "specifications": {
+        "category": "Fuel Injector",
+        "sub_type": "Cng Fuel Injector"
+      },
+      "alt_text": "CNG Injector ALL CAR from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Electrical Parts",
+      "fingerprint": "30c7ba44b59f",
+      "top_level_domain": "Electronics & Electrical",
+      "industry_segment": "Electrical Components & Spare",
+      "product_category": "Electrical Part",
+      "product_sub_type": "Generic Electrical Part",
+      "buyer_persona": "A procurement manager or engineer sourcing general electrical components for manufacturing, repair, or assembly.",
+      "seo_title": "Electrical Parts Generic Electrical Part | Catalog Listing",
+      "tags": [
+        "Electrical Parts",
+        "Electronics & Electrical",
+        "Electrical Components & Spares",
+        "Electrical Part",
+        "Generic Electrical Part"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/automotive-electrical-parts.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.75,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [
+        "Product name too generic for meaningful classification. Seller context used."
+      ],
+      "sources": [
+        "website"
+      ],
+      "description": "Electrical Parts is a generic electrical part offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A procurement manager or engineer sourcing general electrical components for manufacturing, repair, or assembly.",
+      "specifications": {
+        "category": "Electrical Part",
+        "sub_type": "Generic Electrical Part"
+      },
+      "alt_text": "Electrical Parts from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Car Brake Pad",
+      "fingerprint": "9546458c7825",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Brake Pad",
+      "product_sub_type": "Car Brake Pad",
+      "buyer_persona": "A vehicle owner or mechanic looking for replacement brake pads for a car.",
+      "seo_title": "Car Brake Pad Car Brake Pad | Catalog Listing",
+      "tags": [
+        "Car Brake Pad",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Brake Pad"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": null,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": true,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/car-brake-pad.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Car Brake Pad is a car brake pad offered by Keco Auto Industries based in New Delhi, Delhi. Suitable for: A vehicle owner or mechanic looking for replacement brake pads for a car.",
+      "specifications": {
+        "category": "Brake Pad",
+        "sub_type": "Car Brake Pad"
+      },
+      "alt_text": "Car Brake Pad from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    },
+    {
+      "clean_name": "Automotive Brake Major Kit",
+      "fingerprint": "aaf91e5276ab",
+      "top_level_domain": "Automotive",
+      "industry_segment": "Automotive Parts & Component",
+      "product_category": "Brake Kit",
+      "product_sub_type": "Automotive Brake Major Kit",
+      "buyer_persona": "An automotive repair shop, mechanic, or vehicle owner looking for a comprehensive kit to perform significant brake system maintenance or repair.",
+      "seo_title": "Automotive Brake Major Kit Automotive Brake Major Kit | Catalog Listin",
+      "tags": [
+        "Automotive Brake Major Kit",
+        "Automotive",
+        "Automotive Parts & Components",
+        "Brake Kit"
+      ],
+      "b2b_attributes": {
+        "moq": null,
+        "moq_unit": null,
+        "price_unit": null,
+        "hsn_code": null,
+        "gst_percent": null,
+        "country_of_origin": "India",
+        "brand": null,
+        "certifications": []
+      },
+      "price_single": 80,
+      "price_min": null,
+      "price_max": null,
+      "is_price_range": false,
+      "price_on_request": false,
+      "price_unit": null,
+      "currency": "INR",
+      "primary_photo_url": null,
+      "photo_urls": [],
+      "source_url": "https://www.kecoautoindustries.com/automotive-brake-parts.html",
+      "in_stock": true,
+      "page_slot": "products.item",
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.5,
+      "self_healing_attempted": false,
+      "retry_count": 0,
+      "warnings": [],
+      "sources": [
+        "website"
+      ],
+      "description": "Automotive Brake Major Kit is a automotive brake major kit offered by Keco Auto Industries based in New Delhi, Delhi. Priced at Rs. 80. Suitable for: An automotive repair shop, mechanic, or vehicle owner looking for a comprehensive kit to perform significant brake system maintenance or repair.",
+      "specifications": {
+        "category": "Brake Kit",
+        "sub_type": "Automotive Brake Major Kit"
+      },
+      "alt_text": "Automotive Brake Major Kit from Keco Auto Industries",
+      "used_vision": false,
+      "media_url": null
+    }
+  ],
+  "rejected_items": [],
+  "reviews": [
+    {
+      "author": "vamshi yadav",
+      "rating": 1,
+      "text": "I had order a tail lamp from here they provided the broken product. Don't go for this guys. Don't buy from these guys all where cheaters.\nReal example is me . He cheated me by taking advance payment and provided the broken piece and when I asked for refund he is not responding even replacement also he is not providing..#dont buy from this guys",
+      "original_lang": null,
+      "date": "2023-12-08T14:08:43Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Sumant Kumar",
+      "rating": 5,
+      "text": "Keno Auto is best car parts supplier in Delhi, I use to purchase car parts from them. Best quality,  genuine auto parts. I recommend all buyers to purchase from them.",
+      "original_lang": null,
+      "date": "2023-12-11T08:22:01Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Manav Ghai",
+      "rating": 5,
+      "text": "Good quality automotive parts and accessories provide in delhi keco auto i have purcahsed the vacump pump and tyre inlfator their delivery is very fast .",
+      "original_lang": null,
+      "date": "2023-12-11T08:17:56Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Rahul Kumar",
+      "rating": 5,
+      "text": "Keco auto\nBest car parts manufacturers, I am their regular customer. They provide genuine car parts.",
+      "original_lang": null,
+      "date": "2023-06-02T08:40:29Z",
+      "likes": 2,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Anshika Ghai",
+      "rating": 5,
+      "text": "I had order a supension parts for my car it is of very good quality spare parts and give me discount also",
+      "original_lang": null,
+      "date": "2024-02-01T15:06:56Z",
+      "likes": 0,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "madhu sharma",
+      "rating": 5,
+      "text": "Nice service and product is 2 good quality..satisfied....",
+      "original_lang": null,
+      "date": "2021-08-24T09:44:26Z",
+      "likes": 3,
+      "is_local_guide": true,
+      "owner_response": null
+    },
+    {
+      "author": "Manav Malhotra",
+      "rating": 5,
+      "text": "Good parts are deal",
+      "original_lang": null,
+      "date": "2023-06-02T08:41:53Z",
+      "likes": 1,
+      "is_local_guide": true,
+      "owner_response": "thank you for sharing your valuable feedback."
+    },
+    {
+      "author": "Yogender Sengar",
+      "rating": 4,
+      "text": "good company with quality of products",
+      "original_lang": null,
+      "date": "2016-01-09T14:31:52Z",
+      "likes": 3,
+      "is_local_guide": true,
+      "owner_response": null
+    }
+  ],
+  "reviews_summary": {
+    "total_rating": 4.2,
+    "no_of_ratings": 12,
+    "rating_comments": [
+      "I had order a tail lamp from here they provided the broken product. Don't go for this guys. Don't buy from these guys all where cheaters.\nReal example is me . He cheated me by taking advance payment and provided the broken piece and when I asked for refund he is not responding even replacement also he is not providing..#dont buy from this guys",
+      "Keno Auto is best car parts supplier in Delhi, I use to purchase car parts from them. Best quality,  genuine auto parts. I recommend all buyers to purchase from them.",
+      "Good quality automotive parts and accessories provide in delhi keco auto i have purcahsed the vacump pump and tyre inlfator their delivery is very fast .",
+      "Keco auto\nBest car parts manufacturers, I am their regular customer. They provide genuine car parts.",
+      "I had order a supension parts for my car it is of very good quality spare parts and give me discount also",
+      "Nice service and product is 2 good quality..satisfied....",
+      "Good parts are deal",
+      "good company with quality of products"
+    ],
+    "reviews_url": "https://www.google.com/maps?cid=1727214048121560085"
+  },
+  "overall_confidence": 0.938,
+  "social_profiles": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/KECOAUTOINDUASTRIES/",
+      "profile_pic_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/348288162_246632871353673_1285600625645789623_n.jpg?stp=c0.0.203.203a_dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=YrBrhlxGs7sQ7kNvwEss--C&_nc_oc=AdrAwRCkcLyzknQ2ZP8XI29OkmM-hfweSdauufL8lw7W3wQgSuFmpxQpU2Yb2JOIusU&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=iKDtdHhBgzltf1A-VlRxMA&_nc_ss=7c289&oh=00_Af5EVH-3V8SM7kLpfljN2z7tcACNPXk-jYXMep6W9k2UdA&oe=6A0235DA",
+      "banner_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/486526073_633895056221634_3007842099683339704_n.png?_nc_cat=106&ccb=1-7&_nc_sid=2a1932&_nc_ohc=iXx1hw5ScZcQ7kNvwHho2PQ&_nc_oc=Adr9BeS6axJmbxIZr623gciG6HhIkLYFZcO5Q5eTa4ozYDVarHoSYe6GDWSL1RyflsI&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=3GoPzt7Mb6t007YMCAsr5Q&_nc_ss=7c289&oh=00_Af7EMd8e3ArzJX5ncU6G9XJm4mYIL1NVAjlvAjC2luWPmQ&oe=6A025212",
+      "bio": "We, Keco Auto Industries, are an eminent organization engaged in supplying  Automotive Parts !",
+      "followers_count": 57,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/KECOAUTOINDUASTRIES/posts/pfbid02Qc4DDd4UUa3LmFoMfvbP4Ae5bvDzMdjf7GxJVrazh2EZvrpZEXj7VFJEkCQLrMq9l",
+          "thumbnail_url": "https://www.facebook.com/KECOAUTOINDUASTRIES/posts/pfbid02Qc4DDd4UUa3LmFoMfvbP4Ae5bvDzMdjf7GxJVrazh2EZvrpZEXj7VFJEkCQLrMq9l",
+          "caption": "Gulal ka rang, safalta ka gear,\nKhushiyon ki speed ho full this year!\nHappy Holi from\nKECO AUTO INDUSTRIES 🌈⚙️",
+          "likes": 2,
+          "comments": null,
+          "views": null,
+          "posted_at": 1772580694
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/KECOAUTOINDUASTRIES/posts/pfbid046RyoBddBDUdVoGy8PaYTk3V3oy1z9i5XJ3qofRo9uUSXPfvfYpheQ2V2tA9i7SWl",
+          "thumbnail_url": "https://www.facebook.com/KECOAUTOINDUASTRIES/posts/pfbid046RyoBddBDUdVoGy8PaYTk3V3oy1z9i5XJ3qofRo9uUSXPfvfYpheQ2V2tA9i7SWl",
+          "caption": "Honda City Type 5 Steering Rack With Motor Keco Auto Industries\n.\n.\n#hondacity#automotive#instalike#hondacivic#popular#likecommentshare#spareparts#delhi#jaipur#trendingpost",
+          "likes": 1,
+          "comments": 1,
+          "views": null,
+          "posted_at": 1744802182
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.facebook.com/KECOAUTOINDUASTRIES/posts/pfbid02ckMMVPhwgym9pCcRdY9mkHby7mwjWHw5CXdMNbFHUwMrHewHgXK5nZw819rU31ril",
+          "thumbnail_url": "https://www.facebook.com/photo/?fbid=646196611658145&set=a.197556163188861",
+          "caption": "They are known for good air flow, and efficient power usage Keco Auto Industries \n\n#likeforlikes#instalike#likecommentshare#popular#facebookpost",
+          "likes": 1,
+          "comments": null,
+          "views": null,
+          "posted_at": 1744117971
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "phone": "+91 85888 11510",
+        "email": "info@kecoautoindustries.com",
+        "website": "http://www.kecoautoindustries.com/",
+        "address": "1/19, NICHOLSON ROAD, KASHMERE GATE, 110006",
+        "city": null
+      }
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/keco.auto.industries",
+      "profile_pic_url": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/472211256_509857898174128_7282248768129018326_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=L9UAHUMg798Q7kNvwGAPYhe&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7CHuBR1qIcnQmxGEXXvrKr-6cAmk31O0uLoyff8DMSwA&oe=6A02460D&_nc_sid=8b3546",
+      "banner_url": null,
+      "bio": "All types of #CarParts #TractorParts are Available .\nShipping all over India within 2 to 3 days.✈️🚛\nGenuine Rate and Best Quality.\nPh. No. 8588811510",
+      "followers_count": 391,
+      "following_count": 620,
+      "posts_count": 77,
+      "posts": [
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DMkOSWbvxLd/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-15/523296808_17957171978971689_1615421181779598671_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=3JFwPdpZoS4Q7kNvwHEuqzk&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzY4NTEzMzIyODc4NTQ3MjIyMQ%3D%3D.3-ccb7-5&oh=00_Af5zzw-iGYhv3JmPGawNw0JPBztIVL5-GnXINJ_xt3Cpng&oe=6A024721&_nc_sid=8b3546",
+          "caption": "#fordaspire #enginemount #automotivedesign #carparts #drautomobiles ........frod aspire engine mountig 💯",
+          "likes": 3,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-07-26T09:28:55.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DIgVg-LSAFS/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/491445564_17945928824971689_3857420173521364401_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=lNe6YxQB6zgQ7kNvwEiFfnY&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYxMTk4MTUxNTIwMDMwODkyOQ%3D%3D.3-ccb7-5&oh=00_Af6wrwthKYgaIckosNOuQB9BaV_3qG1rU4cwUBvgyifeqg&oe=6A0250CA&_nc_sid=8b3546",
+          "caption": "Honda City Type 5 Steering Rack With Motor @keco.auto.industries \n.\n.\n.\n.\n#hondacity #automotives #steeringrack #newdelhi #kashmirigate #populer #spareparts #jaipurcity",
+          "likes": 7,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-04-16T11:09:33.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DIL6CWFSPsY/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/488793503_17945103227971689_5614166885338639251_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=eEyUfssZv14Q7kNvwGfLXAo&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwNjIzMTE3NDQ4NzgwMDYwMA%3D%3D.3-ccb7-5&oh=00_Af4PKhtTL2DvL3Knrw9kOvqVc-Wf7ka5wvSQJiHfWLjRdg&oe=6A023FB0&_nc_sid=8b3546",
+          "caption": "They are known for good air flow, and efficient power usage @keco.auto.industries \n\n#fanair #hispeed #KECOAUTOINSDUSTRIES\n#populer #wholesaler #tradinglifestyle #traders #instagram #foryoupage❤️😍 #india #kashmirigate #newdelhi #",
+          "likes": 3,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-04-08T12:44:38.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DIBG6BXyH9g/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/487875535_17944667012971689_6069594330577851134_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=ibj5_DmbQlwQ7kNvwFlbJDF&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzYwMzE5MTU1MjM1NDU4MjM2OA%3D%3D.3-ccb7-5&oh=00_Af4SOfEEQqODWkyCfOeCmsidi1s1O3F7EDZ-M7_eGQa9ug&oe=6A0260E1&_nc_sid=8b3546",
+          "caption": "@keco.auto.industries Upgrade your Honda Civics' suspension with our high-quality petrol rear bush kit! \n\n🚗💨 Experience improved stability and control on the road, ensuring a smooth and comfortable ride. \n\n#hondacivic #autoparts #instagramtags #kashmirigate #populer #virałpost #transport #outlift",
+          "likes": 4,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-04-04T08:05:26.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DHSvemNSY63/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/485279411_17942778557971689_2313823661207374854_n.webp?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=rv_bQO7alCgQ7kNvwHKZO6a&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU5MDE0MDY1Njg1OTMzNzY5Mw%3D%3D.3-ccb7-5&oh=00_Af5GEDSV5KxZ3PHPRAnQ00zNMdPZIMvwPscgVETLAQ0xow&oe=6A0242B6&_nc_sid=8b3546",
+          "caption": "Brezza top model led projector headlight available model. 2022. 2023 from @keco.auto.industries #sparepart #automotive #brezza #instapicture #insttagram #carsdaily #kashmeregate #headlights",
+          "likes": 7,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-03-17T07:55:39.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DGvJFo4SW_T/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482509103_17941126049971689_6275434410325478034_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xV9B_li93hwQ7kNvwEgpcWW&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU4MDEyMDE5ODY5MjgyNzA5MQ%3D%3D.3-ccb7-5&oh=00_Af7pMRxnJWHxo8pPxsH3uw5GO8fbJm22byzrtaBsNo_6vA&oe=6A025F49&_nc_sid=8b3546",
+          "caption": "AVAILABLE NOW @keco.auto.industries \n\n#kecoautoindustries #instagram #popularpage #spareparts #filtar #newdelhi",
+          "likes": 3,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-03-03T12:06:47.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DGp94SGyHYE/",
+          "thumbnail_url": "https://scontent-dfw6-1.cdninstagram.com/v/t51.71878-15/482293081_1575931219779757_15785582569499852_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=d3W_E43KRsYQ7kNvwGsuZNn&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5rrOvVYvuLm7SegWlzw0IB4bAQ9ZU7pLXhfpY_3lf9iQ&oe=6A0262CE&_nc_sid=8b3546",
+          "caption": "Tie Rod End + Master Cylinder + Hand break lever ✅ \nOrder Confirm Same day shipping 🙂 @keco.auto.industries \n.\n.\n.\n#kecoautoindustries #automotive #wholesale #newdelhi #manufacturing #kashmeregate #jaipur #amritsar #carspareparts #kashmirigatemarket #carparts",
+          "likes": 10,
+          "comments": 0,
+          "views": 171,
+          "posted_at": "2025-03-01T11:55:01.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DGpR2krywzv/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/482088013_17940850235971689_6247427602632806329_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xnVurR9x2JcQ7kNvwGcLDZ0&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU3ODQ2OTg5NTk1NDQzNTMxMQ%3D%3D.3-ccb7-5&oh=00_Af7CaiWnT7WEHXMp78pZtl57XveIQxhclRHqdRDyU0aOhw&oe=6A025B0D&_nc_sid=8b3546",
+          "caption": "Your journey to a more comfortable drive starts now. We're excited for you to experience the benefits @keco.auto.industries \n\n#instagram #instagood #shockabsorbers #mounting #delhi #jaipur #noida #kashmeregate",
+          "likes": 5,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-03-01T05:27:55.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DGnGSEoyHDO/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/481870994_17940742547971689_1981381331941364250_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=xHG3jQqmCBUQ7kNvwGx1n0e&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU3Nzg1NjA1OTE3Nzk4ODMwMg%3D%3D.3-ccb7-5&oh=00_Af7qx-Ipy5UKdW7LSZfG1qxghCJjfcVn1FUsfKOeheZsJQ&oe=6A025B56&_nc_sid=8b3546",
+          "caption": "BEST DEALS @keco.auto.industries \n.\n.\n.\n.\n.\n.\n#kecoautoindustries #automotive #automobile #populer #newpost #instagram #spareparts #modified",
+          "likes": 2,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-02-28T09:08:20.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DFcLsXCSiuL/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/475741214_17937290126971689_3198956835161680166_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=S0khr6WBwCAQ7kNvwHHpYYc&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU1Njc2OTIzMjYxODkyNDkzOQ%3D%3D.3-ccb7-5&oh=00_Af7XI8iWVV0znoQAb-rCRxzHkZczPAB5PODY37lLo1i6Rg&oe=6A025FE7&_nc_sid=8b3546",
+          "caption": "contact us : 8588811510 \n@keco.auto.industries \n.\n.\n.\n#automotive #carspareparts #radiators #oilfilters #instagram #newdelhi #amritsar #kashmeregate #jaipur #noida #gurgaon",
+          "likes": 2,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-01-30T06:52:35.000Z"
+        },
+        {
+          "type": "post",
+          "post_url": "https://www.instagram.com/p/DE7URLKSia_/",
+          "thumbnail_url": "https://scontent-dfw5-3.cdninstagram.com/v/t51.82787-15/652769692_17982660515798710_7874314570238224889_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=U58lYx7tM9UQ7kNvwFHfKS6&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MzU0NzUxODI2MzA1ODAxNTM2OQ%3D%3D.3-ccb7-5&oh=00_Af5Im-oXuglpbvoCO2rnqpori-sgVl6Lo8i3dl_Md_QCsg&oe=6A0242CA&_nc_sid=8b3546",
+          "caption": "Complete Order Same Day Shipping @keco.auto.industries \n.\n.\n.\n#automotive #carspareparts #india #kashmeregate #outnow",
+          "likes": 7,
+          "comments": 0,
+          "views": null,
+          "posted_at": "2025-01-17T12:32:34.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.instagram.com/p/DEo-rZ6Pddl/",
+          "thumbnail_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/472987040_17934984158971689_4677289380077782910_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHf06ukXPXVnx8gZyDyqyWdrN2b9JhStlGXASzm01FHN0aBo_gK8-Oer4uwdSlYXgM&_nc_ohc=41yLzY3XmFwQ7kNvwEVlM50&_nc_gid=3IQz1_v6nhgMus_zxKtk0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af76jc-hmZ87QdfJCmzUjYSx-SLJ8krDjGlaZ7eL81OY0g&oe=6A024D87&_nc_sid=8b3546",
+          "caption": "Confirm Order ✅ Same day shipping @keco.auto.industries \n.\n.\n\n#kecoautoindustries #wholesale #manufacturing #newdelhi #automotive #kashmirigatemarket #jaipur",
+          "likes": 10,
+          "comments": 0,
+          "views": 195,
+          "posted_at": "2025-01-10T09:39:33.000Z"
+        }
+      ],
+      "contacts_from_posts": [
+        {
+          "type": "phone",
+          "value": "8588811510",
+          "date": "2025-01-30T06:52:35.000Z",
+          "post_url": "https://www.instagram.com/p/DFcLsXCSiuL/"
+        }
+      ],
+      "extra_profile": {
+        "phone": null,
+        "email": null,
+        "website": "http://www.kecoautoindustries.com/",
+        "address": null,
+        "city": null
+      }
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://in.linkedin.com/company/keco-auto-industries",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "LinkedIn post scraping disabled — LinkedIn blocks public scrapers"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/share?url=https://www.kecoautoindustries.com/&text=Keco Auto Industries",
+      "profile_pic_url": null,
+      "banner_url": null,
+      "bio": null,
+      "followers_count": null,
+      "posts": [],
+      "_note": "Twitter/X public scraping not available — requires authenticated Apify actor (paid)"
+    }
+  ],
+  "pipeline_summary": {
+    "run_started_at": "2026-05-07T11:34:29.103Z",
+    "duration_seconds": 142,
+    "agents_in_order": [
+      "CompanyEnricher",
+      "Agent03/Product",
+      "Agent05/EnrichDedup"
+    ],
+    "agent_call_counts": {
+      "Agent02/Orchestrator": 1,
+      "Agent03/Product": 1,
+      "Agent03a/Category": 20,
+      "Agent04/Media": 20,
+      "Agent05/EnrichDedup": 1,
+      "Agent07/Social": 1,
+      "CompanyEnricher": 1,
+      "Agent06/Reflection": 0
+    },
+    "agentic_decisions": {
+      "plan_execution": {
+        "recommended_agents": [
+          "company",
+          "sign3",
+          "product",
+          "dedup",
+          "social_enrichment",
+          "catalog"
+        ],
+        "skip_agents": [
+          "reviews"
+        ],
+        "quality_target": 0.85,
+        "reasoning": "Seller has a large number of raw products (78), a website, and social media links. Reviews API is absent. The plan focuses on enriching company and product data, ensuring phone validation, and deduplication before cataloging."
+      },
+      "evaluate_product_output": {
+        "decision": "proceed",
+        "avg_confidence": 0.93,
+        "retry_triggered": false
+      }
+    },
+    "products": {
+      "raw_input": 20,
+      "enriched": 20,
+      "catalog_items": 30,
+      "rejected": 0,
+      "with_vision": 0,
+      "vision_skipped": 20
+    },
+    "social": {
+      "urls_detected": 4,
+      "platforms_scraped": [
+        "facebook",
+        "instagram",
+        "linkedin",
+        "twitter"
+      ],
+      "posts_collected": 15,
+      "social_products_extracted": 10
+    },
+    "overall_confidence": 0.938
+  },
+  "_saved_at": "2026-05-07T11:36:51.294Z"
+}
