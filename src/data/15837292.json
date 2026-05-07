@@ -10,7 +10,7 @@
       "post_url": null
     },
     "description": {
-      "value": "Hiral Labs Limited is a pharmaceutical company based in Sisona, Roorkee, dedicated to manufacturing and supplying a diverse range of high-quality pharmaceutical products. With a strong 4.4-star rating from 60 reviews, the company is recognized for its commitment to health and well-being.",
+      "value": "Hiral Labs Limited is a pharmaceutical company located in Sisona, Roorkee, committed to advancing healthcare. The company focuses on delivering quality pharmaceutical products and solutions to meet medical needs.",
       "sources": [
         "llm_generated"
       ],
@@ -87,10 +87,26 @@
       "date": null,
       "post_url": null
     },
+    "bio": {
+      "value": "www.hirallabs.com",
+      "sources": [
+        "facebook"
+      ],
+      "date": null,
+      "post_url": null
+    },
     "logo_url": {
       "value": "http://www.hirallabs.com/uploads/logo.png",
       "sources": [
         "website"
+      ],
+      "date": null,
+      "post_url": null
+    },
+    "banner_url": {
+      "value": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/476257359_1067963698708813_8229909917912165683_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=NBEM7eap200Q7kNvwGxMb7y&_nc_oc=Adqcxf87W1zFwECKVPKqQCEnjg4aFvryTyuxwk9t0p54VgTpC6NHVMRm_Bms8x2t5rc&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=ekK6IuIffbGPjl63ZMsqkQ&_nc_ss=7c289&oh=00_Af4xRRhdjsVdBctM719dt7rQl_l0hk16dLOJit_QrwdmRQ&oe=6A0219CA",
+      "sources": [
+        "facebook"
       ],
       "date": null,
       "post_url": null
@@ -181,58 +197,625 @@
         "post_url": null
       }
     ],
-    "confidence": 0.8,
+    "followers_facebook": 618,
+    "followers_youtube": 143,
+    "confidence": 0.9,
     "sources": [
       "google",
       "facebook",
-      "linkedin"
+      "linkedin",
+      "youtube"
+    ],
+    "social_metrics": [
+      {
+        "platform": "facebook",
+        "followers": 618
+      },
+      {
+        "platform": "youtube",
+        "followers": 143
+      }
     ],
     "data_sources": [
-      "website"
+      "website",
+      "youtube"
     ],
     "reviews_url": "https://www.google.com/maps?cid=8389768071206129335"
   },
   "products": [],
   "media_assets": [],
-  "catalog_items": [],
+  "catalog_items": [
+    {
+      "fingerprint": "541cb3d901b0",
+      "raw_name": "I-Hist Olopatadine 0.1% w/v 5 ml EYE DROPS",
+      "clean_name": "I-Hist Olopatadine 0.1% w/v 5 ml EYE DROPS",
+      "product_category": "Eye Drop",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "I-Hist is an anti-allergic eye drop containing Olopatadine 0.1% w/v in a 5 ml solution. It is designed to prevent itching and relieve symptoms associated with seasonal allergic conjunctivitis, allergic rhinitis, and ocular itching & redness.",
+      "seo_title": "I-Hist Olopatadine 0.1% w/v 5 ml EYE DROPS",
+      "alt_text": "I-Hist Olopatadine 0.1% w/v 5 ml EYE DROPS",
+      "tags": [
+        "anti-allergic",
+        "eye drops",
+        "allergy relief",
+        "conjunctivitis",
+        "rhinitis",
+        "ocular itching",
+        "redness"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Active Ingredient": "Olopatadine 0.1% w/v",
+        "Volume": "5 ml",
+        "Form": "EYE DROPS",
+        "Indication": "Seasonal Allergic Conjunctivitis, Allergic Rhinitis, Ocular Itching & Redness"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=Eabn62a2Os4",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/Eabn62a2Os4/hqdefault.jpg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/Eabn62a2Os4/hqdefault.jpg",
+      "media_url": "https://i.ytimg.com/vi/Eabn62a2Os4/hqdefault.jpg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=Eabn62a2Os4",
+        "thumbnail_url": "https://i.ytimg.com/vi/Eabn62a2Os4/hqdefault.jpg",
+        "caption": "Featuring our product range in the segment of eye drops.",
+        "posted_at": "2020-10-01T09:13:47.000Z",
+        "likes": 16,
+        "views": 171
+      }
+    },
+    {
+      "fingerprint": "8c660ca11711",
+      "raw_name": "GastroHeal Powder",
+      "clean_name": "GastroHeal Powder",
+      "product_category": "Digestive Care Supplement",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "GastroHeal Powder is a natural herbal formula designed to support complete gut health. It helps relieve constipation, reduces acidity, gas, and bloating, and soothes mouth ulcers. It is 100% Ayurvedic and safe for long-term use.",
+      "seo_title": "GastroHeal Powder",
+      "alt_text": "GastroHeal Powder",
+      "tags": [
+        "digestive health",
+        "constipation relief",
+        "acidity relief",
+        "bloating relief",
+        "mouth ulcers",
+        "gut health",
+        "ayurvedic",
+        "herbal",
+        "natural",
+        "long-term use",
+        "intestinal worms"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Formula Type": "Natural Herbal Formula",
+        "Key Ingredient Note": "No senna leaves",
+        "Origin": "100% Ayurvedic",
+        "Laxative Type": "Free from harsh laxatives",
+        "Usage Safety": "Safe for long-term use",
+        "Additional Benefit": "Removes Intestinal Worms"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/GcoJZKlSO_g",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/GcoJZKlSO_g/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBOKEMwDw==&rs=AOn4CLD9QvqKTM7dHk_HvsF4XABWigVM3g"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/GcoJZKlSO_g/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBOKEMwDw==&rs=AOn4CLD9QvqKTM7dHk_HvsF4XABWigVM3g",
+      "media_url": "https://i.ytimg.com/vi/GcoJZKlSO_g/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBOKEMwDw==&rs=AOn4CLD9QvqKTM7dHk_HvsF4XABWigVM3g",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/GcoJZKlSO_g",
+        "thumbnail_url": "https://i.ytimg.com/vi/GcoJZKlSO_g/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBOKEMwDw==&rs=AOn4CLD9QvqKTM7dHk_HvsF4XABWigVM3g",
+        "caption": "🌿 GastroHeal Powder – Your Ultimate Digestive Care Solution! 🌿\n\nStruggling with constipation, acidity, bloating, or mouth ulcers? Try GastroHeal Powder, a natural herbal formula that supports complete gut health! ✅ No senna leaves – Safe for long-term use!\n\n✨ Key Benefits:\n✔️ Relieves constipation & regulates bowel movements\n✔️ Reduces acidity, gas, and bloating\n✔️ Soothes mouth ulcers naturally\n✔️ Supports digestion & gut detox\n✔️ 100% Ayurvedic & free from harsh laxatives\n\n🔥 Say goodbye to gut issues and enjoy healthy digestion every day!\n\n👉 Try GastroHeal Now! 🛒 https://hiralhealth.com/product/gastr...\n\n🔔 Subscribe for more health tips! #GastroHeal #GutHealth #DigestiveCare #ConstipationRelief #AcidityRelief #BloatingRelief #MouthUlcers #NaturalDigestion #AyurvedicRemedy #HerbalHealth #HealthyGut #StomachCare #IBSRelief #DetoxYourGut #NoMoreConstipation #ImproveDigestion #AyurvedicMedicine #GutHealing #BowelHealth #HomeRemedies #GutHealth #DigestiveCare #GastroHeal #ConstipationRelief",
+        "posted_at": "2025-02-11T11:50:07.000Z",
+        "likes": 5,
+        "views": 784
+      }
+    },
+    {
+      "fingerprint": "dd84fe03acd8",
+      "raw_name": "T-JUMP Testosterone Booster Tablets",
+      "clean_name": "T-JUMP Testosterone Booster Tablets",
+      "product_category": "Nutraceutical Supplement",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "T-JUMP is a natural testosterone support formulated to boost strength, stamina, and performance. It helps build lean muscle, enhance energy, and improve athletic performance naturally.",
+      "seo_title": "T-JUMP Testosterone Booster Tablets",
+      "alt_text": "T-JUMP Testosterone Booster Tablets",
+      "tags": [
+        "Testosterone Booster",
+        "Strength",
+        "Stamina",
+        "Performance",
+        "Natural",
+        "Ayurvedic",
+        "Nutraceutical",
+        "Muscle Building",
+        "Energy"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "form": "Tablets",
+        "quantity": "60 Tablets",
+        "type": "Nutraceutical",
+        "key_ingredients": "Gokshura, Ashwagandha, Safed Musli, Kaunch Beej, Shatavari, Fenugreek, BCAAs, L-Histidine, L-Valine"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=Cp0-MGrZyHQ",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/Cp0-MGrZyHQ/maxresdefault.jpg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/Cp0-MGrZyHQ/maxresdefault.jpg",
+      "media_url": "https://i.ytimg.com/vi/Cp0-MGrZyHQ/maxresdefault.jpg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=Cp0-MGrZyHQ",
+        "thumbnail_url": "https://i.ytimg.com/vi/Cp0-MGrZyHQ/maxresdefault.jpg",
+        "caption": "🔥 T-JUMP Testosterone Booster Tablets – Boost Strength, Stamina & Performance Naturally! 🔥\n\nLooking to build lean muscle, boost energy, and improve overall performance? Say hello to T-JUMP – your natural testosterone support!\n\nFormulated with powerful Ayurvedic ingredients like Gokshura, Ashwagandha, Safed Musli, Kaunch Beej, Shatavari, and Fenugreek, plus BCAAs, L-Histidine, and L-Valine, T-JUMP helps:\n✅ Naturally boost testosterone levels\n✅ Enhance energy, stamina & athletic performance\n✅ Support muscle growth & faster recovery\n✅ Improve vitality and male wellness\n\nWhether you're hitting the gym or just want to feel your best every day, T-JUMP fuels your goals — naturally and effectively.\n\n💊 Take charge of your strength. Take the leap with T-JUMP!\n👉 Available now – Don’t forget to like, share & subscribe for more health tips!",
+        "posted_at": "2025-06-18T10:17:23.000Z",
+        "likes": 5,
+        "views": 166
+      }
+    },
+    {
+      "fingerprint": "2ca661c9e337",
+      "raw_name": "Viz-9 Tablets",
+      "clean_name": "Viz-9 Tablets",
+      "product_category": "Eye Care Supplement",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Viz-9 Tablets by Hiral Health are a daily eye care companion formulated to protect eyes from blue light, reduce strain, improve visual clarity, support night vision, and promote long-term eye wellness.",
+      "seo_title": "Viz-9 Tablets",
+      "alt_text": "Viz-9 Tablets",
+      "tags": [
+        "eye care",
+        "supplement",
+        "digital age",
+        "blue light protection",
+        "eye strain",
+        "vision",
+        "retina health",
+        "Hiral Health",
+        "Viz-9"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Form": "Tablets",
+        "Brand": "Hiral Health",
+        "Key Ingredients": "Blueberry Extract, Lutein, Zeaxanthin, Astaxanthin, Beta Carotene, Vitamin A, E, Zinc, Copper",
+        "Primary Benefits": "Protects eyes from harmful blue light, Reduces eye strain & fatigue from screen use, Improves visual clarity and sharpness, Supports night vision and retina health, Promotes long-term eye wellness"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=jQYlAN43SSw",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/jQYlAN43SSw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChNMA8=&rs=AOn4CLDqxqvZsfIxXktoWOVMI-vvR24Ijg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/jQYlAN43SSw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChNMA8=&rs=AOn4CLDqxqvZsfIxXktoWOVMI-vvR24Ijg",
+      "media_url": "https://i.ytimg.com/vi/jQYlAN43SSw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChNMA8=&rs=AOn4CLDqxqvZsfIxXktoWOVMI-vvR24Ijg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=jQYlAN43SSw",
+        "thumbnail_url": "https://i.ytimg.com/vi/jQYlAN43SSw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChNMA8=&rs=AOn4CLDqxqvZsfIxXktoWOVMI-vvR24Ijg",
+        "caption": "👁️ Introducing Viz-9 Tablets by Hiral Health – Your daily companion for complete eye care in the digital age!\n\nFormulated with a powerful blend of Blueberry Extract, Lutein, Zeaxanthin, Astaxanthin, Beta Carotene, Vitamin A, E, Zinc, and Copper, Viz-9 Tablets are designed to:\n✔️ Protect eyes from harmful blue light\n✔️ Reduce eye strain & fatigue from screen use\n✔️ Improve visual clarity and sharpness\n✔️ Support night vision and retina health\n✔️ Promote long-term eye wellness\n\n💊 Backed by both Ayurveda and modern science, Viz-9 Tablets deliver effective results with natural, safe ingredients.\n\n📦 Trusted by thousands – manufactured in a certified facility with strict FSSAI compliance.\n\n✅ Suitable for students, professionals, and anyone exposed to screens for long hours.\n\n🔗 Order Now and give your eyes the care they deserve!\nhttps://hiralhealth.com/\n\n#Viz9Tablets #EyeCareSupplement #LuteinZeaxanthin #BlueLightProtection #EyeHealth #HiralHealth #VisionSupport",
+        "posted_at": "2025-11-26T08:26:04.000Z",
+        "likes": 1,
+        "views": 3
+      }
+    },
+    {
+      "fingerprint": "0c49cf06db73",
+      "raw_name": "Gutsyral Prebiotic & Probiotic Capsules",
+      "clean_name": "Gutsyral Prebiotic & Probiotic Capsules",
+      "product_category": "Health Supplement",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Gutsyral is a prebiotic and probiotic supplement from Hiral Health designed to support digestive health, boost immunity, and promote overall well-being. It helps relieve common issues like bloating, indigestion, and gas, and also aids with lactose intolerance.",
+      "seo_title": "Gutsyral Prebiotic & Probiotic Capsules",
+      "alt_text": "Gutsyral Prebiotic & Probiotic Capsules",
+      "tags": [
+        "Gut Health",
+        "Prebiotic",
+        "Probiotic",
+        "Digestion",
+        "Immunity",
+        "Bloating Relief",
+        "Indigestion Relief",
+        "Lactose Intolerance"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Probiotic Strains": "15 Powerful Probiotic Strains",
+        "CFUs Per Capsule": "61 Billion CFUs Per Veg Capsule",
+        "Prebiotic Inclusion": "Includes Prebiotic (FOS) for Maximum Effectiveness",
+        "Form": "Capsules"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/wYbipThHPbM",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/wYbipThHPbM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBKKD8wDw==&rs=AOn4CLDuXr1W6iQQSLf2I4pgxK_kN4KQkQ"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/wYbipThHPbM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBKKD8wDw==&rs=AOn4CLDuXr1W6iQQSLf2I4pgxK_kN4KQkQ",
+      "media_url": "https://i.ytimg.com/vi/wYbipThHPbM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBKKD8wDw==&rs=AOn4CLDuXr1W6iQQSLf2I4pgxK_kN4KQkQ",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/wYbipThHPbM",
+        "thumbnail_url": "https://i.ytimg.com/vi/wYbipThHPbM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBKKD8wDw==&rs=AOn4CLDuXr1W6iQQSLf2I4pgxK_kN4KQkQ",
+        "caption": "🌿 Hiral Health's Gutsyral: The Ultimate Prebiotic & Probiotic for Gut Health! 🌿\n\nStruggling with bloating, indigestion, or an imbalanced gut? Gutsyral prebiotic & probiotic capsules are here to support your digestive health, boost immunity, and promote overall well-being! 💪✨\n\n🔹 Why Choose Gutsyral?\n✅ 15 Powerful Probiotic Strains\n✅ 61 Billion CFUs Per Veg Capsule\n✅ Includes Prebiotic (FOS) for Maximum Effectiveness\n✅ Supports Digestion, Immunity & Gut Health\n✅ Helps Relieve Bloating, Gas & Constipation\n✅ Convenient, Shelf-Stable Formula\n\nGive your gut the care it deserves with Gutsyral Capsules! 🌱💊\n\n👉 Order Now: https://hiralhealth.com/product/gutsy...\n👍 Like, Share & Subscribe for more health tips!\n\n#Gutsyral #Probiotics #GutHealth #DigestiveHealth #HealthyLiving",
+        "posted_at": "2025-02-17T18:30:50.000Z",
+        "likes": 26,
+        "views": 1731
+      }
+    },
+    {
+      "fingerprint": "6f49e8022ea7",
+      "raw_name": "Gutsyral",
+      "clean_name": "Gutsyral",
+      "product_category": "Probiotic Supplement",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Gutsyral is a scientifically formulated blend of 16 powerful probiotic strains (61 billion CFU) and prebiotic FOS. It works to restore healthy gut flora, improve digestion, and boost immunity, while also supporting metabolism, relieving bloating & gas, and enhancing overall gastrointestinal health.",
+      "seo_title": "Gutsyral",
+      "alt_text": "Gutsyral",
+      "tags": [
+        "probiotic",
+        "prebiotic",
+        "gut care",
+        "digestion",
+        "immunity",
+        "metabolism",
+        "bloating relief",
+        "gas relief",
+        "gastrointestinal health",
+        "non-GMO",
+        "shelf-stable",
+        "vegetarian"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Probiotic Strains": "16",
+        "CFU Strength": "61 billion",
+        "Prebiotic": "FOS",
+        "Formula Type": "Non-GMO, shelf-stable, vegetarian"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/p61fTM-KZEs",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/p61fTM-KZEs/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AdwDgALSBooCDAgAEAEYfyBLKCowDw==&rs=AOn4CLCllUPi0j59Q13aAkTELb39iC1GGQ"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/p61fTM-KZEs/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AdwDgALSBooCDAgAEAEYfyBLKCowDw==&rs=AOn4CLCllUPi0j59Q13aAkTELb39iC1GGQ",
+      "media_url": "https://i.ytimg.com/vi/p61fTM-KZEs/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AdwDgALSBooCDAgAEAEYfyBLKCowDw==&rs=AOn4CLCllUPi0j59Q13aAkTELb39iC1GGQ",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/p61fTM-KZEs",
+        "thumbnail_url": "https://i.ytimg.com/vi/p61fTM-KZEs/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AdwDgALSBooCDAgAEAEYfyBLKCowDw==&rs=AOn4CLCllUPi0j59Q13aAkTELb39iC1GGQ",
+        "caption": "16 Probiotic Strains + Prebiotic Blend for Complete Gut Care\n\nGutsyral is a scientifically formulated blend of 16 powerful probiotic strains with a strength of 61 billion CFU and prebiotic FOS that work together to restore healthy gut flora, improve digestion, and boost immunity. Designed as a non-GMO, shelf-stable vegetarian formula, it supports metabolism, relieves bloating & gas, and enhances overall gastrointestinal health.",
+        "posted_at": "2025-11-26T08:35:18.000Z",
+        "likes": 10,
+        "views": 553
+      }
+    },
+    {
+      "fingerprint": "eeb0be9451ac",
+      "raw_name": "Cholesfix Tablets",
+      "clean_name": "Cholesfix Tablets",
+      "product_category": "Heart Health Supplement",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Cholesfix is a premium heart health supplement formulated with a powerful blend of Ayurvedic herbs and modern nutrients. It helps lower bad cholesterol, regulate blood pressure, combat inflammation, and support overall cardiovascular wellness.",
+      "seo_title": "Cholesfix Tablets",
+      "alt_text": "Cholesfix Tablets",
+      "tags": [
+        "Ayurvedic",
+        "Modern Science",
+        "Heart Health",
+        "Cholesterol",
+        "Blood Pressure",
+        "Inflammation",
+        "Blood Sugar",
+        "Supplement",
+        "Tablets"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Formulation": "Ayurvedic + Modern Science",
+        "Key Benefits": "Reduces LDL cholesterol & triglycerides, Supports healthy blood pressure levels, Combats inflammation for better heart health, Regulates blood sugar"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/zphVrwUjE2U",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/zphVrwUjE2U/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBVKEgwDw==&rs=AOn4CLA7bQrNAM8RJs4MiVz3YQnvEOad_g"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/zphVrwUjE2U/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBVKEgwDw==&rs=AOn4CLA7bQrNAM8RJs4MiVz3YQnvEOad_g",
+      "media_url": "https://i.ytimg.com/vi/zphVrwUjE2U/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBVKEgwDw==&rs=AOn4CLA7bQrNAM8RJs4MiVz3YQnvEOad_g",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/zphVrwUjE2U",
+        "thumbnail_url": "https://i.ytimg.com/vi/zphVrwUjE2U/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBVKEgwDw==&rs=AOn4CLA7bQrNAM8RJs4MiVz3YQnvEOad_g",
+        "caption": "Cholesfix Tablets – Ayurvedic + Modern Science for a Healthy Heart! ❤️💊\n\nCholesfix is a premium heart health supplement formulated with a powerful blend of Ayurvedic herbs and modern nutrients. It helps lower bad cholesterol, regulate blood pressure, combat inflammation, and support overall cardiovascular wellness.\n\n🔹 Key Benefits:\n✅ Reduces LDL cholesterol & triglycerides\n✅ Supports healthy blood pressure levels\n✅ Combats inflammation for better heart health\n✅ Regulates blood sugar & promotes circulation\n✅ Strengthens heart muscles & arterial health\n\nPowerful Ingredients: Arjuna Bark, Flax Seeds, Guggul, Garlic, Dalchini, Vitamin B3, Vitamin D, Magnesium\n\nGive your heart the care it deserves with Cholesfix Tablets!\nOrder Now: https://hiralhealth.com/product/chole...\n\n🔔 Subscribe for more health tips & wellness updates!\n#HeartHealth #CholesterolControl #BloodPressure #Ayurveda #Cholesfix #HealthyHeart",
+        "posted_at": "2025-02-17T18:30:54.000Z",
+        "likes": 15,
+        "views": 460
+      }
+    },
+    {
+      "fingerprint": "c769ba9db4e7",
+      "raw_name": "Hiral Health's Gutsyral Prebiotic & Probiotic Veg Capsules",
+      "clean_name": "Hiral Health's Gutsyral Prebiotic & Probiotic Veg Capsules",
+      "product_category": "Prebiotic & Probiotic Supplement",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Hiral Health's Gutsyral Prebiotic & Probiotic Veg Capsules combine 16 probiotic strains with a strength of 61 billion CFU and Prebiotic FOS. This non-GMO, shelf-stable formula is designed to restore gut balance, improve digestion, and boost immunity. It helps relieve bloating, gas, constipation, and supports metabolism, skin health, and overall wellness, including restoring balance after antibiotics.",
+      "seo_title": "Hiral Health's Gutsyral Prebiotic & Probiotic Veg Capsules",
+      "alt_text": "Hiral Health's Gutsyral Prebiotic & Probiotic Veg Capsules",
+      "tags": [
+        "prebiotic",
+        "probiotic",
+        "gut health",
+        "digestion",
+        "immunity",
+        "bloating relief",
+        "gas relief",
+        "constipation relief",
+        "metabolism support",
+        "skin health",
+        "overall wellness",
+        "post-antibiotic recovery"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "probiotic_strains": "16",
+        "cfu_strength": "61 billion",
+        "prebiotic_type": "FOS",
+        "form": "Veg Capsules",
+        "gmo_status": "Non-GMO",
+        "stability": "Shelf-stable"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 0.95,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/watch?v=c-x_w9LhWic",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/c-x_w9LhWic/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDUgLyh_MA8=&rs=AOn4CLB-HiXSdoVyMSCUO-Q203ipbU6UUw"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/c-x_w9LhWic/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDUgLyh_MA8=&rs=AOn4CLB-HiXSdoVyMSCUO-Q203ipbU6UUw",
+      "media_url": "https://i.ytimg.com/vi/c-x_w9LhWic/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDUgLyh_MA8=&rs=AOn4CLB-HiXSdoVyMSCUO-Q203ipbU6UUw",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/watch?v=c-x_w9LhWic",
+        "thumbnail_url": "https://i.ytimg.com/vi/c-x_w9LhWic/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDUgLyh_MA8=&rs=AOn4CLB-HiXSdoVyMSCUO-Q203ipbU6UUw",
+        "caption": "Hiral Health's Gutsyral Prebiotic & Probiotic Veg Capsules combine 16 probiotic strains having a strength of 61 billion CFU with Prebiotic FOS to restore gut balance, improve digestion, and boost immunity. This non-GMO, shelf-stable formula helps relieve bloating, gas, constipation and supports metabolism, skin health, and overall wellness.\n\n✅ Improves digestion & nutrient absorption\n✅ Relieves bloating, gas & constipation\n✅ Strengthens immunity & gut health\n✅ Restores balance after antibiotics\n✅ 100% vegetarian, shelf-stable formula\n\nWhy Choose Gutsyral?\n\n🌿 16 Diverse Probiotic Strains – Lactobacillus, Bifidobacterium, Streptococcus, Bacillus & Saccharomyces boulardii for complete gut health.\n\n🌿 Prebiotic FOS (Fructooligosaccharides) – Nourishes probiotics to improve their effectiveness.\n\n🌿 Non-GMO, Shelf-Stable – No refrigeration needed, convenient for daily use.\n\n🌿 100% Vegetarian Capsules – Clean label, safe for long-term use.\n\nWho Can Benefit?\n\n🌿People with bloating, gas, acidity, or constipation\n🌿Those recovering from antibiotic treatment\n🌿Individuals with IBS, IBD, or irregular digestion\n🌿People seeking stronger immunity & better energy\n🌿Anyone looking to improve gut health, skin, and overall wellness",
+        "posted_at": "2025-11-26T08:25:07.000Z",
+        "likes": 2,
+        "views": 2824
+      }
+    },
+    {
+      "fingerprint": "a56842d0ef2f",
+      "raw_name": "Hiral Health's PCOS Support Formula (PCOS Supplement)",
+      "clean_name": "Hiral Health's PCOS Support Formula (PCOS Supplement)",
+      "product_category": "Health Supplement",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Hiral Health's PCOS Support Formula is designed for women's daily wellness and endocrine support, specifically targeting irregular periods, hormonal imbalance, and PCOS symptoms. It aims to support hormonal balance, menstrual regularity, and insulin sensitivity.",
+      "seo_title": "Hiral Health's PCOS Support Formula (PCOS Supplement)",
+      "alt_text": "Hiral Health's PCOS Support Formula (PCOS Supplement)",
+      "tags": [
+        "PCOS",
+        "Hormonal Balance",
+        "Menstrual Regularity",
+        "Insulin Sensitivity",
+        "Women's Health",
+        "Dietary Supplement",
+        "Hiral Health"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "key_ingredients": "Myo-Inositol, D-Chiro-Inositol, NAC, Chasteberry, essential vitamins",
+        "inositol_ratio": "40:1 (Myo-Inositol & D-Chiro-Inositol)"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/ABEi4495ywE",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/ABEi4495ywE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTyhCMA8=&rs=AOn4CLCksYF5T0kRRMVfls193kwCsMvhBQ"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/ABEi4495ywE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTyhCMA8=&rs=AOn4CLCksYF5T0kRRMVfls193kwCsMvhBQ",
+      "media_url": "https://i.ytimg.com/vi/ABEi4495ywE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTyhCMA8=&rs=AOn4CLCksYF5T0kRRMVfls193kwCsMvhBQ",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/ABEi4495ywE",
+        "thumbnail_url": "https://i.ytimg.com/vi/ABEi4495ywE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTyhCMA8=&rs=AOn4CLCksYF5T0kRRMVfls193kwCsMvhBQ",
+        "caption": "Struggling with irregular periods, hormonal imbalance, or PCOS symptoms?\n\nHiral Health's PCOS Support Formula contains Myo-Inositol & D-Chiro-Inositol in the ideal 40:1 ratio, along with NAC, Chasteberry, and essential vitamins to support hormonal balance, menstrual regularity, and insulin sensitivity.\n\nDesigned for women’s daily wellness and endocrine support.\n\nBalance begins from within. 🌸",
+        "posted_at": "2026-02-11T11:27:28.000Z",
+        "likes": 6,
+        "views": 505
+      }
+    },
+    {
+      "fingerprint": "3dc854b5ab09",
+      "raw_name": "Livney Pure Tablets",
+      "clean_name": "Livney Pure Tablets",
+      "product_category": "Health Supplement",
+      "product_sub_type": null,
+      "top_level_domain": null,
+      "industry_segment": null,
+      "description": "Livney Pure Tablets by Hiral Health offer natural support for liver and kidney detox. Formulated to flush toxins, support metabolism, and boost overall vitality, they also help with fatty liver, improve digestion, energy levels, and support natural stone dissolution.",
+      "seo_title": "Livney Pure Tablets",
+      "alt_text": "Livney Pure Tablets",
+      "tags": [
+        "liver detox",
+        "kidney detox",
+        "natural support",
+        "health supplement",
+        "Hiral Health",
+        "detoxification",
+        "fatty liver",
+        "digestion",
+        "energy",
+        "stone dissolution"
+      ],
+      "price_single": null,
+      "price_text": null,
+      "currency": "INR",
+      "specifications": {
+        "Formulation": "Milk Thistle, Varuna, Punarnava, Dandelion Root, L-Methionine, Choline & Inositol",
+        "Benefits": "Supports Liver & Kidney Detoxification, Helps with Fatty Liver & Toxin Removal, Improves Digestion & Energy Levels, Supports Stone Dissolution Naturally"
+      },
+      "b2b_attributes": {},
+      "classification_confidence": 1,
+      "extraction_confidence": 0.65,
+      "source": "youtube",
+      "sources": [
+        "youtube"
+      ],
+      "source_url": "https://www.youtube.com/shorts/sAWvsgVsK2s",
+      "photo_urls": [
+        "https://i.ytimg.com/vi/sAWvsgVsK2s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTChDMA8=&rs=AOn4CLBMamkjhVUxH64wgOJW3NfQIAAHAg"
+      ],
+      "primary_photo_url": "https://i.ytimg.com/vi/sAWvsgVsK2s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTChDMA8=&rs=AOn4CLBMamkjhVUxH64wgOJW3NfQIAAHAg",
+      "media_url": "https://i.ytimg.com/vi/sAWvsgVsK2s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTChDMA8=&rs=AOn4CLBMamkjhVUxH64wgOJW3NfQIAAHAg",
+      "used_vision": true,
+      "social_source": {
+        "platform": "youtube",
+        "post_url": "https://www.youtube.com/shorts/sAWvsgVsK2s",
+        "thumbnail_url": "https://i.ytimg.com/vi/sAWvsgVsK2s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTChDMA8=&rs=AOn4CLBMamkjhVUxH64wgOJW3NfQIAAHAg",
+        "caption": "Cleanse your body from within with Livney Pure Tablets by Hiral Health — your natural support for liver and kidney detox. 🌿\nFormulated with Milk Thistle, Varuna, Punarnava, Dandelion Root, L-Methionine, Choline & Inositol, it helps flush toxins, support metabolism, and boost overall vitality.\n\n✨ Benefits:\n✅ Supports Liver & Kidney Detoxification\n✅ Helps with Fatty Liver & Toxin Removal\n✅ Improves Digestion & Energy Levels\n✅ Supports Stone Dissolution Naturally\n\n💊 Livney Pure — Strengthen Your Core Health Naturally!\n\n🔗 Shop Now: https://hiralhealth.com/products/livn...\n#HiralHealth #LivneyPure #LiverDetox #KidneyHealth",
+        "posted_at": "2025-10-24T14:15:10.000Z",
+        "likes": 5,
+        "views": 1269
+      }
+    }
+  ],
   "rejected_items": [],
   "reviews": [
     {
       "author": "bros ent",
       "rating": 5,
       "text": "Hiral Labs. is one of the best plant in Uttarakhand to get manufactured international standard quality products. The admirable characteristic of Hiral Labs is their timely delivery . The Marketing executives are also appreciable , as they response in proper manner while there is any kind of query . The owner of this Organization is really highly regard-able person. He is well responsive and clear minded .",
-      "original_lang": "en",
-      "date": "2023-07-13T09:14:33.262Z",
+      "original_lang": null,
+      "date": "2023-07-13T09:14:33Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Sudheer Kumar",
       "rating": 5,
       "text": "Company is very good in product quality.",
-      "original_lang": "en",
-      "date": "2025-12-29T16:28:54.949Z",
+      "original_lang": null,
+      "date": "2025-12-29T16:24:37Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "KIRAN JOSHI",
       "rating": 5,
       "text": "We have been working with Hiral labs since 10 years, Hiral lab offers best quality products, timely delivery schedules. Overall very much satisfied with our association with Hiral labs.",
-      "original_lang": "en",
-      "date": "2023-07-17T09:06:25.536Z",
+      "original_lang": null,
+      "date": "2023-07-17T09:01:30Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Chetan Pujara",
       "rating": 5,
       "text": "Associated with Hiral Lab & His Team more than 6 years, yet no complain of quality  as well as packing or anything related to stability of products,\nmoreover smooth coordination with marketing team & timely supply of products which is the key success of HIRAL LABS & TEAM.",
-      "original_lang": "en",
-      "date": "2023-07-13T09:18:33.664Z",
+      "original_lang": null,
+      "date": "2023-07-13T09:18:33Z",
       "likes": 0,
       "is_local_guide": true,
       "owner_response": null
@@ -241,208 +824,38 @@
       "author": "Rohit",
       "rating": 5,
       "text": "we glad to work with your company, your quality of products is good and your staff very professional and cooperative. we dealing with Shubham Bhatt he take his client seriously and resolve all issue as soon as possible which we like most. your sales,dispatch, designing and commitment and all very impressive.",
-      "original_lang": "en",
-      "date": "2019-03-09T09:13:59.924Z",
+      "original_lang": null,
+      "date": "2019-03-09T09:13:59Z",
       "likes": 4,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Nopex Healthcare",
       "rating": 5,
       "text": "Hiral Labs is one of the trusted, manufacturing company, produces all products with best quality, We have an experience of working with Hiral labs more than 5 years",
-      "original_lang": "en",
-      "date": "2023-07-11T11:57:14.869Z",
+      "original_lang": null,
+      "date": "2023-07-11T11:57:14Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "Parag Lalpura",
       "rating": 5,
       "text": "Hiral labs is manufacturing Kristal Pharmaceutical products for last 7 years & they did phenomenal job. There was no compromise in quality & they ensured best quality. Kristal Pharmaceutical is manufacturing 30 products at Hiral Labs.",
-      "original_lang": "en",
-      "date": "2023-07-13T10:47:21.622Z",
+      "original_lang": null,
+      "date": "2023-07-13T10:47:21Z",
       "likes": 0,
-      "is_local_guide": false,
+      "is_local_guide": true,
       "owner_response": null
     },
     {
       "author": "cezane remedies",
       "rating": 5,
       "text": "hiral labs is one of the trusted & committed manufracting company. we have working with hiral labs more than 12 years..we appreciate on time delivery and also quality products ...",
-      "original_lang": "en",
-      "date": "2023-07-13T09:35:23.060Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "KAREKIND PHARMACEUTICAL",
-      "rating": 5,
-      "text": "We appreciate hiral lab limited\nfor honest efforts to provide us a quality products and have professional approach to co-operate  us in growth as a hole.\nWe pray and hope. hiral lab limited will mentain same approach and professionalism.\nWe wish all good luck.",
-      "original_lang": "en",
-      "date": "2023-07-11T05:39:08.001Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Order Treatwell Pharma",
-      "rating": 5,
-      "text": "Hiral labs is one of the best company with their best Quality Products,Management & Services and Staff is very Co-Operative A great Experience Working with him.",
-      "original_lang": "en",
-      "date": "2023-07-11T11:47:20.661Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "VILTIS PHARMA",
-      "rating": 5,
-      "text": "HIRAL LABS LIMITED IS TIMELY GIVEN ALL PRODUCTS & SERVICE. ITS GOOD MANUFACTURER WITH QUALITY PRODUCTS. WE ARE HAPPY WITH THEIR SERVICE ALSO.",
-      "original_lang": "en",
-      "date": "2023-07-10T11:16:13.489Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Rohit Kumar",
-      "rating": 1,
-      "text": "Dealing with Hiral Labs is like dealing with \" Sarkaari company\". No one responds .Review have given by their employees only .",
-      "original_lang": "en",
-      "date": "2023-08-28T07:22:58.725Z",
-      "likes": 1,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "J. K. Singh",
-      "rating": 5,
-      "text": "Associated since 13 years. having very nice experience with them. Good quality, dispatch and well organised working system.proud to be associated with them.",
-      "original_lang": "en",
-      "date": "2019-03-09T05:06:33.695Z",
-      "likes": 2,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Mohd Dilshad",
-      "rating": 5,
-      "text": "Very nice place and best Wark",
-      "original_lang": "en",
-      "date": "2018-02-01T05:51:53.110Z",
-      "likes": 1,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Vikas Saini",
-      "rating": 5,
-      "text": "I Love Hiral labs Ltd.\nCompany is very good in product quality.",
-      "original_lang": "en",
-      "date": "2019-03-30T00:03:27.790Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "STERIS HEALTHCARE",
-      "rating": 5,
-      "text": "EXCELLENT MANUFACTURER TIMELY DELIVERY WITH ASSURED QUALITY. FRIENDLY MARKETING TEAM.",
-      "original_lang": "en",
-      "date": "2023-07-10T09:25:14.891Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "approval anax",
-      "rating": 5,
-      "text": "Favorable service with good quality.....Pleasure to be in your clientele",
-      "original_lang": "en",
-      "date": "2023-07-10T08:48:44.836Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Pankaj Tyagi",
-      "rating": 5,
-      "text": "Quality Products, Timely supplies. Excellent Experience.",
-      "original_lang": "en",
-      "date": "2019-03-09T08:59:45.191Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Prem Kumar",
-      "rating": 1,
-      "text": "Pathetic company.Poor customer service.Callous attitude of marketing staff towards customers.",
-      "original_lang": "en",
-      "date": "2021-10-07T11:03:40.842Z",
-      "likes": 2,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Narendra Kumar Burnwal",
-      "rating": 5,
-      "text": "very good in product quality",
-      "original_lang": "en",
-      "date": "2024-08-15T05:31:10.587Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "devesh pathak",
-      "rating": 1,
-      "text": "Very bad",
-      "original_lang": "en",
-      "date": "2025-02-26T10:54:52.797Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Roshan Zamir",
-      "rating": 5,
-      "text": "Batter and best medicine with  number one quality.....",
-      "original_lang": "en",
-      "date": "2022-09-19T11:06:36.017Z",
-      "likes": 1,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Shah Khan",
-      "rating": 5,
-      "text": "I like very much Hiral Labs Ltd.",
-      "original_lang": "en",
-      "date": "2019-03-09T09:29:35.908Z",
-      "likes": 0,
-      "is_local_guide": false,
-      "owner_response": null
-    },
-    {
-      "author": "Sarvesh Maurya",
-      "rating": 1,
-      "text": "Poor service.Queries of customers are hardly attended to .",
-      "original_lang": "en",
-      "date": "2023-08-03T12:09:58.333Z",
-      "likes": 1,
-      "is_local_guide": true,
-      "owner_response": null
-    },
-    {
-      "author": "Manas Kundu",
-      "rating": 5,
-      "text": "Good Business opportunities",
-      "original_lang": "en",
-      "date": "2024-06-21T01:32:18.177Z",
+      "original_lang": null,
+      "date": "2023-07-13T09:35:23Z",
       "likes": 0,
       "is_local_guide": true,
       "owner_response": null
@@ -459,21 +872,19 @@
       "we glad to work with your company, your quality of products is good and your staff very professional and cooperative. we dealing with Shubham Bhatt he take his client seriously and resolve all issue as soon as possible which we like most. your sales,dispatch, designing and commitment and all very impressive.",
       "Hiral Labs is one of the trusted, manufacturing company, produces all products with best quality, We have an experience of working with Hiral labs more than 5 years",
       "Hiral labs is manufacturing Kristal Pharmaceutical products for last 7 years & they did phenomenal job. There was no compromise in quality & they ensured best quality. Kristal Pharmaceutical is manufacturing 30 products at Hiral Labs.",
-      "hiral labs is one of the trusted & committed manufracting company. we have working with hiral labs more than 12 years..we appreciate on time delivery and also quality products ...",
-      "We appreciate hiral lab limited\nfor honest efforts to provide us a quality products and have professional approach to co-operate  us in growth as a hole.\nWe pray and hope. hiral lab limited will mentain same approach and professionalism.\nWe wish all good luck.",
-      "Hiral labs is one of the best company with their best Quality Products,Management & Services and Staff is very Co-Operative A great Experience Working with him."
+      "hiral labs is one of the trusted & committed manufracting company. we have working with hiral labs more than 12 years..we appreciate on time delivery and also quality products ..."
     ],
     "reviews_url": "https://www.google.com/maps?cid=8389768071206129335"
   },
-  "overall_confidence": 0.36,
+  "overall_confidence": 0.38,
   "social_profiles": [
     {
       "platform": "facebook",
       "url": "https://facebook.com/hirallabsltd",
-      "profile_pic_url": null,
-      "banner_url": null,
-      "bio": null,
-      "followers_count": null,
+      "profile_pic_url": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/326751189_3357803934508505_4842651166982944029_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=f907e8&_nc_ohc=wTWFo34vDGYQ7kNvwGkqAWn&_nc_oc=AdpJscazmZAIop6q_l3N8LVGZ6kn40Di0r25ZNH9fgwim_miA2cQLMQ4EJj4cxvjZv0&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=4zqh4-ISnvHiFJzoAVPAZw&_nc_ss=7c289&oh=00_Af6MU6_dA0qKSaGi4I8wnV4favjgHFRyMnAi0FLK-Q-Tqw&oe=6A02069B",
+      "banner_url": "https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/476257359_1067963698708813_8229909917912165683_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=NBEM7eap200Q7kNvwGxMb7y&_nc_oc=Adqcxf87W1zFwECKVPKqQCEnjg4aFvryTyuxwk9t0p54VgTpC6NHVMRm_Bms8x2t5rc&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=ekK6IuIffbGPjl63ZMsqkQ&_nc_ss=7c289&oh=00_Af4xRRhdjsVdBctM719dt7rQl_l0hk16dLOJit_QrwdmRQ&oe=6A0219CA",
+      "bio": "www.hirallabs.com",
+      "followers_count": 618,
       "posts": [
         {
           "type": "post",
@@ -487,7 +898,7 @@
         },
         {
           "type": "post",
-          "post_url": "https://www.facebook.com/hirallabsltd/posts/pfbid02kfaakNj9eP8p2qrw2UBYbHb8r34zCrgiTdJMKJmciVC7R6nspjFkwyfPtAHcHJxil",
+          "post_url": "https://www.facebook.com/hirallabsltd/posts/pfbid0gdysGZXayRtHcG1yu9rECSyXRsoypbC89i4PAraVxfzv1mFbyNFSTMbeChDvRU5Pl",
           "thumbnail_url": "https://www.facebook.com/photo/?fbid=792171579621361&set=a.563143952524126",
           "caption": "We are looking forward to  network with healthcare and pharmaceutical industry leaders from around the world at Arab Health 2024 at World Trade Center, Dubai. \nVisit our stall at M.C10 at India Pavilion. \n#GlobalHealthCare #arabahealth #worldtradecenter #Dubai #IndiaPavilion",
           "likes": 6,
@@ -508,11 +919,176 @@
       ],
       "contacts_from_posts": [],
       "extra_profile": {
-        "phone": null,
-        "email": null,
-        "website": null,
-        "address": null,
+        "phone": "+91 75350 15030",
+        "email": "marketing2@hirallabs.com",
+        "website": "http://www.hirallabs.com/",
+        "address": "265, SISONA, Nr. Bhagwanpur, Roorkee, India, 247661",
         "city": null
+      }
+    },
+    {
+      "platform": "youtube",
+      "url": "https://youtube.com/channel/UCzazIPTZTgzleAjWZpvnTgw",
+      "profile_pic_url": "https://yt3.googleusercontent.com/xOsx8aKuCti18RalzqkebYd5g9HkNLenViz6QxVEsU32-mHszmfMHvIGMN3iLTLOYu-u60Ze=s68-c-k-c0x00ffffff-no-rj",
+      "banner_url": null,
+      "bio": "Hiral Labs Limited (Parent company of Hiral Health) stands as a distinguished Pharmaceutical & Nutraceutical Formulation Company, dedicated to the manufacturing and distribution of pharmaceutical products of the highest caliber since our inception in October 2000. At the heart of our operations lies a cutting-edge pharmaceutical plant, accredited with esteemed certifications including WHO-GMP and ISO 9001:2015, 22000:2018, FSSAI, ensuring the highest standards of quality and safety in every product we deliver.\n\nWith a diverse portfolio boasting over 200 brand formulations, we cater to the dynamic needs of the domestic market, supported by a network of over 80 distributors across India. Our commitment to global wellness extends beyond borders, as we export our products to more than 21 countries worldwide, spreading the benefits of our innovative solutions to diverse communities around the globe.",
+      "followers_count": 143,
+      "posts": [
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=jQYlAN43SSw",
+          "thumbnail_url": "https://i.ytimg.com/vi/jQYlAN43SSw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChNMA8=&rs=AOn4CLDqxqvZsfIxXktoWOVMI-vvR24Ijg",
+          "caption": "👁️ Introducing Viz-9 Tablets by Hiral Health – Your daily companion for complete eye care in the digital age!\n\nFormulated with a powerful blend of Blueberry Extract, Lutein, Zeaxanthin, Astaxanthin, Beta Carotene, Vitamin A, E, Zinc, and Copper, Viz-9 Tablets are designed to:\n✔️ Protect eyes from harmful blue light\n✔️ Reduce eye strain & fatigue from screen use\n✔️ Improve visual clarity and sharpness\n✔️ Support night vision and retina health\n✔️ Promote long-term eye wellness\n\n💊 Backed by both Ayurveda and modern science, Viz-9 Tablets deliver effective results with natural, safe ingredients.\n\n📦 Trusted by thousands – manufactured in a certified facility with strict FSSAI compliance.\n\n✅ Suitable for students, professionals, and anyone exposed to screens for long hours.\n\n🔗 Order Now and give your eyes the care they deserve!\nhttps://hiralhealth.com/\n\n#Viz9Tablets #EyeCareSupplement #LuteinZeaxanthin #BlueLightProtection #EyeHealth #HiralHealth #VisionSupport",
+          "likes": 1,
+          "comments": 0,
+          "views": 3,
+          "posted_at": "2025-11-26T08:26:04.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=Eabn62a2Os4",
+          "thumbnail_url": "https://i.ytimg.com/vi/Eabn62a2Os4/hqdefault.jpg",
+          "caption": "Featuring our product range in the segment of eye drops.",
+          "likes": 16,
+          "comments": 0,
+          "views": 171,
+          "posted_at": "2020-10-01T09:13:47.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/GcoJZKlSO_g",
+          "thumbnail_url": "https://i.ytimg.com/vi/GcoJZKlSO_g/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBOKEMwDw==&rs=AOn4CLD9QvqKTM7dHk_HvsF4XABWigVM3g",
+          "caption": "🌿 GastroHeal Powder – Your Ultimate Digestive Care Solution! 🌿\n\nStruggling with constipation, acidity, bloating, or mouth ulcers? Try GastroHeal Powder, a natural herbal formula that supports complete gut health! ✅ No senna leaves – Safe for long-term use!\n\n✨ Key Benefits:\n✔️ Relieves constipation & regulates bowel movements\n✔️ Reduces acidity, gas, and bloating\n✔️ Soothes mouth ulcers naturally\n✔️ Supports digestion & gut detox\n✔️ 100% Ayurvedic & free from harsh laxatives\n\n🔥 Say goodbye to gut issues and enjoy healthy digestion every day!\n\n👉 Try GastroHeal Now! 🛒 https://hiralhealth.com/product/gastr...\n\n🔔 Subscribe for more health tips! #GastroHeal #GutHealth #DigestiveCare #ConstipationRelief #AcidityRelief #BloatingRelief #MouthUlcers #NaturalDigestion #AyurvedicRemedy #HerbalHealth #HealthyGut #StomachCare #IBSRelief #DetoxYourGut #NoMoreConstipation #ImproveDigestion #AyurvedicMedicine #GutHealing #BowelHealth #HomeRemedies #GutHealth #DigestiveCare #GastroHeal #ConstipationRelief",
+          "likes": 5,
+          "comments": 0,
+          "views": 784,
+          "posted_at": "2025-02-11T11:50:07.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=Cp0-MGrZyHQ",
+          "thumbnail_url": "https://i.ytimg.com/vi/Cp0-MGrZyHQ/maxresdefault.jpg",
+          "caption": "🔥 T-JUMP Testosterone Booster Tablets – Boost Strength, Stamina & Performance Naturally! 🔥\n\nLooking to build lean muscle, boost energy, and improve overall performance? Say hello to T-JUMP – your natural testosterone support!\n\nFormulated with powerful Ayurvedic ingredients like Gokshura, Ashwagandha, Safed Musli, Kaunch Beej, Shatavari, and Fenugreek, plus BCAAs, L-Histidine, and L-Valine, T-JUMP helps:\n✅ Naturally boost testosterone levels\n✅ Enhance energy, stamina & athletic performance\n✅ Support muscle growth & faster recovery\n✅ Improve vitality and male wellness\n\nWhether you're hitting the gym or just want to feel your best every day, T-JUMP fuels your goals — naturally and effectively.\n\n💊 Take charge of your strength. Take the leap with T-JUMP!\n👉 Available now – Don’t forget to like, share & subscribe for more health tips!",
+          "likes": 5,
+          "comments": 0,
+          "views": 166,
+          "posted_at": "2025-06-18T10:17:23.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=Zy6khgUVyxE",
+          "thumbnail_url": "https://i.ytimg.com/vi/Zy6khgUVyxE/hqdefault.jpg",
+          "caption": "Hiral success story",
+          "likes": 31,
+          "comments": 0,
+          "views": 298,
+          "posted_at": "2020-09-09T05:43:54.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/wYbipThHPbM",
+          "thumbnail_url": "https://i.ytimg.com/vi/wYbipThHPbM/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBKKD8wDw==&rs=AOn4CLDuXr1W6iQQSLf2I4pgxK_kN4KQkQ",
+          "caption": "🌿 Hiral Health's Gutsyral: The Ultimate Prebiotic & Probiotic for Gut Health! 🌿\n\nStruggling with bloating, indigestion, or an imbalanced gut? Gutsyral prebiotic & probiotic capsules are here to support your digestive health, boost immunity, and promote overall well-being! 💪✨\n\n🔹 Why Choose Gutsyral?\n✅ 15 Powerful Probiotic Strains\n✅ 61 Billion CFUs Per Veg Capsule\n✅ Includes Prebiotic (FOS) for Maximum Effectiveness\n✅ Supports Digestion, Immunity & Gut Health\n✅ Helps Relieve Bloating, Gas & Constipation\n✅ Convenient, Shelf-Stable Formula\n\nGive your gut the care it deserves with Gutsyral Capsules! 🌱💊\n\n👉 Order Now: https://hiralhealth.com/product/gutsy...\n👍 Like, Share & Subscribe for more health tips!\n\n#Gutsyral #Probiotics #GutHealth #DigestiveHealth #HealthyLiving",
+          "likes": 26,
+          "comments": 3,
+          "views": 1731,
+          "posted_at": "2025-02-17T18:30:50.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=AHP31ju3DZk",
+          "thumbnail_url": "https://i.ytimg.com/vi/AHP31ju3DZk/maxresdefault.jpg",
+          "caption": "Launched a new dedicated facility for Nutraceutical & Health Supplement Products.",
+          "likes": 6,
+          "comments": 1,
+          "views": 156,
+          "posted_at": "2020-10-20T05:53:40.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/z8JPAqKZpfg",
+          "thumbnail_url": "https://i.ytimg.com/vi/z8JPAqKZpfg/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYQSBlKBcwDw==&rs=AOn4CLD0gZ_1XRL19qRtkFCV00rMgGCcmA",
+          "caption": "Livney Pure is a natural blend of Milk Thistle, Varuna, Curcumin, Dandelion Root, Licorice, L-Methionine, Choline, Inositol, and Black Pepper that supports liver detox, kidney health, and metabolism. It helps flush out toxins, reduce fatty liver, prevent kidney stones, and balance uric acid levels. With antioxidant and anti-inflammatory properties, it promotes digestion, boosts energy, and protects vital organs naturally.",
+          "likes": 1,
+          "comments": 0,
+          "views": 2387,
+          "posted_at": "2025-12-06T12:24:49.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=QEOlqDbVZPg",
+          "thumbnail_url": "https://i.ytimg.com/vi/QEOlqDbVZPg/maxresdefault.jpg",
+          "caption": "HIRAL LABS is pharmaceutical and Dietary supplement manufacturing company. We are engaged in manufacturing and marketing Pharmaceutical finished dosage and Dietary Supplement Products. Company manufactures Liquid injection, Tablets, Capsules, Powders, Ointments, Cream, Eye and Ear drops, and Oral liquids. HIRAL LABS is pharmaceutical and Dietary supplement manufacturing company. We are engaged in manufacturing and marketing of Pharmaceutical finished dosage and Dietary Supplement Products. The company manufactures Liquid injection, Tablets, Capsules, Powders, Ointments, Cream, Eye and Ear drops, and Oral liquids. More than 200 of our own Brands are marketed All over India through 65 distributors \nHiral Labs manufactures around 3500 different brands of more than 270 different formulations on a contractual basis for more than 300 Indian Companies. The company is exporting to more than 23 countries in Africa, Oceania, CIS, Middle East, Latin America, North America, and Europe.",
+          "likes": 67,
+          "comments": 7,
+          "views": 1923,
+          "posted_at": "2022-07-13T12:22:24.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/p61fTM-KZEs",
+          "thumbnail_url": "https://i.ytimg.com/vi/p61fTM-KZEs/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AdwDgALSBooCDAgAEAEYfyBLKCowDw==&rs=AOn4CLCllUPi0j59Q13aAkTELb39iC1GGQ",
+          "caption": "16 Probiotic Strains + Prebiotic Blend for Complete Gut Care\n\nGutsyral is a scientifically formulated blend of 16 powerful probiotic strains with a strength of 61 billion CFU and prebiotic FOS that work together to restore healthy gut flora, improve digestion, and boost immunity. Designed as a non-GMO, shelf-stable vegetarian formula, it supports metabolism, relieves bloating & gas, and enhances overall gastrointestinal health.",
+          "likes": 10,
+          "comments": 0,
+          "views": 553,
+          "posted_at": "2025-11-26T08:35:18.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/zphVrwUjE2U",
+          "thumbnail_url": "https://i.ytimg.com/vi/zphVrwUjE2U/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBVKEgwDw==&rs=AOn4CLA7bQrNAM8RJs4MiVz3YQnvEOad_g",
+          "caption": "Cholesfix Tablets – Ayurvedic + Modern Science for a Healthy Heart! ❤️💊\n\nCholesfix is a premium heart health supplement formulated with a powerful blend of Ayurvedic herbs and modern nutrients. It helps lower bad cholesterol, regulate blood pressure, combat inflammation, and support overall cardiovascular wellness.\n\n🔹 Key Benefits:\n✅ Reduces LDL cholesterol & triglycerides\n✅ Supports healthy blood pressure levels\n✅ Combats inflammation for better heart health\n✅ Regulates blood sugar & promotes circulation\n✅ Strengthens heart muscles & arterial health\n\nPowerful Ingredients: Arjuna Bark, Flax Seeds, Guggul, Garlic, Dalchini, Vitamin B3, Vitamin D, Magnesium\n\nGive your heart the care it deserves with Cholesfix Tablets!\nOrder Now: https://hiralhealth.com/product/chole...\n\n🔔 Subscribe for more health tips & wellness updates!\n#HeartHealth #CholesterolControl #BloodPressure #Ayurveda #Cholesfix #HealthyHeart",
+          "likes": 15,
+          "comments": 3,
+          "views": 460,
+          "posted_at": "2025-02-17T18:30:54.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/watch?v=c-x_w9LhWic",
+          "thumbnail_url": "https://i.ytimg.com/vi/c-x_w9LhWic/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDUgLyh_MA8=&rs=AOn4CLB-HiXSdoVyMSCUO-Q203ipbU6UUw",
+          "caption": "Hiral Health's Gutsyral Prebiotic & Probiotic Veg Capsules combine 16 probiotic strains having a strength of 61 billion CFU with Prebiotic FOS to restore gut balance, improve digestion, and boost immunity. This non-GMO, shelf-stable formula helps relieve bloating, gas, constipation and supports metabolism, skin health, and overall wellness.\n\n✅ Improves digestion & nutrient absorption\n✅ Relieves bloating, gas & constipation\n✅ Strengthens immunity & gut health\n✅ Restores balance after antibiotics\n✅ 100% vegetarian, shelf-stable formula\n\nWhy Choose Gutsyral?\n\n🌿 16 Diverse Probiotic Strains – Lactobacillus, Bifidobacterium, Streptococcus, Bacillus & Saccharomyces boulardii for complete gut health.\n\n🌿 Prebiotic FOS (Fructooligosaccharides) – Nourishes probiotics to improve their effectiveness.\n\n🌿 Non-GMO, Shelf-Stable – No refrigeration needed, convenient for daily use.\n\n🌿 100% Vegetarian Capsules – Clean label, safe for long-term use.\n\nWho Can Benefit?\n\n🌿People with bloating, gas, acidity, or constipation\n🌿Those recovering from antibiotic treatment\n🌿Individuals with IBS, IBD, or irregular digestion\n🌿People seeking stronger immunity & better energy\n🌿Anyone looking to improve gut health, skin, and overall wellness",
+          "likes": 2,
+          "comments": 0,
+          "views": 2824,
+          "posted_at": "2025-11-26T08:25:07.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/INzb84DqFLU",
+          "thumbnail_url": "https://i.ytimg.com/vi/INzb84DqFLU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBPKEowDw==&rs=AOn4CLBu17v98I1jXPkezdXfwLCdcKP0bw",
+          "caption": "💥 Build Strength. Boost Stamina. Dominate Performance – Naturally! 💪\nTired of low energy and slow recovery? It’s time to power up with T-JUMP Testosterone Booster Tablets – a potent blend of Gokshura, Ashwagandha, Safed Musli, Kaunch Beej, Shatavari, Fenugreek, BCAAs, L-Histidine & L-Valine.\n\n🔥 Naturally supports testosterone\n🔥 Enhances stamina & energy\n🔥 Fuels muscle growth & fast recovery\n🔥 Made for real men who want real results\n\nNo shortcuts. Just science-backed strength.\nTake the leap. Take T-JUMP.\n\n#TJump #TestosteroneBooster #MuscleGains #NaturalPower #MensHealth #StrengthFuel #FitnessSupplement #EnergyBooster #ReelItStrong",
+          "likes": 5,
+          "comments": 0,
+          "views": 461,
+          "posted_at": "2025-06-18T11:03:39.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/ABEi4495ywE",
+          "thumbnail_url": "https://i.ytimg.com/vi/ABEi4495ywE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTyhCMA8=&rs=AOn4CLCksYF5T0kRRMVfls193kwCsMvhBQ",
+          "caption": "Struggling with irregular periods, hormonal imbalance, or PCOS symptoms?\n\nHiral Health's PCOS Support Formula contains Myo-Inositol & D-Chiro-Inositol in the ideal 40:1 ratio, along with NAC, Chasteberry, and essential vitamins to support hormonal balance, menstrual regularity, and insulin sensitivity.\n\nDesigned for women’s daily wellness and endocrine support.\n\nBalance begins from within. 🌸",
+          "likes": 6,
+          "comments": 0,
+          "views": 505,
+          "posted_at": "2026-02-11T11:27:28.000Z"
+        },
+        {
+          "type": "video",
+          "post_url": "https://www.youtube.com/shorts/sAWvsgVsK2s",
+          "thumbnail_url": "https://i.ytimg.com/vi/sAWvsgVsK2s/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIACgA-KAgwIABABGGUgTChDMA8=&rs=AOn4CLBMamkjhVUxH64wgOJW3NfQIAAHAg",
+          "caption": "Cleanse your body from within with Livney Pure Tablets by Hiral Health — your natural support for liver and kidney detox. 🌿\nFormulated with Milk Thistle, Varuna, Punarnava, Dandelion Root, L-Methionine, Choline & Inositol, it helps flush toxins, support metabolism, and boost overall vitality.\n\n✨ Benefits:\n✅ Supports Liver & Kidney Detoxification\n✅ Helps with Fatty Liver & Toxin Removal\n✅ Improves Digestion & Energy Levels\n✅ Supports Stone Dissolution Naturally\n\n💊 Livney Pure — Strengthen Your Core Health Naturally!\n\n🔗 Shop Now: https://hiralhealth.com/products/livn...\n#HiralHealth #LivneyPure #LiverDetox #KidneyHealth",
+          "likes": 5,
+          "comments": 1,
+          "views": 1269,
+          "posted_at": "2025-10-24T14:15:10.000Z"
+        }
+      ],
+      "contacts_from_posts": [],
+      "extra_profile": {
+        "location": "India",
+        "links": []
       }
     },
     {
@@ -527,8 +1103,8 @@
     }
   ],
   "pipeline_summary": {
-    "run_started_at": "2026-05-06T10:28:47.634Z",
-    "duration_seconds": 55,
+    "run_started_at": "2026-05-07T07:12:47.600Z",
+    "duration_seconds": 167,
     "agents_in_order": [
       "CompanyEnricher"
     ],
@@ -547,16 +1123,17 @@
         "recommended_agents": [
           "company",
           "sign3",
-          "await_social",
+          "social_enrichment",
           "catalog"
         ],
         "skip_agents": [
           "product",
           "dedup",
-          "reviews"
+          "reviews",
+          "media"
         ],
-        "quality_target": 0.75,
-        "reasoning": "No raw products to process, so skipping product and dedup agents. No reviews API URL, so skipping reviews agent. Focusing on company profile enrichment and phone verification."
+        "quality_target": 0.7,
+        "reasoning": "No raw products to process, so focusing on company profile enrichment and phone validation. Skipping product and dedup agents. Reviews agent skipped as no reviews API URL is provided. Media agent is implicitly skipped for product images as there are no products."
       },
       "evaluate_product_output": {
         "decision": null,
@@ -567,7 +1144,7 @@
     "products": {
       "raw_input": 0,
       "enriched": 0,
-      "catalog_items": 0,
+      "catalog_items": 10,
       "rejected": 0,
       "with_vision": 0,
       "vision_skipped": 0
@@ -576,12 +1153,13 @@
       "urls_detected": 3,
       "platforms_scraped": [
         "facebook",
+        "youtube",
         "linkedin"
       ],
-      "posts_collected": 3,
-      "social_products_extracted": 0
+      "posts_collected": 18,
+      "social_products_extracted": 10
     },
-    "overall_confidence": 0.36
+    "overall_confidence": 0.38
   },
-  "_saved_at": "2026-05-06T10:29:43.087Z"
+  "_saved_at": "2026-05-07T07:15:34.598Z"
 }
