@@ -8,6 +8,7 @@ import {
   buildCatalogFeedbackPayload,
   saveCatalogFeedbackSubmission,
 } from "@/lib/catalogFeedbackStore";
+import { sendFeedbackEmail } from "@/lib/sendEmail";
 
 interface CatalogFeedbackProps {
   sellerId: string;
@@ -32,7 +33,6 @@ export default function CatalogFeedback({
   const [isVisible, setIsVisible] = useState(false);
   const [isNegativeOpen, setIsNegativeOpen] = useState(false);
   const [isDismissed, setIsDismissed] = useState(false);
-  const feedbackRecipientEmail = "gunjan.bhanarkar@indiamart.com";
   const dismissedKey = getDismissedKey(sellerId);
 
   useEffect(() => {
@@ -94,26 +94,21 @@ export default function CatalogFeedback({
 
     saveCatalogFeedbackSubmission(payload);
 
-    void fetch("/api/catalog/feedback", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        recipientEmail: feedbackRecipientEmail,
-        payload,
-      }),
-    }).catch(() => {
-      console.log(
-        "Backend is not wired yet; keep the local submission as the source of truth.",
-      );
-    });
+    const emailResult = await sendFeedbackEmail(payload);
 
     toast({
       title:
         "Your feedback has been shared with the Content Aggregated Catalog Creation Team",
       duration: 4000,
     });
+
+    if (!emailResult.sent && emailResult.reason) {
+      toast({
+        title: "Feedback saved locally",
+        description: emailResult.reason,
+        duration: 4500,
+      });
+    }
 
     dismissFeedback();
   };
@@ -139,26 +134,21 @@ export default function CatalogFeedback({
 
       saveCatalogFeedbackSubmission(payload);
 
-      void fetch("/api/catalog/feedback", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          recipientEmail: feedbackRecipientEmail,
-          payload,
-        }),
-      }).catch(() => {
-        console.log(
-          "Backend is not wired yet; keep the local submission as the source of truth.",
-        );
-      });
+      const emailResult = await sendFeedbackEmail(payload);
 
       toast({
         title:
           "Your feedback has been shared with the Content Aggregated Catalog Creation Team",
         duration: 4000,
       });
+
+      if (!emailResult.sent && emailResult.reason) {
+        toast({
+          title: "Feedback saved locally",
+          description: emailResult.reason,
+          duration: 4500,
+        });
+      }
 
       dismissFeedback();
     } catch {
