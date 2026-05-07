@@ -24,6 +24,7 @@ import {
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import ParticlesBackground from "@/components/seller/ParticlesBackground";
+import { useIsMobile } from "@/hooks/use-mobile";
 import {
   type SellerCatalogSummary,
   listAvailableSellerCatalogs,
@@ -37,6 +38,18 @@ const Dashboard = () => {
   const searchRef = useRef<HTMLDivElement | null>(null);
   const [selectedIndex, setSelectedIndex] = useState<number>(-1);
   const navigate = useNavigate();
+  const isMobile = useIsMobile();
+
+  const handleOpenCatalog = (catalogId: string) => {
+    if (isMobile) {
+      // Open in same tab on mobile
+      navigate(`/${catalogId}`);
+    } else {
+      // Open in new tab on desktop
+      const baseUrl = window.location.origin;
+      window.open(`${baseUrl}/${catalogId}`, "_blank");
+    }
+  };
 
   useEffect(() => {
     if (!showSuggestions) setSelectedIndex(-1);
@@ -171,7 +184,7 @@ const Dashboard = () => {
                       if (selectedIndex >= 0 && selectedIndex < len) {
                         const id = filteredCatalogs[selectedIndex].id;
                         setShowSuggestions(false);
-                        navigate(`/${id}`);
+                        handleOpenCatalog(id);
                       }
                     } else if (e.key === "Escape") {
                       setShowSuggestions(false);
@@ -205,11 +218,14 @@ const Dashboard = () => {
                               role="option"
                               aria-selected={selectedIndex === idx}
                             >
-                              <Link
-                                to={`/${catalog.id}`}
-                                className={`block px-4 py-3 ${selectedIndex === idx ? "bg-muted/30" : "hover:bg-muted/40"}`}
+                              <button
+                                type="button"
+                                className={`block w-full text-left px-4 py-3 ${selectedIndex === idx ? "bg-muted/30" : "hover:bg-muted/40"}`}
                                 onMouseDown={(e) => e.preventDefault()}
-                                onClick={() => setShowSuggestions(false)}
+                                onClick={() => {
+                                  setShowSuggestions(false);
+                                  handleOpenCatalog(catalog.id);
+                                }}
                                 onMouseEnter={() => setSelectedIndex(idx)}
                               >
                                 <div className="flex items-center justify-between">
@@ -225,7 +241,7 @@ const Dashboard = () => {
                                     {catalog.description}
                                   </div>
                                 )}
-                              </Link>
+                              </button>
                             </div>
                           ))}
                           {filteredCatalogs.length === 0 && (
@@ -308,13 +324,11 @@ const Dashboard = () => {
                     </CardHeader>
                     <CardContent className="mt-auto pt-0">
                       <Button
-                        asChild
+                        onClick={() => handleOpenCatalog(catalog.id)}
                         className="w-full rounded-xl bg-slate-950 text-white text-xs hover:bg-slate-800"
                       >
-                        <Link to={`/${catalog.id}`}>
-                          Open catalog
-                          <ArrowRight className="ml-2 h-3 w-3" />
-                        </Link>
+                        Open catalog
+                        <ArrowRight className="ml-2 h-3 w-3" />
                       </Button>
                     </CardContent>
                   </Card>
