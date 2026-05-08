@@ -109,7 +109,7 @@ const Dashboard = () => {
       <div className="mx-auto relative z-10 flex min-h-screen w-full max-w-7xl flex-col px-4 py-10 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
+          animate={{ opacity: 0.85, y: 0 }}
           transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
           className="mb-10 rounded-[2rem] border border-border/70 bg-white/75 p-6 shadow-[0_20px_80px_-32px_rgba(15,23,42,0.32)] backdrop-blur-xl sm:p-8"
         >
@@ -295,7 +295,7 @@ const Dashboard = () => {
                 <motion.div
                   key={catalog.id}
                   initial={{ opacity: 0, y: 16 }}
-                  animate={{ opacity: 1, y: 0 }}
+                  animate={{ opacity: 0.85, y: 0 }}
                   transition={{ duration: 0.35, delay: index * 0.04 }}
                 >
                   <Card className="group flex flex-col h-64 overflow-hidden border-border/70 bg-white/80 shadow-[0_12px_40px_-24px_rgba(15,23,42,0.28)] backdrop-blur-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_24px_60px_-28px_rgba(15,23,42,0.36)]">
