@@ -1,7 +1,16 @@
-import { motion } from 'framer-motion';
-import { BadgeCheck, Award, FileCheck, Factory, MapPin, Package, Globe } from 'lucide-react';
+import { motion } from "framer-motion";
+import {
+  BadgeCheck,
+  Award,
+  FileCheck,
+  Factory,
+  MapPin,
+  Package,
+  Globe,
+  type LucideIcon,
+} from "lucide-react";
 
-const ICON_MAP: Record<string, any> = {
+const ICON_MAP: Record<string, LucideIcon> = {
   verified: BadgeCheck,
   award: Award,
   'file-check': FileCheck,

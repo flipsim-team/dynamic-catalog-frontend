@@ -6,106 +6,12 @@ import CategoryFilterBar from "./CategoryFilterBar";
 import ProductCard from "./ProductCard";
 import ProductDetailModal from "./ProductDetailModal";
 import type { SellerData, CatalogProduct } from "@/lib/sellerDataExtractor";
-
-function normalizeSourceLabel(source: string) {
-  const key = String(source || "")
-    .trim()
-    .toLowerCase();
-  if (key === "youtube") return "YouTube";
-  if (key === "instagram") return "Instagram";
-  if (key === "facebook") return "Facebook";
-  if (key === "linkedin") return "LinkedIn";
-  if (key === "twitter") return "Twitter/X";
-  if (key === "whatsapp") return "WhatsApp";
-  if (key === "website") return "Website";
-  return key ? key.charAt(0).toUpperCase() + key.slice(1) : "Source";
-}
-
-type SourceFilterOption = {
-  key: string;
-  label: string;
-  count: number;
-};
-
-function normalizeSourceKey(source: string) {
-  return String(source || "")
-    .trim()
-    .toLowerCase()
-    .replace(/\s+/g, "_");
-}
-
-function isWebsiteSource(value: string) {
-  return normalizeSourceKey(value) === "website";
-}
-
-function collectProductSourceEntries(product: CatalogProduct) {
-  const entries: SourceFilterOption[] = [];
-  const addEntry = (key: string, label: string) => {
-    const normalizedKey = normalizeSourceKey(key);
-    const normalizedLabel = isWebsiteSource(normalizedKey)
-      ? "Website"
-      : String(label || "").trim();
-    if (!normalizedKey || !normalizedLabel) return;
-    entries.push({ key: normalizedKey, label: normalizedLabel, count: 1 });
-  };
-
-  const primarySource = String(product.source || "").trim();
-  if (primarySource) {
-    if (isWebsiteSource(primarySource)) {
-      addEntry("website", "Website");
-    } else {
-      addEntry(primarySource, normalizeSourceLabel(primarySource));
-    }
-  }
-
-  for (const tile of product.sourceTiles || []) {
-    addEntry(tile.key, tile.label);
-  }
-
-  const KNOWN_PLATFORMS = new Set([
-    "youtube",
-    "instagram",
-    "facebook",
-    "linkedin",
-    "twitter",
-    "x",
-    "whatsapp",
-  ]);
-  for (const link of product.sourceLinks || []) {
-    let linkKey = "";
-    let linkLabel = "";
-    if (link.platform) {
-      linkKey = normalizeSourceKey(link.platform);
-      linkLabel = normalizeSourceLabel(link.platform);
-    } else if (link.label) {
-      const cand = normalizeSourceKey(link.label);
-      if (KNOWN_PLATFORMS.has(cand)) {
-        linkKey = cand;
-        linkLabel = normalizeSourceLabel(cand);
-      } else {
-        linkKey = "website";
-        linkLabel = "Website";
-      }
-    } else {
-      linkKey = "website";
-      linkLabel = "Website";
-    }
-    addEntry(linkKey, linkLabel);
-  }
-
-  return entries;
-}
-
-function productMatchesSelectedSources(
-  product: CatalogProduct,
-  selectedSources: string[],
-) {
-  if (selectedSources.length === 0) return true;
-  const productSources = new Set(
-    collectProductSourceEntries(product).map((entry) => entry.key),
-  );
-  return selectedSources.some((source) => productSources.has(source));
-}
+import {
+  collectProductSourceEntries,
+  normalizeSourceKey,
+  productMatchesSelectedSources,
+  type SourceFilterOption,
+} from "@/lib/productSourceUtils";
 
 export default function ProductCatalog({ data }: { data: SellerData }) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.04 });

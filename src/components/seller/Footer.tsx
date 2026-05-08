@@ -14,6 +14,7 @@ import {
 } from "lucide-react";
 import SellerAvatar from "./SellerAvatar";
 import type { SellerData, SocialPlatform } from "@/lib/sellerDataExtractor";
+import { classifySocialPlatformUrl } from "@/lib/socialPlatform";
 
 const NAV_LINKS = [
   "Overview",
@@ -35,30 +36,19 @@ const PLATFORM_ICONS: Record<SocialPlatform, LucideIcon> = {
   whatsapp: ExternalLink,
 };
 
-function classifySocialUrl(url: string): SocialPlatform | null {
-  try {
-    const host = new URL(url).hostname.replace(/^www\./, "").toLowerCase();
-    if (host.includes("instagram.com")) return "instagram";
-    if (host.includes("facebook.com")) return "facebook";
-    if (host.includes("youtube.com") || host.includes("youtu.be"))
-      return "youtube";
-    if (host.includes("linkedin.com")) return "linkedin";
-    if (host.includes("twitter.com") || host.includes("x.com"))
-      return "twitter";
-    if (host.includes("wa.me") || host.includes("whatsapp.com"))
-      return "whatsapp";
-    return null;
-  } catch {
-    return null;
-  }
-}
-
 const Footer = forwardRef<HTMLElement, { data: SellerData }>(
   ({ data }, ref) => {
     const getHref = (link: string) => {
       if (link === "Overview") return "#overview";
       if (link === "Categories") return "#products";
       return `#${link.toLowerCase()}`;
+    };
+
+    const scrollToAbout = () => {
+      const aboutSection = document.getElementById("about");
+      if (aboutSection) {
+        aboutSection.scrollIntoView({ behavior: "smooth" });
+      }
     };
     const contactSources = data.contactSources || {
       primaryPhone: [],
@@ -71,7 +61,7 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
     };
     const socialUrlByPlatform = (platform: SocialPlatform) =>
       data.socialUrls?.find(
-        (entry) => classifySocialUrl(entry.value) === platform,
+        (entry) => classifySocialPlatformUrl(entry.value) === platform,
       )?.value || "";
     const connectLinks = (
       [
@@ -111,7 +101,11 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
                 <h3 className="font-bold text-xl">{data.sellerName}</h3>
               </div>
               {data.tagline && (
-                <p className="text-sm opacity-60 leading-relaxed line-clamp-3 max-w-xs">
+                <p
+                  onClick={scrollToAbout}
+                  className="text-sm opacity-60 leading-relaxed line-clamp-3 max-w-xs cursor-pointer hover:opacity-100 transition-opacity"
+                  title="Seller Description. sClick to read full description in About section"
+                >
                   {data.tagline}
                 </p>
               )}

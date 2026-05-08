@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { Suspense, lazy, useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Link, useParams } from "react-router-dom";
 import NavBar from "@/components/seller/NavBar";
@@ -15,16 +15,25 @@ import Footer from "@/components/seller/Footer";
 import MobileCTA from "@/components/seller/MobileCTA";
 import SplashScreen from "@/components/seller/SplashScreen";
 import ScrollToTopButton from "@/components/seller/ScrollToTopButton";
-import CursorFollower from "@/components/seller/CursorFollower";
-import SplashCursor from "@/components/seller/SplashCursor";
 import { extractSellerDataFromRaw } from "@/lib/sellerDataExtractor";
-import { loadSellerRawDataByGlid } from "@/lib/sellerDataLoader";
+import { useSellerGlidData } from "@/hooks/useSellerGlidData";
+import CursorFollower from "@/components/seller/CursorFollower";
+
+const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
 
 const Index = () => {
   const { glid: sellerId } = useParams();
-  const [rawSellerData, setRawSellerData] = useState<unknown | null>(null);
-  const [isLoadingSellerData, setIsLoadingSellerData] = useState(false);
-  const [hasDataLoadError, setHasDataLoadError] = useState(false);
+  const {
+    data: rawSellerData,
+    isPending: isLoadingSellerData,
+    isError,
+    isFetched,
+  } = useSellerGlidData(sellerId);
+  const hasDataLoadError =
+    Boolean(sellerId?.trim()) &&
+    isFetched &&
+    !isLoadingSellerData &&
+    (isError || rawSellerData == null);
   const [showSplash, setShowSplash] = useState(true);
   const data = useMemo(() => {
     if (rawSellerData) {
@@ -51,47 +60,6 @@ const Index = () => {
 
   const [socialSectionVisible, setSocialSectionVisible] =
     useState<boolean>(socialHasData);
-
-  useEffect(() => {
-    let active = true;
-
-    if (!sellerId) {
-      setRawSellerData(null);
-      setHasDataLoadError(false);
-      setIsLoadingSellerData(false);
-      return () => {
-        active = false;
-      };
-    }
-
-    setIsLoadingSellerData(true);
-    setHasDataLoadError(false);
-    setRawSellerData(null);
-
-    loadSellerRawDataByGlid(sellerId)
-      .then((loadedData) => {
-        if (!active) return;
-        if (!loadedData) {
-          setHasDataLoadError(true);
-          return;
-        }
-        setRawSellerData(loadedData);
-      })
-      .catch(() => {
-        if (active) {
-          setHasDataLoadError(true);
-        }
-      })
-      .finally(() => {
-        if (active) {
-          setIsLoadingSellerData(false);
-        }
-      });
-
-    return () => {
-      active = false;
-    };
-  }, [sellerId]);
 
   useEffect(() => {
     if (!data) return;
@@ -149,7 +117,7 @@ const Index = () => {
     ).setAttribute("content", resolvedDescription);
   }, [data]);
 
-  if (isLoadingSellerData) {
+  if (sellerId?.trim() && isLoadingSellerData) {
     return (
       <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
         <p className="text-lg text-muted-foreground">
@@ -208,24 +176,26 @@ const Index = () => {
 
   return (
     <div className="page-shell relative min-h-screen bg-background">
-      <SplashCursor
-        SIM_RESOLUTION={128}
-        DYE_RESOLUTION={1440}
-        CAPTURE_RESOLUTION={512}
-        DENSITY_DISSIPATION={4.5}
-        VELOCITY_DISSIPATION={2}
-        PRESSURE={0.1}
-        PRESSURE_ITERATIONS={20}
-        CURL={3}
-        SPLAT_RADIUS={0.12}
-        SPLAT_FORCE={1600}
-        SHADING={false}
-        COLOR_UPDATE_SPEED={12}
-        TRANSPARENT
-        RAINBOW_MODE={false}
-        COLOR="#B4EBE6"
-        BACK_COLOR={{ r: 0.5, g: 0, b: 0 }}
-      />
+      <Suspense fallback={null}>
+        <SplashCursor
+          SIM_RESOLUTION={128}
+          DYE_RESOLUTION={1440}
+          CAPTURE_RESOLUTION={512}
+          DENSITY_DISSIPATION={4.5}
+          VELOCITY_DISSIPATION={2}
+          PRESSURE={0.1}
+          PRESSURE_ITERATIONS={20}
+          CURL={3}
+          SPLAT_RADIUS={0.12}
+          SPLAT_FORCE={1600}
+          SHADING={false}
+          COLOR_UPDATE_SPEED={12}
+          TRANSPARENT
+          RAINBOW_MODE={false}
+          COLOR="#B4EBE6"
+          BACK_COLOR={{ r: 0.5, g: 0, b: 0 }}
+        />
+      </Suspense>
       {/* <CursorFollower /> */}
 
       <AnimatePresence mode="wait">

@@ -45,8 +45,14 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
 
   const rating = data.reviewsSummary.totalRating;
   const count = data.reviewsSummary.noOfRatings;
-  const reviews = data.individualReviews || [];
-  const sourceBreakdown = data.reviewsSummary.sourceBreakdown || {};
+  const reviews = useMemo(
+    () => data.individualReviews || [],
+    [data.individualReviews],
+  );
+  const sourceBreakdown = useMemo(
+    () => data.reviewsSummary.sourceBreakdown || {},
+    [data.reviewsSummary.sourceBreakdown],
+  );
   const sourceOptions = useMemo(() => {
     const labels = Object.entries(sourceBreakdown).map(([key, count]) => ({
       key,

@@ -9,15 +9,10 @@ import {
   ExternalLink,
   Tag,
   Package,
-  Globe2,
   ShieldCheck,
-  Instagram,
-  Youtube,
-  Facebook,
-  Linkedin,
-  Twitter,
 } from "lucide-react";
 import { type CatalogProduct, formatPrice } from "@/lib/sellerDataExtractor";
+import { productSourceIcon } from "./productDetailModal/sourceIcons";
 
 interface Props {
   product: CatalogProduct | null;
@@ -116,15 +111,6 @@ export default function ProductDetailModal({
   const hasAnyPhoto = photos.length > 0;
   const sourceLinks = product.sourceLinks || [];
   const sourceTiles = product.sourceTiles || [];
-  const sourceIcon = (platform?: string) => {
-    if (platform === "instagram") return <Instagram className="w-3 h-3" />;
-    if (platform === "youtube") return <Youtube className="w-3 h-3" />;
-    if (platform === "facebook") return <Facebook className="w-3 h-3" />;
-    if (platform === "linkedin") return <Linkedin className="w-3 h-3" />;
-    if (platform === "twitter") return <Twitter className="w-3 h-3" />;
-    return <Globe2 className="w-3 h-3" />;
-  };
-
   const specs = Object.entries(product.specifications || {}).filter(
     ([, v]) => v !== null && v !== undefined && v !== "",
   );
@@ -403,7 +389,7 @@ export default function ProductDetailModal({
                           className="inline-flex items-center gap-1.5 rounded-full border border-border bg-card px-3 py-1.5 text-[11px] font-semibold text-foreground hover:border-primary/40 hover:text-primary transition-colors capitalize"
                           title={`Open ${source.label}`}
                         >
-                          {sourceIcon(source.platform)} {source.label}{" "}
+                          {productSourceIcon(source.platform)} {source.label}{" "}
                           <ExternalLink className="w-3 h-3" />
                         </a>
                       ))}

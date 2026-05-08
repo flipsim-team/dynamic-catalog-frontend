@@ -17,6 +17,10 @@ import {
 import { Button } from "@/components/ui/button";
 import type { SellerData, SocialPlatform } from "@/lib/sellerDataExtractor";
 import TrustGraphModal from "@/components/seller/TrustGraphModal";
+import {
+  effectiveWhatsappContactUrl,
+  resolveSocialAvailability,
+} from "@/lib/socialAvailability";
 
 const PLATFORM_META: Record<
   SocialPlatform,
@@ -39,11 +43,7 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
   const [trustGraphOpen, setTrustGraphOpen] = useState(false);
   const [showAllContacts, setShowAllContacts] = useState(false);
 
-  const whatsappUrl =
-    data.whatsappUrl ||
-    (data.primaryPhone
-      ? `https://wa.me/91${data.primaryPhone}?text=${encodeURIComponent(`Hi, I'm interested in your products.`)}`
-      : "");
+  const whatsappUrl = effectiveWhatsappContactUrl(data);
   const sourceChips = (sources?: Array<{ key: string; label: string }>) => {
     if (!sources || sources.length === 0) return null;
     return (
@@ -77,37 +77,7 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
     );
   };
 
-  const socialAvailability = data.socialAvailability || {
-    instagram: {
-      url:
-        data.socialProfiles.find((p) => p.platform === "instagram")?.url || "",
-      hasPosts: !!data.socialProfiles.find((p) => p.platform === "instagram")
-        ?.posts?.length,
-    },
-    facebook: {
-      url:
-        data.socialProfiles.find((p) => p.platform === "facebook")?.url || "",
-      hasPosts: !!data.socialProfiles.find((p) => p.platform === "facebook")
-        ?.posts?.length,
-    },
-    youtube: {
-      url: data.socialProfiles.find((p) => p.platform === "youtube")?.url || "",
-      hasPosts: !!data.socialProfiles.find((p) => p.platform === "youtube")
-        ?.posts?.length,
-    },
-    twitter: {
-      url: data.socialProfiles.find((p) => p.platform === "twitter")?.url || "",
-      hasPosts: !!data.socialProfiles.find((p) => p.platform === "twitter")
-        ?.posts?.length,
-    },
-    linkedin: {
-      url:
-        data.socialProfiles.find((p) => p.platform === "linkedin")?.url || "",
-      hasPosts: !!data.socialProfiles.find((p) => p.platform === "linkedin")
-        ?.posts?.length,
-    },
-    whatsapp: { url: whatsappUrl, hasPosts: !!whatsappUrl },
-  };
+  const socialAvailability = resolveSocialAvailability(data);
   const socialPlatforms: SocialPlatform[] = [
     "instagram",
     "youtube",

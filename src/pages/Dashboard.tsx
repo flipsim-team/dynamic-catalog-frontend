@@ -3,6 +3,7 @@ import { useEffect, useState, useRef } from "react";
 import { createPortal } from "react-dom";
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
+import { useQuery } from "@tanstack/react-query";
 import {
   ArrowRight,
   BookDashedIcon,
@@ -30,9 +31,13 @@ import {
   listAvailableSellerCatalogs,
 } from "@/lib/sellerDataLoader";
 
+const sellerCatalogsQueryKey = ["sellerCatalogs"] as const;
+
 const Dashboard = () => {
-  const [catalogs, setCatalogs] = useState<SellerCatalogSummary[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
+  const { data: catalogs = [], isPending: isLoading } = useQuery({
+    queryKey: sellerCatalogsQueryKey,
+    queryFn: listAvailableSellerCatalogs,
+  });
   const [searchQuery, setSearchQuery] = useState("");
   const [showSuggestions, setShowSuggestions] = useState(false);
   const searchRef = useRef<HTMLDivElement | null>(null);
@@ -56,21 +61,7 @@ const Dashboard = () => {
   }, [showSuggestions]);
 
   useEffect(() => {
-    let active = true;
-
     document.title = "Seller Catalog Dashboard";
-
-    listAvailableSellerCatalogs()
-      .then((items) => {
-        if (active) setCatalogs(items);
-      })
-      .finally(() => {
-        if (active) setIsLoading(false);
-      });
-
-    return () => {
-      active = false;
-    };
   }, []);
 
   const filteredCatalogs = catalogs.filter((catalog) => {
