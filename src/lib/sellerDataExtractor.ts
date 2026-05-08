@@ -455,6 +455,18 @@ function normalizePost(
   };
 }
 
+function dedupeUrls(urls: string[]): string[] {
+  const seen = new Set<string>();
+  const deduped: string[] = [];
+  for (const url of urls) {
+    const key = normalizeUrlKey(url);
+    if (!key || seen.has(key)) continue;
+    seen.add(key);
+    deduped.push(url);
+  }
+  return deduped;
+}
+
 export function extractSellerDataFromRaw(rawData: unknown) {
   const data = (rawData ?? {}) as any;
   const cp = data.company_profile || {};
@@ -618,12 +630,15 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const fb = profilesByPlatform.facebook;
   const ig = profilesByPlatform.instagram;
   const bannerUrl = yt?.bannerUrl || fb?.bannerUrl || "";
-  const avatarUrl =
-    data.company_profile?.logo_url ||
-    ig?.profilePic ||
-    yt?.profilePic ||
-    fb?.profilePic ||
-    "";
+  const avatarCandidates = dedupeUrls(
+    [
+      String(unwrapValue(cp.logo_url, "") || ""),
+      ig?.profilePic || "",
+      fb?.profilePic || "",
+      yt?.profilePic || "",
+    ].filter(Boolean),
+  );
+  const avatarUrl = avatarCandidates[0] || "";
 
   // Tagline (used by hero/footer)
   const tagline = description || yt?.bio || ig?.bio || fb?.bio || "";
@@ -909,6 +924,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     ratingValue,
     ratingCount,
     avatarUrl,
+    avatarCandidates,
     bannerUrl,
     whatsappUrl,
     socialProfiles,

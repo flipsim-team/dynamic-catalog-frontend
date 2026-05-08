@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, Phone, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import SellerAvatar from "./SellerAvatar";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
 // Default nav link definitions; actual list is filtered per-seller data
@@ -28,14 +29,6 @@ export default function NavBar({
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [activeSection, setActiveSection] = useState("overview");
-  const [avatarFailed, setAvatarFailed] = useState(false);
-  const initials = data.sellerName
-    .split(" ")
-    .map((w) => w[0])
-    .join("")
-    .slice(0, 2)
-    .toUpperCase();
-  const showAvatar = Boolean(data.avatarUrl?.value) && !avatarFailed;
 
   // Build nav links dynamically based on which sections have data
   const navLinks = DEFAULT_NAV_LINKS.filter((link) => {
@@ -142,18 +135,12 @@ export default function NavBar({
               whileHover={{ rotate: 4, scale: 1.08 }}
               className="w-9 h-9 rounded-xl bg-primary flex items-center justify-center shadow-md overflow-hidden border border-white/10"
             >
-              {showAvatar ? (
-                <img
-                  src={data.avatarUrl?.value}
-                  alt={data.sellerName}
-                  className="h-full w-full object-contain bg-white/50 p-px"
-                  onError={() => setAvatarFailed(true)}
-                />
-              ) : (
-                <span className="text-primary-foreground font-bold text-sm">
-                  {initials}
-                </span>
-              )}
+              <SellerAvatar
+                sellerName={data.sellerName}
+                avatarCandidates={data.avatarCandidates}
+                imageClassName="h-full w-full object-contain bg-white/50 p-px"
+                fallbackClassName="text-primary-foreground font-bold text-sm"
+              />
             </motion.div>
             <span
               className={`font-bold text-lg hidden sm:block transition-colors ${scrolled ? "text-foreground" : "text-white"}`}
