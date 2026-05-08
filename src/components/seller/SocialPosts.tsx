@@ -287,7 +287,13 @@ function FacebookEmbed({ post }: { post: SocialPost }) {
   );
 }
 
-export default function SocialPosts({ data }: { data: SellerData }) {
+export default function SocialPosts({
+  data,
+  onVisibilityChange,
+}: {
+  data: SellerData;
+  onVisibilityChange?: (visible: boolean) => void;
+}) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.05 });
   const isMobile = useIsMobile();
   const [videoModal, setVideoModal] = useState<string | null>(null);
@@ -365,6 +371,13 @@ export default function SocialPosts({ data }: { data: SellerData }) {
   const handleHoverEnd = (id: string) => {
     if (!isMobile && hoveredCardId === id) setHoveredCardId(null);
   };
+
+  useEffect(() => {
+    if (typeof onVisibilityChange === "function") {
+      onVisibilityChange(availablePlatforms.length > 0);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [availablePlatforms.length]);
 
   if (availablePlatforms.length === 0) return null;
 
@@ -457,10 +470,15 @@ export default function SocialPosts({ data }: { data: SellerData }) {
                 <div className="w-14 h-14 rounded-full bg-primary/10 flex items-center justify-center">
                   {activePlatform === "instagram" ? (
                     <Instagram className="w-6 h-6 text-primary" />
+                  ) : // platform wise
+                  activePlatform === "youtube" ? (
+                    <Youtube className="w-6 h-6 text-primary" />
+                  ) : activePlatform === "facebook" ? (
+                    <Facebook className="w-6 h-6 text-primary" />
+                  ) : activePlatform === "linkedin" ? (
+                    <Linkedin className="w-6 h-6 text-primary" />
                   ) : (
-                    // platform wise
-                    activePlatform ==="youtube"?
-                     <Youtube className="w-6 h-6 text-primary" /> : activePlatform === "facebook" ? <Facebook className="w-6 h-6 text-primary" /> : activePlatform === "linkedin" ? <Linkedin className="w-6 h-6 text-primary" /> : <Twitter className="w-6 h-6 text-primary" />
+                    <Twitter className="w-6 h-6 text-primary" />
                   )}
                 </div>
               )}

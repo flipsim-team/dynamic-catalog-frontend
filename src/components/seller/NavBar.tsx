@@ -19,9 +19,11 @@ const DEFAULT_NAV_LINKS = [
 export default function NavBar({
   data,
   galleryVisible = false,
+  socialVisible = false,
 }: {
   data: SellerData;
   galleryVisible?: boolean;
+  socialVisible?: boolean;
 }) {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -48,10 +50,8 @@ export default function NavBar({
         // only show gallery link if the gallery section is actually visible
         return Boolean(galleryVisible);
       case "social":
-        return Boolean(
-          Array.isArray((data as any).socialProfiles) &&
-          (data as any).socialProfiles.length > 0,
-        );
+        // only show social link if the social section is actually visible
+        return Boolean(socialVisible);
       case "reviews":
         return Boolean(
           (data as any).reviewsSummary?.noOfRatings > 0 ||

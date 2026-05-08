@@ -46,6 +46,13 @@ const Index = () => {
   const [gallerySectionVisible, setGallerySectionVisible] =
     useState<boolean>(galleryHasData);
 
+  const socialHasData = Boolean(
+    data && data.socialProfiles.some((profile) => profile.posts.length > 0),
+  );
+
+  const [socialSectionVisible, setSocialSectionVisible] =
+    useState<boolean>(socialHasData);
+
   useEffect(() => {
     let active = true;
 
@@ -184,9 +191,6 @@ const Index = () => {
     data.socialProfiles.length > 0,
   );
   const productsHasData = data.products.length > 0;
-  const socialHasData = data.socialProfiles.some(
-    (profile) => profile.posts.length > 0,
-  );
   const reviewsHasData = Boolean(
     data.reviewsSummary.totalRating ||
     data.reviewsSummary.noOfRatings ||
@@ -244,7 +248,11 @@ const Index = () => {
             transition={{ duration: 0.65, ease: [0.22, 1, 0.36, 1] }}
             className="min-h-screen"
           >
-            <NavBar data={data} galleryVisible={gallerySectionVisible} />
+            <NavBar
+              data={data}
+              galleryVisible={gallerySectionVisible}
+              socialVisible={socialSectionVisible}
+            />
             <HeroSection data={data} />
             {aboutHasData && <AboutSection data={data} />}
             {productsHasData && <ProductCatalog data={data} />}
@@ -254,7 +262,12 @@ const Index = () => {
                 onVisibilityChange={setGallerySectionVisible}
               />
             )}
-            {socialHasData && <SocialPosts data={data} />}
+            {socialHasData && (
+              <SocialPosts
+                data={data}
+                onVisibilityChange={setSocialSectionVisible}
+              />
+            )}
             {reviewsHasData && <ReviewsSection data={data} />}
             {contactHasData && <ContactSidebar data={data} />}
             <Footer data={data} />
