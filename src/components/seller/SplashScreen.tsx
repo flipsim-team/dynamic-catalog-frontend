@@ -1,23 +1,14 @@
-import { useState } from "react";
 import ParticlesBackground from "./ParticlesBackground";
 import { motion } from "framer-motion";
+import SellerAvatar from "./SellerAvatar";
 
 export default function SplashScreen({
   sellerName,
-  avatarUrl,
+  avatarCandidates,
 }: {
   sellerName: string;
-  avatarUrl?: string;
+  avatarCandidates?: string[];
 }) {
-  const initials = sellerName
-    .split(" ")
-    .map((w) => w[0])
-    .join("")
-    .slice(0, 2)
-    .toUpperCase();
-  const [avatarFailed, setAvatarFailed] = useState(false);
-  const showAvatar = Boolean(avatarUrl) && !avatarFailed;
-
   return (
     <motion.div
       initial={{ opacity: 1 }}
@@ -44,18 +35,12 @@ export default function SplashScreen({
             transition={{ duration: 10, repeat: Infinity, ease: "linear" }}
             className="absolute inset-2 rounded-[1.5rem] border border-dashed border-white/15"
           />
-          {showAvatar ? (
-            <img
-              src={avatarUrl}
-              alt={sellerName}
-              className="relative z-10 h-full w-full object-contain"
-              onError={() => setAvatarFailed(true)}
-            />
-          ) : (
-            <span className="relative z-10 bg-gradient-to-br from-white via-primary/90 to-secondary bg-clip-text text-3xl font-black text-transparent">
-              {initials}
-            </span>
-          )}
+          <SellerAvatar
+            sellerName={sellerName}
+            avatarCandidates={avatarCandidates}
+            imageClassName="relative z-10 h-full w-full object-contain"
+            fallbackClassName="relative z-10 bg-gradient-to-br from-white via-primary/90 to-secondary bg-clip-text text-3xl font-black text-transparent"
+          />
         </motion.div>
         <motion.p
           initial={{ y: 18, opacity: 0 }}

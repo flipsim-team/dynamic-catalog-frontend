@@ -12,15 +12,10 @@ import {
 import { Button } from "@/components/ui/button";
 import TrustBadges from "./TrustBadges";
 import ParticlesBackground from "./ParticlesBackground";
+import SellerAvatar from "./SellerAvatar";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
 export default function HeroSection({ data }: { data: SellerData }) {
-  const initials = data.sellerName
-    .split(" ")
-    .map((w) => w[0])
-    .join("")
-    .slice(0, 2)
-    .toUpperCase();
   const heroRef = useRef<HTMLElement>(null);
   const { scrollYProgress } = useScroll({
     target: heroRef,
@@ -89,24 +84,12 @@ export default function HeroSection({ data }: { data: SellerData }) {
               <div className="absolute -inset-2 rounded-full bg-gradient-to-br from-primary to-secondary opacity-25 blur-lg animate-pulse-glow transition-all duration-300 group-hover/avatar:opacity-45" />
               <div className="absolute -inset-3 rounded-full bg-primary/20 blur-2xl opacity-0 transition-opacity duration-300 group-hover/avatar:opacity-50" />
               <div className="relative w-28 h-28 md:w-36 md:h-36 rounded-full border-4 border-white/40 overflow-hidden shadow-xl bg-primary/20 backdrop-blur-sm flex items-center justify-center transition-all duration-300 group-hover/avatar:border-primary/55 group-hover/avatar:shadow-[0_0_0_2px_rgba(255,255,255,0.1),0_0_14px_4px_hsl(var(--primary)/0.22)]">
-                {data.avatarUrl ? (
-                  <img
-                    src={data.avatarUrl?.value}
-                    alt={data.sellerName}
-                    className="w-full h-full object-contain transition-transform duration-300 group-hover/avatar:scale-104 bg-white/50 p-px"
-                    onError={(e) => {
-                      (e.target as HTMLImageElement).style.display = "none";
-                      (e.target as HTMLImageElement)
-                        .parentElement!.querySelector(".fallback")
-                        ?.classList.remove("hidden");
-                    }}
-                  />
-                ) : null}
-                <span
-                  className={`fallback text-white font-bold text-3xl transition-transform duration-300 group-hover/avatar:scale-104 ${data.avatarUrl?.value ? "hidden" : ""}`}
-                >
-                  {initials}
-                </span>
+                <SellerAvatar
+                  sellerName={data.sellerName}
+                  avatarCandidates={data.avatarCandidates}
+                  imageClassName="w-full h-full object-contain transition-transform duration-300 group-hover/avatar:scale-104 bg-white/50 p-px"
+                  fallbackClassName="text-white font-bold text-3xl transition-transform duration-300 group-hover/avatar:scale-104"
+                />
               </div>
             </div>
           </motion.div>

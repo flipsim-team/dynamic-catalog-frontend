@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/rules-of-hooks */
 import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Link, useParams } from "react-router-dom";
@@ -233,7 +232,7 @@ const Index = () => {
         {showSplash && (
           <SplashScreen
             sellerName={data.sellerName}
-            avatarUrl={data.avatarUrl?.value}
+            avatarCandidates={data.avatarCandidates}
             key="splash"
           />
         )}

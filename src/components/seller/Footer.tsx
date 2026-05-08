@@ -1,4 +1,4 @@
-import { forwardRef, useState } from "react";
+import { forwardRef } from "react";
 import { motion } from "framer-motion";
 import {
   ExternalLink,
@@ -12,6 +12,7 @@ import {
   Phone,
   type LucideIcon,
 } from "lucide-react";
+import SellerAvatar from "./SellerAvatar";
 import type { SellerData, SocialPlatform } from "@/lib/sellerDataExtractor";
 
 const NAV_LINKS = [
@@ -54,14 +55,6 @@ function classifySocialUrl(url: string): SocialPlatform | null {
 
 const Footer = forwardRef<HTMLElement, { data: SellerData }>(
   ({ data }, ref) => {
-    const initials = data.sellerName
-      .split(" ")
-      .map((w) => w[0])
-      .join("")
-      .slice(0, 2)
-      .toUpperCase();
-    const [avatarFailed, setAvatarFailed] = useState(false);
-    const showAvatar = Boolean(data.avatarUrl?.value) && !avatarFailed;
     const getHref = (link: string) => {
       if (link === "Overview") return "#overview";
       if (link === "Categories") return "#products";
@@ -108,18 +101,12 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
               <div className="flex items-center gap-3 mb-4">
                 <div className="relative w-11 h-11 rounded-full overflow-hidden border border-white/10 bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800 flex items-center justify-center shadow-lg">
                   <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,hsl(var(--primary)/0.22),transparent_58%)]" />
-                  {showAvatar ? (
-                    <img
-                      src={data.avatarUrl?.value}
-                      alt={data.sellerName}
-                      className="relative z-10 h-full w-full object-contain p-1"
-                      onError={() => setAvatarFailed(true)}
-                    />
-                  ) : (
-                    <span className="relative z-10 font-bold text-sm text-white">
-                      {initials}
-                    </span>
-                  )}
+                  <SellerAvatar
+                    sellerName={data.sellerName}
+                    avatarCandidates={data.avatarCandidates}
+                    imageClassName="relative z-10 h-full w-full object-contain p-1"
+                    fallbackClassName="relative z-10 font-bold text-sm text-white"
+                  />
                 </div>
                 <h3 className="font-bold text-xl">{data.sellerName}</h3>
               </div>
