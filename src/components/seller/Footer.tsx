@@ -15,6 +15,7 @@ import {
 import SellerAvatar from "./SellerAvatar";
 import type { SellerData, SocialPlatform } from "@/lib/sellerDataExtractor";
 import { classifySocialPlatformUrl } from "@/lib/socialPlatform";
+import { maskContactInfo } from "@/lib/utils";
 
 const NAV_LINKS = [
   "Overview",
@@ -116,7 +117,8 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
                       href={`mailto:${data.email}`}
                       className="flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
                     >
-                      <Mail className="w-3.5 h-3.5" /> {data.email}
+                      <Mail className="w-3.5 h-3.5" />{" "}
+                      {maskContactInfo(data.email)}
                     </a>
                     {contactSources.email.length > 0 && (
                       <p className="mt-1 text-[10px] opacity-50">
@@ -132,7 +134,8 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
                       href={`tel:${data.primaryPhone}`}
                       className="flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
                     >
-                      <Phone className="w-3.5 h-3.5" /> +91 {data.primaryPhone}
+                      <Phone className="w-3.5 h-3.5" /> +91{" "}
+                      {maskContactInfo(data.primaryPhone)}
                     </a>
                     {contactSources.primaryPhone.length > 0 && (
                       <p className="mt-1 text-[10px] opacity-50">

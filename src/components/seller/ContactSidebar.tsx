@@ -21,6 +21,7 @@ import {
   effectiveWhatsappContactUrl,
   resolveSocialAvailability,
 } from "@/lib/socialAvailability";
+import { maskContactInfo } from "@/lib/utils";
 
 const PLATFORM_META: Record<
   SocialPlatform,
@@ -225,7 +226,7 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                             <Phone className="w-4 h-4 text-primary" />
                           </div>
                           <span className="text-sm font-medium break-words leading-relaxed">
-                            +91 {entry.value}
+                            +91 {maskContactInfo(entry.value)}
                           </span>
                         </a>
                         {entry.role && (
@@ -251,7 +252,7 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                             <Mail className="w-4 h-4 text-primary" />
                           </div>
                           <span className="text-sm font-medium break-words leading-relaxed">
-                            {entry.value}
+                            {maskContactInfo(entry.value)}
                           </span>
                         </a>
                         {entry.role && (

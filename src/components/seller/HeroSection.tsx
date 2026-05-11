@@ -14,6 +14,7 @@ import TrustBadges from "./TrustBadges";
 import ParticlesBackground from "./ParticlesBackground";
 import SellerAvatar from "./SellerAvatar";
 import type { SellerData } from "@/lib/sellerDataExtractor";
+import { maskContactInfo } from "@/lib/utils";
 
 export default function HeroSection({ data }: { data: SellerData }) {
   const heroRef = useRef<HTMLElement>(null);
@@ -160,7 +161,8 @@ export default function HeroSection({ data }: { data: SellerData }) {
                     href={`tel:${data.primaryPhone}`}
                     className="inline-flex items-center gap-1.5 rounded-full bg-white/15 border border-white/25 backdrop-blur px-3 py-1.5 text-sm text-white hover:bg-white/25 transition-colors"
                   >
-                    <Phone className="w-3.5 h-3.5" /> +91 {data.primaryPhone}
+                    <Phone className="w-3.5 h-3.5" /> +91{" "}
+                    {maskContactInfo(data.primaryPhone)}
                   </a>
                   {data.phoneEntries?.[0]?.role && (
                     <p className="mt-1 text-[10px] uppercase tracking-wider text-white/70 font-semibold">
@@ -176,7 +178,9 @@ export default function HeroSection({ data }: { data: SellerData }) {
                     className="inline-flex items-center gap-1.5 rounded-full bg-white/15 border border-white/25 backdrop-blur px-3 py-1.5 text-sm text-white hover:bg-white/25 transition-colors max-w-full truncate"
                   >
                     <Mail className="w-3.5 h-3.5 shrink-0" />{" "}
-                    <span className="truncate">{data.email}</span>
+                    <span className="truncate">
+                      {maskContactInfo(data.email)}
+                    </span>
                   </a>
                   {data.emailEntries?.[0]?.role && (
                     <p className="mt-1 text-[10px] uppercase tracking-wider text-white/70 font-semibold">

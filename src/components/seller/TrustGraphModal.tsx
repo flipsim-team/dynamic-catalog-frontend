@@ -7,7 +7,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { lockBodyScroll, unlockBodyScroll } from "@/lib/utils";
+import { lockBodyScroll, unlockBodyScroll, maskContactInfo } from "@/lib/utils";
 import { Check } from "lucide-react";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
@@ -84,7 +84,7 @@ export default function TrustGraphModal({
       out.push({
         id: `phone-${p.value}`,
         type: "Phone",
-        value: `+91 ${p.value}`,
+        value: `+91 ${maskContactInfo(p.value)}`,
         sources: (p.sources || []).map((s: any) => s.key),
       });
 
@@ -98,7 +98,7 @@ export default function TrustGraphModal({
       out.push({
         id: `email-${e.value}`,
         type: "Email",
-        value: e.value,
+        value: maskContactInfo(e.value),
         sources: (e.sources || []).map((s: any) => s.key),
       });
 
