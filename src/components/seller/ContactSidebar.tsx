@@ -41,8 +41,6 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
   const sectionRef = useRef<HTMLElement>(null);
   const [trustGraphOpen, setTrustGraphOpen] = useState(false);
   const [showAllContacts, setShowAllContacts] = useState(false);
-
-  const whatsappUrl = data.whatsappUrl || "";
   const sourceChips = (sources?: Array<{ key: string; label: string }>) => {
     if (!sources || sources.length === 0) return null;
     return (
@@ -77,6 +75,7 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
   };
 
   const socialAvailability = resolveSocialAvailability(data);
+  const whatsappUrl = socialAvailability.whatsapp?.url || "";
   const socialPlatforms: SocialPlatform[] = [
     "instagram",
     "youtube",

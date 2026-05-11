@@ -105,7 +105,7 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
                 <p
                   onClick={scrollToAbout}
                   className="text-sm opacity-60 leading-relaxed line-clamp-3 max-w-xs cursor-pointer hover:opacity-100 transition-opacity"
-                  title="Seller Description. sClick to read full description in About section"
+                  title="Seller Description. Click to read full description in About section"
                 >
                   {data.tagline}
                 </p>
