@@ -297,7 +297,11 @@ const Index = () => {
             )}
             {reviewsHasData && <ReviewsSection data={data} />}
             {contactHasData && <ContactSidebar data={data} />}
-            <Footer data={data} />
+            <Footer
+              data={data}
+              galleryVisible={gallerySectionVisible}
+              socialVisible={socialSectionVisible}
+            />
             <MobileCTA data={data} />
             <div className="h-16 md:hidden" />
           </motion.div>
