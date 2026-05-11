@@ -20,6 +20,35 @@ import { useSellerGlidData } from "@/hooks/useSellerGlidData";
 import CursorFollower from "@/components/seller/CursorFollower";
 
 const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
+const DEFAULT_FAVICON_HREF = "/favicon.ico";
+
+function resolveImageUrl(url: string) {
+  return new Promise<string | null>((resolve) => {
+    if (typeof window === "undefined") {
+      resolve(null);
+      return;
+    }
+
+    const image = new Image();
+    image.onload = () => resolve(url);
+    image.onerror = () => resolve(null);
+    image.src = url;
+  });
+}
+
+async function resolveFaviconHref(candidates: string[]) {
+  for (const candidate of candidates) {
+    const trimmedCandidate = candidate.trim();
+    if (!trimmedCandidate) continue;
+
+    const resolvedCandidate = await resolveImageUrl(trimmedCandidate);
+    if (resolvedCandidate) {
+      return resolvedCandidate;
+    }
+  }
+
+  return DEFAULT_FAVICON_HREF;
+}
 
 const Index = () => {
   const { glid: sellerId } = useParams();
@@ -115,6 +144,35 @@ const Index = () => {
       "property",
       "og:description",
     ).setAttribute("content", resolvedDescription);
+
+    const upsertLink = (selector: string) => {
+      let link = document.head.querySelector(
+        selector,
+      ) as HTMLLinkElement | null;
+      if (!link) {
+        link = document.createElement("link");
+        document.head.appendChild(link);
+      }
+      return link;
+    };
+
+    let cancelled = false;
+    void resolveFaviconHref(
+      data.avatarCandidates.length > 0
+        ? data.avatarCandidates
+        : [data.avatarUrl, DEFAULT_FAVICON_HREF],
+    ).then((faviconHref) => {
+      if (cancelled) return;
+
+      const faviconLink = upsertLink('link[rel="icon"]');
+      faviconLink.setAttribute("rel", "icon");
+      faviconLink.setAttribute("type", "image/x-icon");
+      faviconLink.setAttribute("href", faviconHref);
+    });
+
+    return () => {
+      cancelled = true;
+    };
   }, [data]);
 
   if (sellerId?.trim() && isLoadingSellerData) {
