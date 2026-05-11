@@ -7,9 +7,10 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import { lockBodyScroll, unlockBodyScroll, maskContactInfo } from "@/lib/utils";
+import { lockBodyScroll, unlockBodyScroll } from "@/lib/utils";
 import { Check } from "lucide-react";
 import type { SellerData } from "@/lib/sellerDataExtractor";
+import RevealableContactValue from "@/components/seller/RevealableContactValue";
 
 type Column = { key: string; label: string };
 
@@ -84,7 +85,7 @@ export default function TrustGraphModal({
       out.push({
         id: `phone-${p.value}`,
         type: "Phone",
-        value: `+91 ${maskContactInfo(p.value)}`,
+        value: p.value,
         sources: (p.sources || []).map((s: any) => s.key),
       });
 
@@ -98,7 +99,7 @@ export default function TrustGraphModal({
       out.push({
         id: `email-${e.value}`,
         type: "Email",
-        value: maskContactInfo(e.value),
+        value: e.value,
         sources: (e.sources || []).map((s: any) => s.key),
       });
 
@@ -225,9 +226,18 @@ export default function TrustGraphModal({
                           </a>
                         ) : (
                           <div>
-                            <div className="font-semibold truncate">
-                              {row.value}
-                            </div>
+                            {row.type === "Phone" || row.type === "Email" ? (
+                              <RevealableContactValue
+                                value={row.value}
+                                className="font-semibold truncate text-left outline-none"
+                                hideClassName="transition-colors hover:text-foreground"
+                                revealClassName="transition-colors"
+                              />
+                            ) : (
+                              <div className="font-semibold truncate">
+                                {row.value}
+                              </div>
+                            )}
                             <div className="text-xs text-muted-foreground">
                               {row.type}
                             </div>

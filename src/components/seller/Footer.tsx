@@ -13,9 +13,9 @@ import {
   type LucideIcon,
 } from "lucide-react";
 import SellerAvatar from "./SellerAvatar";
+import RevealableContactValue from "./RevealableContactValue";
 import type { SellerData, SocialPlatform } from "@/lib/sellerDataExtractor";
 import { classifySocialPlatformUrl } from "@/lib/socialPlatform";
-import { maskContactInfo } from "@/lib/utils";
 
 const NAV_LINKS = [
   "Overview",
@@ -113,13 +113,14 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
               <div className="mt-4 space-y-2">
                 {data.email && (
                   <div>
-                    <a
+                    <RevealableContactValue
+                      value={data.email}
                       href={`mailto:${data.email}`}
+                      leadingIcon={<Mail className="w-3.5 h-3.5" />}
                       className="flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
-                    >
-                      <Mail className="w-3.5 h-3.5" />{" "}
-                      {maskContactInfo(data.email)}
-                    </a>
+                      hideClassName="transition-colors hover:opacity-100"
+                      revealClassName="transition-colors opacity-100"
+                    />
                     {contactSources.email.length > 0 && (
                       <p className="mt-1 text-[10px] opacity-50">
                         Source:{" "}
@@ -130,13 +131,15 @@ const Footer = forwardRef<HTMLElement, { data: SellerData }>(
                 )}
                 {data.primaryPhone && (
                   <div>
-                    <a
+                    <RevealableContactValue
+                      value={data.primaryPhone}
                       href={`tel:${data.primaryPhone}`}
+                      prefix="+91 "
+                      leadingIcon={<Phone className="w-3.5 h-3.5" />}
                       className="flex items-center gap-2 text-xs opacity-60 hover:opacity-100 transition-opacity"
-                    >
-                      <Phone className="w-3.5 h-3.5" /> +91{" "}
-                      {maskContactInfo(data.primaryPhone)}
-                    </a>
+                      hideClassName="transition-colors hover:opacity-100"
+                      revealClassName="transition-colors opacity-100"
+                    />
                     {contactSources.primaryPhone.length > 0 && (
                       <p className="mt-1 text-[10px] opacity-50">
                         Source:{" "}

@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
@@ -17,11 +18,8 @@ import {
 import { Button } from "@/components/ui/button";
 import type { SellerData, SocialPlatform } from "@/lib/sellerDataExtractor";
 import TrustGraphModal from "@/components/seller/TrustGraphModal";
-import {
-  effectiveWhatsappContactUrl,
-  resolveSocialAvailability,
-} from "@/lib/socialAvailability";
-import { maskContactInfo } from "@/lib/utils";
+import RevealableContactValue from "@/components/seller/RevealableContactValue";
+import { resolveSocialAvailability } from "@/lib/socialAvailability";
 
 const PLATFORM_META: Record<
   SocialPlatform,
@@ -44,7 +42,7 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
   const [trustGraphOpen, setTrustGraphOpen] = useState(false);
   const [showAllContacts, setShowAllContacts] = useState(false);
 
-  const whatsappUrl = effectiveWhatsappContactUrl(data);
+  const whatsappUrl = data.whatsappUrl || "";
   const sourceChips = (sources?: Array<{ key: string; label: string }>) => {
     if (!sources || sources.length === 0) return null;
     return (
@@ -189,6 +187,7 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                       href={whatsappUrl}
                       target="_blank"
                       rel="noopener noreferrer"
+                      title="WhatsApp"
                     >
                       <MessageCircle className="w-5 h-5 mr-2" /> WhatsApp
                     </a>
@@ -218,17 +217,19 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                   {visiblePhoneEntries.map((entry, index) => (
                     <div key={`phone-${entry.value}-${index}`}>
                       <div className="flex flex-wrap items-start gap-2 min-w-0">
-                        <a
+                        <RevealableContactValue
+                          value={entry.value}
                           href={`tel:${entry.value}`}
-                          className="flex min-w-0 items-start gap-3 text-foreground hover:text-primary transition-colors group"
-                        >
-                          <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors">
-                            <Phone className="w-4 h-4 text-primary" />
-                          </div>
-                          <span className="text-sm font-medium break-words leading-relaxed">
-                            +91 {maskContactInfo(entry.value)}
-                          </span>
-                        </a>
+                          prefix="+91 "
+                          leadingIcon={
+                            <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors">
+                              <Phone className="w-4 h-4 text-primary" />
+                            </div>
+                          }
+                          className="flex min-w-0 items-start gap-3 text-foreground group"
+                          hideClassName="text-sm font-medium break-words leading-relaxed transition-colors"
+                          revealClassName="text-sm font-medium break-words leading-relaxed transition-colors"
+                        />
                         {entry.role && (
                           <span className="text-[11px] text-muted-foreground uppercase tracking-wider font-semibold">
                             {entry.role}
@@ -244,17 +245,18 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
                   {visibleEmailEntries.map((entry, index) => (
                     <div key={`email-${entry.value}-${index}`}>
                       <div className="flex flex-wrap items-start gap-2 min-w-0">
-                        <a
+                        <RevealableContactValue
+                          value={entry.value}
                           href={`mailto:${entry.value}`}
-                          className="flex min-w-0 items-start gap-3 text-foreground hover:text-primary transition-colors group"
-                        >
-                          <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors shrink-0">
-                            <Mail className="w-4 h-4 text-primary" />
-                          </div>
-                          <span className="text-sm font-medium break-words leading-relaxed">
-                            {maskContactInfo(entry.value)}
-                          </span>
-                        </a>
+                          leadingIcon={
+                            <div className="w-9 h-9 rounded-xl bg-primary/10 flex items-center justify-center group-hover:bg-primary/15 transition-colors shrink-0">
+                              <Mail className="w-4 h-4 text-primary" />
+                            </div>
+                          }
+                          className="flex min-w-0 items-start gap-3 text-foreground group"
+                          hideClassName="text-sm font-medium break-words leading-relaxed transition-colors"
+                          revealClassName="text-sm font-medium break-words leading-relaxed transition-colors"
+                        />
                         {entry.role && (
                           <span className="text-[11px] text-muted-foreground uppercase tracking-wider font-semibold">
                             {entry.role}

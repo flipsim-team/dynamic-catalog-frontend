@@ -10,6 +10,7 @@ import {
   Tag,
   Package,
   ShieldCheck,
+  Globe2,
 } from "lucide-react";
 import { type CatalogProduct, formatPrice } from "@/lib/sellerDataExtractor";
 import { productSourceIcon } from "./productDetailModal/sourceIcons";

@@ -57,3 +57,53 @@ export function resolveSocialAvailability(data: {
 
   return base;
 }
+
+/**
+ * Heuristic-only WhatsApp detection across seller data.
+ * Scans string fields in the provided object for common WhatsApp indicators
+ * or phone-like patterns. This is a best-effort client-side hint and
+ * NOT a verification.
+ */
+export function detectWhatsAppHeuristic(data: unknown): boolean {
+  const texts: string[] = [];
+  const collect = (v: unknown, depth = 0) => {
+    if (depth > 6) return; // avoid pathological recursion
+    if (v == null) return;
+    if (typeof v === "string") {
+      texts.push(v);
+      return;
+    }
+    if (typeof v === "number" || typeof v === "boolean") return;
+    if (Array.isArray(v)) {
+      for (const it of v) collect(it, depth + 1);
+      return;
+    }
+    if (typeof v === "object") {
+      for (const val of Object.values(v as Record<string, unknown>)) {
+        collect(val, depth + 1);
+      }
+    }
+  };
+
+  try {
+    collect(data);
+  } catch (e) {
+    // swallow
+  }
+
+  const combined = texts.join(" ").toLowerCase();
+  const waIndicators = [
+    "whatsapp",
+    "wa.me",
+    "wa.link",
+    "chat.whatsapp.com",
+    "whats-app",
+  ];
+  for (const ind of waIndicators) if (combined.includes(ind)) return true;
+
+  // loose phone-like pattern: +country or 10+ digits with separators
+  const phoneLike = /\+?\d[\d\s\-().]{6,}\d/;
+  if (phoneLike.test(combined)) return true;
+
+  return false;
+}
