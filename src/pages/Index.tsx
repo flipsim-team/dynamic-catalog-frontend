@@ -18,6 +18,7 @@ import ScrollToTopButton from "@/components/seller/ScrollToTopButton";
 import { extractSellerDataFromRaw } from "@/lib/sellerDataExtractor";
 import { useSellerGlidData } from "@/hooks/useSellerGlidData";
 import CursorFollower from "@/components/seller/CursorFollower";
+import { useIsMobile } from "@/hooks/use-mobile";
 
 const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
 const DEFAULT_FAVICON_HREF = "/favicon.ico";
@@ -64,6 +65,7 @@ const Index = () => {
     !isLoadingSellerData &&
     (isError || rawSellerData == null);
   const [showSplash, setShowSplash] = useState(true);
+  const isMobile = useIsMobile();
   const [isDesktop, setIsDesktop] = useState(
     typeof window !== "undefined" ? window.innerWidth >= 1024 : false,
   );
@@ -246,7 +248,7 @@ const Index = () => {
 
   return (
     <div className="page-shell relative min-h-screen bg-background">
-      {isDesktop && (
+      {!isMobile && isDesktop && (
         <Suspense fallback={null}>
           <SplashCursor
             SIM_RESOLUTION={128}
