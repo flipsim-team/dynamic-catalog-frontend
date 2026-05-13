@@ -1,11 +1,17 @@
 import type { SourceMeta } from "./sellerData/types";
 
-/** Maps raw source keys (e.g. from JSON) to human-readable labels. */
-export function sourceLabelFor(source: string): string {
+function normalizeSourceKey(source: string): string {
   const key = String(source || "")
     .trim()
     .toLowerCase()
     .replace(/\s+/g, "_");
+  if (key === "catalog") return "website";
+  return key;
+}
+
+/** Maps raw source keys (e.g. from JSON) to human-readable labels. */
+export function sourceLabelFor(source: string): string {
+  const key = normalizeSourceKey(source);
   const map: Record<string, string> = {
     website: "Website",
     gst: "GST",
@@ -32,10 +38,7 @@ export function toSourceMetaList(rawSources: string[]): SourceMeta[] {
   const seen = new Set<string>();
   const out: SourceMeta[] = [];
   for (const raw of rawSources) {
-    const key = String(raw || "")
-      .trim()
-      .toLowerCase()
-      .replace(/\s+/g, "_");
+    const key = normalizeSourceKey(raw);
     if (!key || seen.has(key)) continue;
     seen.add(key);
     out.push({ key, label: sourceLabelFor(key) });
@@ -45,9 +48,7 @@ export function toSourceMetaList(rawSources: string[]): SourceMeta[] {
 
 /** Display label for catalog product source filter chips (aligned with known platforms). */
 export function normalizeProductSourceLabel(source: string): string {
-  const key = String(source || "")
-    .trim()
-    .toLowerCase();
+  const key = normalizeSourceKey(source).trim().toLowerCase();
   if (key === "youtube") return "YouTube";
   if (key === "instagram") return "Instagram";
   if (key === "facebook") return "Facebook";
