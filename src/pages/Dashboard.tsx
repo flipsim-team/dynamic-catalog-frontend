@@ -112,7 +112,7 @@ const Dashboard = () => {
           SHADING={false}
           COLOR_UPDATE_SPEED={12}
           TRANSPARENT
-          RAINBOW_MODE={true}
+          RAINBOW_MODE={false}
           COLOR="#B4EBE6"
           BACK_COLOR={{ r: 0, g: 0, b: 0.5 }}
         />
