@@ -240,7 +240,7 @@ export default function HeroSection({ data }: { data: SellerData }) {
                   <Button
                     asChild
                     variant="glass"
-                    className="rounded-full px-6 h-12"
+                    className="rounded-full px-6 h-12 text-slate-900 hover:text-slate-900 dark:text-slate-900 dark:hover:text-slate-900"
                   >
                     <a
                       href={data.website}

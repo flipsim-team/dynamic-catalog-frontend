@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, Phone, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import ThemeToggle from "@/components/theme-toggle";
 import SellerAvatar from "./SellerAvatar";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
@@ -176,6 +177,7 @@ export default function NavBar({
           </div>
 
           <div className="hidden md:flex items-center gap-2">
+            <ThemeToggle className="shadow-sm" />
             <Button
               variant="outline"
               size="sm"
@@ -239,6 +241,12 @@ export default function NavBar({
                   {link.label}
                 </motion.a>
               ))}
+              <div className="px-4 pb-2 pt-1 flex items-center justify-between">
+                <span className="text-sm font-semibold text-foreground/80">
+                  Theme
+                </span>
+                <ThemeToggle className="shadow-none" />
+              </div>
               <div className="flex gap-2 pt-3">
                 <Button
                   variant="outline"

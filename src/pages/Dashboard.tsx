@@ -12,6 +12,7 @@ import {
   Hash,
   Search,
   Store,
+  Sparkles,
 } from "lucide-react";
 import { motion } from "framer-motion";
 import { Badge } from "@/components/ui/badge";
@@ -24,6 +25,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
+import ThemeToggle from "@/components/theme-toggle";
 import ParticlesBackground from "@/components/seller/ParticlesBackground";
 import { useIsMobile } from "@/hooks/use-mobile";
 import {
@@ -96,34 +98,48 @@ const Dashboard = () => {
   }
 
   return (
-    <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.9),_rgba(243,244,246,0.95)_40%,_rgba(229,231,235,1))] text-foreground relative">
-      <Suspense fallback={null}>
-        <SplashCursor
-          SIM_RESOLUTION={128}
-          DYE_RESOLUTION={1440}
-          CAPTURE_RESOLUTION={512}
-          DENSITY_DISSIPATION={4.5}
-          VELOCITY_DISSIPATION={2}
-          PRESSURE={0.1}
-          PRESSURE_ITERATIONS={20}
-          CURL={3}
-          SPLAT_RADIUS={0.12}
-          SPLAT_FORCE={1600}
-          SHADING={false}
-          COLOR_UPDATE_SPEED={12}
-          TRANSPARENT
-          RAINBOW_MODE={true}
-          COLOR="#B4EBE6"
-          BACK_COLOR={{ r: 0, g: 0, b: 0.5 }}
-        />
-      </Suspense>
+    <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.9),_rgba(243,244,246,0.95)_40%,_rgba(229,231,235,1))] text-foreground relative dark:bg-[radial-gradient(circle_at_top,_rgba(15,23,42,0.98),_rgba(15,23,42,0.94)_42%,_rgba(2,6,23,1))] dark:text-slate-100">
+      <div className="fixed right-4 top-4 z-[70] flex items-center gap-3">
+        <Link to="/ai">
+          <Button
+            variant="default"
+            className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700"
+          >
+            <Sparkles className="w-4 h-4 mr-2" />
+            AI Catalog
+          </Button>
+        </Link>
+        <ThemeToggle />
+      </div>
+      {!isMobile && (
+        <Suspense fallback={null}>
+          <SplashCursor
+            SIM_RESOLUTION={128}
+            DYE_RESOLUTION={1440}
+            CAPTURE_RESOLUTION={512}
+            DENSITY_DISSIPATION={4.5}
+            VELOCITY_DISSIPATION={2}
+            PRESSURE={0.1}
+            PRESSURE_ITERATIONS={20}
+            CURL={3}
+            SPLAT_RADIUS={0.12}
+            SPLAT_FORCE={1600}
+            SHADING={false}
+            COLOR_UPDATE_SPEED={12}
+            TRANSPARENT
+            RAINBOW_MODE={false}
+            COLOR="#B4EBE6"
+            BACK_COLOR={{ r: 0, g: 0, b: 0.5 }}
+          />
+        </Suspense>
+      )}
       <ParticlesBackground variant="dashboard" className="z-0 opacity-100" />
       <div className="mx-auto relative z-10 flex min-h-screen w-full max-w-7xl flex-col px-4 py-10 sm:px-6 lg:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 0.85, y: 0 }}
           transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
-          className="mb-10 rounded-[2rem] border border-border/70 bg-white/75 p-6 shadow-[0_20px_80px_-32px_rgba(15,23,42,0.32)] backdrop-blur-xl sm:p-8"
+          className="mb-10 rounded-[2rem] border border-border/70 bg-white/75 p-6 shadow-[0_20px_80px_-32px_rgba(15,23,42,0.32)] backdrop-blur-xl sm:p-8 dark:border-white/10 dark:bg-slate-950/70 dark:shadow-[0_20px_80px_-32px_rgba(0,0,0,0.6)]"
         >
           <div className="flex flex-col gap-6">
             <div className="space-y-4">
@@ -134,10 +150,10 @@ const Dashboard = () => {
                 Seller Catalog Index
               </Badge>
               <div className="space-y-3">
-                <h1 className="text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl">
+                <h1 className="text-3xl font-semibold tracking-tight text-slate-950 sm:text-5xl dark:text-slate-50">
                   Pick a seller catalog to open.
                 </h1>
-                <p className="max-w-2xl text-sm leading-6 text-slate-600 sm:text-base">
+                <p className="max-w-2xl text-sm leading-6 text-slate-600 sm:text-base dark:text-slate-300">
                   This landing page lists every available seller ID in the data
                   folder. Open any catalog directly by clicking its card, or
                   visit the seller-specific URL in the browser.
@@ -146,20 +162,20 @@ const Dashboard = () => {
             </div>
 
             <div className="grid gap-3 sm:grid-cols-2">
-              <div className="rounded-2xl border border-border/70 bg-white px-4 py-3 shadow-sm">
-                <div className="flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-slate-500">
+              <div className="rounded-2xl border border-border/70 bg-white px-4 py-3 shadow-sm dark:border-white/10 dark:bg-slate-950/70">
+                <div className="flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-slate-500 dark:text-slate-400">
                   <Store className="h-4 w-4" />
                   Total Catalogs
                 </div>
-                <div className="mt-2 text-2xl font-semibold text-slate-950">
+                <div className="mt-2 text-2xl font-semibold text-slate-950 dark:text-slate-50">
                   {isLoading ? "—" : catalogs.length}
                 </div>
               </div>
               <div
                 ref={searchRef}
-                className="relative rounded-2xl border border-border/70 bg-white px-4 py-3 shadow-sm flex items-center"
+                className="relative flex items-center rounded-2xl border border-border/70 bg-white px-4 py-3 shadow-sm dark:border-white/10 dark:bg-slate-950/70"
               >
-                <Search className="absolute left-6 h-4 w-4 text-slate-400" />
+                <Search className="absolute left-6 h-4 w-4 text-slate-400 dark:text-slate-500" />
                 <Input
                   placeholder="Search by seller ID or name..."
                   value={searchQuery}
@@ -202,7 +218,7 @@ const Dashboard = () => {
                       setShowSuggestions(false);
                     }
                   }}
-                  className="w-full pl-12 rounded-2xl border-0 bg-transparent text-slate-950 placeholder-slate-400 focus:ring-0"
+                  className="w-full rounded-2xl border-0 bg-transparent pl-12 text-slate-950 placeholder-slate-400 focus:ring-0 dark:text-slate-50 dark:placeholder-slate-500"
                 />
                 {showSuggestions && searchQuery.trim().length > 0 && (
                   <SuggestionsPortal>
@@ -220,7 +236,7 @@ const Dashboard = () => {
                       return (
                         <div
                           style={style}
-                          className="max-h-56 overflow-auto rounded-xl border border-border bg-white shadow-lg"
+                          className="max-h-56 overflow-auto rounded-xl border border-border bg-white shadow-lg dark:border-white/10 dark:bg-slate-950"
                           role="listbox"
                         >
                           {filteredCatalogs.slice(0, 8).map((catalog, idx) => (
@@ -232,7 +248,7 @@ const Dashboard = () => {
                             >
                               <button
                                 type="button"
-                                className={`block w-full text-left px-4 py-3 ${selectedIndex === idx ? "bg-muted/30" : "hover:bg-muted/40"}`}
+                                className={`block w-full text-left px-4 py-3 ${selectedIndex === idx ? "bg-muted/30 dark:bg-white/5" : "hover:bg-muted/40 dark:hover:bg-white/5"}`}
                                 onMouseDown={(e) => e.preventDefault()}
                                 onClick={() => {
                                   setShowSuggestions(false);
@@ -241,15 +257,15 @@ const Dashboard = () => {
                                 onMouseEnter={() => setSelectedIndex(idx)}
                               >
                                 <div className="flex items-center justify-between">
-                                  <div className="text-sm font-medium text-slate-950">
+                                  <div className="text-sm font-medium text-slate-950 dark:text-slate-50">
                                     {catalog.sellerName}
                                   </div>
-                                  <div className="text-xs text-slate-500">
+                                  <div className="text-xs text-slate-500 dark:text-slate-400">
                                     {catalog.id}
                                   </div>
                                 </div>
                                 {catalog.description && (
-                                  <div className="mt-1 text-xs text-slate-600 line-clamp-2">
+                                  <div className="mt-1 line-clamp-2 text-xs text-slate-600 dark:text-slate-300">
                                     {catalog.description}
                                   </div>
                                 )}
@@ -257,7 +273,7 @@ const Dashboard = () => {
                             </div>
                           ))}
                           {filteredCatalogs.length === 0 && (
-                            <div className="p-4 text-sm text-slate-600">
+                            <div className="p-4 text-sm text-slate-600 dark:text-slate-300">
                               No matches
                             </div>
                           )}
@@ -277,27 +293,29 @@ const Dashboard = () => {
               {Array.from({ length: 6 }).map((_, index) => (
                 <div
                   key={index}
-                  className="h-64 animate-pulse rounded-[1.75rem] border border-border/70 bg-white/70"
+                  className="h-64 animate-pulse rounded-[1.75rem] border border-border/70 bg-white/70 dark:border-white/10 dark:bg-slate-950/60"
                 />
               ))}
             </div>
           ) : catalogs.length === 0 ? (
-            <div className="rounded-[1.75rem] border border-dashed border-border/80 bg-white/70 p-10 text-center">
-              <h2 className="text-xl font-semibold text-slate-950">
+            <div className="rounded-[1.75rem] border border-dashed border-border/80 bg-white/70 p-10 text-center dark:border-white/10 dark:bg-slate-950/60">
+              <h2 className="text-xl font-semibold text-slate-950 dark:text-slate-50">
                 No seller catalogs found
               </h2>
-              <p className="mt-2 text-sm text-slate-600">
+              <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">
                 Add a seller JSON file to{" "}
-                <span className="font-medium text-slate-900">src/data</span> and
-                it will appear here automatically.
+                <span className="font-medium text-slate-900 dark:text-slate-100">
+                  src/data
+                </span>{" "}
+                and it will appear here automatically.
               </p>
             </div>
           ) : filteredCatalogs.length === 0 ? (
-            <div className="rounded-[1.75rem] border border-dashed border-border/80 bg-white/70 p-10 text-center">
-              <h2 className="text-xl font-semibold text-slate-950">
+            <div className="rounded-[1.75rem] border border-dashed border-border/80 bg-white/70 p-10 text-center dark:border-white/10 dark:bg-slate-950/60">
+              <h2 className="text-xl font-semibold text-slate-950 dark:text-slate-50">
                 No catalogs match your search
               </h2>
-              <p className="mt-2 text-sm text-slate-600">
+              <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">
                 Try searching with a different seller ID or name.
               </p>
             </div>
@@ -310,25 +328,25 @@ const Dashboard = () => {
                   animate={{ opacity: 0.85, y: 0 }}
                   transition={{ duration: 0.35, delay: index * 0.04 }}
                 >
-                  <Card className="group flex flex-col h-64 overflow-hidden border-border/70 bg-white/80 shadow-[0_12px_40px_-24px_rgba(15,23,42,0.28)] backdrop-blur-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_24px_60px_-28px_rgba(15,23,42,0.36)]">
+                  <Card className="group flex h-64 flex-col overflow-hidden border-border/70 bg-white/80 shadow-[0_12px_40px_-24px_rgba(15,23,42,0.28)] backdrop-blur-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_24px_60px_-28px_rgba(15,23,42,0.36)] dark:border-white/10 dark:bg-slate-950/70 dark:shadow-[0_12px_40px_-24px_rgba(0,0,0,0.5)]">
                     <CardHeader className="space-y-3 pb-3">
                       <div className="flex items-start justify-between gap-3">
-                        <div className="rounded-2xl bg-slate-950 p-2.5 text-white shadow-lg shadow-slate-950/10 flex-shrink-0">
+                        <div className="flex-shrink-0 rounded-2xl bg-slate-950 p-2.5 text-white shadow-lg shadow-slate-950/10 dark:bg-slate-800 dark:shadow-black/20">
                           <BookOpenText className="h-4 w-4" />
                           {/* <Hash className="h-4 w-4" /> */}
                         </div>
                         <Badge
                           variant="outline"
-                          className="rounded-full border-slate-200 bg-slate-50 px-2.5 py-0.5 text-xs font-medium text-slate-600 flex-shrink-0"
+                          className="flex-shrink-0 rounded-full border-slate-200 bg-slate-50 px-2.5 py-0.5 text-xs font-medium text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300"
                         >
                           {catalog.id}
                         </Badge>
                       </div>
                       <div className="space-y-1.5 flex-1">
-                        <CardTitle className="text-base text-slate-950 line-clamp-2">
+                        <CardTitle className="text-base text-slate-950 line-clamp-2 dark:text-slate-50">
                           {catalog.sellerName}
                         </CardTitle>
-                        <CardDescription className="text-xs text-slate-600 line-clamp-2">
+                        <CardDescription className="text-xs text-slate-600 line-clamp-2 dark:text-slate-300">
                           {catalog.description ||
                             "Seller catalog available in the data folder."}
                         </CardDescription>
@@ -337,7 +355,7 @@ const Dashboard = () => {
                     <CardContent className="mt-auto pt-0">
                       <Button
                         onClick={() => handleOpenCatalog(catalog.id)}
-                        className="w-full rounded-xl bg-slate-950 text-white text-xs hover:bg-slate-800"
+                        className="w-full rounded-xl bg-slate-950 text-xs text-white hover:bg-slate-800 dark:bg-primary dark:text-primary-foreground dark:hover:bg-primary/90"
                       >
                         Open catalog
                         <ArrowRight className="ml-2 h-3 w-3" />

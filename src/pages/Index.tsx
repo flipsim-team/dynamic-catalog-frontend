@@ -64,6 +64,9 @@ const Index = () => {
     !isLoadingSellerData &&
     (isError || rawSellerData == null);
   const [showSplash, setShowSplash] = useState(true);
+  const [isDesktop, setIsDesktop] = useState(
+    typeof window !== "undefined" ? window.innerWidth >= 1024 : false,
+  );
   const data = useMemo(() => {
     if (rawSellerData) {
       return extractSellerDataFromRaw(rawSellerData);
@@ -102,6 +105,15 @@ const Index = () => {
     );
     return () => window.clearTimeout(timeout);
   }, [data]);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsDesktop(window.innerWidth >= 1024);
+    };
+
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
 
   useEffect(() => {
     if (!data) return;
@@ -234,26 +246,28 @@ const Index = () => {
 
   return (
     <div className="page-shell relative min-h-screen bg-background">
-      <Suspense fallback={null}>
-        <SplashCursor
-          SIM_RESOLUTION={128}
-          DYE_RESOLUTION={1440}
-          CAPTURE_RESOLUTION={512}
-          DENSITY_DISSIPATION={4.5}
-          VELOCITY_DISSIPATION={2}
-          PRESSURE={0.1}
-          PRESSURE_ITERATIONS={20}
-          CURL={3}
-          SPLAT_RADIUS={0.12}
-          SPLAT_FORCE={1600}
-          SHADING={false}
-          COLOR_UPDATE_SPEED={12}
-          TRANSPARENT
-          RAINBOW_MODE={false}
-          COLOR="#B4EBE6"
-          BACK_COLOR={{ r: 0.5, g: 0, b: 0 }}
-        />
-      </Suspense>
+      {isDesktop && (
+        <Suspense fallback={null}>
+          <SplashCursor
+            SIM_RESOLUTION={128}
+            DYE_RESOLUTION={1440}
+            CAPTURE_RESOLUTION={512}
+            DENSITY_DISSIPATION={4.5}
+            VELOCITY_DISSIPATION={2}
+            PRESSURE={0.1}
+            PRESSURE_ITERATIONS={20}
+            CURL={3}
+            SPLAT_RADIUS={0.12}
+            SPLAT_FORCE={1600}
+            SHADING={false}
+            COLOR_UPDATE_SPEED={12}
+            TRANSPARENT
+            RAINBOW_MODE={false}
+            COLOR="#B4EBE6"
+            BACK_COLOR={{ r: 0.5, g: 0, b: 0 }}
+          />
+        </Suspense>
+      )}
       {/* <CursorFollower /> */}
 
       <AnimatePresence mode="wait">
