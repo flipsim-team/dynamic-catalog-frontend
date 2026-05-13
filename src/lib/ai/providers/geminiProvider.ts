@@ -2,9 +2,9 @@ import {
   GoogleGenerativeAI,
   HarmCategory,
   HarmBlockThreshold,
-} from '@google/generative-ai';
-import { AIService } from '../aiService';
-import { AIConfig, ChatMessage, AIResponse, StreamCallback } from '../types';
+} from "@google/generative-ai";
+import { AIService } from "../aiService";
+import { AIConfig, ChatMessage, AIResponse, StreamCallback } from "../types";
 
 export class GeminiService extends AIService {
   private client: GoogleGenerativeAI;
@@ -13,7 +13,7 @@ export class GeminiService extends AIService {
   constructor(config: AIConfig) {
     super(config);
     this.client = new GoogleGenerativeAI(this.config.apiKey);
-    this.model = config.model || 'gemini-pro';
+    this.model = config.model || "gemini-pro";
   }
 
   async chat(message: string, context?: ChatMessage[]): Promise<AIResponse> {
@@ -25,7 +25,9 @@ export class GeminiService extends AIService {
         history: this.convertToGeminiHistory(messages.slice(0, -1)),
       });
 
-      const result = await chat.sendMessage(messages[messages.length - 1].content);
+      const result = await chat.sendMessage(
+        messages[messages.length - 1].content,
+      );
       const response = await result.response;
       const content = response.text();
 
@@ -35,7 +37,7 @@ export class GeminiService extends AIService {
       };
     } catch (error) {
       throw new Error(
-        `Gemini API error: ${error instanceof Error ? error.message : 'Unknown error'}`
+        `Gemini API error: ${error instanceof Error ? error.message : "Unknown error"}`,
       );
     }
   }
@@ -43,7 +45,7 @@ export class GeminiService extends AIService {
   async streamChat(
     message: string,
     callbacks: StreamCallback,
-    context?: ChatMessage[]
+    context?: ChatMessage[],
   ): Promise<void> {
     try {
       const model = this.client.getGenerativeModel({ model: this.model });
@@ -52,13 +54,13 @@ export class GeminiService extends AIService {
         history: this.convertToGeminiHistory(messages.slice(0, -1)),
       });
 
-      let fullContent = '';
+      let fullContent = "";
       const stream = await chat.sendMessageStream(
-        messages[messages.length - 1].content
+        messages[messages.length - 1].content,
       );
 
       for await (const chunk of stream.stream) {
-        const token = chunk.text?.() || '';
+        const token = chunk.text?.() || "";
         if (token) {
           fullContent += token;
           callbacks.onToken?.(token);
@@ -68,14 +70,14 @@ export class GeminiService extends AIService {
       callbacks.onComplete?.(fullContent);
     } catch (error) {
       callbacks.onError?.(
-        error instanceof Error ? error : new Error('Unknown streaming error')
+        error instanceof Error ? error : new Error("Unknown streaming error"),
       );
     }
   }
 
   private buildMessages(
     message: string,
-    context?: ChatMessage[]
+    context?: ChatMessage[],
   ): ChatMessage[] {
     const messages: ChatMessage[] = [];
 
@@ -85,7 +87,7 @@ export class GeminiService extends AIService {
 
     // Add current message
     messages.push({
-      role: 'user',
+      role: "user",
       content: message,
     });
 
@@ -93,12 +95,12 @@ export class GeminiService extends AIService {
   }
 
   private convertToGeminiHistory(
-    messages: ChatMessage[]
+    messages: ChatMessage[],
   ): Array<{ role: string; parts: Array<{ text: string }> }> {
     return messages
-      .filter((m) => m.role !== 'system')
+      .filter((m) => m.role !== "system")
       .map((m) => ({
-        role: m.role === 'assistant' ? 'model' : 'user',
+        role: m.role === "assistant" ? "model" : "user",
         parts: [{ text: m.content }],
       }));
   }

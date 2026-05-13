@@ -1,6 +1,6 @@
 // AI Service Types and Interfaces
 
-export type AIProvider = 'openai' | 'anthropic' | 'gemini';
+export type AIProvider = "openai" | "anthropic" | "gemini";
 
 export interface AIConfig {
   provider: AIProvider;
@@ -11,7 +11,7 @@ export interface AIConfig {
 }
 
 export interface ChatMessage {
-  role: 'user' | 'assistant' | 'system';
+  role: "user" | "assistant" | "system";
   content: string;
 }
 
@@ -50,7 +50,7 @@ export interface ProductRecommendation {
 export interface SellerInsight {
   metric: string;
   value: number | string;
-  trend: 'up' | 'down' | 'stable';
+  trend: "up" | "down" | "stable";
   recommendation: string;
 }
 

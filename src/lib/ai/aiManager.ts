@@ -1,8 +1,8 @@
-import { AIService } from './aiService';
-import { OpenAIService } from './providers/openaiProvider';
-import { AnthropicService } from './providers/anthropicProvider';
-import { GeminiService } from './providers/geminiProvider';
-import { AIConfig, AIProvider } from './types';
+import { AIService } from "./aiService";
+import { OpenAIService } from "./providers/openaiProvider";
+import { AnthropicService } from "./providers/anthropicProvider";
+import { GeminiService } from "./providers/geminiProvider";
+import { AIConfig, AIProvider } from "./types";
 
 /**
  * AI Manager - Handles provider selection and initialization
@@ -33,7 +33,7 @@ export class AIManager {
    */
   static getInstance(): AIManager {
     if (!AIManager.instance) {
-      throw new Error('AIManager not initialized. Call initialize() first.');
+      throw new Error("AIManager not initialized. Call initialize() first.");
     }
     return AIManager.instance;
   }
@@ -50,13 +50,13 @@ export class AIManager {
       };
 
       switch (provider) {
-        case 'openai':
+        case "openai":
           this.services.set(provider, new OpenAIService(providerConfig));
           break;
-        case 'anthropic':
+        case "anthropic":
           this.services.set(provider, new AnthropicService(providerConfig));
           break;
-        case 'gemini':
+        case "gemini":
           this.services.set(provider, new GeminiService(providerConfig));
           break;
         default:
@@ -72,9 +72,9 @@ export class AIManager {
    */
   private getApiKeyForProvider(provider: AIProvider): string {
     const keys: Record<AIProvider, string> = {
-      openai: import.meta.env.VITE_OPENAI_API_KEY || '',
-      anthropic: import.meta.env.VITE_ANTHROPIC_API_KEY || '',
-      gemini: import.meta.env.VITE_GEMINI_API_KEY || '',
+      openai: import.meta.env.VITE_OPENAI_API_KEY || "",
+      anthropic: import.meta.env.VITE_ANTHROPIC_API_KEY || "",
+      gemini: import.meta.env.VITE_GEMINI_API_KEY || "",
     };
 
     const key = keys[provider];
@@ -130,7 +130,10 @@ export class AIManager {
    * Get product recommendations with current provider
    */
   async getProductRecommendations(userProfile: any, products: any[]) {
-    return this.getActiveService().getProductRecommendations(userProfile, products);
+    return this.getActiveService().getProductRecommendations(
+      userProfile,
+      products,
+    );
   }
 
   /**
@@ -174,8 +177,8 @@ export class AIManager {
  */
 export function createAIManager(config: Partial<AIConfig> = {}): AIManager {
   const defaultConfig: AIConfig = {
-    provider: (import.meta.env.VITE_AI_PROVIDER as AIProvider) || 'openai',
-    apiKey: '',
+    provider: (import.meta.env.VITE_AI_PROVIDER as AIProvider) || "openai",
+    apiKey: "",
     temperature: 0.7,
     maxTokens: 2000,
     ...config,

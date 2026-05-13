@@ -1,13 +1,13 @@
-import { 
-  AIConfig, 
-  ChatMessage, 
-  AIResponse, 
+import {
+  AIConfig,
+  ChatMessage,
+  AIResponse,
   StreamCallback,
   ProductAnalysis,
   ProductRecommendation,
   SellerInsight,
-  ConversationContext
-} from './types';
+  ConversationContext,
+} from "./types";
 
 /**
  * Abstract base class for AI providers
@@ -38,7 +38,7 @@ export abstract class AIService {
   abstract streamChat(
     message: string,
     callbacks: StreamCallback,
-    context?: ChatMessage[]
+    context?: ChatMessage[],
   ): Promise<void>;
 
   /**
@@ -70,7 +70,7 @@ Respond in JSON format with keys: title, summary, keyFeatures, suggestedTags, po
    */
   async getProductRecommendations(
     userProfile: any,
-    availableProducts: any[]
+    availableProducts: any[],
   ): Promise<ProductRecommendation[]> {
     const prompt = `Based on this user profile and available products, recommend the top 3-5 products.
 
@@ -123,7 +123,9 @@ Return a JSON array of matching product IDs sorted by relevance, with a score fo
     const response = await this.chat(prompt);
     try {
       const parsed = JSON.parse(response.content);
-      return parsed.map((item: any) => products.find((p: any) => p.id === item.productId || p.id === item.id));
+      return parsed.map((item: any) =>
+        products.find((p: any) => p.id === item.productId || p.id === item.id),
+      );
     } catch {
       return products.slice(0, 5);
     }
@@ -210,12 +212,12 @@ Score 0 = completely safe, 100 = severe violations`;
    */
   protected parseProductAnalysis(text: string): ProductAnalysis {
     return {
-      title: 'Product',
+      title: "Product",
       summary: text,
       keyFeatures: [],
       suggestedTags: [],
       potentialIssues: [],
-      enhancementSuggestions: []
+      enhancementSuggestions: [],
     };
   }
 

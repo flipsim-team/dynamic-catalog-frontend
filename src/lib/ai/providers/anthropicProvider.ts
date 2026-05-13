@@ -1,6 +1,6 @@
-import Anthropic from '@anthropic-ai/sdk';
-import { AIService } from '../aiService';
-import { AIConfig, ChatMessage, AIResponse, StreamCallback } from '../types';
+import Anthropic from "@anthropic-ai/sdk";
+import { AIService } from "../aiService";
+import { AIConfig, ChatMessage, AIResponse, StreamCallback } from "../types";
 
 export class AnthropicService extends AIService {
   private client: Anthropic;
@@ -11,7 +11,7 @@ export class AnthropicService extends AIService {
     this.client = new Anthropic({
       apiKey: this.config.apiKey,
     });
-    this.model = config.model || 'claude-3-sonnet-20240229';
+    this.model = config.model || "claude-3-sonnet-20240229";
   }
 
   async chat(message: string, context?: ChatMessage[]): Promise<AIResponse> {
@@ -28,7 +28,7 @@ Be helpful, professional, and data-driven in your responses.`,
       });
 
       const content =
-        response.content[0]?.type === 'text' ? response.content[0].text : '';
+        response.content[0]?.type === "text" ? response.content[0].text : "";
 
       return {
         content,
@@ -36,12 +36,13 @@ Be helpful, professional, and data-driven in your responses.`,
         usage: {
           promptTokens: response.usage.input_tokens,
           completionTokens: response.usage.output_tokens,
-          totalTokens: response.usage.input_tokens + response.usage.output_tokens,
+          totalTokens:
+            response.usage.input_tokens + response.usage.output_tokens,
         },
       };
     } catch (error) {
       throw new Error(
-        `Anthropic API error: ${error instanceof Error ? error.message : 'Unknown error'}`
+        `Anthropic API error: ${error instanceof Error ? error.message : "Unknown error"}`,
       );
     }
   }
@@ -49,10 +50,10 @@ Be helpful, professional, and data-driven in your responses.`,
   async streamChat(
     message: string,
     callbacks: StreamCallback,
-    context?: ChatMessage[]
+    context?: ChatMessage[],
   ): Promise<void> {
     const messages = this.buildMessages(message, context);
-    let fullContent = '';
+    let fullContent = "";
 
     try {
       const stream = await this.client.messages.stream({
@@ -66,10 +67,10 @@ Be helpful, professional, and data-driven in your responses.`,
 
       for await (const chunk of stream) {
         if (
-          chunk.type === 'content_block_delta' &&
-          chunk.delta?.type === 'text_delta'
+          chunk.type === "content_block_delta" &&
+          chunk.delta?.type === "text_delta"
         ) {
-          const token = chunk.delta.text || '';
+          const token = chunk.delta.text || "";
           if (token) {
             fullContent += token;
             callbacks.onToken?.(token);
@@ -80,14 +81,14 @@ Be helpful, professional, and data-driven in your responses.`,
       callbacks.onComplete?.(fullContent);
     } catch (error) {
       callbacks.onError?.(
-        error instanceof Error ? error : new Error('Unknown streaming error')
+        error instanceof Error ? error : new Error("Unknown streaming error"),
       );
     }
   }
 
   private buildMessages(
     message: string,
-    context?: ChatMessage[]
+    context?: ChatMessage[],
   ): ChatMessage[] {
     const messages: ChatMessage[] = [];
 
@@ -97,7 +98,7 @@ Be helpful, professional, and data-driven in your responses.`,
 
     // Add current message
     messages.push({
-      role: 'user',
+      role: "user",
       content: message,
     });
 

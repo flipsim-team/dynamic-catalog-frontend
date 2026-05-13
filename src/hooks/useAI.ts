@@ -1,6 +1,11 @@
-import { useState, useCallback, useEffect } from 'react';
-import { AIManager } from '@/lib/ai/aiManager';
-import { ChatMessage, AIResponse, ProductAnalysis, AIProvider } from '@/lib/ai/types';
+import { useState, useCallback, useEffect } from "react";
+import { AIManager } from "@/lib/ai/aiManager";
+import {
+  ChatMessage,
+  AIResponse,
+  ProductAnalysis,
+  AIProvider,
+} from "@/lib/ai/types";
 
 export function useAI() {
   const [aiManager, setAIManager] = useState<AIManager | null>(null);
@@ -15,8 +20,8 @@ export function useAI() {
       setAIManager(manager);
     } catch {
       const manager = AIManager.initialize({
-        provider: 'openai',
-        apiKey: import.meta.env.VITE_OPENAI_API_KEY || '',
+        provider: "openai",
+        apiKey: import.meta.env.VITE_OPENAI_API_KEY || "",
       });
       setAIManager(manager);
     }
@@ -34,7 +39,7 @@ export function useAI() {
 
       try {
         // Add user message to history
-        const userMessage: ChatMessage = { role: 'user', content: message };
+        const userMessage: ChatMessage = { role: "user", content: message };
         setMessages((prev) => [...prev, userMessage]);
 
         // Get AI response
@@ -42,21 +47,21 @@ export function useAI() {
 
         // Add assistant message to history
         const assistantMessage: ChatMessage = {
-          role: 'assistant',
+          role: "assistant",
           content: response.content,
         };
         setMessages((prev) => [...prev, assistantMessage]);
 
         return response;
       } catch (err) {
-        const error = err instanceof Error ? err : new Error('Unknown error');
+        const error = err instanceof Error ? err : new Error("Unknown error");
         setError(error);
         return null;
       } finally {
         setLoading(false);
       }
     },
-    [aiManager]
+    [aiManager],
   );
 
   /**
@@ -65,19 +70,19 @@ export function useAI() {
   const streamMessage = useCallback(
     async (
       message: string,
-      onToken?: (token: string) => void
+      onToken?: (token: string) => void,
     ): Promise<string> => {
-      if (!aiManager) return '';
+      if (!aiManager) return "";
 
       setLoading(true);
       setError(null);
 
       return new Promise((resolve, reject) => {
         // Add user message to history
-        const userMessage: ChatMessage = { role: 'user', content: message };
+        const userMessage: ChatMessage = { role: "user", content: message };
         setMessages((prev) => [...prev, userMessage]);
 
-        let fullContent = '';
+        let fullContent = "";
 
         aiManager
           .streamChat(message, {
@@ -87,7 +92,7 @@ export function useAI() {
             },
             onComplete: (content) => {
               const assistantMessage: ChatMessage = {
-                role: 'assistant',
+                role: "assistant",
                 content,
               };
               setMessages((prev) => [...prev, assistantMessage]);
@@ -103,7 +108,7 @@ export function useAI() {
           .catch(reject);
       });
     },
-    [aiManager]
+    [aiManager],
   );
 
   /**
@@ -119,14 +124,14 @@ export function useAI() {
       try {
         return await aiManager.analyzeProduct(productData);
       } catch (err) {
-        const error = err instanceof Error ? err : new Error('Unknown error');
+        const error = err instanceof Error ? err : new Error("Unknown error");
         setError(error);
         return null;
       } finally {
         setLoading(false);
       }
     },
-    [aiManager]
+    [aiManager],
   );
 
   /**
@@ -142,14 +147,14 @@ export function useAI() {
       try {
         return await aiManager.getProductRecommendations(userProfile, products);
       } catch (err) {
-        const error = err instanceof Error ? err : new Error('Unknown error');
+        const error = err instanceof Error ? err : new Error("Unknown error");
         setError(error);
         return [];
       } finally {
         setLoading(false);
       }
     },
-    [aiManager]
+    [aiManager],
   );
 
   /**
@@ -165,14 +170,14 @@ export function useAI() {
       try {
         return await aiManager.generateSellerInsights(sellerData);
       } catch (err) {
-        const error = err instanceof Error ? err : new Error('Unknown error');
+        const error = err instanceof Error ? err : new Error("Unknown error");
         setError(error);
         return [];
       } finally {
         setLoading(false);
       }
     },
-    [aiManager]
+    [aiManager],
   );
 
   /**
@@ -188,14 +193,14 @@ export function useAI() {
       try {
         return await aiManager.semanticSearch(query, products);
       } catch (err) {
-        const error = err instanceof Error ? err : new Error('Unknown error');
+        const error = err instanceof Error ? err : new Error("Unknown error");
         setError(error);
         return [];
       } finally {
         setLoading(false);
       }
     },
-    [aiManager]
+    [aiManager],
   );
 
   /**
@@ -203,7 +208,7 @@ export function useAI() {
    */
   const generateDescription = useCallback(
     async (productInfo: any) => {
-      if (!aiManager) return '';
+      if (!aiManager) return "";
 
       setLoading(true);
       setError(null);
@@ -211,14 +216,14 @@ export function useAI() {
       try {
         return await aiManager.generateProductDescription(productInfo);
       } catch (err) {
-        const error = err instanceof Error ? err : new Error('Unknown error');
+        const error = err instanceof Error ? err : new Error("Unknown error");
         setError(error);
-        return '';
+        return "";
       } finally {
         setLoading(false);
       }
     },
-    [aiManager]
+    [aiManager],
   );
 
   /**
@@ -234,14 +239,14 @@ export function useAI() {
       try {
         return await aiManager.extractProductInfo(text);
       } catch (err) {
-        const error = err instanceof Error ? err : new Error('Unknown error');
+        const error = err instanceof Error ? err : new Error("Unknown error");
         setError(error);
         return {};
       } finally {
         setLoading(false);
       }
     },
-    [aiManager]
+    [aiManager],
   );
 
   /**
@@ -257,24 +262,27 @@ export function useAI() {
       try {
         return await aiManager.moderateContent(content);
       } catch (err) {
-        const error = err instanceof Error ? err : new Error('Unknown error');
+        const error = err instanceof Error ? err : new Error("Unknown error");
         setError(error);
         return { isSafe: true, score: 0, reasons: [] };
       } finally {
         setLoading(false);
       }
     },
-    [aiManager]
+    [aiManager],
   );
 
   /**
    * Switch provider
    */
-  const switchProvider = useCallback((provider: AIProvider) => {
-    if (aiManager) {
-      aiManager.switchProvider(provider);
-    }
-  }, [aiManager]);
+  const switchProvider = useCallback(
+    (provider: AIProvider) => {
+      if (aiManager) {
+        aiManager.switchProvider(provider);
+      }
+    },
+    [aiManager],
+  );
 
   /**
    * Clear message history
@@ -287,7 +295,7 @@ export function useAI() {
    * Get current provider
    */
   const getProvider = useCallback(() => {
-    return aiManager?.getActiveProvider() || 'openai';
+    return aiManager?.getActiveProvider() || "openai";
   }, [aiManager]);
 
   return {
@@ -295,7 +303,7 @@ export function useAI() {
     loading,
     error,
     messages,
-    
+
     // Methods
     sendMessage,
     streamMessage,

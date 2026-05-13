@@ -1,15 +1,21 @@
-import { useState, useEffect } from 'react';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import { Button } from '@/components/ui/button';
+import { useState, useEffect } from "react";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Button } from "@/components/ui/button";
 import {
   AIChat,
   AIProductRecommendation,
   AIAnalyticsDashboard,
   AISemanticSearch,
   AIProductAnalyzer,
-} from '@/components/ai';
-import { MessageSquare, Sparkles, BarChart3, Search, Wand2 } from 'lucide-react';
-import { useSellerGlidData } from '@/hooks/useSellerGlidData';
+} from "@/components/ai";
+import {
+  MessageSquare,
+  Sparkles,
+  BarChart3,
+  Search,
+  Wand2,
+} from "lucide-react";
+import { useSellerGlidData } from "@/hooks/useSellerGlidData";
 
 export default function AIPage() {
   const { catalogProducts = [], sellerData = {} } = useSellerGlidData();
@@ -25,7 +31,8 @@ export default function AIPage() {
             AI-Native Seller Catalog
           </h1>
           <p className="text-slate-400">
-            Experience your product catalog with AI-powered insights, recommendations, and analytics
+            Experience your product catalog with AI-powered insights,
+            recommendations, and analytics
           </p>
         </div>
       </div>
@@ -78,11 +85,11 @@ export default function AIPage() {
                 <AIChat
                   className="h-[600px]"
                   suggestedPrompts={[
-                    'Analyze my best performing products',
-                    'Suggest ways to improve product visibility',
-                    'What categories should I focus on?',
-                    'Generate product descriptions for my catalog',
-                    'Help me optimize pricing strategy',
+                    "Analyze my best performing products",
+                    "Suggest ways to improve product visibility",
+                    "What categories should I focus on?",
+                    "Generate product descriptions for my catalog",
+                    "Help me optimize pricing strategy",
                   ]}
                 />
               </div>
@@ -92,7 +99,9 @@ export default function AIPage() {
                   <ul className="space-y-3 text-sm text-slate-300">
                     <li className="flex gap-2">
                       <span className="text-blue-400">•</span>
-                      <span>Ask about product categories and market trends</span>
+                      <span>
+                        Ask about product categories and market trends
+                      </span>
                     </li>
                     <li className="flex gap-2">
                       <span className="text-blue-400">•</span>
@@ -126,7 +135,7 @@ export default function AIPage() {
           <TabsContent value="recommendations" className="mt-8">
             <AIProductRecommendation
               userProfile={{
-                interests: ['technology', 'productivity'],
+                interests: ["technology", "productivity"],
                 budgetRange: [50, 500],
                 recentPurchases: [],
               }}
@@ -143,12 +152,14 @@ export default function AIPage() {
                   <AIProductAnalyzer
                     product={selectedProduct}
                     onAnalysisComplete={(analysis) => {
-                      console.log('Analysis:', analysis);
+                      console.log("Analysis:", analysis);
                     }}
                   />
                 </div>
                 <div className="bg-slate-800 border border-slate-700 rounded-lg p-6">
-                  <h3 className="font-semibold text-white mb-4">Selected Product</h3>
+                  <h3 className="font-semibold text-white mb-4">
+                    Selected Product
+                  </h3>
                   {selectedProduct.image && (
                     <img
                       src={selectedProduct.image}
@@ -156,7 +167,9 @@ export default function AIPage() {
                       className="w-full h-40 object-cover rounded-lg mb-4"
                     />
                   )}
-                  <h4 className="font-semibold text-white">{selectedProduct.name}</h4>
+                  <h4 className="font-semibold text-white">
+                    {selectedProduct.name}
+                  </h4>
                   <p className="text-slate-400 text-sm mt-2">
                     {selectedProduct.description}
                   </p>
@@ -170,7 +183,8 @@ export default function AIPage() {
             ) : (
               <div className="bg-slate-800 border border-slate-700 rounded-lg p-8 text-center">
                 <p className="text-slate-400 mb-4">
-                  Use the Search or Recommendations tabs to select a product to analyze
+                  Use the Search or Recommendations tabs to select a product to
+                  analyze
                 </p>
               </div>
             )}
@@ -186,7 +200,7 @@ export default function AIPage() {
                 conversionRate: 0.034,
                 averageOrderValue: 87.5,
                 repeatCustomers: 0.42,
-                topCategory: 'Technology',
+                topCategory: "Technology",
               }}
             />
           </TabsContent>

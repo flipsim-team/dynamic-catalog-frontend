@@ -9,6 +9,7 @@ This project has been converted into a **comprehensive AI-native application** w
 ### 🤖 AI Core Architecture
 
 #### Multi-Provider Support
+
 - **OpenAI (GPT-4 Turbo)** - Default, most capable
 - **Anthropic Claude 3** - Alternative, excellent reasoning
 - **Google Gemini** - Multi-modal capabilities
@@ -16,6 +17,7 @@ This project has been converted into a **comprehensive AI-native application** w
 The application uses an **abstraction layer** that allows seamless switching between providers without code changes.
 
 #### AI Service Layer
+
 - **Location**: `src/lib/ai/`
 - Base classes and interfaces for provider abstraction
 - Individual provider implementations
@@ -24,33 +26,39 @@ The application uses an **abstraction layer** that allows seamless switching bet
 ### 🎯 AI-Powered Features
 
 #### 1. **AI Chat Assistant** (`AIChat.tsx`)
+
 - Natural language conversations about products
 - Contextual understanding of your catalog
 - Real-time streaming responses
 - Suggested quick prompts for common tasks
 
 **Use Cases:**
+
 - "Analyze my top selling products"
 - "Suggest improvements for my catalog"
 - "Generate product descriptions"
 - "Find market opportunities"
 
 #### 2. **Semantic Search** (`AISemanticSearch.tsx`)
+
 - Natural language product discovery
 - Understands customer intent
 - Finds products beyond exact keyword matching
 
 **Example Query:**
+
 - "affordable blue wireless headphones under $50"
 - "sustainable eco-friendly yoga mats"
 
 #### 3. **AI Recommendations** (`AIProductRecommendation.tsx`)
+
 - Personalized product suggestions
 - Based on user profile and preferences
 - ML-driven relevance scoring
 - Related products suggestions
 
 #### 4. **Product Analyzer** (`AIProductAnalyzer.tsx`)
+
 - Automated product analysis
 - Key features extraction
 - Suggested tags and categories
@@ -58,6 +66,7 @@ The application uses an **abstraction layer** that allows seamless switching bet
 - Enhancement recommendations
 
 #### 5. **Analytics Dashboard** (`AIAnalyticsDashboard.tsx`)
+
 - AI-generated seller insights
 - Trend analysis
 - Business recommendations
@@ -66,12 +75,15 @@ The application uses an **abstraction layer** that allows seamless switching bet
 ### 📍 Access Points
 
 #### Main AI Page
+
 ```
 /ai
 ```
+
 Accessible via the "AI Catalog" button in the top-right of the dashboard.
 
 #### Features Available:
+
 - **Chat Tab**: Direct conversation with AI assistant
 - **Search Tab**: Semantic product search
 - **Recommendations Tab**: Personalized product suggestions
@@ -129,16 +141,19 @@ VITE_ENABLE_CONTENT_MODERATION=true
 ### 3. **Get API Keys**
 
 #### OpenAI
+
 1. Go to [platform.openai.com](https://platform.openai.com)
 2. Create an account and API key
 3. Ensure you have credits for API usage
 
 #### Anthropic Claude
+
 1. Go to [console.anthropic.com](https://console.anthropic.com)
 2. Create an account and API key
 3. Set up billing
 
 #### Google Gemini
+
 1. Go to [ai.google.dev](https://ai.google.dev)
 2. Create an API key
 3. Enable necessary APIs
@@ -185,7 +200,7 @@ src/
 ### Quick Start with `useAI` Hook
 
 ```tsx
-import { useAI } from '@/hooks/useAI';
+import { useAI } from "@/hooks/useAI";
 
 function MyComponent() {
   const {
@@ -200,7 +215,7 @@ function MyComponent() {
   } = useAI();
 
   const handleChat = async () => {
-    const response = await sendMessage('What are my best products?');
+    const response = await sendMessage("What are my best products?");
     console.log(response.content);
   };
 
@@ -216,7 +231,7 @@ function MyComponent() {
 ### Example: Analyzing a Product
 
 ```tsx
-import { useAI } from '@/hooks/useAI';
+import { useAI } from "@/hooks/useAI";
 
 function ProductAnalysisExample({ product }) {
   const { analyzeProduct, loading, error } = useAI();
@@ -234,7 +249,7 @@ function ProductAnalysisExample({ product }) {
 
   return (
     <button onClick={handleAnalyze} disabled={loading}>
-      {loading ? 'Analyzing...' : 'Analyze Product'}
+      {loading ? "Analyzing..." : "Analyze Product"}
     </button>
   );
 }
@@ -243,7 +258,7 @@ function ProductAnalysisExample({ product }) {
 ### Example: Semantic Search
 
 ```tsx
-import { AISemanticSearch } from '@/components/ai';
+import { AISemanticSearch } from "@/components/ai";
 
 function SearchExample() {
   return (
@@ -263,24 +278,29 @@ function SearchExample() {
 Returns an object with the following methods:
 
 #### Chat Methods
+
 - **`sendMessage(message: string)`** - Send a single message
 - **`streamMessage(message: string, onToken?: callback)`** - Stream response with tokens
 - **`clearHistory()`** - Clear conversation history
 
 #### Product Methods
+
 - **`analyzeProduct(productData: any)`** - Get detailed product analysis
 - **`search(query: string, products: any[])`** - Semantic search on products
 - **`generateDescription(productInfo: any)`** - Generate product description
 - **`extractInfo(text: string)`** - Extract structured data from text
 
 #### Analytics Methods
+
 - **`getRecommendations(userProfile, products)`** - Get recommendations
 - **`generateInsights(sellerData)`** - Generate seller insights
 
 #### Moderation
+
 - **`moderate(content: string)`** - Check content for policy violations
 
 #### State
+
 - **`loading`** - Boolean indicating if request is in progress
 - **`error`** - Error object if request failed
 - **`messages`** - Array of chat messages in conversation
@@ -290,10 +310,10 @@ Returns an object with the following methods:
 ### At Runtime
 
 ```tsx
-import { AIManager } from '@/lib/ai/aiManager';
+import { AIManager } from "@/lib/ai/aiManager";
 
 const manager = AIManager.getInstance();
-manager.switchProvider('anthropic'); // or 'gemini', 'openai'
+manager.switchProvider("anthropic"); // or 'gemini', 'openai'
 ```
 
 ### Via Environment Variable
@@ -314,12 +334,14 @@ VITE_AI_PROVIDER=anthropic
 ## Cost Management
 
 ### Token Usage Estimates
+
 - Chat message: 100-500 tokens
 - Product analysis: 200-800 tokens
 - Recommendation generation: 300-1000 tokens
 - Semantic search: 400-1500 tokens
 
 ### Cost Optimization
+
 1. Use `temperature=0.5-0.7` to reduce variation
 2. Batch requests when possible
 3. Cache generated descriptions
@@ -328,18 +350,21 @@ VITE_AI_PROVIDER=anthropic
 ## Troubleshooting
 
 ### API Key Not Working
+
 - Check `.env.local` file exists
 - Verify API key is correct
 - Ensure API has remaining credits
 - Check API is enabled in provider dashboard
 
 ### No Responses from AI
+
 - Check browser console for errors
 - Verify network request in DevTools
 - Check API key permissions
 - Ensure provider is selected in `VITE_AI_PROVIDER`
 
 ### Slow Responses
+
 - Check network speed
 - Consider using streaming for better perception of speed
 - Reduce `VITE_AI_MAX_TOKENS`
@@ -352,8 +377,8 @@ VITE_AI_PROVIDER=anthropic
 Create your own provider by extending `AIService`:
 
 ```tsx
-import { AIService } from '@/lib/ai/aiService';
-import { AIConfig, ChatMessage, AIResponse } from '@/lib/ai/types';
+import { AIService } from "@/lib/ai/aiService";
+import { AIConfig, ChatMessage, AIResponse } from "@/lib/ai/types";
 
 export class CustomService extends AIService {
   async chat(message: string, context?: ChatMessage[]): Promise<AIResponse> {
@@ -369,12 +394,12 @@ export class CustomService extends AIService {
 ### Custom Configuration
 
 ```tsx
-import { AIManager } from '@/lib/ai/aiManager';
+import { AIManager } from "@/lib/ai/aiManager";
 
 AIManager.initialize({
-  provider: 'openai',
+  provider: "openai",
   apiKey: import.meta.env.VITE_OPENAI_API_KEY,
-  model: 'gpt-4-turbo',
+  model: "gpt-4-turbo",
   temperature: 0.5,
   maxTokens: 3000,
 });

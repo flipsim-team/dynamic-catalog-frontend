@@ -1,6 +1,6 @@
-import OpenAI from 'openai';
-import { AIService } from '../aiService';
-import { AIConfig, ChatMessage, AIResponse, StreamCallback } from '../types';
+import OpenAI from "openai";
+import { AIService } from "../aiService";
+import { AIConfig, ChatMessage, AIResponse, StreamCallback } from "../types";
 
 export class OpenAIService extends AIService {
   private client: OpenAI;
@@ -12,7 +12,7 @@ export class OpenAIService extends AIService {
       apiKey: this.config.apiKey,
       dangerouslyAllowBrowser: true,
     });
-    this.model = config.model || 'gpt-4-turbo';
+    this.model = config.model || "gpt-4-turbo";
   }
 
   async chat(message: string, context?: ChatMessage[]): Promise<AIResponse> {
@@ -26,7 +26,7 @@ export class OpenAIService extends AIService {
         max_tokens: this.config.maxTokens || 2000,
       });
 
-      const content = response.choices[0]?.message?.content || '';
+      const content = response.choices[0]?.message?.content || "";
 
       return {
         content,
@@ -38,17 +38,19 @@ export class OpenAIService extends AIService {
         },
       };
     } catch (error) {
-      throw new Error(`OpenAI API error: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      throw new Error(
+        `OpenAI API error: ${error instanceof Error ? error.message : "Unknown error"}`,
+      );
     }
   }
 
   async streamChat(
     message: string,
     callbacks: StreamCallback,
-    context?: ChatMessage[]
+    context?: ChatMessage[],
   ): Promise<void> {
     const messages = this.buildMessages(message, context);
-    let fullContent = '';
+    let fullContent = "";
 
     try {
       const stream = await this.client.chat.completions.create({
@@ -60,7 +62,7 @@ export class OpenAIService extends AIService {
       });
 
       for await (const chunk of stream) {
-        const token = chunk.choices[0]?.delta?.content || '';
+        const token = chunk.choices[0]?.delta?.content || "";
         if (token) {
           fullContent += token;
           callbacks.onToken?.(token);
@@ -69,16 +71,21 @@ export class OpenAIService extends AIService {
 
       callbacks.onComplete?.(fullContent);
     } catch (error) {
-      callbacks.onError?.(error instanceof Error ? error : new Error('Unknown streaming error'));
+      callbacks.onError?.(
+        error instanceof Error ? error : new Error("Unknown streaming error"),
+      );
     }
   }
 
-  private buildMessages(message: string, context?: ChatMessage[]): ChatMessage[] {
+  private buildMessages(
+    message: string,
+    context?: ChatMessage[],
+  ): ChatMessage[] {
     const messages: ChatMessage[] = [];
 
     // Add system message
     messages.push({
-      role: 'system',
+      role: "system",
       content: `You are an AI assistant for an e-commerce seller catalog platform. 
 You help sellers manage products, analyze sales, recommend strategies, and interact with customers.
 Be helpful, professional, and data-driven in your responses.`,
@@ -90,7 +97,7 @@ Be helpful, professional, and data-driven in your responses.`,
 
     // Add current message
     messages.push({
-      role: 'user',
+      role: "user",
       content: message,
     });
 

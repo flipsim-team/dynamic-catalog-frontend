@@ -1,9 +1,9 @@
-import { useState, useEffect } from 'react';
-import { Loader2, TrendingUp, AlertCircle } from 'lucide-react';
-import { useAI } from '@/hooks/useAI';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Button } from '@/components/ui/button';
-import { cn } from '@/lib/utils';
+import { useState, useEffect } from "react";
+import { Loader2, TrendingUp, AlertCircle } from "lucide-react";
+import { useAI } from "@/hooks/useAI";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
 
 interface AIAnalyticsDashboardProps {
   sellerData: any;
@@ -29,7 +29,7 @@ export function AIAnalyticsDashboard({
   };
 
   return (
-    <div className={cn('space-y-4', className)}>
+    <div className={cn("space-y-4", className)}>
       <div className="flex items-center justify-between">
         <h2 className="text-2xl font-bold text-white">AI Insights Dashboard</h2>
         <Button
@@ -40,7 +40,7 @@ export function AIAnalyticsDashboard({
           {loading ? (
             <Loader2 className="w-4 h-4 animate-spin" />
           ) : (
-            'Refresh Insights'
+            "Refresh Insights"
           )}
         </Button>
       </div>
@@ -83,7 +83,9 @@ export function AIAnalyticsDashboard({
                 <div className="text-3xl font-bold text-blue-400">
                   {insight.value}
                 </div>
-                <p className="text-sm text-slate-300">{insight.recommendation}</p>
+                <p className="text-sm text-slate-300">
+                  {insight.recommendation}
+                </p>
               </CardContent>
             </Card>
           ))}
@@ -92,7 +94,10 @@ export function AIAnalyticsDashboard({
         <Card className="border-slate-700 bg-slate-800">
           <CardContent className="pt-6 text-center py-12">
             <p className="text-slate-400 mb-4">No insights generated yet</p>
-            <Button onClick={loadInsights} className="bg-blue-600 hover:bg-blue-700">
+            <Button
+              onClick={loadInsights}
+              className="bg-blue-600 hover:bg-blue-700"
+            >
               Generate Insights
             </Button>
           </CardContent>
@@ -102,15 +107,15 @@ export function AIAnalyticsDashboard({
   );
 }
 
-function TrendingIcon({ trend }: { trend: 'up' | 'down' | 'stable' }) {
-  if (trend === 'up') {
+function TrendingIcon({ trend }: { trend: "up" | "down" | "stable" }) {
+  if (trend === "up") {
     return (
       <span className="inline-block px-2 py-1 rounded-full bg-green-900/30 text-green-400 text-xs font-semibold">
         ↑ Up
       </span>
     );
   }
-  if (trend === 'down') {
+  if (trend === "down") {
     return (
       <span className="inline-block px-2 py-1 rounded-full bg-red-900/30 text-red-400 text-xs font-semibold">
         ↓ Down

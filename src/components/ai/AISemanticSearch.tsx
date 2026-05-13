@@ -1,9 +1,9 @@
-import { useState } from 'react';
-import { Loader2, Search, Sparkles } from 'lucide-react';
-import { useAI } from '@/hooks/useAI';
-import { Input } from '@/components/ui/input';
-import { Button } from '@/components/ui/button';
-import { cn } from '@/lib/utils';
+import { useState } from "react";
+import { Loader2, Search, Sparkles } from "lucide-react";
+import { useAI } from "@/hooks/useAI";
+import { Input } from "@/components/ui/input";
+import { Button } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
 
 interface AISemanticSearchProps {
   products: any[];
@@ -18,10 +18,10 @@ export function AISemanticSearch({
   onResultsChange,
   onProductSelect,
   className,
-  placeholder = 'Describe what you\'re looking for...',
+  placeholder = "Describe what you're looking for...",
 }: AISemanticSearchProps) {
   const { loading, search } = useAI();
-  const [query, setQuery] = useState('');
+  const [query, setQuery] = useState("");
   const [results, setResults] = useState<any[]>([]);
   const [searched, setSearched] = useState(false);
 
@@ -35,14 +35,14 @@ export function AISemanticSearch({
   };
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (e.key === 'Enter') {
+    if (e.key === "Enter") {
       e.preventDefault();
       handleSearch();
     }
   };
 
   return (
-    <div className={cn('space-y-4', className)}>
+    <div className={cn("space-y-4", className)}>
       {/* Search Input */}
       <div className="flex gap-2">
         <div className="flex-1 relative">
@@ -91,7 +91,7 @@ export function AISemanticSearch({
                     {product.name}
                   </h4>
                   <p className="text-xs text-slate-400 truncate">
-                    {product.description || 'No description'}
+                    {product.description || "No description"}
                   </p>
                   {product.price && (
                     <p className="text-sm text-blue-400 font-semibold mt-1">
@@ -107,14 +107,18 @@ export function AISemanticSearch({
 
       {searched && results.length === 0 && !loading && (
         <div className="text-center py-8 rounded-lg bg-slate-700/30 border border-slate-600">
-          <p className="text-slate-400">No products found matching your query</p>
+          <p className="text-slate-400">
+            No products found matching your query
+          </p>
         </div>
       )}
 
       {!searched && (
         <div className="text-center py-8 text-slate-400">
           <p>Use natural language to find products</p>
-          <p className="text-sm mt-2">e.g., "affordable blue wireless headphones"</p>
+          <p className="text-sm mt-2">
+            e.g., "affordable blue wireless headphones"
+          </p>
         </div>
       )}
     </div>

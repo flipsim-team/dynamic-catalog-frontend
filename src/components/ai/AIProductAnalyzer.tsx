@@ -1,10 +1,10 @@
-import { useState } from 'react';
-import { Loader2, Wand2, Tag, AlertTriangle, Lightbulb } from 'lucide-react';
-import { useAI } from '@/hooks/useAI';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
-import { cn } from '@/lib/utils';
+import { useState } from "react";
+import { Loader2, Wand2, Tag, AlertTriangle, Lightbulb } from "lucide-react";
+import { useAI } from "@/hooks/useAI";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { cn } from "@/lib/utils";
 
 interface AIProductAnalyzerProps {
   product: any;
@@ -29,7 +29,7 @@ export function AIProductAnalyzer({
   };
 
   return (
-    <div className={cn('space-y-4', className)}>
+    <div className={cn("space-y-4", className)}>
       <Card className="border-slate-700 bg-slate-800">
         <CardHeader className="flex flex-row items-center justify-between space-y-0">
           <CardTitle className="text-white flex items-center gap-2">
@@ -48,7 +48,7 @@ export function AIProductAnalyzer({
                 Analyzing...
               </>
             ) : (
-              'Analyze'
+              "Analyze"
             )}
           </Button>
         </CardHeader>
@@ -97,7 +97,9 @@ export function AIProductAnalyzer({
             {/* Suggested Tags */}
             {analysis.suggestedTags && analysis.suggestedTags.length > 0 && (
               <div>
-                <h3 className="font-semibold text-white mb-2">Suggested Tags</h3>
+                <h3 className="font-semibold text-white mb-2">
+                  Suggested Tags
+                </h3>
                 <div className="flex flex-wrap gap-2">
                   {analysis.suggestedTags.map((tag: string, idx: number) => (
                     <Badge
@@ -125,7 +127,7 @@ export function AIProductAnalyzer({
                         <li key={idx} className="text-sm text-red-300">
                           • {issue}
                         </li>
-                      )
+                      ),
                     )}
                   </ul>
                 </div>
@@ -145,7 +147,7 @@ export function AIProductAnalyzer({
                         <li key={idx} className="text-sm text-yellow-300">
                           • {suggestion}
                         </li>
-                      )
+                      ),
                     )}
                   </ul>
                 </div>

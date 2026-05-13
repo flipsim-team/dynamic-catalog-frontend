@@ -1,10 +1,10 @@
-import { useState, useRef, useEffect } from 'react';
-import { Send, Loader2, X } from 'lucide-react';
-import { useAI } from '@/hooks/useAI';
-import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
-import { ScrollArea } from '@/components/ui/scroll-area';
-import { cn } from '@/lib/utils';
+import { useState, useRef, useEffect } from "react";
+import { Send, Loader2, X } from "lucide-react";
+import { useAI } from "@/hooks/useAI";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { cn } from "@/lib/utils";
 
 interface AIChatProps {
   onClose?: () => void;
@@ -16,11 +16,11 @@ export function AIChat({
   onClose,
   className,
   suggestedPrompts = [
-    'Analyze my top selling products',
-    'Suggest improvements for my catalog',
-    'Generate product descriptions',
-    'Find product recommendations',
-    'What should I focus on this month?',
+    "Analyze my top selling products",
+    "Suggest improvements for my catalog",
+    "Generate product descriptions",
+    "Find product recommendations",
+    "What should I focus on this month?",
   ],
 }: AIChatProps) {
   const {
@@ -33,14 +33,14 @@ export function AIChat({
     getProvider,
   } = useAI();
 
-  const [input, setInput] = useState('');
-  const [streamingText, setStreamingText] = useState('');
+  const [input, setInput] = useState("");
+  const [streamingText, setStreamingText] = useState("");
   const scrollRef = useRef<HTMLDivElement>(null);
 
   // Auto-scroll to bottom
   useEffect(() => {
     if (scrollRef.current) {
-      scrollRef.current.scrollIntoView({ behavior: 'smooth' });
+      scrollRef.current.scrollIntoView({ behavior: "smooth" });
     }
   }, [messages, streamingText]);
 
@@ -48,8 +48,8 @@ export function AIChat({
     if (!input.trim()) return;
 
     const userInput = input;
-    setInput('');
-    setStreamingText('');
+    setInput("");
+    setStreamingText("");
 
     try {
       // Use streaming for better UX
@@ -57,9 +57,9 @@ export function AIChat({
         setStreamingText((prev) => prev + token);
       });
 
-      setStreamingText('');
+      setStreamingText("");
     } catch (err) {
-      console.error('Failed to send message:', err);
+      console.error("Failed to send message:", err);
     }
   };
 
@@ -68,14 +68,19 @@ export function AIChat({
   };
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (e.key === 'Enter' && !e.shiftKey) {
+    if (e.key === "Enter" && !e.shiftKey) {
       e.preventDefault();
       handleSendMessage();
     }
   };
 
   return (
-    <div className={cn('flex flex-col h-full bg-gradient-to-br from-slate-900 to-slate-800 rounded-lg border border-slate-700 shadow-2xl', className)}>
+    <div
+      className={cn(
+        "flex flex-col h-full bg-gradient-to-br from-slate-900 to-slate-800 rounded-lg border border-slate-700 shadow-2xl",
+        className,
+      )}
+    >
       {/* Header */}
       <div className="flex items-center justify-between p-4 border-b border-slate-700">
         <div>
@@ -104,7 +109,8 @@ export function AIChat({
                   Welcome to AI Assistant
                 </h3>
                 <p className="text-sm text-slate-400 mb-6">
-                  Ask me anything about your products, sales, or business strategy
+                  Ask me anything about your products, sales, or business
+                  strategy
                 </p>
               </div>
 
@@ -126,14 +132,14 @@ export function AIChat({
               {messages.map((msg, idx) => (
                 <div
                   key={idx}
-                  className={cn('flex gap-3', {
-                    'justify-end': msg.role === 'user',
+                  className={cn("flex gap-3", {
+                    "justify-end": msg.role === "user",
                   })}
                 >
                   <div
-                    className={cn('max-w-xs lg:max-w-md px-4 py-2 rounded-lg', {
-                      'bg-blue-600 text-white': msg.role === 'user',
-                      'bg-slate-700 text-slate-100': msg.role === 'assistant',
+                    className={cn("max-w-xs lg:max-w-md px-4 py-2 rounded-lg", {
+                      "bg-blue-600 text-white": msg.role === "user",
+                      "bg-slate-700 text-slate-100": msg.role === "assistant",
                     })}
                   >
                     <p className="text-sm whitespace-pre-wrap">{msg.content}</p>
@@ -145,7 +151,9 @@ export function AIChat({
               {streamingText && (
                 <div className="flex gap-3">
                   <div className="max-w-xs lg:max-w-md px-4 py-2 rounded-lg bg-slate-700 text-slate-100">
-                    <p className="text-sm whitespace-pre-wrap">{streamingText}</p>
+                    <p className="text-sm whitespace-pre-wrap">
+                      {streamingText}
+                    </p>
                     <span className="inline-block animate-pulse">▊</span>
                   </div>
                 </div>

@@ -1,9 +1,9 @@
-import { useState, useEffect } from 'react';
-import { Loader2, Sparkles, ArrowRight } from 'lucide-react';
-import { useAI } from '@/hooks/useAI';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { cn } from '@/lib/utils';
+import { useState, useEffect } from "react";
+import { Loader2, Sparkles, ArrowRight } from "lucide-react";
+import { useAI } from "@/hooks/useAI";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { cn } from "@/lib/utils";
 
 interface AIProductRecommendationProps {
   userProfile: any;
@@ -33,7 +33,7 @@ export function AIProductRecommendation({
   };
 
   return (
-    <Card className={cn('border-slate-700 bg-slate-800', className)}>
+    <Card className={cn("border-slate-700 bg-slate-800", className)}>
       <CardHeader className="flex flex-row items-center justify-between space-y-0">
         <CardTitle className="flex items-center gap-2 text-white">
           <Sparkles className="w-5 h-5 text-yellow-400" />
@@ -46,7 +46,7 @@ export function AIProductRecommendation({
           variant="outline"
           className="border-slate-600 text-slate-300"
         >
-          {loading ? <Loader2 className="w-4 h-4 animate-spin" /> : 'Refresh'}
+          {loading ? <Loader2 className="w-4 h-4 animate-spin" /> : "Refresh"}
         </Button>
       </CardHeader>
 
@@ -67,7 +67,7 @@ export function AIProductRecommendation({
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {recommendations.map((rec: any, idx: number) => {
               const product = products.find(
-                (p) => p.id === rec.productId || p.id === rec.id
+                (p) => p.id === rec.productId || p.id === rec.id,
               );
               return (
                 <div
@@ -91,7 +91,7 @@ export function AIProductRecommendation({
 
                   {rec.relatedProducts && rec.relatedProducts.length > 0 && (
                     <p className="text-xs text-slate-400">
-                      Also matches: {rec.relatedProducts.slice(0, 2).join(', ')}
+                      Also matches: {rec.relatedProducts.slice(0, 2).join(", ")}
                     </p>
                   )}
 

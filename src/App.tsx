@@ -18,10 +18,10 @@ const AppContent = () => {
   useEffect(() => {
     try {
       createAIManager({
-        provider: (import.meta.env.VITE_AI_PROVIDER as any) || 'openai',
+        provider: (import.meta.env.VITE_AI_PROVIDER as any) || "openai",
       });
     } catch (error) {
-      console.warn('AI Manager initialization failed:', error);
+      console.warn("AI Manager initialization failed:", error);
     }
   }, []);
 
