@@ -100,7 +100,7 @@ const Dashboard = () => {
   return (
     <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.9),_rgba(243,244,246,0.95)_40%,_rgba(229,231,235,1))] text-foreground relative dark:bg-[radial-gradient(circle_at_top,_rgba(15,23,42,0.98),_rgba(15,23,42,0.94)_42%,_rgba(2,6,23,1))] dark:text-slate-100">
       <div className="fixed right-4 top-4 z-[70] flex items-center gap-3">
-        <Link to="/ai">
+        {/* <Link to="/ai">
           <Button
             variant="default"
             className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700"
@@ -108,7 +108,7 @@ const Dashboard = () => {
             <Sparkles className="w-4 h-4 mr-2" />
             AI Catalog
           </Button>
-        </Link>
+        </Link> */}
         <ThemeToggle />
       </div>
       {!isMobile && (
