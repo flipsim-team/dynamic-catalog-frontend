@@ -190,10 +190,10 @@ export default function ProductCatalog({ data }: { data: SellerData }) {
               </span>
             </div>
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-foreground tracking-tight">
-              Our Products
+              Our Products & Services
             </h2>
-            <p className="mt-3 max-w-2xl text-sm sm:text-base text-muted-foreground">
-              Showing {data.showcasedItems} products across{" "}
+            <p className="mt-3 max-w-3xl text-sm sm:text-base text-muted-foreground">
+              Showing extracted {data.showcasedItems} products across{" "}
               {data.categories.length} categories. Tap any product for full
               specifications.
             </p>

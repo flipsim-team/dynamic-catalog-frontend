@@ -1,5 +1,5 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { useEffect, useState, useRef } from "react";
+import { Suspense, lazy, useEffect, useState, useRef } from "react";
 import { createPortal } from "react-dom";
 import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
@@ -32,6 +32,7 @@ import {
 } from "@/lib/sellerDataLoader";
 
 const sellerCatalogsQueryKey = ["sellerCatalogs"] as const;
+const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
 
 const Dashboard = () => {
   const { data: catalogs = [], isPending: isLoading } = useQuery({
@@ -96,6 +97,26 @@ const Dashboard = () => {
 
   return (
     <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.9),_rgba(243,244,246,0.95)_40%,_rgba(229,231,235,1))] text-foreground relative">
+      <Suspense fallback={null}>
+        <SplashCursor
+          SIM_RESOLUTION={128}
+          DYE_RESOLUTION={1440}
+          CAPTURE_RESOLUTION={512}
+          DENSITY_DISSIPATION={4.5}
+          VELOCITY_DISSIPATION={2}
+          PRESSURE={0.1}
+          PRESSURE_ITERATIONS={20}
+          CURL={3}
+          SPLAT_RADIUS={0.12}
+          SPLAT_FORCE={1600}
+          SHADING={false}
+          COLOR_UPDATE_SPEED={12}
+          TRANSPARENT
+          RAINBOW_MODE={true}
+          COLOR="#B4EBE6"
+          BACK_COLOR={{ r: 0, g: 0, b: 0.5 }}
+        />
+      </Suspense>
       <ParticlesBackground variant="dashboard" className="z-0 opacity-100" />
       <div className="mx-auto relative z-10 flex min-h-screen w-full max-w-7xl flex-col px-4 py-10 sm:px-6 lg:px-8">
         <motion.div
