@@ -8,10 +8,11 @@ export type SourceFilterOption = {
 };
 
 export function normalizeSourceKey(source: string) {
-  return String(source || "")
+  const key = String(source || "")
     .trim()
     .toLowerCase()
     .replace(/\s+/g, "_");
+  return key === "catalog" ? "website" : key;
 }
 
 export function isWebsiteSource(value: string) {

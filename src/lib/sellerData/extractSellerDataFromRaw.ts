@@ -98,6 +98,14 @@ function hostLabelFromUrl(url: string): string {
   }
 }
 
+function normalizeWebsiteSource(source: string) {
+  const key = String(source || "")
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, "_");
+  return key === "catalog" ? "website" : key;
+}
+
 function normalizeSocialUrlEntries(
   rawUrls: unknown[],
 ): Array<{ value: string; sources: SourceMeta[] }> {
@@ -399,7 +407,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     .filter((c: any) => c.clean_name)
     .map((c: any, i: number) => {
       const catalogSourceKeys = (Array.isArray(c.sources) ? c.sources : []).map(
-        (s: any) => String(s).toLowerCase(),
+        (s: any) => normalizeWebsiteSource(String(s)),
       );
       const sourceTiles: ProductSourceTile[] =
         toSourceMetaList(catalogSourceKeys);
@@ -442,7 +450,9 @@ export function extractSellerDataFromRaw(rawData: unknown) {
       if (sourceUrl && !socialSourceUrls.has(normalizeUrlKey(sourceUrl))) {
         pushLink({
           key: "catalog-source",
-          label: c.source ? String(c.source) : hostLabelFromUrl(sourceUrl),
+          label: c.source
+            ? sourceLabelFor(c.source)
+            : hostLabelFromUrl(sourceUrl),
           url: sourceUrl,
         });
       }
@@ -491,7 +501,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
         photos: (c.photo_urls || []).filter(Boolean),
         inStock: c.in_stock !== false,
         // sourceUrl,
-        source: c.source || "",
+        source: c.source ? normalizeWebsiteSource(c.source) : "",
         sourceTiles: dedupTiles,
         sourceLinks: dedupLinks,
         specifications: c.specifications || {},
@@ -517,13 +527,13 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     galleryImages.push({ url, source, caption });
   };
   products.forEach((p) => {
-    addImg(p.primaryPhoto, (p.source || "Catalog").toUpperCase(), p.name);
+    addImg(p.primaryPhoto, (p.source || "Website").toUpperCase(), p.name);
     p.photos.forEach((ph) =>
-      addImg(ph, (p.source || "Catalog").toUpperCase(), p.name),
+      addImg(ph, (p.source || "Website").toUpperCase(), p.name),
     );
   });
   (data.media_assets || []).forEach((m: any) =>
-    addImg(m.url, "Catalog", m.product_name),
+    addImg(m.url, "Website", m.product_name),
   );
   ig?.posts.forEach((p) => addImg(p.thumbnailUrl, "INSTAGRAM", p.caption));
   yt?.posts.forEach((p) => addImg(p.thumbnailUrl, "YOUTUBE", p.caption));
