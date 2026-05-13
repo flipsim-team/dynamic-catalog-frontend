@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { Suspense, lazy, useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Link, useParams } from "react-router-dom";
 import NavBar from "@/components/seller/NavBar";
@@ -15,17 +15,60 @@ import Footer from "@/components/seller/Footer";
 import MobileCTA from "@/components/seller/MobileCTA";
 import SplashScreen from "@/components/seller/SplashScreen";
 import ScrollToTopButton from "@/components/seller/ScrollToTopButton";
-import CursorFollower from "@/components/seller/CursorFollower";
-import SplashCursor from "@/components/seller/SplashCursor";
 import { extractSellerDataFromRaw } from "@/lib/sellerDataExtractor";
-import { loadSellerRawDataByGlid } from "@/lib/sellerDataLoader";
+import { useSellerGlidData } from "@/hooks/useSellerGlidData";
+import CursorFollower from "@/components/seller/CursorFollower";
+import { useIsMobile } from "@/hooks/use-mobile";
+
+const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
+const DEFAULT_FAVICON_HREF = "/favicon.ico";
+
+function resolveImageUrl(url: string) {
+  return new Promise<string | null>((resolve) => {
+    if (typeof window === "undefined") {
+      resolve(null);
+      return;
+    }
+
+    const image = new Image();
+    image.onload = () => resolve(url);
+    image.onerror = () => resolve(null);
+    image.src = url;
+  });
+}
+
+async function resolveFaviconHref(candidates: string[]) {
+  for (const candidate of candidates) {
+    const trimmedCandidate = candidate.trim();
+    if (!trimmedCandidate) continue;
+
+    const resolvedCandidate = await resolveImageUrl(trimmedCandidate);
+    if (resolvedCandidate) {
+      return resolvedCandidate;
+    }
+  }
+
+  return DEFAULT_FAVICON_HREF;
+}
 
 const Index = () => {
   const { glid: sellerId } = useParams();
-  const [rawSellerData, setRawSellerData] = useState<unknown | null>(null);
-  const [isLoadingSellerData, setIsLoadingSellerData] = useState(false);
-  const [hasDataLoadError, setHasDataLoadError] = useState(false);
+  const {
+    data: rawSellerData,
+    isPending: isLoadingSellerData,
+    isError,
+    isFetched,
+  } = useSellerGlidData(sellerId);
+  const hasDataLoadError =
+    Boolean(sellerId?.trim()) &&
+    isFetched &&
+    !isLoadingSellerData &&
+    (isError || rawSellerData == null);
   const [showSplash, setShowSplash] = useState(true);
+  const isMobile = useIsMobile();
+  const [isDesktop, setIsDesktop] = useState(
+    typeof window !== "undefined" ? window.innerWidth >= 1024 : false,
+  );
   const data = useMemo(() => {
     if (rawSellerData) {
       return extractSellerDataFromRaw(rawSellerData);
@@ -53,47 +96,6 @@ const Index = () => {
     useState<boolean>(socialHasData);
 
   useEffect(() => {
-    let active = true;
-
-    if (!sellerId) {
-      setRawSellerData(null);
-      setHasDataLoadError(false);
-      setIsLoadingSellerData(false);
-      return () => {
-        active = false;
-      };
-    }
-
-    setIsLoadingSellerData(true);
-    setHasDataLoadError(false);
-    setRawSellerData(null);
-
-    loadSellerRawDataByGlid(sellerId)
-      .then((loadedData) => {
-        if (!active) return;
-        if (!loadedData) {
-          setHasDataLoadError(true);
-          return;
-        }
-        setRawSellerData(loadedData);
-      })
-      .catch(() => {
-        if (active) {
-          setHasDataLoadError(true);
-        }
-      })
-      .finally(() => {
-        if (active) {
-          setIsLoadingSellerData(false);
-        }
-      });
-
-    return () => {
-      active = false;
-    };
-  }, [sellerId]);
-
-  useEffect(() => {
     if (!data) return;
     const reduced = window.matchMedia(
       "(prefers-reduced-motion: reduce)",
@@ -105,6 +107,15 @@ const Index = () => {
     );
     return () => window.clearTimeout(timeout);
   }, [data]);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsDesktop(window.innerWidth >= 1024);
+    };
+
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
 
   useEffect(() => {
     if (!data) return;
@@ -147,9 +158,38 @@ const Index = () => {
       "property",
       "og:description",
     ).setAttribute("content", resolvedDescription);
+
+    const upsertLink = (selector: string) => {
+      let link = document.head.querySelector(
+        selector,
+      ) as HTMLLinkElement | null;
+      if (!link) {
+        link = document.createElement("link");
+        document.head.appendChild(link);
+      }
+      return link;
+    };
+
+    let cancelled = false;
+    void resolveFaviconHref(
+      data.avatarCandidates.length > 0
+        ? data.avatarCandidates
+        : [data.avatarUrl, DEFAULT_FAVICON_HREF],
+    ).then((faviconHref) => {
+      if (cancelled) return;
+
+      const faviconLink = upsertLink('link[rel="icon"]');
+      faviconLink.setAttribute("rel", "icon");
+      faviconLink.setAttribute("type", "image/x-icon");
+      faviconLink.setAttribute("href", faviconHref);
+    });
+
+    return () => {
+      cancelled = true;
+    };
   }, [data]);
 
-  if (isLoadingSellerData) {
+  if (sellerId?.trim() && isLoadingSellerData) {
     return (
       <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
         <p className="text-lg text-muted-foreground">
@@ -208,24 +248,28 @@ const Index = () => {
 
   return (
     <div className="page-shell relative min-h-screen bg-background">
-      <SplashCursor
-        SIM_RESOLUTION={128}
-        DYE_RESOLUTION={1440}
-        CAPTURE_RESOLUTION={512}
-        DENSITY_DISSIPATION={4.5}
-        VELOCITY_DISSIPATION={2}
-        PRESSURE={0.1}
-        PRESSURE_ITERATIONS={20}
-        CURL={3}
-        SPLAT_RADIUS={0.12}
-        SPLAT_FORCE={1600}
-        SHADING={false}
-        COLOR_UPDATE_SPEED={12}
-        TRANSPARENT
-        RAINBOW_MODE={false}
-        COLOR="#B4EBE6"
-        BACK_COLOR={{ r: 0.5, g: 0, b: 0 }}
-      />
+      {!isMobile && isDesktop && (
+        <Suspense fallback={null}>
+          <SplashCursor
+            SIM_RESOLUTION={128}
+            DYE_RESOLUTION={1440}
+            CAPTURE_RESOLUTION={512}
+            DENSITY_DISSIPATION={4.5}
+            VELOCITY_DISSIPATION={2}
+            PRESSURE={0.1}
+            PRESSURE_ITERATIONS={20}
+            CURL={3}
+            SPLAT_RADIUS={0.12}
+            SPLAT_FORCE={1600}
+            SHADING={false}
+            COLOR_UPDATE_SPEED={12}
+            TRANSPARENT
+            RAINBOW_MODE={false}
+            COLOR="#B4EBE6"
+            BACK_COLOR={{ r: 0.5, g: 0, b: 0 }}
+          />
+        </Suspense>
+      )}
       {/* <CursorFollower /> */}
 
       <AnimatePresence mode="wait">
@@ -269,7 +313,11 @@ const Index = () => {
             )}
             {reviewsHasData && <ReviewsSection data={data} />}
             {contactHasData && <ContactSidebar data={data} />}
-            <Footer data={data} />
+            <Footer
+              data={data}
+              galleryVisible={gallerySectionVisible}
+              socialVisible={socialSectionVisible}
+            />
             <MobileCTA data={data} />
             <div className="h-16 md:hidden" />
           </motion.div>

@@ -50,3 +50,35 @@ export function unlockBodyScroll() {
     document.body.style.paddingRight = _originalBodyPaddingRight;
   }
 }
+
+/**
+ * Masks phone numbers and email addresses by replacing the middle 50% with 'x'
+ * Examples:
+ *  - 9324561979 → 93xxxxxx979 (keep first 2, last 3 digits)
+ *  - testemail@email.com → testexxxxxxxxxl.com (mask middle 50%)
+ */
+export function maskContactInfo(value: string): string {
+  if (!value || typeof value !== "string") return value;
+
+  // Check if it looks like a phone number (10 digits)
+  const digitsOnly = value.replace(/\D/g, "");
+  if (digitsOnly.length === 10) {
+    const first = digitsOnly.slice(0, 2);
+    const last = digitsOnly.slice(-3);
+    const masked = "x".repeat(digitsOnly.length - 5);
+    return `${first}${masked}${last}`;
+  }
+
+  // Otherwise treat as email (replace middle 50%)
+  if (value.includes("@")) {
+    const length = value.length;
+    const maskStart = Math.ceil(length * 0.25);
+    const maskEnd = Math.floor(length * 0.75);
+    const before = value.slice(0, maskStart);
+    const after = value.slice(maskEnd);
+    const masked = "x".repeat(maskEnd - maskStart);
+    return `${before}${masked}${after}`;
+  }
+
+  return value;
+}

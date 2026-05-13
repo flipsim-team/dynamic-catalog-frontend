@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect, type ReactNode } from "react";
+import { useState, useRef, useEffect, useMemo } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import {
@@ -18,100 +18,11 @@ import {
 import type { SellerData, SocialPost } from "@/lib/sellerDataExtractor";
 import { extractYouTubeId, formatCount } from "@/lib/sellerDataExtractor";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { resolveSocialAvailability } from "@/lib/socialAvailability";
+import { formatSocialDate } from "./socialPosts/formatSocialDate";
+import { ExpandableSocialCard } from "./socialPosts/ExpandableSocialCard";
 
 type Platform = "instagram" | "youtube" | "facebook" | "linkedin" | "twitter";
-
-function formatDate(ts: string) {
-  if (!ts) return "";
-  try {
-    const d = new Date(ts);
-    if (isNaN(d.getTime())) return "";
-    return d.toLocaleDateString("en-IN", {
-      day: "numeric",
-      month: "short",
-      year: "numeric",
-    });
-  } catch {
-    return "";
-  }
-}
-
-const COLLAPSED_CARD_HEIGHT = 430;
-const EXPANDED_CARD_MAX_HEIGHT = 1600;
-
-function ExpandableSocialCard({
-  cardId,
-  isExpanded,
-  isMobile,
-  onToggle,
-  onHoverStart,
-  onHoverEnd,
-  children,
-}: {
-  cardId: string;
-  isExpanded: boolean;
-  isMobile: boolean;
-  onToggle: (id: string) => void;
-  onHoverStart: (id: string) => void;
-  onHoverEnd: (id: string) => void;
-  children: ReactNode;
-}) {
-  return (
-    <motion.div
-      layout
-      initial={false}
-      animate={{
-        y: isExpanded ? -6 : 0,
-        boxShadow: isExpanded
-          ? "0 18px 38px rgba(0, 0, 0, 0.2)"
-          : "0 6px 18px rgba(0, 0, 0, 0.1)",
-      }}
-      transition={{ type: "spring", stiffness: 220, damping: 28, mass: 0.8 }}
-      onMouseEnter={!isMobile ? () => onHoverStart(cardId) : undefined}
-      onMouseLeave={!isMobile ? () => onHoverEnd(cardId) : undefined}
-      onClick={() => onToggle(cardId)}
-      className={`group relative cursor-pointer overflow-hidden rounded-2xl border border-border bg-card transition-all duration-300 ${
-        isExpanded ? "shadow-2xl" : "shadow-sm hover:shadow-xl"
-      }`}
-    >
-      <motion.div
-        initial={false}
-        animate={{
-          maxHeight: isExpanded
-            ? EXPANDED_CARD_MAX_HEIGHT
-            : COLLAPSED_CARD_HEIGHT,
-        }}
-        transition={{ type: "spring", stiffness: 170, damping: 24, mass: 0.9 }}
-        className="overflow-hidden"
-      >
-        {children}
-      </motion.div>
-
-      {!isExpanded && (
-        <div className="pointer-events-none absolute inset-x-0 bottom-0 h-20 bg-gradient-to-t from-card via-card/95 to-transparent" />
-      )}
-
-      <div className="absolute inset-x-0 bottom-0 p-3 text-center">
-        <button
-          type="button"
-          onClick={(e) => {
-            e.stopPropagation();
-            onToggle(cardId);
-          }}
-          className="pointer-events-auto inline-flex rounded-full bg-background/95 px-3 py-1 text-[11px] font-medium text-muted-foreground shadow-sm"
-        >
-          {isMobile
-            ? isExpanded
-              ? "Tap to collapse"
-              : "Tap to view"
-            : isExpanded
-              ? ""
-              : "Hover to expand"}
-        </button>
-      </div>
-    </motion.div>
-  );
-}
 
 function InstagramEmbed({ post }: { post: SocialPost }) {
   const embedRef = useRef<HTMLDivElement>(null);
@@ -186,7 +97,7 @@ function InstagramEmbed({ post }: { post: SocialPost }) {
               <Instagram className="h-4 w-4 text-white" />
             </div>
             <span className="text-xs text-muted-foreground truncate">
-              {formatDate(post.postedAt)}
+              {formatSocialDate(post.postedAt)}
             </span>
           </div>
           {post.thumbnailUrl && (
@@ -250,7 +161,7 @@ function FacebookEmbed({ post }: { post: SocialPost }) {
               <Facebook className="h-4 w-4 text-white" />
             </div>
             <span className="text-xs text-muted-foreground truncate">
-              {formatDate(post.postedAt)}
+              {formatSocialDate(post.postedAt)}
             </span>
           </div>
         </div>
@@ -303,43 +214,25 @@ export default function SocialPosts({
   const ig = data.socialProfiles.find((p) => p.platform === "instagram");
   const yt = data.socialProfiles.find((p) => p.platform === "youtube");
   const fb = data.socialProfiles.find((p) => p.platform === "facebook");
-  const socialAvailability = data.socialAvailability || {
-    instagram: { url: ig?.url || "", hasPosts: !!ig?.posts?.length },
-    facebook: {
-      url:
-        data.socialProfiles.find((p) => p.platform === "facebook")?.url || "",
-      hasPosts: !!data.socialProfiles.find((p) => p.platform === "facebook")
-        ?.posts?.length,
-    },
-    youtube: { url: yt?.url || "", hasPosts: !!yt?.posts?.length },
-    twitter: {
-      url: data.socialProfiles.find((p) => p.platform === "twitter")?.url || "",
-      hasPosts: !!data.socialProfiles.find((p) => p.platform === "twitter")
-        ?.posts?.length,
-    },
-    linkedin: {
-      url:
-        data.socialProfiles.find((p) => p.platform === "linkedin")?.url || "",
-      hasPosts: !!data.socialProfiles.find((p) => p.platform === "linkedin")
-        ?.posts?.length,
-    },
-    whatsapp: { url: data.whatsappUrl || "", hasPosts: !!data.whatsappUrl },
-  };
-  const availablePlatforms: Platform[] = [];
-  if (ig?.url && ig.posts.some((post) => Boolean(post.url))) {
-    availablePlatforms.push("instagram");
-  }
-  if (
-    yt?.url &&
-    yt.posts.some(
-      (post) => Boolean(post.url) && Boolean(extractYouTubeId(post.url)),
-    )
-  ) {
-    availablePlatforms.push("youtube");
-  }
-  if (fb?.url && fb.posts.some((post) => Boolean(post.url))) {
-    availablePlatforms.push("facebook");
-  }
+  const socialAvailability = resolveSocialAvailability(data);
+  const availablePlatforms = useMemo<Platform[]>(() => {
+    const list: Platform[] = [];
+    if (ig?.url && ig.posts.some((post) => Boolean(post.url))) {
+      list.push("instagram");
+    }
+    if (
+      yt?.url &&
+      yt.posts.some(
+        (post) => Boolean(post.url) && Boolean(extractYouTubeId(post.url)),
+      )
+    ) {
+      list.push("youtube");
+    }
+    if (fb?.url && fb.posts.some((post) => Boolean(post.url))) {
+      list.push("facebook");
+    }
+    return list;
+  }, [ig, yt, fb]);
 
   const [activePlatform, setActivePlatform] = useState<Platform>(
     availablePlatforms[0] || "instagram",
@@ -582,7 +475,7 @@ export default function SocialPosts({
                               <Youtube className="w-3.5 h-3.5 text-white" />
                             </div>
                             <span className="text-xs text-muted-foreground">
-                              {formatDate(vid.postedAt)}
+                              {formatSocialDate(vid.postedAt)}
                             </span>
                           </div>
                           <p className="text-sm font-medium text-foreground line-clamp-3">

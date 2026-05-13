@@ -1,3 +1,5 @@
+import { parseSellerRawObject } from "./sellerRawSchema";
+
 const sellerDataModules = import.meta.glob("../data/*.json", {
   eager: true,
   query: "?raw",
@@ -27,7 +29,8 @@ function parseSellerJson(raw: string): unknown | null {
   if (!trimmed) return null;
 
   try {
-    return JSON.parse(trimmed) as unknown;
+    const parsed = JSON.parse(trimmed) as unknown;
+    return parseSellerRawObject(parsed);
   } catch {
     return null;
   }

@@ -13,6 +13,7 @@ import { Button } from "@/components/ui/button";
 import TrustBadges from "./TrustBadges";
 import ParticlesBackground from "./ParticlesBackground";
 import SellerAvatar from "./SellerAvatar";
+import RevealableContactValue from "./RevealableContactValue";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
 export default function HeroSection({ data }: { data: SellerData }) {
@@ -156,12 +157,15 @@ export default function HeroSection({ data }: { data: SellerData }) {
               )}
               {data.primaryPhone && (
                 <div>
-                  <a
+                  <RevealableContactValue
+                    value={data.primaryPhone}
                     href={`tel:${data.primaryPhone}`}
+                    prefix="+91 "
+                    leadingIcon={<Phone className="w-3.5 h-3.5" />}
                     className="inline-flex items-center gap-1.5 rounded-full bg-white/15 border border-white/25 backdrop-blur px-3 py-1.5 text-sm text-white hover:bg-white/25 transition-colors"
-                  >
-                    <Phone className="w-3.5 h-3.5" /> +91 {data.primaryPhone}
-                  </a>
+                    hideClassName="transition-colors hover:text-white"
+                    revealClassName="transition-colors"
+                  />
                   {data.phoneEntries?.[0]?.role && (
                     <p className="mt-1 text-[10px] uppercase tracking-wider text-white/70 font-semibold">
                       {data.phoneEntries[0].role}
@@ -171,13 +175,14 @@ export default function HeroSection({ data }: { data: SellerData }) {
               )}
               {data.email && (
                 <div>
-                  <a
+                  <RevealableContactValue
+                    value={data.email}
                     href={`mailto:${data.email}`}
+                    leadingIcon={<Mail className="w-3.5 h-3.5 shrink-0" />}
                     className="inline-flex items-center gap-1.5 rounded-full bg-white/15 border border-white/25 backdrop-blur px-3 py-1.5 text-sm text-white hover:bg-white/25 transition-colors max-w-full truncate"
-                  >
-                    <Mail className="w-3.5 h-3.5 shrink-0" />{" "}
-                    <span className="truncate">{data.email}</span>
-                  </a>
+                    hideClassName="truncate transition-colors hover:text-white"
+                    revealClassName="truncate transition-colors"
+                  />
                   {data.emailEntries?.[0]?.role && (
                     <p className="mt-1 text-[10px] uppercase tracking-wider text-white/70 font-semibold">
                       {data.emailEntries[0].role}
@@ -201,13 +206,14 @@ export default function HeroSection({ data }: { data: SellerData }) {
               className="flex flex-wrap gap-3 mt-6"
             >
               {(() => {
-                const contactHref =
-                  data.whatsappUrl ||
-                  (data.primaryPhone
-                    ? `https://wa.me/91${data.primaryPhone}?text=${encodeURIComponent(`Hi ${data.sellerName}, I'm interested in your products.`)}`
-                    : "") ||
-                  (data.primaryPhone ? `tel:${data.primaryPhone}` : "") ||
-                  (data.email ? `mailto:${data.email}` : "");
+                const contactHref = data.whatsappUrl
+                  ? data.whatsappUrl
+                  : data.primaryPhone
+                    ? `tel:${data.primaryPhone}`
+                    : data.email
+                      ? `mailto:${data.email}`
+                      : "";
+
                 if (!contactHref) return null;
                 return (
                   <div>
