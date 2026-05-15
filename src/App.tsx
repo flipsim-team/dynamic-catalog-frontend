@@ -6,31 +6,20 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { ThemeProvider } from "@/components/theme-provider";
-import { createAIManager } from "@/lib/ai/aiManager";
 import Dashboard from "./pages/Dashboard.tsx";
 import Index from "./pages/Index.tsx";
-import AIPage from "./pages/AIPage.tsx";
 import NotFound from "./pages/NotFound.tsx";
 
 const queryClient = new QueryClient();
 
 const AppContent = () => {
-  // Initialize AI Manager on app load
-  useEffect(() => {
-    try {
-      createAIManager({
-        provider: (import.meta.env.VITE_AI_PROVIDER as any) || "openai",
-      });
-    } catch (error) {
-      console.warn("AI Manager initialization failed:", error);
-    }
-  }, []);
+  // No AI initialization — AI features removed
 
   return (
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Dashboard />} />
-        <Route path="/ai" element={<AIPage />} />
+        {/* AI route removed */}
         <Route path="/:glid" element={<Index />} />
         {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
         <Route path="*" element={<NotFound />} />
