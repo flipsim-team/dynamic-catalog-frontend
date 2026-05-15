@@ -165,15 +165,6 @@ const Dashboard = () => {
   return (
     <div className="min-h-screen bg-[radial-gradient(circle_at_top,_hsl(var(--background)/0.9),_hsl(var(--brand-section-alt)/0.95)_40%,_hsl(var(--card)))] text-foreground relative dark:text-slate-100">
       <div className="fixed right-4 top-4 z-[70] flex items-center gap-3">
-        {/* <Link to="/ai">
-          <Button
-            variant="default"
-            className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700"
-          >
-            <Sparkles className="w-4 h-4 mr-2" />
-            AI Catalog
-          </Button>
-        </Link> */}
         <ThemeToggle />
       </div>
       {!isMobile && (
