@@ -5,6 +5,28 @@ import type { Engine, ISourceOptions } from "tsparticles-engine";
 
 type Variant = "hero" | "catalog" | "dashboard";
 
+function getInteractivity(
+  clickQuantity: number,
+  repulseDistance: number,
+): ISourceOptions["interactivity"] {
+  return {
+    events: {
+      onHover: { enable: false },
+      onClick: { enable: true, mode: ["push", "repulse"] },
+      resize: true,
+    },
+    modes: {
+      push: { quantity: clickQuantity },
+      repulse: {
+        distance: repulseDistance,
+        duration: 0.35,
+        speed: 1,
+        factor: 3,
+      },
+    },
+  };
+}
+
 function getOptions(variant: Variant): ISourceOptions {
   if (variant === "dashboard") {
     return {
@@ -24,9 +46,7 @@ function getOptions(variant: Variant): ISourceOptions {
         opacity: { value: 0.55 },
         size: { value: { min: 1.5, max: 3.2 } },
       },
-      interactivity: {
-        events: { onHover: { enable: false }, resize: true },
-      },
+      interactivity: getInteractivity(10, 100),
       background: { color: "transparent" },
     };
   }
@@ -55,9 +75,7 @@ function getOptions(variant: Variant): ISourceOptions {
         opacity: { value: 0.48 },
         size: { value: { min: 1.2, max: 2.8 } },
       },
-      interactivity: {
-        events: { onHover: { enable: false }, resize: true },
-      },
+      interactivity: getInteractivity(5, 150),
       background: { color: "transparent" },
     };
   }
@@ -79,9 +97,7 @@ function getOptions(variant: Variant): ISourceOptions {
       opacity: { value: 0.36 },
       size: { value: { min: 1.3, max: 2.8 } },
     },
-    interactivity: {
-      events: { onHover: { enable: false }, resize: true },
-    },
+    interactivity: getInteractivity(4, 160),
     background: { color: "transparent" },
   };
 }

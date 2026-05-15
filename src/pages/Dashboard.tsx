@@ -9,13 +9,15 @@ import {
   BookDashedIcon,
   BookOpenText,
   Building2,
+  Check,
+  Clipboard,
   Hash,
   Search,
   Store,
   Sparkles,
 } from "lucide-react";
 import { motion } from "framer-motion";
-import { Badge } from "@/components/ui/badge";
+import { Badge, badgeVariants } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import {
   Card,
@@ -25,6 +27,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
+import { cn } from "@/lib/utils";
 import ThemeToggle from "@/components/theme-toggle";
 import ParticlesBackground from "@/components/seller/ParticlesBackground";
 import { useIsMobile } from "@/hooks/use-mobile";
@@ -36,6 +39,45 @@ import {
 const sellerCatalogsQueryKey = ["sellerCatalogs"] as const;
 const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
 
+const copyWithExecCommandFallback = (text: string): boolean => {
+  if (typeof document === "undefined") return false;
+
+  const textArea = document.createElement("textarea");
+  textArea.value = text;
+  textArea.setAttribute("readonly", "");
+  textArea.style.position = "fixed";
+  textArea.style.left = "-9999px";
+  textArea.style.opacity = "0";
+
+  document.body.appendChild(textArea);
+  textArea.focus();
+  textArea.select();
+  textArea.setSelectionRange(0, text.length);
+
+  let copied = false;
+  try {
+    copied = document.execCommand("copy");
+  } catch {
+    copied = false;
+  }
+
+  document.body.removeChild(textArea);
+  return copied;
+};
+
+const copyTextToClipboard = async (text: string): Promise<boolean> => {
+  if (typeof navigator !== "undefined" && navigator.clipboard?.writeText) {
+    try {
+      await navigator.clipboard.writeText(text);
+      return true;
+    } catch {
+      // Continue to legacy fallback for browsers/devices that block Clipboard API.
+    }
+  }
+
+  return copyWithExecCommandFallback(text);
+};
+
 const Dashboard = () => {
   const { data: catalogs = [], isPending: isLoading } = useQuery({
     queryKey: sellerCatalogsQueryKey,
@@ -43,7 +85,9 @@ const Dashboard = () => {
   });
   const [searchQuery, setSearchQuery] = useState("");
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [copiedCatalogId, setCopiedCatalogId] = useState<string | null>(null);
   const searchRef = useRef<HTMLDivElement | null>(null);
+  const copiedResetTimer = useRef<number | null>(null);
   const [selectedIndex, setSelectedIndex] = useState<number>(-1);
   const navigate = useNavigate();
   const isMobile = useIsMobile();
@@ -66,6 +110,27 @@ const Dashboard = () => {
   useEffect(() => {
     document.title = "Seller Catalog Dashboard";
   }, []);
+
+  useEffect(() => {
+    return () => {
+      if (copiedResetTimer.current) {
+        window.clearTimeout(copiedResetTimer.current);
+      }
+    };
+  }, []);
+
+  const handleCopySellerId = async (catalogId: string) => {
+    const didCopy = await copyTextToClipboard(catalogId);
+    if (!didCopy) return;
+
+    setCopiedCatalogId(catalogId);
+    if (copiedResetTimer.current) {
+      window.clearTimeout(copiedResetTimer.current);
+    }
+    copiedResetTimer.current = window.setTimeout(() => {
+      setCopiedCatalogId((current) => (current === catalogId ? null : current));
+    }, 2000);
+  };
 
   const filteredCatalogs = catalogs.filter((catalog) => {
     const query = searchQuery.toLowerCase();
@@ -98,7 +163,7 @@ const Dashboard = () => {
   }
 
   return (
-    <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.9),_rgba(243,244,246,0.95)_40%,_rgba(229,231,235,1))] text-foreground relative dark:bg-[radial-gradient(circle_at_top,_rgba(15,23,42,0.98),_rgba(15,23,42,0.94)_42%,_rgba(2,6,23,1))] dark:text-slate-100">
+    <div className="min-h-screen bg-[radial-gradient(circle_at_top,_hsl(var(--background)/0.9),_hsl(var(--brand-section-alt)/0.95)_40%,_hsl(var(--card)))] text-foreground relative dark:text-slate-100">
       <div className="fixed right-4 top-4 z-[70] flex items-center gap-3">
         {/* <Link to="/ai">
           <Button
@@ -139,7 +204,7 @@ const Dashboard = () => {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 0.85, y: 0 }}
           transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
-          className="mb-10 rounded-[2rem] border border-border/70 bg-white/75 p-6 shadow-[0_20px_80px_-32px_rgba(15,23,42,0.32)] backdrop-blur-xl sm:p-8 dark:border-white/10 dark:bg-slate-950/70 dark:shadow-[0_20px_80px_-32px_rgba(0,0,0,0.6)]"
+          className="mb-10 rounded-[2rem] border border-border/70 bg-white/75 p-6 shadow-[0_20px_80px_-32px_rgba(15,23,42,0.32)] backdrop-blur-xl sm:p-8 dark:border-white/10 dark:bg-card/70 dark:shadow-[0_20px_80px_-32px_rgba(0,0,0,0.6)]"
         >
           <div className="flex flex-col gap-6">
             <div className="space-y-4">
@@ -162,7 +227,7 @@ const Dashboard = () => {
             </div>
 
             <div className="grid gap-3 sm:grid-cols-2">
-              <div className="rounded-2xl border border-border/70 bg-white px-4 py-3 shadow-sm dark:border-white/10 dark:bg-slate-950/70">
+              <div className="rounded-2xl border border-border/70 bg-white px-4 py-3 shadow-sm dark:border-white/10 dark:bg-card/70">
                 <div className="flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-slate-500 dark:text-slate-400">
                   <Store className="h-4 w-4" />
                   Total Catalogs
@@ -173,7 +238,7 @@ const Dashboard = () => {
               </div>
               <div
                 ref={searchRef}
-                className="relative flex items-center rounded-2xl border border-border/70 bg-white px-4 py-3 shadow-sm dark:border-white/10 dark:bg-slate-950/70"
+                className="relative flex items-center rounded-2xl border border-border/70 bg-white px-4 py-3 shadow-sm dark:border-white/10 dark:bg-card/70"
               >
                 <Search className="absolute left-6 h-4 w-4 text-slate-400 dark:text-slate-500" />
                 <Input
@@ -236,7 +301,7 @@ const Dashboard = () => {
                       return (
                         <div
                           style={style}
-                          className="max-h-56 overflow-auto rounded-xl border border-border bg-white shadow-lg dark:border-white/10 dark:bg-slate-950"
+                          className="max-h-56 overflow-auto rounded-xl border border-border bg-white shadow-lg dark:border-white/10 dark:bg-card"
                           role="listbox"
                         >
                           {filteredCatalogs.slice(0, 8).map((catalog, idx) => (
@@ -293,12 +358,12 @@ const Dashboard = () => {
               {Array.from({ length: 6 }).map((_, index) => (
                 <div
                   key={index}
-                  className="h-64 animate-pulse rounded-[1.75rem] border border-border/70 bg-white/70 dark:border-white/10 dark:bg-slate-950/60"
+                  className="h-64 animate-pulse rounded-[1.75rem] border border-border/70 bg-white/70 dark:border-white/10 dark:bg-card/60"
                 />
               ))}
             </div>
           ) : catalogs.length === 0 ? (
-            <div className="rounded-[1.75rem] border border-dashed border-border/80 bg-white/70 p-10 text-center dark:border-white/10 dark:bg-slate-950/60">
+            <div className="rounded-[1.75rem] border border-dashed border-border/80 bg-white/70 p-10 text-center dark:border-white/10 dark:bg-card/60">
               <h2 className="text-xl font-semibold text-slate-950 dark:text-slate-50">
                 No seller catalogs found
               </h2>
@@ -311,7 +376,7 @@ const Dashboard = () => {
               </p>
             </div>
           ) : filteredCatalogs.length === 0 ? (
-            <div className="rounded-[1.75rem] border border-dashed border-border/80 bg-white/70 p-10 text-center dark:border-white/10 dark:bg-slate-950/60">
+            <div className="rounded-[1.75rem] border border-dashed border-border/80 bg-white/70 p-10 text-center dark:border-white/10 dark:bg-card/60">
               <h2 className="text-xl font-semibold text-slate-950 dark:text-slate-50">
                 No catalogs match your search
               </h2>
@@ -328,19 +393,36 @@ const Dashboard = () => {
                   animate={{ opacity: 0.85, y: 0 }}
                   transition={{ duration: 0.35, delay: index * 0.04 }}
                 >
-                  <Card className="group flex h-64 flex-col overflow-hidden border-border/70 bg-white/80 shadow-[0_12px_40px_-24px_rgba(15,23,42,0.28)] backdrop-blur-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_24px_60px_-28px_rgba(15,23,42,0.36)] dark:border-white/10 dark:bg-slate-950/70 dark:shadow-[0_12px_40px_-24px_rgba(0,0,0,0.5)]">
+                  <Card className="group flex h-64 flex-col overflow-hidden border-border/70 bg-white/80 shadow-[0_12px_40px_-24px_rgba(15,23,42,0.28)] backdrop-blur-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_24px_60px_-28px_rgba(15,23,42,0.36)] dark:border-white/10 dark:bg-card/70 dark:shadow-[0_12px_40px_-24px_rgba(0,0,0,0.5)]">
                     <CardHeader className="space-y-3 pb-3">
                       <div className="flex items-start justify-between gap-3">
                         <div className="flex-shrink-0 rounded-2xl bg-slate-950 p-2.5 text-white shadow-lg shadow-slate-950/10 dark:bg-slate-800 dark:shadow-black/20">
                           <BookOpenText className="h-4 w-4" />
                           {/* <Hash className="h-4 w-4" /> */}
                         </div>
-                        <Badge
-                          variant="outline"
-                          className="flex-shrink-0 rounded-full border-slate-200 bg-slate-50 px-2.5 py-0.5 text-xs font-medium text-slate-600 dark:border-white/10 dark:bg-white/5 dark:text-slate-300"
+                        <button
+                          type="button"
+                          onClick={() => {
+                            void handleCopySellerId(catalog.id);
+                          }}
+                          aria-label={`Copy seller ID ${catalog.id}`}
+                          title={
+                            copiedCatalogId === catalog.id
+                              ? "Copied"
+                              : "Copy seller ID"
+                          }
+                          className={cn(
+                            badgeVariants({ variant: "outline" }),
+                            "flex flex-shrink-0 items-center gap-1.5 rounded-full border-slate-200 bg-slate-50 px-2.5 py-0.5 text-xs font-medium text-slate-600 transition-colors hover:bg-slate-100 dark:border-white/10 dark:bg-white/5 dark:text-slate-300 dark:hover:bg-white/10",
+                          )}
                         >
-                          {catalog.id}
-                        </Badge>
+                          <span>{catalog.id}</span>
+                          {copiedCatalogId === catalog.id ? (
+                            <Check className="h-3 w-3" aria-hidden="true" />
+                          ) : (
+                            <Clipboard className="h-3 w-3" aria-hidden="true" />
+                          )}
+                        </button>
                       </div>
                       <div className="space-y-1.5 flex-1">
                         <CardTitle className="text-base text-slate-950 line-clamp-2 dark:text-slate-50">
