@@ -203,9 +203,9 @@ const Index = () => {
     return (
       <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
         <div>
-          <h1 className="text-2xl font-semibold">Seller not found</h1>
+          <h1 className="text-2xl font-semibold">Page Doesn't Exist</h1>
           <p className="mt-2 text-muted-foreground">
-            No catalog data found for this seller ID.
+            The page you're looking for doesn't exist or the seller ID is invalid.
           </p>
           <Link
             to="/"
