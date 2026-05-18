@@ -16,8 +16,10 @@ export {
   extractSellerDataFromRaw,
   extractSellerData,
   extractYouTubeId,
-  formatCount,
-  formatPrice,
 } from "./sellerData/extractSellerDataFromRaw";
 
 export type { SellerData } from "./sellerData/extractSellerDataFromRaw";
+
+// Public helper exports used by components and UI code.
+// Move small, shared utilities here when consolidating to avoid deep imports.
+export { formatCount, formatPrice } from "./formatters";

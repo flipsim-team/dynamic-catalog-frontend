@@ -5,7 +5,6 @@ import NavBar from "@/components/seller/NavBar";
 import HeroSection from "@/components/seller/HeroSection";
 import AboutSection from "@/components/seller/AboutSection";
 import ProductCatalog from "@/components/seller/ProductCatalog";
-// CategoryGrid removed — categories now live as filter chips in ProductCatalog
 import MediaGallery from "@/components/seller/MediaGallery";
 import SocialPosts from "@/components/seller/SocialPosts";
 import ReviewsSection from "@/components/seller/ReviewsSection";
@@ -24,6 +23,8 @@ const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
 const DEFAULT_FAVICON_HREF = "/favicon.ico";
 
 function resolveImageUrl(url: string) {
+  // Try loading an image URL in the browser to verify it exists.
+  // Resolves with the original URL on success, or `null` on failure.
   return new Promise<string | null>((resolve) => {
     if (typeof window === "undefined") {
       resolve(null);
@@ -38,6 +39,7 @@ function resolveImageUrl(url: string) {
 }
 
 async function resolveFaviconHref(candidates: string[]) {
+  // Iterate over favicon candidates and return the first valid image href.
   for (const candidate of candidates) {
     const trimmedCandidate = candidate.trim();
     if (!trimmedCandidate) continue;
@@ -77,19 +79,20 @@ const Index = () => {
     return null;
   }, [rawSellerData]);
 
+  // Whether the gallery section has any images or YouTube posts.
   const galleryHasData = Boolean(
-    data &&
-    (data.galleryImages.length > 0 ||
-      data.socialProfiles.some(
-        (profile) => profile.platform === "youtube" && profile.posts.length > 0,
-      )),
+    data?.galleryImages?.length ||
+    data?.socialProfiles?.some(
+      (profile) => profile.platform === "youtube" && profile.posts?.length > 0,
+    ),
   );
 
   const [gallerySectionVisible, setGallerySectionVisible] =
     useState<boolean>(galleryHasData);
 
+  // Whether any social profiles contain posts.
   const socialHasData = Boolean(
-    data && data.socialProfiles.some((profile) => profile.posts.length > 0),
+    data?.socialProfiles?.some((profile) => profile.posts?.length > 0),
   );
 
   const [socialSectionVisible, setSocialSectionVisible] =
@@ -205,7 +208,8 @@ const Index = () => {
         <div>
           <h1 className="text-2xl font-semibold">Page Doesn't Exist</h1>
           <p className="mt-2 text-muted-foreground">
-            The page you're looking for doesn't exist or the seller ID is invalid.
+            The page you're looking for doesn't exist or the seller ID is
+            invalid.
           </p>
           <Link
             to="/"
@@ -218,31 +222,32 @@ const Index = () => {
     );
   }
 
+  // Whether the About section should render (any relevant company or product data).
   const aboutHasData = Boolean(
-    data.description ||
-    data.tagline ||
-    data.businessType ||
-    data.products.length > 0 ||
-    data.categories.length > 0 ||
-    data.fullAddress ||
-    data.city ||
-    data.website ||
-    data.socialProfiles.length > 0,
+    data?.description ||
+    data?.tagline ||
+    data?.businessType ||
+    data?.products?.length ||
+    data?.categories?.length ||
+    data?.fullAddress ||
+    data?.city ||
+    data?.website ||
+    data?.socialProfiles?.length,
   );
-  const productsHasData = data.products.length > 0;
+  const productsHasData = Boolean(data?.products?.length);
   const reviewsHasData = Boolean(
-    data.reviewsSummary.totalRating ||
-    data.reviewsSummary.noOfRatings ||
-    data.individualReviews.length > 0,
+    data?.reviewsSummary?.totalRating ||
+    data?.reviewsSummary?.noOfRatings ||
+    data?.individualReviews?.length > 0,
   );
   const contactHasData = Boolean(
-    data.primaryPhone ||
-    data.email ||
-    data.fullAddress ||
-    data.city ||
-    data.website ||
-    data.whatsappUrl ||
-    data.socialProfiles.some((profile) => Boolean(profile.url)),
+    data?.primaryPhone ||
+    data?.email ||
+    data?.fullAddress ||
+    data?.city ||
+    data?.website ||
+    data?.whatsappUrl ||
+    data?.socialProfiles?.some((profile) => Boolean(profile.url)),
   );
   const feedbackTriggerSectionId = aboutHasData ? "about" : "overview";
 

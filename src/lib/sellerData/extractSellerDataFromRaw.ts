@@ -15,6 +15,7 @@ import type {
 import { sourceLabelFor, toSourceMetaList } from "../sourceLabels";
 import { classifySocialPlatformUrl } from "../socialPlatform";
 import { buildGoogleMapsUrls } from "./googleMaps";
+import { formatCount, formatPrice } from "../formatters";
 
 const PLATFORMS: SocialPlatform[] = [
   "instagram",
@@ -719,26 +720,6 @@ export function extractSellerDataFromRaw(rawData: unknown) {
 
 export function extractSellerData(rawData: unknown) {
   return extractSellerDataFromRaw(rawData);
-}
-
-export function formatCount(n: number): string {
-  if (n >= 1_000_000)
-    return (n / 1_000_000).toFixed(1).replace(/\.0$/, "") + "M";
-  if (n >= 1_000) return (n / 1_000).toFixed(1).replace(/\.0$/, "") + "K";
-  return String(n);
-}
-
-export function formatPrice(p: CatalogProduct): string {
-  if (p.priceOnRequest) return "Price on request";
-  const sym = p.currency === "INR" ? "₹" : p.currency || "";
-  const fmt = (n: number) => sym + n.toLocaleString("en-IN");
-  const unit = p.priceUnit ? ` / ${p.priceUnit}` : "";
-  if (p.isPriceRange && p.priceMin != null && p.priceMax != null) {
-    return `${fmt(p.priceMin)} – ${fmt(p.priceMax)}${unit}`;
-  }
-  if (p.priceSingle != null) return `${fmt(p.priceSingle)}${unit}`;
-  if (p.priceMin != null) return `${fmt(p.priceMin)}${unit}`;
-  return "Price on request";
 }
 
 export type SellerData = ReturnType<typeof extractSellerDataFromRaw>;
