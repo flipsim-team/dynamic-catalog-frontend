@@ -1,18 +1,5 @@
 # Content Aggregated Seller Catalog: Agentic Pipeline with Gemini
 
-# Dynamic Catalog Agent Pipeline
-
-**Intelligent, multi-agent catalog enrichment powered by Google Gemini**
-
----
-
-## What It Does
-
-The Dynamic Catalog Pipeline transforms raw seller data from a Google Sheet into a fully enriched, production-ready product catalog. It combines AI reasoning, computer vision, social media scraping, phone verification, and deduplication — all orchestrated autonomously by a chain of specialized AI agents.
-
-**Input:** Google Sheet rows (seller profile + product listings)
-**Output:** Structured JSON catalog — enriched products, media assets, social profiles, reviews, company profile
-
 ## Getting Started (Local Development)
 
 Follow these steps to run the app locally:
@@ -33,6 +20,19 @@ Notes:
 - Formatting helpers (`formatCount`, `formatPrice`) have been consolidated into `src/lib/formatters.ts` to reduce duplication and improve reuse across components.
 - When refactoring, prefer importing helpers from `src/lib/formatters.ts` or via the public re-exports in `src/lib/sellerDataExtractor.ts` to keep import paths stable.
 - Run `npm run lint` and `npm run build` after changes; the repo uses TypeScript and Vite for type-check/build.
+
+# Dynamic Catalog Agent Pipeline
+
+**Intelligent, multi-agent catalog enrichment powered by Google Gemini**
+
+---
+
+## What It Does
+
+The Dynamic Catalog Pipeline transforms raw seller data from a Google Sheet into a fully enriched, production-ready product catalog. It combines AI reasoning, computer vision, social media scraping, phone verification, and deduplication — all orchestrated autonomously by a chain of specialized AI agents.
+
+**Input:** Google Sheet rows (seller profile + product listings)
+**Output:** Structured JSON catalog — enriched products, media assets, social profiles, reviews, company profile
 
 ---
 
