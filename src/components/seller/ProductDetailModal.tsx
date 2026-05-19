@@ -179,6 +179,7 @@ export default function ProductDetailModal({
                   <img
                     src={currentPhoto}
                     alt={product.name || "Product image"}
+                    referrerPolicy="no-referrer"
                     className="w-full h-full object-contain p-4 sm:p-6"
                     onError={() => {
                       setFailedPhotos((prev) => {
