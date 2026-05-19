@@ -39,13 +39,15 @@ export default function ProductCard({
           <img
             src={product.primaryPhoto}
             alt={product.name}
-            loading="lazy"
+            loading="eager"
+            decoding="async"
+            referrerPolicy="no-referrer"
             onLoad={() => setImgLoaded(true)}
             onError={() => {
               setImgError(true);
               onImageUnavailable?.(product.id);
             }}
-            className={`w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 ${imgLoaded ? "img-fade-in opacity-100" : "opacity-0"}`}
+            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
           />
 
           <div className="absolute top-3 left-3 right-3 z-10 flex flex-wrap items-start justify-between gap-2 pointer-events-none">
