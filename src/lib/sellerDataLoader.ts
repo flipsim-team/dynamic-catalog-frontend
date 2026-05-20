@@ -1,3 +1,4 @@
+import { supabase } from "./supabaseClient.ts";
 import { parseSellerRawObject } from "./sellerRawSchema";
 
 // Vite eagerly imports every seller JSON file under src/data so the dashboard
@@ -14,13 +15,6 @@ export interface SellerCatalogSummary {
   fileName: string;
   city?: string;
   description?: string;
-}
-
-// Normalize seller identifiers before comparing them to filenames.
-function normalizeGlid(value: string) {
-  return String(value || "")
-    .trim()
-    .toLowerCase();
 }
 
 // Convert an imported module path like ../data/123.json into the seller id.
@@ -46,19 +40,46 @@ function getRawSellerRecord(path: string) {
   return parseSellerJson(sellerDataModules[path]);
 }
 
-// Load one seller's raw data by matching the requested GLID to a JSON filename.
-export async function loadSellerRawDataByGlid(glid: string) {
-  const normalizedGlid = normalizeGlid(glid);
-  const matchingKey = Object.keys(sellerDataModules).find((key) => {
-    const fileName = getFileNameFromPath(key).toLowerCase();
-    return fileName === normalizedGlid;
-  });
+function unwrapSellerRow(row: unknown) {
+  if (!row || typeof row !== "object" || Array.isArray(row)) {
+    return row;
+  }
 
-  if (!matchingKey) {
+  const candidate = row as Record<string, unknown>;
+  if (
+    candidate.data &&
+    typeof candidate.data === "object" &&
+    !Array.isArray(candidate.data)
+  ) {
+    return candidate.data;
+  }
+
+  return row;
+}
+
+function parseGlid(value: string) {
+  const parsed = Number(value.trim());
+  return Number.isInteger(parsed) ? parsed : null;
+}
+
+// Load one seller's raw data from Supabase by matching the requested GLID.
+export async function loadSellerRawDataByGlid(glid: string) {
+  const parsedGlid = parseGlid(glid);
+  if (parsedGlid === null) {
     return null;
   }
 
-  return getRawSellerRecord(matchingKey);
+  const { data, error } = await supabase
+    .from("glid_data")
+    .select("*")
+    .eq("glid", parsedGlid)
+    .single();
+
+  if (error || !data) {
+    return null;
+  }
+
+  return parseSellerRawObject(unwrapSellerRow(data?.response?.catalog || data?.response));
 }
 
 // Return every discovered seller id so the dashboard can show available catalogs.
