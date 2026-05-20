@@ -173,7 +173,7 @@ export default function ProductDetailModal({
             </button>
 
             <div
-              className={`${hasAnyPhoto && hasRenderableImage ? "grid lg:grid-cols-[45%_55%] overflow-y-auto lg:overflow-hidden lg:h-[min(90vh,900px)]" : "overflow-y-auto lg:h-[min(90vh,900px)]"}`}
+              className={`${hasAnyPhoto && hasRenderableImage ? "grid lg:grid-cols-[45%_55%] overflow-y-auto scrollbar-thin lg:overflow-hidden lg:h-[min(90vh,900px)]" : "overflow-y-auto scrollbar-thin lg:h-[min(90vh,900px)]"}`}
             >
               {/* Details */}
               {hasAnyPhoto && hasRenderableImage && (
@@ -233,7 +233,7 @@ export default function ProductDetailModal({
 
               {/* Details */}
               <div
-                className={`p-5 sm:p-8 flex flex-col gap-5 min-h-0 overflow-y-auto max-h-[65vh] sm:max-h-[72vh] lg:overflow-y-auto lg:max-h-none ${hasAnyPhoto && hasRenderableImage ? "" : "w-full"}`}
+                className={`p-5 sm:p-8 flex flex-col gap-5 min-h-0 overflow-y-auto scrollbar-thin max-h-[65vh] sm:max-h-[72vh] lg:overflow-y-auto lg:max-h-none ${hasAnyPhoto && hasRenderableImage ? "" : "w-full"}`}
               >
                 <div>
                   <div className="flex flex-wrap gap-2 mb-3">
