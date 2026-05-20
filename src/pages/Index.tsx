@@ -1,4 +1,11 @@
-import { Suspense, lazy, useEffect, useMemo, useState } from "react";
+import {
+  Suspense,
+  lazy,
+  useEffect,
+  useLayoutEffect,
+  useMemo,
+  useState,
+} from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Link, useParams } from "react-router-dom";
 import NavBar from "@/components/seller/NavBar";
@@ -194,6 +201,10 @@ const Index = () => {
       cancelled = true;
     };
   }, [data]);
+
+  useLayoutEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: "auto" });
+  }, [sellerId]);
 
   if (sellerId?.trim() && isLoadingSellerData) {
     return (
