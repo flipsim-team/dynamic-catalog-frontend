@@ -1,6 +1,7 @@
 import { useEffect, useState, type ReactNode } from "react";
 import { cn, maskContactInfo } from "@/lib/utils";
 
+// Masked contact value that reveals the full phone/email only after the user clicks it.
 export default function RevealableContactValue({
   value,
   prefix = "",
@@ -22,6 +23,7 @@ export default function RevealableContactValue({
 }) {
   const [revealed, setRevealed] = useState(false);
 
+  // Reset the reveal state when the displayed contact value changes.
   useEffect(() => {
     setRevealed(false);
   }, [value]);

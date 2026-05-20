@@ -53,6 +53,7 @@ const PLATFORM_META: Record<
   },
 };
 
+// About section that summarizes business metadata, location, and social presence.
 export default function AboutSection({ data }: { data: SellerData }) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.1 });
   const sectionRef = useRef<HTMLElement>(null);
@@ -132,6 +133,7 @@ export default function AboutSection({ data }: { data: SellerData }) {
               </div>
             )}
 
+            {/* Compact business badges so the key metadata is visible at a glance. */}
             {hasBusinessMeta && (
               <div className="flex flex-wrap gap-2">
                 {data.businessType && (

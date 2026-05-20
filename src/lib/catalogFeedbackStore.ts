@@ -13,6 +13,7 @@ export interface CatalogFeedbackPayload {
 
 const FEEDBACK_STORAGE_KEY = "seller_catalog_feedback_submissions";
 
+// Read submissions from localStorage and discard anything that does not match the saved payload shape.
 function safeParsePayloadArray(raw: string | null): CatalogFeedbackPayload[] {
   if (!raw) return [];
 
@@ -37,6 +38,7 @@ function safeParsePayloadArray(raw: string | null): CatalogFeedbackPayload[] {
   }
 }
 
+// Generate a stable-enough submission id in browsers that do not support crypto.randomUUID.
 function getSubmissionId() {
   if (
     typeof crypto !== "undefined" &&
@@ -48,6 +50,7 @@ function getSubmissionId() {
   return `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
 }
 
+// Build the exact payload persisted by the feedback UI and later consumed by the dashboard.
 export function buildCatalogFeedbackPayload(input: {
   sellerId: string;
   sellerName: string;
@@ -71,6 +74,7 @@ export function buildCatalogFeedbackPayload(input: {
   };
 }
 
+// Return all stored feedback submissions for the current browser session.
 export function listCatalogFeedbackSubmissions(): CatalogFeedbackPayload[] {
   if (typeof window === "undefined") return [];
 
@@ -79,6 +83,7 @@ export function listCatalogFeedbackSubmissions(): CatalogFeedbackPayload[] {
   );
 }
 
+// Prepend a new feedback submission and persist the updated array to localStorage.
 export function saveCatalogFeedbackSubmission(
   payload: CatalogFeedbackPayload,
 ): CatalogFeedbackPayload[] {

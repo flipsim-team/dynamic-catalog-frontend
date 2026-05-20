@@ -16,6 +16,7 @@ import SellerAvatar from "./SellerAvatar";
 import RevealableContactValue from "./RevealableContactValue";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
+// Hero banner for the seller page, combining banner media, identity, and fast contact actions.
 export default function HeroSection({ data }: { data: SellerData }) {
   const heroRef = useRef<HTMLElement>(null);
   const { scrollYProgress } = useScroll({
@@ -34,6 +35,7 @@ export default function HeroSection({ data }: { data: SellerData }) {
   const opacity = useTransform(scrollYProgress, [0, 0.8], [1, 0]);
   const [bannerFailed, setBannerFailed] = useState(false);
   const hasBanner = Boolean(data.bannerUrl) && !bannerFailed;
+  // Smooth-scroll to the About section when the hero description is truncated on desktop.
   const handleScrollToAbout = () => {
     document
       .getElementById("about")
@@ -240,7 +242,7 @@ export default function HeroSection({ data }: { data: SellerData }) {
                   <Button
                     asChild
                     variant="glass"
-                    className="rounded-full px-6 h-12"
+                    className="rounded-full px-6 h-12 text-slate-900 hover:text-slate-900 dark:text-slate-900 dark:hover:text-slate-900"
                   >
                     <a
                       href={data.website}

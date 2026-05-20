@@ -15,6 +15,7 @@ import type {
 import { sourceLabelFor, toSourceMetaList } from "../sourceLabels";
 import { classifySocialPlatformUrl } from "../socialPlatform";
 import { buildGoogleMapsUrls } from "./googleMaps";
+import { formatCount, formatPrice } from "../formatters";
 
 const PLATFORMS: SocialPlatform[] = [
   "instagram",
@@ -24,10 +25,12 @@ const PLATFORMS: SocialPlatform[] = [
   "linkedin",
 ];
 
+// Treat only plain objects as expandable record-like values from the raw JSON.
 function isObj(v: unknown): v is Record<string, any> {
   return !!v && typeof v === "object" && !Array.isArray(v);
 }
 
+// Read a { value, sources } wrapper when present; otherwise fall back to the provided default.
 function unwrapValue<T>(input: unknown, fallback: T): T {
   if (isObj(input) && "value" in input) {
     const value = (input as ValueWithSources<T>).value;
@@ -37,6 +40,7 @@ function unwrapValue<T>(input: unknown, fallback: T): T {
   return input as T;
 }
 
+// Extract source metadata from wrapped values so the UI can explain where data came from.
 function unwrapSources(input: unknown): string[] {
   if (
     isObj(input) &&
@@ -49,6 +53,7 @@ function unwrapSources(input: unknown): string[] {
   return [];
 }
 
+// Convert phone/email-like arrays into the normalized contact entry shape used by the UI.
 function parseContactEntries(
   rawValues: unknown[],
   normalizePhone: boolean,
@@ -79,6 +84,7 @@ function parseContactEntries(
   return entries;
 }
 
+// Normalize platform names to the labels shown in badges, cards, and social tabs.
 function platformLabel(platform: SocialPlatform | string): string {
   const p = String(platform || "").toLowerCase();
   if (p === "youtube") return "YouTube";
@@ -88,6 +94,7 @@ function platformLabel(platform: SocialPlatform | string): string {
   return p ? p.charAt(0).toUpperCase() + p.slice(1) : "Source";
 }
 
+// Fallback label for source URLs when no explicit source name is available.
 function hostLabelFromUrl(url: string): string {
   try {
     const host = new URL(url).hostname.replace(/^www\./, "");
@@ -98,6 +105,7 @@ function hostLabelFromUrl(url: string): string {
   }
 }
 
+// Normalize website/catalog source identifiers to the canonical keys used for filtering.
 function normalizeWebsiteSource(source: string) {
   const key = String(source || "")
     .trim()
@@ -106,6 +114,7 @@ function normalizeWebsiteSource(source: string) {
   return key === "catalog" ? "website" : key;
 }
 
+// Normalize raw social URL arrays into value/source tuples.
 function normalizeSocialUrlEntries(
   rawUrls: unknown[],
 ): Array<{ value: string; sources: SourceMeta[] }> {
@@ -118,6 +127,7 @@ function normalizeSocialUrlEntries(
   return out;
 }
 
+// Strip query/hash noise so duplicate URLs collapse to a single canonical key.
 function normalizeUrlKey(url: string): string {
   const trimmed = String(url || "").trim();
   if (!trimmed) return "";
@@ -133,6 +143,7 @@ function normalizeUrlKey(url: string): string {
   }
 }
 
+// Merge duplicate source URL entries while preserving the union of their source metadata.
 function mergeSourceEntries(
   entries: Array<{ value: string; sources: SourceMeta[] }>,
 ): Array<{ value: string; sources: SourceMeta[] }> {
@@ -164,6 +175,7 @@ function mergeSourceEntries(
   return Array.from(merged.values());
 }
 
+// Prefer whichever social URL field appears to be the richer source of truth.
 function choosePreferredSocialEntries(
   socialUrls: unknown[],
   social: unknown,
@@ -180,19 +192,26 @@ function choosePreferredSocialEntries(
 }
 
 function classifyUrl(url: string): SocialPlatform | null {
+  // Reuse the generic platform classifier so extractor and UI stay aligned.
   return classifySocialPlatformUrl(url);
 }
 
 export function extractYouTubeId(url: string): string {
+  // Pull a stable YouTube id from the common URL formats we see in raw data.
   if (!url) return "";
   if (url.includes("shorts/"))
     return url.split("shorts/")[1]?.split(/[?&#]/)[0] || "";
   if (url.includes("youtu.be/"))
     return url.split("youtu.be/")[1]?.split(/[?&#]/)[0] || "";
+  if (url.includes("embed/"))
+    return url.split("embed/")[1]?.split(/[?&#]/)[0] || "";
+  if (url.includes("live/"))
+    return url.split("live/")[1]?.split(/[?&#]/)[0] || "";
   if (url.includes("v=")) return url.split("v=")[1]?.split("&")[0] || "";
   return "";
 }
 
+// Convert raw social post objects into the normalized post shape used by the UI.
 function normalizePost(
   raw: any,
   platform: SocialPlatform,
@@ -212,6 +231,7 @@ function normalizePost(
   };
 }
 
+// Remove duplicate URLs while preserving the first observed display value.
 function dedupeUrls(urls: string[]): string[] {
   const seen = new Set<string>();
   const deduped: string[] = [];
@@ -224,6 +244,7 @@ function dedupeUrls(urls: string[]): string[] {
   return deduped;
 }
 
+// Transform the raw seller payload into the typed seller data shape consumed by the app.
 export function extractSellerDataFromRaw(rawData: unknown) {
   const data = (rawData ?? {}) as any;
   const cp = data.company_profile || {};
@@ -719,26 +740,6 @@ export function extractSellerDataFromRaw(rawData: unknown) {
 
 export function extractSellerData(rawData: unknown) {
   return extractSellerDataFromRaw(rawData);
-}
-
-export function formatCount(n: number): string {
-  if (n >= 1_000_000)
-    return (n / 1_000_000).toFixed(1).replace(/\.0$/, "") + "M";
-  if (n >= 1_000) return (n / 1_000).toFixed(1).replace(/\.0$/, "") + "K";
-  return String(n);
-}
-
-export function formatPrice(p: CatalogProduct): string {
-  if (p.priceOnRequest) return "Price on request";
-  const sym = p.currency === "INR" ? "₹" : p.currency || "";
-  const fmt = (n: number) => sym + n.toLocaleString("en-IN");
-  const unit = p.priceUnit ? ` / ${p.priceUnit}` : "";
-  if (p.isPriceRange && p.priceMin != null && p.priceMax != null) {
-    return `${fmt(p.priceMin)} – ${fmt(p.priceMax)}${unit}`;
-  }
-  if (p.priceSingle != null) return `${fmt(p.priceSingle)}${unit}`;
-  if (p.priceMin != null) return `${fmt(p.priceMin)}${unit}`;
-  return "Price on request";
 }
 
 export type SellerData = ReturnType<typeof extractSellerDataFromRaw>;

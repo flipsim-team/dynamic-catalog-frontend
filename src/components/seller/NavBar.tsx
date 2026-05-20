@@ -3,10 +3,11 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X, Phone, MessageSquare } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import ThemeToggle from "@/components/theme-toggle";
 import SellerAvatar from "./SellerAvatar";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
-// Default nav link definitions; actual list is filtered per-seller data
+// Default nav link definitions; the rendered list is filtered per seller based on available sections.
 const DEFAULT_NAV_LINKS = [
   { key: "overview", label: "Overview", href: "#overview" },
   { key: "about", label: "About", href: "#about" },
@@ -17,6 +18,7 @@ const DEFAULT_NAV_LINKS = [
   { key: "contact", label: "Contact", href: "#contact" },
 ];
 
+// Sticky navigation that jumps between seller sections and adapts to the current scroll position.
 export default function NavBar({
   data,
   galleryVisible = false,
@@ -30,7 +32,7 @@ export default function NavBar({
   const [mobileOpen, setMobileOpen] = useState(false);
   const [activeSection, setActiveSection] = useState("overview");
 
-  // Build nav links dynamically based on which sections have data
+  // Build nav links dynamically based on which sections actually have data to show.
   const navLinks = DEFAULT_NAV_LINKS.filter((link) => {
     switch (link.key) {
       case "overview":
@@ -107,7 +109,7 @@ export default function NavBar({
 
     if (mobileOpen) {
       setMobileOpen(false);
-      setTimeout(scrollToSection, 300); // ⬅️ wait for menu animation
+      setTimeout(scrollToSection, 300); // Wait for the menu collapse animation.
     } else {
       scrollToSection();
     }
@@ -176,6 +178,7 @@ export default function NavBar({
           </div>
 
           <div className="hidden md:flex items-center gap-2">
+            <ThemeToggle className="shadow-sm" />
             <Button
               variant="outline"
               size="sm"
@@ -239,6 +242,12 @@ export default function NavBar({
                   {link.label}
                 </motion.a>
               ))}
+              <div className="px-4 pb-2 pt-1 flex items-center justify-between">
+                <span className="text-sm font-semibold text-foreground/80">
+                  Theme
+                </span>
+                <ThemeToggle className="shadow-none" />
+              </div>
               <div className="flex gap-2 pt-3">
                 <Button
                   variant="outline"

@@ -7,6 +7,7 @@ let _originalHtmlOverflow = "";
 let _originalBodyPaddingRight = "";
 
 export function cn(...inputs: ClassValue[]) {
+  // Merge conditional class names and de-duplicate Tailwind utilities.
   return twMerge(clsx(inputs));
 }
 
@@ -17,16 +18,16 @@ export function lockBodyScroll() {
     const scrollbarWidth =
       window.innerWidth - document.documentElement.clientWidth;
 
-    // Save original styles
+    // Save the original values so nested locks can restore them later.
     _originalBodyOverflow = document.body.style.overflow;
     _originalHtmlOverflow = document.documentElement.style.overflow;
     _originalBodyPaddingRight = document.body.style.paddingRight;
 
-    // Lock scroll on both html and body
+    // Lock scroll on both html and body to prevent background movement.
     document.documentElement.style.overflow = "hidden";
     document.body.style.overflow = "hidden";
 
-    // Prevent layout shift from scrollbar
+    // Compensate for the removed scrollbar so the layout does not jump sideways.
     if (scrollbarWidth > 0) {
       const bodyPaddingRight = parseFloat(
         getComputedStyle(document.body).paddingRight || "0",
@@ -45,6 +46,7 @@ export function unlockBodyScroll() {
   _scrollLockCount--;
 
   if (_scrollLockCount === 0) {
+    // Restore the previously saved scroll-related styles once all locks are released.
     document.body.style.overflow = _originalBodyOverflow;
     document.documentElement.style.overflow = _originalHtmlOverflow;
     document.body.style.paddingRight = _originalBodyPaddingRight;

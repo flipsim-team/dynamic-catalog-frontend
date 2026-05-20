@@ -5,12 +5,14 @@ const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID?.trim();
 const TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID?.trim();
 const PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY?.trim();
 const RECIPIENT_EMAIL =
-  import.meta.env.VITE_FEEDBACK_RECIPIENT_EMAIL?.trim()  || "";
+  import.meta.env.VITE_FEEDBACK_RECIPIENT_EMAIL?.trim() || "";
 
+// Check whether the EmailJS environment variables are available before trying to send mail.
 function hasEmailJsConfig() {
   return Boolean(SERVICE_ID && TEMPLATE_ID && PUBLIC_KEY);
 }
 
+// Send catalog feedback to the configured recipient via EmailJS, with a local fallback reason on failure.
 export async function sendFeedbackEmail(payload: CatalogFeedbackPayload) {
   if (!hasEmailJsConfig()) {
     return {

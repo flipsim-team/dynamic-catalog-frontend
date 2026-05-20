@@ -348,7 +348,7 @@ export default function ReviewsSection({ data }: { data: SellerData }) {
 
                 <div
                   ref={voicesScrollRef}
-                  className="space-y-4 overflow-y-auto flex-1 min-h-0 pr-1"
+                  className="space-y-4 overflow-y-auto flex-1 min-h-0 pr-1 scrollbar-thin"
                   onPointerDown={() => setAllowAutoScroll(false)}
                   onWheel={() => setAllowAutoScroll(false)}
                   onTouchStart={() => setAllowAutoScroll(false)}

@@ -24,6 +24,7 @@ interface Props {
   onImageUnavailable?: (productId: string) => void;
 }
 
+// Full-screen product modal used from the catalog grid and product navigation controls.
 export default function ProductDetailModal({
   product,
   onClose,
@@ -37,7 +38,7 @@ export default function ProductDetailModal({
   const [failedPhotos, setFailedPhotos] = useState<Set<string>>(new Set());
   const isOpen = !!product;
 
-  // Scroll lock effect
+  // Lock background scrolling while the modal is open so the page does not move behind it.
   useEffect(() => {
     if (isOpen) {
       lockBodyScroll();
@@ -45,7 +46,7 @@ export default function ProductDetailModal({
     }
   }, [isOpen]);
 
-  // Photo reset effect
+  // Reset image state whenever a different product is opened.
   useEffect(() => {
     if (product) {
       setPhotoIdx(0);
@@ -54,7 +55,7 @@ export default function ProductDetailModal({
     }
   }, [product]);
 
-  // Escape key effect
+  // Close the modal on Escape so keyboard users can dismiss it quickly.
   useEffect(() => {
     if (isOpen) {
       const onKey = (e: KeyboardEvent) => {
@@ -172,8 +173,9 @@ export default function ProductDetailModal({
             </button>
 
             <div
-              className={`${hasAnyPhoto && hasRenderableImage ? "grid lg:grid-cols-[45%_55%] overflow-y-auto lg:overflow-hidden lg:h-[min(90vh,900px)]" : "overflow-y-auto lg:h-[min(90vh,900px)]"}`}
+              className={`${hasAnyPhoto && hasRenderableImage ? "grid lg:grid-cols-[45%_55%] overflow-y-auto scrollbar-thin lg:overflow-hidden lg:h-[min(90vh,900px)]" : "overflow-y-auto scrollbar-thin lg:h-[min(90vh,900px)]"}`}
             >
+              {/* Details */}
               {hasAnyPhoto && hasRenderableImage && (
                 <div className="relative min-h-[220px] md:min-h-[320px] lg:h-full bg-muted/50 flex items-center justify-center overflow-hidden">
                   <img
@@ -231,7 +233,7 @@ export default function ProductDetailModal({
 
               {/* Details */}
               <div
-                className={`p-5 sm:p-8 flex flex-col gap-5 min-h-0 overflow-y-auto max-h-[65vh] sm:max-h-[72vh] lg:overflow-y-auto lg:max-h-none ${hasAnyPhoto && hasRenderableImage ? "" : "w-full"}`}
+                className={`p-5 sm:p-8 flex flex-col gap-5 min-h-0 overflow-y-auto scrollbar-thin max-h-[65vh] sm:max-h-[72vh] lg:overflow-y-auto lg:max-h-none ${hasAnyPhoto && hasRenderableImage ? "" : "w-full"}`}
               >
                 <div>
                   <div className="flex flex-wrap gap-2 mb-3">

@@ -1,11 +1,17 @@
-import { Suspense, lazy, useEffect, useMemo, useState } from "react";
+import {
+  Suspense,
+  lazy,
+  useEffect,
+  useLayoutEffect,
+  useMemo,
+  useState,
+} from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Link, useParams } from "react-router-dom";
 import NavBar from "@/components/seller/NavBar";
 import HeroSection from "@/components/seller/HeroSection";
 import AboutSection from "@/components/seller/AboutSection";
 import ProductCatalog from "@/components/seller/ProductCatalog";
-// CategoryGrid removed — categories now live as filter chips in ProductCatalog
 import MediaGallery from "@/components/seller/MediaGallery";
 import SocialPosts from "@/components/seller/SocialPosts";
 import ReviewsSection from "@/components/seller/ReviewsSection";
@@ -24,6 +30,8 @@ const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
 const DEFAULT_FAVICON_HREF = "/favicon.ico";
 
 function resolveImageUrl(url: string) {
+  // Try loading an image URL in the browser to verify it exists.
+  // Resolves with the original URL on success, or `null` on failure.
   return new Promise<string | null>((resolve) => {
     if (typeof window === "undefined") {
       resolve(null);
@@ -38,6 +46,7 @@ function resolveImageUrl(url: string) {
 }
 
 async function resolveFaviconHref(candidates: string[]) {
+  // Iterate over favicon candidates and return the first valid image href.
   for (const candidate of candidates) {
     const trimmedCandidate = candidate.trim();
     if (!trimmedCandidate) continue;
@@ -77,19 +86,20 @@ const Index = () => {
     return null;
   }, [rawSellerData]);
 
+  // Whether the gallery section has any images or YouTube posts.
   const galleryHasData = Boolean(
-    data &&
-    (data.galleryImages.length > 0 ||
-      data.socialProfiles.some(
-        (profile) => profile.platform === "youtube" && profile.posts.length > 0,
-      )),
+    data?.galleryImages?.length ||
+    data?.socialProfiles?.some(
+      (profile) => profile.platform === "youtube" && profile.posts?.length > 0,
+    ),
   );
 
   const [gallerySectionVisible, setGallerySectionVisible] =
     useState<boolean>(galleryHasData);
 
+  // Whether any social profiles contain posts.
   const socialHasData = Boolean(
-    data && data.socialProfiles.some((profile) => profile.posts.length > 0),
+    data?.socialProfiles?.some((profile) => profile.posts?.length > 0),
   );
 
   const [socialSectionVisible, setSocialSectionVisible] =
@@ -97,6 +107,7 @@ const Index = () => {
 
   useEffect(() => {
     if (!data) return;
+    // Verify an image URL before using it in document metadata or favicon links.
     const reduced = window.matchMedia(
       "(prefers-reduced-motion: reduce)",
     ).matches;
@@ -113,6 +124,7 @@ const Index = () => {
       setIsDesktop(window.innerWidth >= 1024);
     };
 
+    // Pick the first favicon candidate that actually resolves as an image.
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
@@ -128,6 +140,7 @@ const Index = () => {
 
     document.title = sellerTitle;
 
+    // Main seller route: loads the catalog, derives UI data, and renders the page sections.
     const upsertMeta = (
       selector: string,
       attr: "name" | "property",
@@ -189,6 +202,10 @@ const Index = () => {
     };
   }, [data]);
 
+  useLayoutEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: "auto" });
+  }, [sellerId]);
+
   if (sellerId?.trim() && isLoadingSellerData) {
     return (
       <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
@@ -203,9 +220,10 @@ const Index = () => {
     return (
       <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
         <div>
-          <h1 className="text-2xl font-semibold">Seller not found</h1>
+          <h1 className="text-2xl font-semibold">Page Doesn't Exist</h1>
           <p className="mt-2 text-muted-foreground">
-            No catalog data found for this seller ID.
+            The page you're looking for doesn't exist or the seller ID is
+            invalid.
           </p>
           <Link
             to="/"
@@ -218,31 +236,32 @@ const Index = () => {
     );
   }
 
+  // Whether the About section should render (any relevant company or product data).
   const aboutHasData = Boolean(
-    data.description ||
-    data.tagline ||
-    data.businessType ||
-    data.products.length > 0 ||
-    data.categories.length > 0 ||
-    data.fullAddress ||
-    data.city ||
-    data.website ||
-    data.socialProfiles.length > 0,
+    data?.description ||
+    data?.tagline ||
+    data?.businessType ||
+    data?.products?.length ||
+    data?.categories?.length ||
+    data?.fullAddress ||
+    data?.city ||
+    data?.website ||
+    data?.socialProfiles?.length,
   );
-  const productsHasData = data.products.length > 0;
+  const productsHasData = Boolean(data?.products?.length);
   const reviewsHasData = Boolean(
-    data.reviewsSummary.totalRating ||
-    data.reviewsSummary.noOfRatings ||
-    data.individualReviews.length > 0,
+    data?.reviewsSummary?.totalRating ||
+    data?.reviewsSummary?.noOfRatings ||
+    data?.individualReviews?.length > 0,
   );
   const contactHasData = Boolean(
-    data.primaryPhone ||
-    data.email ||
-    data.fullAddress ||
-    data.city ||
-    data.website ||
-    data.whatsappUrl ||
-    data.socialProfiles.some((profile) => Boolean(profile.url)),
+    data?.primaryPhone ||
+    data?.email ||
+    data?.fullAddress ||
+    data?.city ||
+    data?.website ||
+    data?.whatsappUrl ||
+    data?.socialProfiles?.some((profile) => Boolean(profile.url)),
   );
   const feedbackTriggerSectionId = aboutHasData ? "about" : "overview";
 

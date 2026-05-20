@@ -11,6 +11,7 @@ interface Props {
   onImageUnavailable?: (productId: string) => void;
 }
 
+// Compact product tile used in the catalog grid and fallback image-only listings.
 export default function ProductCard({
   product,
   onOpen,

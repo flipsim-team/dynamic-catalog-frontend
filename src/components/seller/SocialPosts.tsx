@@ -24,6 +24,7 @@ import { ExpandableSocialCard } from "./socialPosts/ExpandableSocialCard";
 
 type Platform = "instagram" | "youtube" | "facebook" | "linkedin" | "twitter";
 
+// Lightweight Instagram embed wrapper that loads the Instagram script on demand.
 function InstagramEmbed({ post }: { post: SocialPost }) {
   const embedRef = useRef<HTMLDivElement>(null);
   const [loaded, setLoaded] = useState(false);
@@ -140,6 +141,7 @@ function InstagramEmbed({ post }: { post: SocialPost }) {
   );
 }
 
+// Facebook post/reel embed that falls back to a direct link if the iframe is slow to initialize.
 function FacebookEmbed({ post }: { post: SocialPost }) {
   const [loaded, setLoaded] = useState(false);
   const hasValidUrl = Boolean(post.url && /^https?:\/\//i.test(post.url));
@@ -198,6 +200,7 @@ function FacebookEmbed({ post }: { post: SocialPost }) {
   );
 }
 
+// Social updates section that switches between supported platforms and opens posts in expanded cards.
 export default function SocialPosts({
   data,
   onVisibilityChange,
@@ -215,6 +218,7 @@ export default function SocialPosts({
   const yt = data.socialProfiles.find((p) => p.platform === "youtube");
   const fb = data.socialProfiles.find((p) => p.platform === "facebook");
   const socialAvailability = resolveSocialAvailability(data);
+  // Keep only platforms that actually have a usable profile URL and at least one renderable post.
   const availablePlatforms = useMemo<Platform[]>(() => {
     const list: Platform[] = [];
     if (ig?.url && ig.posts.some((post) => Boolean(post.url))) {
@@ -238,6 +242,7 @@ export default function SocialPosts({
     availablePlatforms[0] || "instagram",
   );
 
+  // If the current platform disappears, fall back to the first available one.
   useEffect(() => {
     if (availablePlatforms.length === 0) return;
     if (!availablePlatforms.includes(activePlatform)) {
@@ -245,6 +250,7 @@ export default function SocialPosts({
     }
   }, [activePlatform, availablePlatforms]);
 
+  // Switching platforms collapses any expanded or hovered cards so the layout resets cleanly.
   useEffect(() => {
     setExpandedCardId(null);
     setHoveredCardId(null);
@@ -257,6 +263,16 @@ export default function SocialPosts({
     setExpandedCardId((prev) => (prev === id ? null : id));
   };
 
+  const openYouTubePlayer = (videoId: string, fallbackUrl: string) => {
+    if (videoId) {
+      setVideoModal(videoId);
+      return;
+    }
+    if (fallbackUrl) {
+      window.open(fallbackUrl, "_blank", "noopener,noreferrer");
+    }
+  };
+
   const handleHoverStart = (id: string) => {
     if (!isMobile) setHoveredCardId(id);
   };
@@ -265,6 +281,7 @@ export default function SocialPosts({
     if (!isMobile && hoveredCardId === id) setHoveredCardId(null);
   };
 
+  // Tell the page whether this whole section should count as visible in the nav/footer.
   useEffect(() => {
     if (typeof onVisibilityChange === "function") {
       onVisibilityChange(availablePlatforms.length > 0);
@@ -461,12 +478,17 @@ export default function SocialPosts({
                             }}
                           />
                           <div className="absolute inset-0 bg-black/10 group-hover:bg-black/30 transition-colors flex items-center justify-center">
-                            <motion.div
+                            <motion.button
+                              type="button"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                openYouTubePlayer(id, vid.url);
+                              }}
                               whileHover={{ scale: 1.2 }}
                               className="w-14 h-14 rounded-full bg-primary/90 flex items-center justify-center shadow-xl"
                             >
                               <Play className="w-6 h-6 text-primary-foreground fill-primary-foreground ml-0.5" />
-                            </motion.div>
+                            </motion.button>
                           </div>
                         </div>
                         <div className="p-4">
@@ -497,7 +519,15 @@ export default function SocialPosts({
                             type="button"
                             onClick={(e) => {
                               e.stopPropagation();
-                              setVideoModal(id);
+                              if (vid.url) {
+                                window.open(
+                                  vid.url,
+                                  "_blank",
+                                  "noopener,noreferrer",
+                                );
+                                return;
+                              }
+                              openYouTubePlayer(id, vid.url);
                             }}
                             className="mt-3 inline-flex items-center justify-center gap-1.5 rounded-md border border-border px-2.5 py-1.5 text-xs font-semibold text-primary hover:bg-muted transition-colors"
                           >

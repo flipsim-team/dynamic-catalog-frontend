@@ -13,9 +13,9 @@ import {
 const ICON_MAP: Record<string, LucideIcon> = {
   verified: BadgeCheck,
   award: Award,
-  'file-check': FileCheck,
+  "file-check": FileCheck,
   factory: Factory,
-  'map-pin': MapPin,
+  "map-pin": MapPin,
   package: Package,
   globe: Globe,
 };
@@ -28,15 +28,17 @@ interface Badge {
   tooltip?: string;
 }
 
+// Trust badge strip used in the hero to jump to sections or open verified links.
 export default function TrustBadges({ badges }: { badges: Badge[] }) {
+  // Navigate to the linked destination or scroll to the associated page section.
   const handleClick = (badge: Badge) => {
     if (badge.url) {
-      window.open(badge.url, '_blank', 'noopener,noreferrer');
+      window.open(badge.url, "_blank", "noopener,noreferrer");
     } else if (badge.scrollTo) {
       const el = document.getElementById(badge.scrollTo);
       if (el) {
         const top = el.getBoundingClientRect().top + window.scrollY - 80;
-        window.scrollTo({ top, behavior: 'smooth' });
+        window.scrollTo({ top, behavior: "smooth" });
       }
     }
   };

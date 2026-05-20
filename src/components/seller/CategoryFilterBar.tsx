@@ -24,6 +24,7 @@ interface Props {
   totalCount: number;
 }
 
+// Filter bar that combines category pills with optional source filtering.
 export default function CategoryFilterBar({
   categories,
   sources = [],
@@ -37,6 +38,7 @@ export default function CategoryFilterBar({
   const allCategories = [{ name: "All", count: totalCount }, ...categories];
   const sourceMap = new Map(sources.map((source) => [source.key, source]));
   const hasSelectedSources = selectedSources.length > 0;
+  // When source filters are active, hide categories that have no matching products.
   const visibleCategories = hasSelectedSources
     ? allCategories.filter((c) => c.count > 0 || c.name === "All")
     : allCategories;
@@ -118,6 +120,7 @@ function ControlledPopover({
 }) {
   const [open, setOpen] = useState(false);
 
+  // Popover wrapper that keeps the source filter state local to the control.
   return (
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>

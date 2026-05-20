@@ -45,6 +45,7 @@ function LazyImage({
   );
 }
 
+// Gallery section that shows extracted catalog images and embedded YouTube posts.
 export default function MediaGallery({
   data,
   onVisibilityChange,
@@ -58,6 +59,7 @@ export default function MediaGallery({
   const [videoModal, setVideoModal] = useState<string | null>(null);
   const [hiddenImages, setHiddenImages] = useState<Set<string>>(new Set());
 
+  // Hide images that fail to load so the gallery can keep rendering the rest.
   const hideImage = useCallback((url: string) => {
     setHiddenImages((prev) => new Set(prev).add(url));
   }, []);
@@ -72,6 +74,7 @@ export default function MediaGallery({
   );
 
   useEffect(() => {
+    // Inform the parent page when this section actually has content to show.
     if (typeof onVisibilityChange === "function") {
       onVisibilityChange(Boolean(visibleImages.length || ytPosts.length));
     }

@@ -2,6 +2,7 @@ import * as React from "react";
 
 const MOBILE_BREAKPOINT = 768;
 
+// Shared responsive hook for components that need a mobile-only layout or behavior.
 export function useIsMobile() {
   const [isMobile, setIsMobile] = React.useState(() => {
     if (typeof window === "undefined") {

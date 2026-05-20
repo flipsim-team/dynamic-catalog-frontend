@@ -2,6 +2,7 @@ import ParticlesBackground from "./ParticlesBackground";
 import { motion } from "framer-motion";
 import SellerAvatar from "./SellerAvatar";
 
+// Transitional loading screen shown while the seller page data is being prepared.
 export default function SplashScreen({
   sellerName,
   avatarCandidates,
