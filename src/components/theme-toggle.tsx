@@ -30,7 +30,6 @@ export default function ThemeToggle({ className }: ThemeToggleProps) {
           : "border-border/70 bg-background/85 shadow-[0_16px_40px_-18px_rgba(15,23,42,0.45)]",
         className,
       )}
-      // style scale 0.9
       style={{ transform: "scale(0.8)" }}
     >
       <div className="relative">
