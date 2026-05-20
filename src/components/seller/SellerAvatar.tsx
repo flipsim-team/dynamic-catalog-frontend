@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 
+// Derive a two-letter fallback avatar from the seller name.
 function getInitials(sellerName: string) {
   return sellerName
     .split(" ")
@@ -9,6 +10,7 @@ function getInitials(sellerName: string) {
     .toUpperCase();
 }
 
+// Avatar component that walks through candidate image URLs and falls back to initials.
 export default function SellerAvatar({
   sellerName,
   avatarCandidates = [],
@@ -25,10 +27,12 @@ export default function SellerAvatar({
   const candidateSignature = avatarCandidates.join("|");
   const activeAvatarUrl = avatarCandidates[activeIndex] || "";
 
+  // Reset the candidate index whenever the avatar source list changes.
   useEffect(() => {
     setActiveIndex(0);
   }, [candidateSignature]);
 
+  // Advance to the next candidate when the current image fails to load.
   const handleError = () => {
     setActiveIndex((currentIndex) => {
       const nextIndex = currentIndex + 1;

@@ -7,6 +7,7 @@ import {
   Globe2,
 } from "lucide-react";
 
+// Pick a small icon that matches the source platform shown in the product detail modal.
 export function productSourceIcon(platform?: string) {
   if (platform === "instagram") return <Instagram className="w-3 h-3" />;
   if (platform === "youtube") return <Youtube className="w-3 h-3" />;

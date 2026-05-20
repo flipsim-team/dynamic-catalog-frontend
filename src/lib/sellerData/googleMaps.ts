@@ -1,3 +1,4 @@
+// Extract Google Maps cid/data_id hints from a URL or raw identifier string.
 function extractGoogleMapsReference(input: string): {
   cid: string;
   dataId: string;
@@ -16,6 +17,7 @@ function extractGoogleMapsReference(input: string): {
   };
 }
 
+// Resolve the best Google Maps URL/embed pair from the available location fields.
 export function buildGoogleMapsUrls(input: {
   googleLocation: string;
   gmbLudocid: string;

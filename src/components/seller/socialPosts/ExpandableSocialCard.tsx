@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 const COLLAPSED_CARD_HEIGHT = 430;
 const EXPANDED_CARD_MAX_HEIGHT = 1600;
 
+// Wrapper that lets social post cards expand on click or hover without rerendering the content tree.
 export function ExpandableSocialCard({
   cardId,
   isExpanded,
@@ -56,7 +57,7 @@ export function ExpandableSocialCard({
         <div className="pointer-events-none absolute inset-x-0 bottom-0 h-20 bg-gradient-to-t from-card via-card/95 to-transparent" />
       )}
 
-      <div className="absolute inset-x-0 bottom-0 p-3 text-center">
+      <div className="pointer-events-none absolute inset-x-0 bottom-0 p-3 text-center">
         <button
           type="button"
           onClick={(e) => {

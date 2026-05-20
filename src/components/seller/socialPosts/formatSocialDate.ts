@@ -1,3 +1,4 @@
+// Format social post timestamps into the localized display string used in the feed.
 export function formatSocialDate(ts: string) {
   if (!ts) return "";
   try {

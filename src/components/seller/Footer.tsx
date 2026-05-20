@@ -37,10 +37,12 @@ const PLATFORM_ICONS: Record<SocialPlatform, LucideIcon> = {
   whatsapp: ExternalLink,
 };
 
+// Footer that repeats key navigation, seller identity, and connect actions.
 const Footer = forwardRef<
   HTMLElement,
   { data: SellerData; galleryVisible?: boolean; socialVisible?: boolean }
 >(({ data, galleryVisible = false, socialVisible = false }, ref) => {
+  // Mirror the nav bar's section visibility rules so footer links stay consistent.
   const navLinks = DEFAULT_NAV_LINKS.filter((link) => {
     switch (link.key) {
       case "overview":
@@ -66,6 +68,7 @@ const Footer = forwardRef<
     }
   });
 
+  // Smooth-scroll the tagline back to the About section when it is clicked.
   const scrollToAbout = () => {
     const aboutSection = document.getElementById("about");
     if (aboutSection) {

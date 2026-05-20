@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { motion, useMotionValue, useSpring } from "framer-motion";
 
+// Decorative cursor halo that only runs on desktop pointer devices.
 export default function CursorFollower() {
   const [enabled, setEnabled] = useState(false);
 
@@ -10,6 +11,7 @@ export default function CursorFollower() {
   const smoothY = useSpring(y, { stiffness: 200, damping: 24, mass: 0.35 });
 
   useEffect(() => {
+    // Enable the effect only when the device can reasonably track a hover pointer.
     const media = window.matchMedia(
       "(min-width: 1024px) and (hover: hover) and (pointer: fine)",
     );

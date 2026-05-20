@@ -3,10 +3,12 @@ import { motion } from "framer-motion";
 import { Phone, MessageCircle } from "lucide-react";
 import type { SellerData } from "@/lib/sellerDataExtractor";
 
+// Sticky mobile CTA bar that keeps WhatsApp and phone actions available on small screens.
 const MobileCTA = forwardRef<HTMLDivElement, { data: SellerData }>(
   ({ data }, ref) => {
     if (!data.primaryPhone && !data.whatsappUrl) return null;
 
+    // Prefer the explicit WhatsApp URL and fall back to a phone-derived wa.me link.
     const whatsappUrl =
       data.whatsappUrl ||
       `https://wa.me/91${data.primaryPhone.replace(/\D/g, "")}`;

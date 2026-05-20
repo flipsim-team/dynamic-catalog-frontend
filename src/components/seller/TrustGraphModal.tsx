@@ -22,6 +22,7 @@ function hostFromUrl(url: string): string {
   }
 }
 
+// Modal table that shows which sources confirm each contact or profile value.
 export default function TrustGraphModal({
   data,
   open,
@@ -34,7 +35,7 @@ export default function TrustGraphModal({
   const columns = useMemo<Column[]>(() => {
     const map = new Map<string, string>();
 
-    // Collect sources from phones, emails, website, whatsapp, and social_urls
+    // Collect sources from phones, emails, website, WhatsApp, and social URLs.
     const cs = data.contactSources || ({} as Record<string, any>);
     for (const key of Object.keys(cs)) {
       for (const s of (cs as any)[key] || []) {
@@ -42,14 +43,14 @@ export default function TrustGraphModal({
       }
     }
 
-    // Collect sources from social_urls
+    // Collect sources from social_urls.
     for (const item of data.socialUrls || []) {
       for (const source of item.sources || []) {
         if (!map.has(source.key)) map.set(source.key, source.label);
       }
     }
 
-    // Sort with website first, then google, then alphabetically
+    // Sort with website first, then google, then alphabetically.
     const sorted = Array.from(map.entries())
       .map(([key, label]) => ({ key, label }))
       .sort((a, b) => {
@@ -70,7 +71,7 @@ export default function TrustGraphModal({
       sources: string[];
     }> = [];
 
-    // Phone rows
+    // Phone rows.
     const phoneEntries = data.phoneEntries?.length
       ? data.phoneEntries
       : data.primaryPhone
@@ -89,7 +90,7 @@ export default function TrustGraphModal({
         sources: (p.sources || []).map((s: any) => s.key),
       });
 
-    // Email rows
+    // Email rows.
     const emailEntries = data.emailEntries?.length
       ? data.emailEntries
       : data.email
@@ -103,7 +104,7 @@ export default function TrustGraphModal({
         sources: (e.sources || []).map((s: any) => s.key),
       });
 
-    // Website row
+    // Website row.
     if (data.website)
       out.push({
         id: `website-${data.website}`,
@@ -112,7 +113,7 @@ export default function TrustGraphModal({
         sources: (data.contactSources?.website || []).map((s: any) => s.key),
       });
 
-    // Address row
+    // Address row.
     if (data.fullAddress)
       out.push({
         id: `address-${data.fullAddress}`,
@@ -121,7 +122,7 @@ export default function TrustGraphModal({
         sources: (data.contactSources?.address || []).map((s: any) => s.key),
       });
 
-    // City row
+    // City row.
     if (data.city)
       out.push({
         id: `city-${data.city}`,
@@ -130,7 +131,7 @@ export default function TrustGraphModal({
         sources: (data.contactSources?.city || []).map((s: any) => s.key),
       });
 
-    // CTA (WhatsApp) row
+    // CTA (WhatsApp) row.
     if (data.whatsappUrl)
       out.push({
         id: `cta-whatsapp`,
@@ -143,7 +144,7 @@ export default function TrustGraphModal({
         ).map((s: any) => s.key),
       });
 
-    // Social URL rows from company_profile.social_urls
+    // Social URL rows from company_profile.social_urls.
     for (let i = 0; i < (data.socialUrls || []).length; i++) {
       const urlItem = data.socialUrls![i];
       out.push({
@@ -158,6 +159,7 @@ export default function TrustGraphModal({
   }, [data]);
 
   useEffect(() => {
+    // Lock background scrolling while the trust matrix modal is open.
     if (open) lockBodyScroll();
     return () => {
       if (open) unlockBodyScroll();

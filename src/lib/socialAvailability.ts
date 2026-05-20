@@ -16,6 +16,7 @@ export function effectiveWhatsappContactUrl(data: {
   whatsappUrl: string;
   primaryPhone: string;
 }): string {
+  // Prefer the explicit WhatsApp URL; otherwise synthesize one from the primary phone number.
   return (
     data.whatsappUrl ||
     (data.primaryPhone

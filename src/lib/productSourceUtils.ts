@@ -7,6 +7,7 @@ export type SourceFilterOption = {
   count: number;
 };
 
+// Normalize source names so filter keys are stable across tiles, links, and raw product data.
 export function normalizeSourceKey(source: string) {
   const key = String(source || "")
     .trim()
@@ -15,10 +16,12 @@ export function normalizeSourceKey(source: string) {
   return key === "catalog" ? "website" : key;
 }
 
+// Treat anything normalized to website as the generic web source bucket.
 export function isWebsiteSource(value: string) {
   return normalizeSourceKey(value) === "website";
 }
 
+// Gather every source reference attached to a product so the filter bar can count and match them.
 export function collectProductSourceEntries(product: CatalogProduct) {
   const entries: SourceFilterOption[] = [];
   const addEntry = (key: string, label: string) => {
@@ -77,6 +80,7 @@ export function collectProductSourceEntries(product: CatalogProduct) {
   return entries;
 }
 
+// Check whether a product belongs to at least one of the selected source filters.
 export function productMatchesSelectedSources(
   product: CatalogProduct,
   selectedSources: string[],

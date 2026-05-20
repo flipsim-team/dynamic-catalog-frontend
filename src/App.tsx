@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Toaster as Sonner } from "@/components/ui/sonner";
@@ -11,8 +10,8 @@ import NotFound from "./pages/NotFound.tsx";
 
 const queryClient = new QueryClient();
 
+// Browser router wiring for the dashboard landing page and seller route.
 const AppContent = () => {
-
   return (
     <BrowserRouter>
       <Routes>
@@ -25,6 +24,7 @@ const AppContent = () => {
   );
 };
 
+// Root app shell that provides React Query, theme, toast, and tooltip providers.
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false}>

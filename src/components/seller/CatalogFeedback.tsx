@@ -18,10 +18,12 @@ interface CatalogFeedbackProps {
 
 const FEEDBACK_DISMISSED_PREFIX = "seller_catalog_feedback_dismissed_";
 
+// Store the dismissal flag per seller so the prompt only reappears when it should.
 function getDismissedKey(sellerId: string) {
   return `${FEEDBACK_DISMISSED_PREFIX}${sellerId}`;
 }
 
+// Floating feedback prompt that appears after the user scrolls past the trigger section.
 export default function CatalogFeedback({
   sellerId,
   sellerName,
@@ -37,6 +39,7 @@ export default function CatalogFeedback({
 
   useEffect(() => {
     if (typeof window === "undefined") return;
+    // Restore any previous dismissal state and watch scroll/resize to reveal the prompt.
     const storedDismissed = window.localStorage.getItem(dismissedKey) === "1";
     setIsDismissed(storedDismissed);
     if (storedDismissed) {
@@ -73,6 +76,7 @@ export default function CatalogFeedback({
     };
   }, [dismissedKey, isDismissed, triggerSectionId]);
 
+  // Persist dismissal and clear any partial negative-feedback state.
   const dismissFeedback = () => {
     if (typeof window !== "undefined") {
       window.localStorage.setItem(dismissedKey, "1");
@@ -84,6 +88,7 @@ export default function CatalogFeedback({
     setIsVisible(false);
   };
 
+  // Positive feedback is a one-click path that stores a record and emails it immediately.
   const handlePositiveFeedback = async () => {
     const payload = buildCatalogFeedbackPayload({
       sellerId,
@@ -113,6 +118,7 @@ export default function CatalogFeedback({
     dismissFeedback();
   };
 
+  // Negative feedback requires a short comment so the submission contains actionable context.
   const handleNegativeSubmit = async (event: FormEvent<HTMLFormElement>) => {
     event.preventDefault();
 

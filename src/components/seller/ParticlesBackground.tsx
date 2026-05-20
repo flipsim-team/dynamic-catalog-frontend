@@ -10,8 +10,9 @@ function getInteractivity(
   repulseDistance: number,
 ): ISourceOptions["interactivity"] {
   return {
+    detectsOn: "window",
     events: {
-      onHover: { enable: false },
+      onHover: { enable: true, mode: "repulse" },
       onClick: { enable: true, mode: ["push", "repulse"] },
       resize: true,
     },

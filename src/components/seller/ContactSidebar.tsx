@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
@@ -36,11 +35,13 @@ const PLATFORM_META: Record<
   whatsapp: { icon: MessageCircle, gradient: "from-green-500 to-emerald-400" },
 };
 
+// Contact panel that combines phone, email, website, map, and social presence into one sidebar.
 export default function ContactSidebar({ data }: { data: SellerData }) {
   const { ref, inView } = useInView({ triggerOnce: true, threshold: 0.1 });
   const sectionRef = useRef<HTMLElement>(null);
   const [trustGraphOpen, setTrustGraphOpen] = useState(false);
   const [showAllContacts, setShowAllContacts] = useState(false);
+  // Render source chips below contact entries so viewers can see where each detail came from.
   const sourceChips = (sources?: Array<{ key: string; label: string }>) => {
     if (!sources || sources.length === 0) return null;
     return (
@@ -74,6 +75,7 @@ export default function ContactSidebar({ data }: { data: SellerData }) {
     );
   };
 
+  // Resolve social URL availability once here so the rest of the sidebar can stay declarative.
   const socialAvailability = resolveSocialAvailability(data);
   const whatsappUrl = socialAvailability.whatsapp?.url || "";
   const socialPlatforms: SocialPlatform[] = [

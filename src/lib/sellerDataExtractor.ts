@@ -10,6 +10,7 @@ export type {
   CatalogProduct,
 } from "./sellerData/types";
 
+// Central re-export for seller data types and extractor helpers used by pages and components.
 export type { SocialAvailabilityMap } from "./sellerData/types";
 
 export {

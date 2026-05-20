@@ -9,6 +9,7 @@ type ThemeToggleProps = {
   className?: string;
 };
 
+// Theme switch used in the dashboard and seller pages to toggle dark mode manually.
 export default function ThemeToggle({ className }: ThemeToggleProps) {
   const { resolvedTheme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);

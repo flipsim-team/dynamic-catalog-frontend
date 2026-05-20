@@ -2,10 +2,12 @@ import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { ArrowUp } from "lucide-react";
 
+// Floating button that appears after the user has scrolled far enough down the page.
 export default function ScrollToTopButton() {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
+    // Keep the button visibility tied to the current scroll position.
     const handleScroll = () => {
       setIsVisible(window.scrollY > 320);
     };

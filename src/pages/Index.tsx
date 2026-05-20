@@ -100,6 +100,7 @@ const Index = () => {
 
   useEffect(() => {
     if (!data) return;
+    // Verify an image URL before using it in document metadata or favicon links.
     const reduced = window.matchMedia(
       "(prefers-reduced-motion: reduce)",
     ).matches;
@@ -116,6 +117,7 @@ const Index = () => {
       setIsDesktop(window.innerWidth >= 1024);
     };
 
+    // Pick the first favicon candidate that actually resolves as an image.
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
@@ -131,6 +133,7 @@ const Index = () => {
 
     document.title = sellerTitle;
 
+    // Main seller route: loads the catalog, derives UI data, and renders the page sections.
     const upsertMeta = (
       selector: string,
       attr: "name" | "property",
