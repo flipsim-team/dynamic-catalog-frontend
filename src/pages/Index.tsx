@@ -79,6 +79,7 @@ const Index = () => {
     typeof window !== "undefined" ? window.innerWidth >= 1024 : false,
   );
   const data = useMemo(() => {
+    // 11. Convert the raw Supabase JSON into the normalized seller model used by the UI.
     if (rawSellerData) {
       return extractSellerDataFromRaw(rawSellerData);
     }
@@ -86,7 +87,7 @@ const Index = () => {
     return null;
   }, [rawSellerData]);
 
-  // Whether the gallery section has any images or YouTube posts.
+  // 12. Each section checks the normalized seller model so the page only renders useful content.
   const galleryHasData = Boolean(
     data?.galleryImages?.length ||
     data?.socialProfiles?.some(
@@ -107,6 +108,7 @@ const Index = () => {
 
   useEffect(() => {
     if (!data) return;
+    // 13. Populate metadata and favicon after the seller model is available.
     // Verify an image URL before using it in document metadata or favicon links.
     const reduced = window.matchMedia(
       "(prefers-reduced-motion: reduce)",

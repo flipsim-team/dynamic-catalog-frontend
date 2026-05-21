@@ -8,6 +8,8 @@ export const sellerRawByGlidQueryKey = (glid: string) =>
 // Fetch and cache one seller catalog by GLID so the page can render the route.
 export function useSellerGlidData(sellerId: string | undefined) {
   const glid = sellerId?.trim() ?? "";
+
+  // 5. The route param becomes the cache key and the fetch input, so each seller page loads its own record.
   return useQuery({
     queryKey: sellerRawByGlidQueryKey(glid),
     queryFn: () => loadSellerRawDataByGlid(glid),
