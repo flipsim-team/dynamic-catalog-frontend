@@ -31,7 +31,7 @@ import { cn } from "@/lib/utils";
 import ThemeToggle from "@/components/theme-toggle";
 import ParticlesBackground from "@/components/seller/ParticlesBackground";
 import { useIsMobile } from "@/hooks/use-mobile";
-import { supabase } from "@/lib/supabaseClient";
+import { getSupabaseClient, SupabaseConfigError } from "@/lib/supabaseClient";
 
 type SellerCatalogSummary = {
   id: string;
@@ -44,13 +44,14 @@ const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
 
 // 1. Fetch the dashboard catalog list from Supabase so the page can show every catalog card.
 async function fetchSellerCatalogs() {
+  const supabase = getSupabaseClient();
   const { data, error } = await supabase
     .from("glid_data")
     .select("glid, company_name, company_desc");
 
   if (error) {
     console.error(error);
-    return [] as SellerCatalogSummary[];
+    throw error;
   }
 
   return (data ?? []).map((item) => ({
@@ -101,7 +102,12 @@ const copyTextToClipboard = async (text: string): Promise<boolean> => {
 
 const Dashboard = () => {
   // 2. Cache the Supabase-backed list so search, counters, and cards all read from the same source.
-  const { data: catalogs = [], isPending: isLoading } = useQuery({
+  const {
+    data: catalogs = [],
+    isPending: isLoading,
+    isError,
+    error,
+  } = useQuery({
     queryKey: sellerCatalogsQueryKey,
     queryFn: fetchSellerCatalogs,
   });
@@ -183,6 +189,37 @@ const Dashboard = () => {
   function SuggestionsPortal({ children }: { children: React.ReactNode }) {
     if (typeof document === "undefined") return null;
     return createPortal(children, document.body);
+  }
+
+  if (isError && error instanceof SupabaseConfigError) {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
+        <div className="max-w-md space-y-3">
+          <h1 className="text-2xl font-semibold">Supabase is not configured</h1>
+          <p className="text-muted-foreground">
+            Add VITE_SUPABASE_URL and VITE_SUPABASE_PUBLISHABLE_KEY to your
+            environment file, then restart the app.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (isError) {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
+        <div className="max-w-md space-y-3">
+          <h1 className="text-2xl font-semibold">
+            Unable to load seller catalogs
+          </h1>
+          <p className="text-muted-foreground">
+            {error instanceof Error
+              ? error.message
+              : "The request failed. Check your network connection, Supabase auth, and RLS policies."}
+          </p>
+        </div>
+      </div>
+    );
   }
 
   return (

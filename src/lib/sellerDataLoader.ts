@@ -1,4 +1,4 @@
-import { supabase } from "./supabaseClient.ts";
+import { getSupabaseClient } from "./supabaseClient.ts";
 import { parseSellerRawObject } from "./sellerRawSchema";
 
 /*
@@ -144,6 +144,7 @@ export async function loadSellerRawDataByGlid(glid: string) {
   }
 
   // 9. Fetch the single backend row for this catalog.
+  const supabase = getSupabaseClient();
   const { data, error } = await supabase
     .from("glid_data")
     .select("*")
