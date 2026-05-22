@@ -13,7 +13,7 @@ Follow these steps to run the app locally:
 Notes:
 
 - The app uses Vite + React + TypeScript. Environment variables for EmailJS should be provided via a `.env` file (see the EmailJS section below).
-- Data files for sellers live in `src/data/` as `<glid>.json`.
+- Seller catalogs are fetched from Supabase (`glid_data`) at runtime using the seller GLID from the route.
 
 ## Developer Notes (recent refactor)
 
@@ -435,11 +435,11 @@ _Built with Google Gemini 2.5 Flash · Apify · Sign3 · Node.js_
 
 ## GLID-based Seller Redirection Flow
 
-The catalog now supports dynamic seller pages based on the URL path.
+The catalog now supports dynamic seller pages based on the URL path and Supabase-backed data.
 
-- Route `/<glid>` loads seller data from `src/data/<glid>.json`.
-- Route `/` continues to load the default static dataset from `src/data/sellerData.json`.
-- If the JSON file for a GLID does not exist, the UI shows a "Seller not found" state.
+- Route `/<glid>` loads the seller record from Supabase using the GLID in the URL.
+- Route `/` loads the dashboard list from Supabase and shows all available catalogs.
+- If no row exists for a GLID, the UI shows a "Page Doesn't Exist" state.
 
 ### Vercel Deployment Routing
 
@@ -447,12 +447,12 @@ Because this project uses client-side routing (`react-router-dom` with `BrowserR
 
 - Added `vercel.json` with SPA rewrite from `/(.*)` to `/index.html`.
 - This ensures direct URL access like `https://your-domain/<glid>` does not return server 404.
-- React Router then resolves the route and the app loads `src/data/<glid>.json`.
+- React Router then resolves the route and the app fetches the matching Supabase row.
 
 ## How to Add a New Seller
 
-1. Add a JSON file in `src/data` with file name as the seller GLID, for example `ABCD1234.json`.
-2. Open the app with `/<glid>` (example: `/ABCD1234`).
+1. Add a row to the `glid_data` table with the seller GLID and the catalog payload.
+2. Open the app with `/<glid>` (example: `/12345`).
 3. The app resolves and renders the matching seller profile automatically.
 
 ## Feedback Email Setup (EmailJS)
