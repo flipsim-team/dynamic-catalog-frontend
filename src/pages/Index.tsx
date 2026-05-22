@@ -25,6 +25,7 @@ import { extractSellerDataFromRaw } from "@/lib/sellerDataExtractor";
 import { useSellerGlidData } from "@/hooks/useSellerGlidData";
 import CursorFollower from "@/components/seller/CursorFollower";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { SupabaseConfigError } from "@/lib/supabaseClient";
 
 const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
 const DEFAULT_FAVICON_HREF = "/favicon.ico";
@@ -66,6 +67,7 @@ const Index = () => {
     data: rawSellerData,
     isPending: isLoadingSellerData,
     isError,
+    error,
     isFetched,
   } = useSellerGlidData(sellerId);
   const hasDataLoadError =
@@ -79,6 +81,7 @@ const Index = () => {
     typeof window !== "undefined" ? window.innerWidth >= 1024 : false,
   );
   const data = useMemo(() => {
+    // 11. Convert the raw Supabase JSON into the normalized seller model used by the UI.
     if (rawSellerData) {
       return extractSellerDataFromRaw(rawSellerData);
     }
@@ -86,7 +89,7 @@ const Index = () => {
     return null;
   }, [rawSellerData]);
 
-  // Whether the gallery section has any images or YouTube posts.
+  // 12. Each section checks the normalized seller model so the page only renders useful content.
   const galleryHasData = Boolean(
     data?.galleryImages?.length ||
     data?.socialProfiles?.some(
@@ -107,6 +110,7 @@ const Index = () => {
 
   useEffect(() => {
     if (!data) return;
+    // 13. Populate metadata and favicon after the seller model is available.
     // Verify an image URL before using it in document metadata or favicon links.
     const reduced = window.matchMedia(
       "(prefers-reduced-motion: reduce)",
@@ -220,11 +224,25 @@ const Index = () => {
     return (
       <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
         <div>
-          <h1 className="text-2xl font-semibold">Page Doesn't Exist</h1>
-          <p className="mt-2 text-muted-foreground">
-            The page you're looking for doesn't exist or the seller ID is
-            invalid.
-          </p>
+          {error instanceof SupabaseConfigError ? (
+            <>
+              <h1 className="text-2xl font-semibold">
+                Supabase is not configured
+              </h1>
+              <p className="mt-2 text-muted-foreground">
+                Add VITE_SUPABASE_URL and VITE_SUPABASE_PUBLISHABLE_KEY to your
+                environment file, then restart the app.
+              </p>
+            </>
+          ) : (
+            <>
+              <h1 className="text-2xl font-semibold">Page Doesn't Exist</h1>
+              <p className="mt-2 text-muted-foreground">
+                The page you're looking for doesn't exist or the seller ID is
+                invalid.
+              </p>
+            </>
+          )}
           <Link
             to="/"
             className="mt-4 inline-block text-primary underline hover:text-primary/90"

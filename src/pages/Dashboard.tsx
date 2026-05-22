@@ -31,13 +31,35 @@ import { cn } from "@/lib/utils";
 import ThemeToggle from "@/components/theme-toggle";
 import ParticlesBackground from "@/components/seller/ParticlesBackground";
 import { useIsMobile } from "@/hooks/use-mobile";
-import {
-  type SellerCatalogSummary,
-  listAvailableSellerCatalogs,
-} from "@/lib/sellerDataLoader";
+import { getSupabaseClient, SupabaseConfigError } from "@/lib/supabaseClient";
+
+type SellerCatalogSummary = {
+  id: string;
+  sellerName: string;
+  description?: string;
+};
 
 const sellerCatalogsQueryKey = ["sellerCatalogs"] as const;
 const SplashCursor = lazy(() => import("@/components/seller/SplashCursor"));
+
+// 1. Fetch the dashboard catalog list from Supabase so the page can show every catalog card.
+async function fetchSellerCatalogs() {
+  const supabase = getSupabaseClient();
+  const { data, error } = await supabase
+    .from("glid_data")
+    .select("glid, company_name, company_desc");
+
+  if (error) {
+    console.error(error);
+    throw error;
+  }
+
+  return (data ?? []).map((item) => ({
+    id: String(item.glid ?? "").trim(),
+    sellerName: String(item.company_name ?? "Seller").trim() || "Seller",
+    description: String(item.company_desc ?? "").trim() || undefined,
+  }));
+}
 
 const copyWithExecCommandFallback = (text: string): boolean => {
   if (typeof document === "undefined") return false;
@@ -79,9 +101,15 @@ const copyTextToClipboard = async (text: string): Promise<boolean> => {
 };
 
 const Dashboard = () => {
-  const { data: catalogs = [], isPending: isLoading } = useQuery({
+  // 2. Cache the Supabase-backed list so search, counters, and cards all read from the same source.
+  const {
+    data: catalogs = [],
+    isPending: isLoading,
+    isError,
+    error,
+  } = useQuery({
     queryKey: sellerCatalogsQueryKey,
-    queryFn: listAvailableSellerCatalogs,
+    queryFn: fetchSellerCatalogs,
   });
   const [searchQuery, setSearchQuery] = useState("");
   const [showSuggestions, setShowSuggestions] = useState(false);
@@ -94,10 +122,10 @@ const Dashboard = () => {
 
   const handleOpenCatalog = (catalogId: string) => {
     if (isMobile) {
-      // Open in same tab on mobile
+      // 3. Use the GLID from Supabase to navigate to the seller detail route on mobile.
       navigate(`/${catalogId}`);
     } else {
-      // Open in new tab on desktop
+      // 3. Use the same GLID to open the seller detail route in a new desktop tab.
       const baseUrl = window.location.origin;
       window.open(`${baseUrl}/${catalogId}`, "_blank");
     }
@@ -132,6 +160,7 @@ const Dashboard = () => {
     }, 2000);
   };
 
+  // 4. Filter the already-fetched Supabase rows locally for search and quick card rendering.
   const filteredCatalogs = catalogs.filter((catalog) => {
     const query = searchQuery.toLowerCase();
     return (
@@ -160,6 +189,37 @@ const Dashboard = () => {
   function SuggestionsPortal({ children }: { children: React.ReactNode }) {
     if (typeof document === "undefined") return null;
     return createPortal(children, document.body);
+  }
+
+  if (isError && error instanceof SupabaseConfigError) {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
+        <div className="max-w-md space-y-3">
+          <h1 className="text-2xl font-semibold">Supabase is not configured</h1>
+          <p className="text-muted-foreground">
+            Add VITE_SUPABASE_URL and VITE_SUPABASE_PUBLISHABLE_KEY to your
+            environment file, then restart the app.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (isError) {
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-background p-6 text-center">
+        <div className="max-w-md space-y-3">
+          <h1 className="text-2xl font-semibold">
+            Unable to load seller catalogs
+          </h1>
+          <p className="text-muted-foreground">
+            {error instanceof Error
+              ? error.message
+              : "The request failed. Check your network connection, Supabase auth, and RLS policies."}
+          </p>
+        </div>
+      </div>
+    );
   }
 
   return (
@@ -210,8 +270,8 @@ const Dashboard = () => {
                   Pick a seller catalog to open.
                 </h1>
                 <p className="max-w-2xl text-sm leading-6 text-slate-600 sm:text-base dark:text-slate-300">
-                  This landing page lists every available seller ID in the data
-                  folder. Open any catalog directly by clicking its card, or
+                  This landing page lists every available seller catalog from
+                  Supabase. Open any catalog directly by clicking its card, or
                   visit the seller-specific URL in the browser.
                 </p>
               </div>
@@ -359,11 +419,7 @@ const Dashboard = () => {
                 No seller catalogs found
               </h2>
               <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">
-                Add a seller JSON file to{" "}
-                <span className="font-medium text-slate-900 dark:text-slate-100">
-                  src/data
-                </span>{" "}
-                and it will appear here automatically.
+                No catalogs were returned from Supabase for this query.
               </p>
             </div>
           ) : filteredCatalogs.length === 0 ? (
@@ -421,7 +477,7 @@ const Dashboard = () => {
                         </CardTitle>
                         <CardDescription className="text-xs text-slate-600 line-clamp-2 dark:text-slate-300">
                           {catalog.description ||
-                            "Seller catalog available in the data folder."}
+                            "Seller catalog available from Supabase."}
                         </CardDescription>
                       </div>
                     </CardHeader>
