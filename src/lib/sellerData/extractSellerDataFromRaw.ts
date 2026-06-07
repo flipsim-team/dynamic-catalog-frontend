@@ -336,7 +336,6 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     // if broadly verified, ensure sign3 appears in common contact fields
     addSourceIfMissing(fieldSources.phone, "sign3");
     addSourceIfMissing(fieldSources.email, "sign3");
-    addSourceIfMissing(fieldSources.city, "sign3");
   }
 
   // Build authoritative social profile list (one per platform)
