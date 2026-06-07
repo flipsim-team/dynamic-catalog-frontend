@@ -105,6 +105,19 @@ function hostLabelFromUrl(url: string): string {
   }
 }
 
+// Convert bare domains into absolute URLs so CTA links do not navigate as relative paths.
+function normalizeWebsiteUrl(input: string) {
+  const trimmed = String(input || "").trim();
+  if (!trimmed) return "";
+  if (/^\/\//.test(trimmed)) return `https:${trimmed}`;
+  if (/^https?:\/\//i.test(trimmed)) return trimmed;
+  if (/^[a-z][a-z\d+\-.]*:/i.test(trimmed)) return trimmed;
+  if (/^[\w.-]+\.[a-z]{2,}(?:[/?#].*)?$/i.test(trimmed)) {
+    return `https://${trimmed}`;
+  }
+  return trimmed;
+}
+
 // Normalize website/catalog source identifiers to the canonical keys used for filtering.
 function normalizeWebsiteSource(source: string) {
   const key = String(source || "")
@@ -258,7 +271,7 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const email = emails[0] || "";
   const fullAddress = String(unwrapValue(cp.address, "") || "");
   const city = String(unwrapValue(cp.city, "") || "");
-  const website = String(unwrapValue(cp.website, "") || "");
+  const website = normalizeWebsiteUrl(String(unwrapValue(cp.website, "") || ""));
   const businessType = String(unwrapValue(cp.business_type, "") || "");
   const googleLocation = String(unwrapValue(cp.google_location, "") || "");
   const gmbLudocid = String(unwrapValue(cp.gmb_ludocid, "") || "");
@@ -323,7 +336,6 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     // if broadly verified, ensure sign3 appears in common contact fields
     addSourceIfMissing(fieldSources.phone, "sign3");
     addSourceIfMissing(fieldSources.email, "sign3");
-    addSourceIfMissing(fieldSources.address, "sign3");
     addSourceIfMissing(fieldSources.city, "sign3");
   }
 
