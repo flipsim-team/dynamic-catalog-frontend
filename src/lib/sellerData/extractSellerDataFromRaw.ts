@@ -84,6 +84,31 @@ function parseContactEntries(
   return entries;
 }
 
+function normalizePhoneValue(input: unknown) {
+  return String(input || "")
+    .trim()
+    .replace(/^\+91/, "")
+    .replace(/\D/g, "");
+}
+
+function normalizeEmailValue(input: unknown) {
+  return String(input || "").trim().toLowerCase();
+}
+
+function addSourceToMatchingContactEntries(
+  entries: ContactEntry[],
+  targetValue: string,
+  normalizeValue: (value: string) => string,
+  key: string,
+) {
+  if (!targetValue) return;
+  for (const entry of entries) {
+    if (normalizeValue(entry.value) !== targetValue) continue;
+    if (entry.sources.some((source) => source.key === key)) continue;
+    entry.sources.push({ key, label: sourceLabelFor(key) });
+  }
+}
+
 // Normalize platform names to the labels shown in badges, cards, and social tabs.
 function platformLabel(platform: SocialPlatform | string): string {
   const p = String(platform || "").toLowerCase();
@@ -265,6 +290,24 @@ export function extractSellerDataFromRaw(rawData: unknown) {
   const sellerName = String(unwrapValue(cp.name, "Seller") || "Seller");
   const phoneEntries = parseContactEntries(cp.phones || [], true);
   const emailEntries = parseContactEntries(cp.emails || [], false);
+  const verifiedPhone = normalizePhoneValue(
+    unwrapValue<string>(cp.sign3_verified_phone, ""),
+  );
+  const verifiedEmail = normalizeEmailValue(
+    unwrapValue<string>(cp.sign3_verified_email, ""),
+  );
+  addSourceToMatchingContactEntries(
+    phoneEntries,
+    verifiedPhone,
+    normalizePhoneValue,
+    "sign3",
+  );
+  addSourceToMatchingContactEntries(
+    emailEntries,
+    verifiedEmail,
+    normalizeEmailValue,
+    "sign3",
+  );
   const phones: string[] = phoneEntries.map((p) => p.value);
   const emails: string[] = emailEntries.map((e) => e.value);
   const primaryPhone = phones[0] || "";
@@ -324,19 +367,6 @@ export function extractSellerDataFromRaw(rawData: unknown) {
     rating: toSourceMetaList(unwrapSources(cp.rating_value)),
     businessType: toSourceMetaList(unwrapSources(cp.business_type)),
   };
-
-  // Ensure special sign3 evidence is reflected in contact sources when present
-  const addSourceIfMissing = (arr: SourceMeta[], key: string) => {
-    if (!arr.some((s) => s.key === key))
-      arr.push({ key, label: sourceLabelFor(key) });
-  };
-  if (cp?.sign3_verified_phone) addSourceIfMissing(fieldSources.phone, "sign3");
-  if (cp?.sign3_verified_email) addSourceIfMissing(fieldSources.email, "sign3");
-  if (cp?.sign3_verified) {
-    // if broadly verified, ensure sign3 appears in common contact fields
-    addSourceIfMissing(fieldSources.phone, "sign3");
-    addSourceIfMissing(fieldSources.email, "sign3");
-  }
 
   // Build authoritative social profile list (one per platform)
   const profilesByPlatform: Record<string, SocialProfile> = {};
