@@ -742,8 +742,8 @@ export function extractSellerDataFromRaw(rawData: unknown) {
       whatsapp: whatsappEntry?.sources || [],
       contactCta: [
         ...(whatsappEntry?.sources || []),
-        ...fieldSources.phone,
-        ...fieldSources.email,
+        ...(primaryPhone ? fieldSources.phone : []),
+        ...(email ? fieldSources.email : []),
       ].filter((v, idx, arr) => arr.findIndex((x) => x.key === v.key) === idx),
     },
   };
